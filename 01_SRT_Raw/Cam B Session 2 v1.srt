@@ -1,0 +1,5331 @@
+1
+00:00:05,460 --> 00:00:08,100
+- My name is Ram Subramanian.
+
+2
+00:00:08,100 --> 00:00:12,210
+I'm the Vice President for Instruction at De Anza College,
+
+3
+00:00:12,210 --> 00:00:17,190
+and I'm the moderator for this panel this afternoon.
+
+4
+00:00:17,190 --> 00:00:19,140
+Just a little setup for our panel.
+
+5
+00:00:19,140 --> 00:00:20,850
+As we know, cybersecurity
+
+6
+00:00:20,850 --> 00:00:25,440
+is one of the fastest growing fields in our economy today,
+
+7
+00:00:25,440 --> 00:00:29,160
+but it's also one that is most challenged in the workforce.
+
+8
+00:00:29,160 --> 00:00:32,470
+We just don't seem to have enough qualified
+
+9
+00:00:33,660 --> 00:00:38,250
+members within the workforce in cybersecurity yet.
+
+10
+00:00:38,250 --> 00:00:40,170
+We have lots of threats
+
+11
+00:00:40,170 --> 00:00:45,170
+that are constantly growing in scale and sophistication,
+
+12
+00:00:45,600 --> 00:00:47,070
+more importantly.
+
+13
+00:00:47,070 --> 00:00:51,060
+So, we at least, I'm kind of, somewhat biased,
+
+14
+00:00:51,060 --> 00:00:53,610
+think of ourselves in the community colleges
+
+15
+00:00:53,610 --> 00:00:58,440
+as playing a pivotal role in generating this talent pipeline
+
+16
+00:00:58,440 --> 00:01:02,700
+for the future of cybersecurity ecosystem.
+
+17
+00:01:02,700 --> 00:01:05,920
+So we hope we are providing
+
+18
+00:01:07,200 --> 00:01:09,660
+affordable and accessible education,
+
+19
+00:01:09,660 --> 00:01:13,050
+and we have, we hope to build pathways
+
+20
+00:01:13,050 --> 00:01:17,040
+that connect our students to meaningful careers.
+
+21
+00:01:17,040 --> 00:01:19,410
+But our success depends on strong partnerships
+
+22
+00:01:19,410 --> 00:01:21,150
+between the industry, the government,
+
+23
+00:01:21,150 --> 00:01:24,120
+and other statewide initiatives.
+
+24
+00:01:24,120 --> 00:01:26,910
+And so we are here to learn from our panel
+
+25
+00:01:26,910 --> 00:01:31,910
+about how we bridge those gaps between the industry
+
+26
+00:01:32,400 --> 00:01:37,400
+and also the higher education system.
+
+27
+00:01:37,710 --> 00:01:40,440
+So please join me in welcoming our panelists.
+
+28
+00:01:40,440 --> 00:01:42,870
+We have five of them here today.
+
+29
+00:01:42,870 --> 00:01:47,490
+David Doyle, Ron Sha, Hsiawen Hull, Aaron Wurthmann,
+
+30
+00:01:47,490 --> 00:01:48,900
+and Blake Williams.
+
+31
+00:01:48,900 --> 00:01:52,470
+And I'm gonna have them introduce themselves to you.
+
+32
+00:01:52,470 --> 00:01:55,233
+So we'll start with David first.
+
+33
+00:01:58,860 --> 00:02:00,413
+- Hi, can you hear me?
+
+34
+00:02:00,413 --> 00:02:04,260
+Good morning, afternoon, I guess, sorry. My name is David.
+
+35
+00:02:04,260 --> 00:02:06,000
+I am former CISO,
+
+36
+00:02:06,000 --> 00:02:09,210
+currently providing fractional CISO services.
+
+37
+00:02:09,210 --> 00:02:12,810
+Been in the cyber space for about 30 years or so
+
+38
+00:02:12,810 --> 00:02:15,240
+in a lot of capacities.
+
+39
+00:02:15,240 --> 00:02:17,490
+Pretty much everything except pharmaceutical,
+
+40
+00:02:18,360 --> 00:02:20,040
+although I like to try and get credit,
+
+41
+00:02:20,040 --> 00:02:23,730
+my partner's on the animal pharmaceutical side,
+
+42
+00:02:23,730 --> 00:02:28,110
+so, yeah, you know, it's been a really interesting,
+
+43
+00:02:28,110 --> 00:02:31,113
+I think, growth of security.
+
+44
+00:02:32,228 --> 00:02:35,010
+And, at former life, I actually worked
+
+45
+00:02:35,010 --> 00:02:38,580
+for a community college workforce development program
+
+46
+00:02:38,580 --> 00:02:40,390
+providing services to both DOD
+
+47
+00:02:41,973 --> 00:02:45,187
+as well as some of our friends at the school level,
+
+48
+00:02:45,187 --> 00:02:48,240
+so a lot of experience over the years.
+
+49
+00:02:48,240 --> 00:02:50,160
+Currently also providing some mentorship
+
+50
+00:02:50,160 --> 00:02:53,790
+for undergrad capstone private, I'm sorry, program,
+
+51
+00:02:53,790 --> 00:02:57,513
+as well as a grad program for KSU in Georgia.
+
+52
+00:03:00,810 --> 00:03:02,880
+- Hi, my name is Ron Sha.
+
+53
+00:03:02,880 --> 00:03:06,180
+And, so I have been working in the industry
+
+54
+00:03:06,180 --> 00:03:11,180
+before start teaching back in 2011, or, yeah, 2011.
+
+55
+00:03:11,340 --> 00:03:14,220
+So before that I was working at the industry
+
+56
+00:03:14,220 --> 00:03:16,350
+in various high tech companies,
+
+57
+00:03:16,350 --> 00:03:19,800
+and as a CIO of startup,
+
+58
+00:03:19,800 --> 00:03:22,110
+medium size and large size companies.
+
+59
+00:03:22,110 --> 00:03:26,100
+And so once I started teaching and not only,
+
+60
+00:03:26,100 --> 00:03:29,610
+and I also helped develop a various
+
+61
+00:03:29,610 --> 00:03:32,040
+information technology curriculums.
+
+62
+00:03:32,040 --> 00:03:37,040
+And in 2019, I also that only college program
+
+63
+00:03:38,580 --> 00:03:40,233
+to be designated by NSA as,
+
+64
+00:03:41,880 --> 00:03:45,600
+you know, the National Center of Academic Excellence
+
+65
+00:03:45,600 --> 00:03:48,270
+in cybersecurity education.
+
+66
+00:03:48,270 --> 00:03:52,830
+So the key sense is more of how can we continue
+
+67
+00:03:52,830 --> 00:03:56,460
+to work with the industry, with our peers,
+
+68
+00:03:56,460 --> 00:03:58,500
+and so, getting involved
+
+69
+00:03:58,500 --> 00:04:01,143
+in the overall cybersecurity education.
+
+70
+00:04:02,370 --> 00:04:03,220
+- Thank you, Ron.
+
+71
+00:04:05,070 --> 00:04:06,660
+- Oh, looks like my mic is on.
+
+72
+00:04:06,660 --> 00:04:11,490
+I'm only one with a dedicated mic, so take that you guys.
+
+73
+00:04:11,490 --> 00:04:12,323
+Aaron Wurthmann,
+
+74
+00:04:12,323 --> 00:04:15,840
+about 25 years of IT and security experience
+
+75
+00:04:15,840 --> 00:04:17,190
+primarily at startups.
+
+76
+00:04:17,190 --> 00:04:18,120
+Each one of those startups
+
+77
+00:04:18,120 --> 00:04:21,300
+tends to get acquired by a much larger company.
+
+78
+00:04:21,300 --> 00:04:25,440
+Companies of note would be Neustar, Adobe,
+
+79
+00:04:25,440 --> 00:04:28,830
+small company called Adobe, et cetera.
+
+80
+00:04:28,830 --> 00:04:31,740
+I've also worked in retail at Albertsons
+
+81
+00:04:31,740 --> 00:04:33,870
+where I was the head of digital security.
+
+82
+00:04:33,870 --> 00:04:36,540
+Digital security at Albertsons looks something like
+
+83
+00:04:36,540 --> 00:04:39,213
+all the data that's collected on shoppers,
+
+84
+00:04:40,140 --> 00:04:42,090
+all the web app, the mobile app,
+
+85
+00:04:42,090 --> 00:04:43,710
+all of those sort of things.
+
+86
+00:04:43,710 --> 00:04:46,560
+We see that we saw that as a $10 billion asset.
+
+87
+00:04:46,560 --> 00:04:49,590
+So my job was to secure all of those.
+
+88
+00:04:49,590 --> 00:04:54,540
+These days I work with startups and medium sized companies
+
+89
+00:04:54,540 --> 00:04:57,870
+that securing their companies, their infrastructure,
+
+90
+00:04:57,870 --> 00:05:02,250
+as a advisory CISO at 909 Cyber.
+
+91
+00:05:02,250 --> 00:05:06,115
+I am also on the board of the CIO scholarship fund
+
+92
+00:05:06,115 --> 00:05:08,790
+with my partner Hiran.
+
+93
+00:05:08,790 --> 00:05:11,400
+And I'm on the board of the ISSA,
+
+94
+00:05:11,400 --> 00:05:16,400
+which is a organization whose purpose is to educate students
+
+95
+00:05:19,770 --> 00:05:24,033
+and anyone who's interested in cybersecurity.
+
+96
+00:05:25,710 --> 00:05:26,607
+- All right. My name's Hsiawen Hull.
+
+97
+00:05:26,607 --> 00:05:27,900
+I'm the executive director
+
+98
+00:05:27,900 --> 00:05:29,520
+of infrastructure and information security
+
+99
+00:05:29,520 --> 00:05:30,450
+at College of the Canyons.
+
+100
+00:05:30,450 --> 00:05:32,460
+In addition to that, I'm also the CSO
+
+101
+00:05:32,460 --> 00:05:34,680
+for the CCC Security Center,
+
+102
+00:05:34,680 --> 00:05:36,270
+which is actually a grant funded program
+
+103
+00:05:36,270 --> 00:05:39,090
+from the Chancellor's office where we are providing,
+
+104
+00:05:39,090 --> 00:05:40,350
+you know, insight and services
+
+105
+00:05:40,350 --> 00:05:43,590
+to secure all the community colleges in California.
+
+106
+00:05:43,590 --> 00:05:47,880
+I've been in the system specifically for 27 years.
+
+107
+00:05:47,880 --> 00:05:52,620
+I've taught in CTE programs including a plus certification.
+
+108
+00:05:52,620 --> 00:05:54,300
+And actually at the high school level,
+
+109
+00:05:54,300 --> 00:05:57,780
+I built the local high school's animal science program.
+
+110
+00:05:57,780 --> 00:05:59,760
+You can ask me about that later.
+
+111
+00:05:59,760 --> 00:06:03,300
+So I've been, I think I've touched or taught
+
+112
+00:06:03,300 --> 00:06:06,706
+or worked in pretty much every area of IT
+
+113
+00:06:06,706 --> 00:06:08,850
+within the community college system.
+
+114
+00:06:08,850 --> 00:06:10,740
+And so, you know, this place really,
+
+115
+00:06:10,740 --> 00:06:14,021
+I live and sleep, breathe community colleges,
+
+116
+00:06:14,021 --> 00:06:15,270
+so, happy to be here.
+
+117
+00:06:15,270 --> 00:06:16,950
+- Welcome panelists. So as you see,
+
+118
+00:06:16,950 --> 00:06:19,140
+we have two members from the community colleges
+
+119
+00:06:19,140 --> 00:06:21,180
+and two industry partners.
+
+120
+00:06:21,180 --> 00:06:22,590
+And I had a set of questions,
+
+121
+00:06:22,590 --> 00:06:23,850
+which they've already seen before,
+
+122
+00:06:23,850 --> 00:06:25,890
+but I'm gonna go from the middle
+
+123
+00:06:25,890 --> 00:06:28,110
+of my set of questions that I have here,
+
+124
+00:06:28,110 --> 00:06:32,130
+which is, it's not lost on me that the panel and myself,
+
+125
+00:06:32,130 --> 00:06:35,310
+all included, identify as males.
+
+126
+00:06:35,310 --> 00:06:36,510
+So, I want to know,
+
+127
+00:06:36,510 --> 00:06:39,180
+how can we ensure that underrepresented students,
+
+128
+00:06:39,180 --> 00:06:41,520
+including women and students of color,
+
+129
+00:06:41,520 --> 00:06:44,940
+see cybersecurity as a viable career path
+
+130
+00:06:44,940 --> 00:06:48,030
+that they have access to training opportunities.
+
+131
+00:06:48,030 --> 00:06:50,580
+Do you want to speak to that? Any of you?
+
+132
+00:06:50,580 --> 00:06:54,120
+- Well, I dedicated mic, so, I'm the first.
+
+133
+00:06:54,120 --> 00:06:56,523
+Yeah, so first I'd say I'm a person,
+
+134
+00:06:57,600 --> 00:06:59,970
+I'm someone who identifies as a person of color,
+
+135
+00:06:59,970 --> 00:07:02,703
+despite my Anglo last name, don't let that fool you.
+
+136
+00:07:03,840 --> 00:07:06,693
+But more specifically on women in cyber,
+
+137
+00:07:07,560 --> 00:07:10,230
+you know, I think first it comes with awareness,
+
+138
+00:07:10,230 --> 00:07:11,490
+you pointed it out,
+
+139
+00:07:11,490 --> 00:07:14,880
+but I think next, after awareness is acknowledgement.
+
+140
+00:07:14,880 --> 00:07:17,700
+We don't do that enough
+
+141
+00:07:17,700 --> 00:07:19,530
+or we don't give enough opportunity.
+
+142
+00:07:19,530 --> 00:07:23,130
+On one of the boards that I'm on,
+
+143
+00:07:23,130 --> 00:07:28,130
+we had to actively seek a woman for that board.
+
+144
+00:07:30,360 --> 00:07:32,553
+That was intentional, it was purposeful.
+
+145
+00:07:34,350 --> 00:07:37,110
+And it, that tends to happen more and more.
+
+146
+00:07:37,110 --> 00:07:38,940
+I'm glad it happens,
+
+147
+00:07:38,940 --> 00:07:41,097
+but, I think it's, it starts with awareness
+
+148
+00:07:41,097 --> 00:07:42,747
+and it starts with acknowledging,
+
+149
+00:07:44,040 --> 00:07:44,873
+- Go ahead.
+
+150
+00:07:45,750 --> 00:07:47,563
+- Yeah, so I agree with Aaron.
+
+151
+00:07:47,563 --> 00:07:51,420
+I think awareness early on is very important.
+
+152
+00:07:51,420 --> 00:07:54,210
+And so one of the things we have done
+
+153
+00:07:54,210 --> 00:07:58,846
+is we have invited woman as a guest speakers
+
+154
+00:07:58,846 --> 00:08:01,470
+or people with color as a guest speakers.
+
+155
+00:08:01,470 --> 00:08:06,470
+And then we also involved with like girls code club as well.
+
+156
+00:08:07,320 --> 00:08:11,460
+And we actively sometime go to the high school
+
+157
+00:08:11,460 --> 00:08:15,180
+to really to show that,
+
+158
+00:08:15,180 --> 00:08:17,543
+you know, especially if you bring a woman
+
+159
+00:08:17,543 --> 00:08:20,070
+or a person with color so they can see themselves.
+
+160
+00:08:20,070 --> 00:08:22,550
+Yeah, I can do that as well.
+
+161
+00:08:22,550 --> 00:08:23,670
+- Okay, alright.
+
+162
+00:08:23,670 --> 00:08:25,680
+- I think, I mean, step one for me
+
+163
+00:08:25,680 --> 00:08:27,630
+starts with providing opportunities.
+
+164
+00:08:27,630 --> 00:08:29,127
+I think the big piece of,
+
+165
+00:08:29,127 --> 00:08:31,650
+and I think we'll get to this later in cyber, cyber,
+
+166
+00:08:31,650 --> 00:08:33,207
+there's a lot of gatekeeping
+
+167
+00:08:33,207 --> 00:08:37,080
+and a lot of elitism within this field.
+
+168
+00:08:37,080 --> 00:08:41,640
+And because of that, I think that tends to shy folks away.
+
+169
+00:08:41,640 --> 00:08:45,150
+I think the last two years, of going on two years,
+
+170
+00:08:45,150 --> 00:08:47,550
+I put together programs for internships.
+
+171
+00:08:47,550 --> 00:08:50,820
+When we focus on soliciting those interns,
+
+172
+00:08:50,820 --> 00:08:52,470
+my goal is always even numbers, right?
+
+173
+00:08:52,470 --> 00:08:55,980
+So I'll always, I tell my female interns this all the time
+
+174
+00:08:55,980 --> 00:08:58,860
+is I take two females to males,
+
+175
+00:08:58,860 --> 00:09:02,160
+and every single time it's easier to find my females.
+
+176
+00:09:02,160 --> 00:09:05,370
+For some reason, their resumes were better,
+
+177
+00:09:05,370 --> 00:09:07,950
+their experience aligns to what I've asked,
+
+178
+00:09:07,950 --> 00:09:09,120
+all of those things.
+
+179
+00:09:09,120 --> 00:09:11,340
+But generally they're not given those opportunities
+
+180
+00:09:11,340 --> 00:09:13,290
+because for whatever reason,
+
+181
+00:09:13,290 --> 00:09:15,120
+whether the opportunity was never presented to them
+
+182
+00:09:15,120 --> 00:09:17,400
+or that they've never taken advantage of it.
+
+183
+00:09:17,400 --> 00:09:18,900
+By creating, I think, spaces
+
+184
+00:09:18,900 --> 00:09:21,390
+where students know that they have an opportunity
+
+185
+00:09:21,390 --> 00:09:25,470
+to come in, whether they are female, male, of color,
+
+186
+00:09:25,470 --> 00:09:28,230
+you know, that's really step one.
+
+187
+00:09:28,230 --> 00:09:29,613
+Providing support to organizations
+
+188
+00:09:29,613 --> 00:09:33,360
+that actually focus on providing those opportunities,
+
+189
+00:09:33,360 --> 00:09:35,700
+also, especially inward reaching.
+
+190
+00:09:35,700 --> 00:09:37,110
+We have multiple programs
+
+191
+00:09:37,110 --> 00:09:38,430
+within our community college systems
+
+192
+00:09:38,430 --> 00:09:42,240
+that focus on our dreamers, our our students of color.
+
+193
+00:09:42,240 --> 00:09:45,450
+Making sure that as a person in the field that's,
+
+194
+00:09:45,450 --> 00:09:46,283
+providing those opportunities,
+
+195
+00:09:46,283 --> 00:09:48,840
+making sure I'm at those meetings, talking to those people,
+
+196
+00:09:48,840 --> 00:09:52,063
+letting them know that, that, hey, I'm here.
+
+197
+00:09:52,063 --> 00:09:53,370
+I know, I know I'm limited, I can only do so much,
+
+198
+00:09:53,370 --> 00:09:54,930
+but, at least if nothing else.
+
+199
+00:09:54,930 --> 00:09:56,220
+Know that there's an opportunity there.
+
+200
+00:09:56,220 --> 00:09:58,170
+And I think that's really the hard part
+
+201
+00:09:58,170 --> 00:10:00,030
+is making sure that people in the field
+
+202
+00:10:00,030 --> 00:10:02,250
+are stepping into those spaces where we're not,
+
+203
+00:10:02,250 --> 00:10:06,000
+and then providing those opportunities. Thank you.
+
+204
+00:10:06,000 --> 00:10:06,990
+- Yeah, just to add.
+
+205
+00:10:06,990 --> 00:10:09,690
+I think too, it's creating the culture
+
+206
+00:10:09,690 --> 00:10:11,370
+within the organization, right?
+
+207
+00:10:11,370 --> 00:10:12,540
+Or amplifying the culture
+
+208
+00:10:12,540 --> 00:10:14,430
+that already exists in the organization.
+
+209
+00:10:14,430 --> 00:10:18,060
+A lot of times that part tends to get missed.
+
+210
+00:10:18,060 --> 00:10:20,100
+And so, you're not building that groundswell
+
+211
+00:10:20,100 --> 00:10:22,350
+within organization or we're supporting that,
+
+212
+00:10:22,350 --> 00:10:26,037
+making that an important factor and component
+
+213
+00:10:26,037 --> 00:10:30,573
+that I think that it really adds some unnecessary obstacles,
+
+214
+00:10:31,487 --> 00:10:34,850
+and in some ways dissuades people from wanting to,
+
+215
+00:10:34,850 --> 00:10:37,830
+to kind of be a continued part of that.
+
+216
+00:10:37,830 --> 00:10:40,850
+But then I'll, I would also add, you know, getting out
+
+217
+00:10:40,850 --> 00:10:43,350
+and working with the community groups
+
+218
+00:10:43,350 --> 00:10:46,170
+that are trying to implement that,
+
+219
+00:10:46,170 --> 00:10:49,410
+use that as a force multiplier.
+
+220
+00:10:49,410 --> 00:10:53,670
+- Thank you. Yeah, I heard gatekeeping and elitism
+
+221
+00:10:53,670 --> 00:10:56,370
+from pretty much all of you, and I think that is something
+
+222
+00:10:56,370 --> 00:11:00,660
+that we all need to be actively paying attention to.
+
+223
+00:11:00,660 --> 00:11:02,820
+So, going back to the top of my questions here.
+
+224
+00:11:02,820 --> 00:11:07,116
+So we often hear about the cybersecurity talent shortage.
+
+225
+00:11:07,116 --> 00:11:09,450
+And from your perspective,
+
+226
+00:11:09,450 --> 00:11:11,104
+where are the biggest gaps right now
+
+227
+00:11:11,104 --> 00:11:15,420
+and how are colleges and industry working together
+
+228
+00:11:15,420 --> 00:11:17,313
+to address these gaps?
+
+229
+00:11:21,150 --> 00:11:24,030
+- Well, we saw the emerging technologies
+
+230
+00:11:24,030 --> 00:11:29,030
+and so the skillset of our workforce ever changes.
+
+231
+00:11:30,210 --> 00:11:34,410
+So the gap is evident getting bigger and bigger
+
+232
+00:11:34,410 --> 00:11:38,400
+because our, you know, the educational institution has,
+
+233
+00:11:38,400 --> 00:11:41,520
+some of that has now been kept up.
+
+234
+00:11:41,520 --> 00:11:45,840
+And also, even in the general populations,
+
+235
+00:11:45,840 --> 00:11:47,310
+especially in the school,
+
+236
+00:11:47,310 --> 00:11:51,190
+some of the students has not even been taught or,
+
+237
+00:11:51,190 --> 00:11:53,550
+about cybersecurity until they go to college
+
+238
+00:11:53,550 --> 00:11:56,520
+or some of them even after the college as well.
+
+239
+00:11:56,520 --> 00:11:58,020
+So, one of the key senses
+
+240
+00:11:58,020 --> 00:12:00,679
+is more of how can you make the awareness
+
+241
+00:12:00,679 --> 00:12:05,679
+and also people view this is a career or a area
+
+242
+00:12:07,110 --> 00:12:08,550
+they should get into.
+
+243
+00:12:08,550 --> 00:12:10,650
+Especially right now, as we all know,
+
+244
+00:12:10,650 --> 00:12:15,000
+cybersecurity is just not only IT type things,
+
+245
+00:12:15,000 --> 00:12:17,100
+it affect every industry, right?
+
+246
+00:12:17,100 --> 00:12:19,414
+Whether you're business, healthcare,
+
+247
+00:12:19,414 --> 00:12:20,580
+you know, all different kind of things.
+
+248
+00:12:20,580 --> 00:12:21,990
+So and not only,
+
+249
+00:12:21,990 --> 00:12:24,960
+and I also try to work with a different department.
+
+250
+00:12:24,960 --> 00:12:29,960
+So they're asking to, you know, to add some topics,
+
+251
+00:12:31,500 --> 00:12:33,270
+you know, on SOCs, right?
+
+252
+00:12:33,270 --> 00:12:35,186
+Or HIPAA in a different department.
+
+253
+00:12:35,186 --> 00:12:39,900
+And also some of the fundamental cybersecurity skillset.
+
+254
+00:12:39,900 --> 00:12:43,413
+So one of the challenges, I believe, even for the student,
+
+255
+00:12:44,790 --> 00:12:46,560
+sometimes it is hard,
+
+256
+00:12:46,560 --> 00:12:49,320
+even though they say there's tons of job out there.
+
+257
+00:12:49,320 --> 00:12:50,640
+Well, yes, there is.
+
+258
+00:12:50,640 --> 00:12:54,390
+But it's very hard for community college student who,
+
+259
+00:12:54,390 --> 00:12:58,050
+because they don't have the job related experience
+
+260
+00:12:58,050 --> 00:13:01,290
+and the company all the time want to have people
+
+261
+00:13:01,290 --> 00:13:03,570
+with some kind of experience, right?
+
+262
+00:13:03,570 --> 00:13:07,703
+So that is also a challenge. And how can we get around that?
+
+263
+00:13:07,703 --> 00:13:10,410
+How can we help our student
+
+264
+00:13:10,410 --> 00:13:13,740
+so that they can get a little head start?
+
+265
+00:13:13,740 --> 00:13:17,580
+And, so that's the reason, like for myself and Aaron,
+
+266
+00:13:17,580 --> 00:13:19,350
+you know, we know each other for a long time.
+
+267
+00:13:19,350 --> 00:13:24,240
+We are working with industry professionals and,
+
+268
+00:13:24,240 --> 00:13:25,764
+so that we provide the opportunity
+
+269
+00:13:25,764 --> 00:13:28,740
+for student for internship, mentoring
+
+270
+00:13:28,740 --> 00:13:30,204
+as some my colleague was saying.
+
+271
+00:13:30,204 --> 00:13:31,650
+So, you know,
+
+272
+00:13:31,650 --> 00:13:34,550
+you know, I think that those things all added up together.
+
+273
+00:13:37,320 --> 00:13:40,140
+- Yeah, so, what I see a lot of our,
+
+274
+00:13:40,140 --> 00:13:42,750
+our folks that have solid skill sets
+
+275
+00:13:42,750 --> 00:13:44,280
+they don't know how to apply those skill sets
+
+276
+00:13:44,280 --> 00:13:46,353
+or where to apply those skill sets at.
+
+277
+00:13:48,390 --> 00:13:51,150
+It's one of the reasons why I'm so big into community
+
+278
+00:13:51,150 --> 00:13:55,290
+and I'm a part of three or four different communities.
+
+279
+00:13:55,290 --> 00:13:59,550
+What I'd like to see is where are more students
+
+280
+00:13:59,550 --> 00:14:01,740
+applying themselves to more communities?
+
+281
+00:14:01,740 --> 00:14:03,890
+'Cause that's where the jobs are at, right?
+
+282
+00:14:04,770 --> 00:14:06,649
+We're far removed from the time
+
+283
+00:14:06,649 --> 00:14:08,820
+when you could just apply to a job
+
+284
+00:14:08,820 --> 00:14:10,320
+and you would get an interview.
+
+285
+00:14:10,320 --> 00:14:11,700
+Those days are gone.
+
+286
+00:14:11,700 --> 00:14:14,820
+Every job that anybody applies to, myself,
+
+287
+00:14:14,820 --> 00:14:17,550
+anybody on this panel any and you apply to,
+
+288
+00:14:17,550 --> 00:14:21,120
+there are gonna be 300, 400, 1000 other applicants
+
+289
+00:14:21,120 --> 00:14:22,080
+to that job.
+
+290
+00:14:22,080 --> 00:14:24,237
+Even if you take your resume and run it through AI
+
+291
+00:14:24,237 --> 00:14:27,600
+and you match it to the job description perfectly,
+
+292
+00:14:27,600 --> 00:14:30,810
+there are still a thousand other applicants for that job.
+
+293
+00:14:30,810 --> 00:14:32,327
+So how do you set yourself apart from that?
+
+294
+00:14:32,327 --> 00:14:33,720
+You need to network,
+
+295
+00:14:33,720 --> 00:14:36,292
+you need to know maybe the hiring manager,
+
+296
+00:14:36,292 --> 00:14:38,437
+maybe somebody at the job, you need a reference.
+
+297
+00:14:38,437 --> 00:14:40,380
+You need all of those things.
+
+298
+00:14:40,380 --> 00:14:42,542
+And so, what I'd like to see students do more
+
+299
+00:14:42,542 --> 00:14:44,820
+is get out there and network.
+
+300
+00:14:44,820 --> 00:14:46,680
+How can you all help?
+
+301
+00:14:46,680 --> 00:14:49,170
+You can build communities at your colleges, you can build
+
+302
+00:14:49,170 --> 00:14:51,960
+or you can encourage folks to go to other communities,
+
+303
+00:14:51,960 --> 00:14:55,053
+go to other event or what have you.
+
+304
+00:14:56,760 --> 00:14:59,940
+- Yeah, I would absolutely agree with both comments.
+
+305
+00:14:59,940 --> 00:15:02,370
+I think too, there's a,
+
+306
+00:15:02,370 --> 00:15:06,960
+an opportunity to start to create some business awareness
+
+307
+00:15:06,960 --> 00:15:11,130
+and some context in kind of that student mindset, right?
+
+308
+00:15:11,130 --> 00:15:12,600
+So, what do I mean, right?
+
+309
+00:15:12,600 --> 00:15:14,250
+At the end of the day,
+
+310
+00:15:14,250 --> 00:15:18,240
+we're trying to secure data systems, network, et cetera,
+
+311
+00:15:18,240 --> 00:15:19,710
+but why, right?
+
+312
+00:15:19,710 --> 00:15:21,570
+Who are the teams? Who are the stakeholders?
+
+313
+00:15:21,570 --> 00:15:24,990
+Why does it matter? I still see that there's,
+
+314
+00:15:24,990 --> 00:15:26,550
+that's not always getting addressed.
+
+315
+00:15:26,550 --> 00:15:29,940
+And so, so technology's great,
+
+316
+00:15:29,940 --> 00:15:34,770
+it's important in having the functional skillset in that
+
+317
+00:15:34,770 --> 00:15:37,650
+is important, but a lot of times what I see in the workplace
+
+318
+00:15:37,650 --> 00:15:42,650
+is the inability to relay that context to the stakeholder
+
+319
+00:15:43,050 --> 00:15:45,870
+or to understand who the stakeholders are
+
+320
+00:15:45,870 --> 00:15:47,310
+and to try and find ways
+
+321
+00:15:47,310 --> 00:15:49,980
+to help create that balance of enablement
+
+322
+00:15:49,980 --> 00:15:52,140
+as well as control, which is,
+
+323
+00:15:52,140 --> 00:15:54,570
+a lot of times we focus on more the control side in security
+
+324
+00:15:54,570 --> 00:15:59,570
+and it creates, or, you know, it creates a divide.
+
+325
+00:16:01,350 --> 00:16:03,900
+And so, you know, I think that
+
+326
+00:16:03,900 --> 00:16:06,815
+that's one area that we can really focus on.
+
+327
+00:16:06,815 --> 00:16:10,080
+You know, I like to see a little bit more too on the OT, ICS
+
+328
+00:16:10,080 --> 00:16:12,900
+or industrial control system side too into a curriculum
+
+329
+00:16:12,900 --> 00:16:15,090
+because I think a lot of times we focused on more
+
+330
+00:16:15,090 --> 00:16:17,734
+the IT side of things.
+
+331
+00:16:17,734 --> 00:16:20,280
+And you know, we look at the critical infrastructure,
+
+332
+00:16:20,280 --> 00:16:23,250
+risks to critical infrastructure, investments.
+
+333
+00:16:23,250 --> 00:16:24,330
+We've come a long way.
+
+334
+00:16:24,330 --> 00:16:28,020
+Companies have started developing products and services
+
+335
+00:16:28,020 --> 00:16:31,860
+to help secure that space, but it still has a long way to go
+
+336
+00:16:31,860 --> 00:16:34,290
+when compared to the IT side of it.
+
+337
+00:16:34,290 --> 00:16:37,740
+So, being able to kind of bolster curriculum
+
+338
+00:16:37,740 --> 00:16:39,360
+or create curriculum around those areas,
+
+339
+00:16:39,360 --> 00:16:41,956
+I think will help create better rounded students.
+
+340
+00:16:41,956 --> 00:16:46,076
+And, and you know, you'll have the amplifiers of networking
+
+341
+00:16:46,076 --> 00:16:47,898
+and all the other,
+
+342
+00:16:47,898 --> 00:16:50,940
+you know, skills that they're getting in the curriculum.
+
+343
+00:16:50,940 --> 00:16:55,110
+- I'm very glad you talked about OT, absolutely lack.
+
+344
+00:16:55,110 --> 00:16:59,640
+So I was, at, last week I was at this FBI academy talk
+
+345
+00:16:59,640 --> 00:17:02,910
+and in which where I led a breakout discussion
+
+346
+00:17:02,910 --> 00:17:05,940
+and there was an OT person who
+
+347
+00:17:05,940 --> 00:17:07,650
+I guess I won't say with agency,
+
+348
+00:17:07,650 --> 00:17:12,150
+approached me and they said, there is nobody here from OT,
+
+349
+00:17:12,150 --> 00:17:14,520
+there's nobody applying to any of my positions,
+
+350
+00:17:14,520 --> 00:17:17,730
+there's nobody in this industry that I can hire.
+
+351
+00:17:17,730 --> 00:17:22,730
+So OT is an untapped industry that is,
+
+352
+00:17:22,950 --> 00:17:24,750
+you know, unsecured.
+
+353
+00:17:24,750 --> 00:17:27,210
+- [Person] What is OT? - Operational technology.
+
+354
+00:17:27,210 --> 00:17:28,230
+I was just gonna mention something.
+
+355
+00:17:28,230 --> 00:17:29,910
+What's what's interesting about our space too,
+
+356
+00:17:29,910 --> 00:17:32,400
+again, it's an unintentional process,
+
+357
+00:17:32,400 --> 00:17:34,523
+but we speak in code, right?
+
+358
+00:17:36,245 --> 00:17:37,980
+And so, that's part of,
+
+359
+00:17:37,980 --> 00:17:40,560
+unfortunately, that's part of how we gate keep too.
+
+360
+00:17:40,560 --> 00:17:41,433
+Yeah, it's unintentional. I apologize.
+
+361
+00:17:41,433 --> 00:17:44,100
+Don't mean to say it that way, but it's part of
+
+362
+00:17:44,100 --> 00:17:45,810
+when you're having those conversations in a room
+
+363
+00:17:45,810 --> 00:17:46,740
+and people are just like,
+
+364
+00:17:46,740 --> 00:17:49,200
+wow, you're all a part of the dark magic
+
+365
+00:17:49,200 --> 00:17:50,610
+and you know how to do the things.
+
+366
+00:17:50,610 --> 00:17:53,580
+And that's, I think that's the toughest part is one,
+
+367
+00:17:53,580 --> 00:17:56,040
+step one, understanding, put it on the table.
+
+368
+00:17:56,040 --> 00:17:59,040
+Cybersecurity is not an entry-level position.
+
+369
+00:17:59,040 --> 00:18:02,460
+Step two, nobody wants to hire an entry-level person.
+
+370
+00:18:02,460 --> 00:18:03,900
+Like, the joke in the space right now is
+
+371
+00:18:03,900 --> 00:18:07,770
+as a cybersecurity person is, you see, again, alphabet soup,
+
+372
+00:18:07,770 --> 00:18:12,210
+a CISSP for a position that pays about 60 grand a year.
+
+373
+00:18:12,210 --> 00:18:14,670
+What that relates to in education is a PhD
+
+374
+00:18:14,670 --> 00:18:16,530
+for a $60,000 a year job.
+
+375
+00:18:16,530 --> 00:18:18,093
+Right, so years of experience,
+
+376
+00:18:19,335 --> 00:18:21,120
+but that's where, that's where it gets tough
+
+377
+00:18:21,120 --> 00:18:24,000
+is those are the barriers that a lot of people
+
+378
+00:18:24,000 --> 00:18:26,310
+that are in the hiring space created for us.
+
+379
+00:18:26,310 --> 00:18:30,390
+And so by creating those barriers at the hiring level,
+
+380
+00:18:30,390 --> 00:18:31,500
+not truly understanding
+
+381
+00:18:31,500 --> 00:18:33,300
+and 'cause we're trying to get into these spaces,
+
+382
+00:18:33,300 --> 00:18:35,400
+a lot of the security folks trying to get into spaces
+
+383
+00:18:35,400 --> 00:18:37,140
+and the people that are hiring us
+
+384
+00:18:37,140 --> 00:18:38,460
+don't understand what it is that we do
+
+385
+00:18:38,460 --> 00:18:40,500
+because again, it's a dark magic.
+
+386
+00:18:40,500 --> 00:18:42,780
+And somebody within the space, somebody,
+
+387
+00:18:42,780 --> 00:18:45,600
+a consultant or someone built that requirement
+
+388
+00:18:45,600 --> 00:18:46,860
+for those roles.
+
+389
+00:18:46,860 --> 00:18:48,570
+And that's where it starts to get tough.
+
+390
+00:18:48,570 --> 00:18:52,590
+So making sure that students understand where the pathway is
+
+391
+00:18:52,590 --> 00:18:54,270
+through cybersecurity
+
+392
+00:18:54,270 --> 00:18:56,400
+or through to cybersecurity as the end goal,
+
+393
+00:18:56,400 --> 00:18:59,250
+I think really needs to be a part of the conversation.
+
+394
+00:18:59,250 --> 00:19:04,250
+And so that's, you know, from resume building to networking,
+
+395
+00:19:04,260 --> 00:19:05,400
+that's huge.
+
+396
+00:19:05,400 --> 00:19:07,770
+'Cause it is such a close knit community
+
+397
+00:19:07,770 --> 00:19:08,603
+that if you know someone,
+
+398
+00:19:08,603 --> 00:19:09,630
+you know someone, you know someone.
+
+399
+00:19:09,630 --> 00:19:13,140
+And having the ability to make sure that we're focusing
+
+400
+00:19:13,140 --> 00:19:14,490
+and getting our students to understand
+
+401
+00:19:14,490 --> 00:19:16,770
+that it's not just about getting a degree
+
+402
+00:19:16,770 --> 00:19:18,630
+or getting a check mark next to your name.
+
+403
+00:19:18,630 --> 00:19:20,160
+It's about making absolutely sure that
+
+404
+00:19:20,160 --> 00:19:22,350
+as you're given opportunities, you take them,
+
+405
+00:19:22,350 --> 00:19:24,210
+you network, you put yourself out there.
+
+406
+00:19:24,210 --> 00:19:26,670
+A friend of mine who works at Netflix made a joke of like,
+
+407
+00:19:26,670 --> 00:19:29,880
+oh, don't you, she was talking to my cybersecurity students.
+
+408
+00:19:29,880 --> 00:19:32,190
+She says, don't you guys go to meetups?
+
+409
+00:19:32,190 --> 00:19:36,300
+And I'm like, no, no, we're IT nerd, we stay home. You know?
+
+410
+00:19:36,300 --> 00:19:38,070
+And, but that's what's, that's what's missing
+
+411
+00:19:38,070 --> 00:19:39,810
+is a lack of getting out there
+
+412
+00:19:39,810 --> 00:19:43,620
+and making sure that it's not just a name or a degree
+
+413
+00:19:43,620 --> 00:19:47,007
+or a resume, it's a face and a person.
+
+414
+00:19:47,007 --> 00:19:48,049
+- Yeah, he knows I'm gonna say this,
+
+415
+00:19:48,049 --> 00:19:51,750
+but, in order to obtain a CISSP,
+
+416
+00:19:51,750 --> 00:19:54,030
+you have to have three years of experience.
+
+417
+00:19:54,030 --> 00:19:57,480
+So how does that even belong on an entry level position?
+
+418
+00:19:57,480 --> 00:19:59,910
+Right? So, yeah, he knew, I was gonna say.
+
+419
+00:19:59,910 --> 00:20:03,510
+So that's so frustrating to me when I see that on anything.
+
+420
+00:20:03,510 --> 00:20:05,250
+Just wanna like throw from this table.
+
+421
+00:20:05,250 --> 00:20:07,260
+Like he knows my frustration with that.
+
+422
+00:20:07,260 --> 00:20:10,683
+That's just a poorly written job description. And, you know?
+
+423
+00:20:11,965 --> 00:20:13,856
+- So I have a related question.
+
+424
+00:20:13,856 --> 00:20:15,780
+So most of us in the community college spaces,
+
+425
+00:20:15,780 --> 00:20:18,390
+at least my former college at Foothill College
+
+426
+00:20:18,390 --> 00:20:20,640
+and De Anza, where I'm at right now,
+
+427
+00:20:20,640 --> 00:20:22,073
+we offer cybersecurity programs,
+
+428
+00:20:22,073 --> 00:20:24,210
+which are maybe four or five classes,
+
+429
+00:20:24,210 --> 00:20:26,220
+which lead to a certificate in,
+
+430
+00:20:26,220 --> 00:20:28,440
+of completion in cybersecurity.
+
+431
+00:20:28,440 --> 00:20:30,300
+But clearly, what I'm hearing from you
+
+432
+00:20:30,300 --> 00:20:32,550
+is one needs much more than that
+
+433
+00:20:32,550 --> 00:20:34,710
+in order to be able to get into a job.
+
+434
+00:20:34,710 --> 00:20:37,410
+So that I see already as one major barrier.
+
+435
+00:20:37,410 --> 00:20:41,340
+And the other one that I've heard also, you talk about, is
+
+436
+00:20:41,340 --> 00:20:42,360
+you have to know someone
+
+437
+00:20:42,360 --> 00:20:44,190
+who knows someone who knows someone.
+
+438
+00:20:44,190 --> 00:20:46,470
+Our students don't know anybody.
+
+439
+00:20:46,470 --> 00:20:50,070
+They're all first time college goers for the most part.
+
+440
+00:20:50,070 --> 00:20:53,460
+And it is already a huge barrier for them
+
+441
+00:20:53,460 --> 00:20:55,260
+to come to college.
+
+442
+00:20:55,260 --> 00:20:56,310
+But beyond that,
+
+443
+00:20:56,310 --> 00:20:59,580
+and to have actual networking connections
+
+444
+00:20:59,580 --> 00:21:01,020
+is already a huge challenge.
+
+445
+00:21:01,020 --> 00:21:05,130
+So how are we gonna reconcile these two sort of big issues
+
+446
+00:21:05,130 --> 00:21:06,755
+that we have here?
+
+447
+00:21:06,755 --> 00:21:10,322
+- So that's a good follow up.
+
+448
+00:21:10,322 --> 00:21:15,120
+So, as I mentioned earlier, my colleague also mentioned
+
+449
+00:21:15,120 --> 00:21:18,600
+cybersecurity, as an entry job, is very hard
+
+450
+00:21:18,600 --> 00:21:21,330
+because if I, you know, I manager, I have a company,
+
+451
+00:21:21,330 --> 00:21:23,190
+I don't want to hire someone who is new,
+
+452
+00:21:23,190 --> 00:21:26,610
+and, as a cybersecurity specialist.
+
+453
+00:21:26,610 --> 00:21:28,453
+However, I have student ask me,
+
+454
+00:21:28,453 --> 00:21:31,110
+how do I even get into the field
+
+455
+00:21:31,110 --> 00:21:33,707
+and does the certification, you know, really helps?
+
+456
+00:21:33,707 --> 00:21:35,310
+Of course, it helps.
+
+457
+00:21:35,310 --> 00:21:38,280
+Because without a job related experience,
+
+458
+00:21:38,280 --> 00:21:40,980
+certification is only one that hiring manager will say,
+
+459
+00:21:40,980 --> 00:21:43,560
+well, you probably know something, right?
+
+460
+00:21:43,560 --> 00:21:47,340
+But another key things, as I told,
+
+461
+00:21:47,340 --> 00:21:48,780
+you know, the student who asked me,
+
+462
+00:21:48,780 --> 00:21:52,020
+I said, well, if you really wanna get into cybersecurity,
+
+463
+00:21:52,020 --> 00:21:54,300
+if you cannot get that job, don't worry.
+
+464
+00:21:54,300 --> 00:21:58,140
+That is not really the one you want to get right away
+
+465
+00:21:58,140 --> 00:22:00,450
+because you should, I also tell them,
+
+466
+00:22:00,450 --> 00:22:05,010
+go apply for help desk, help desk in any company,
+
+467
+00:22:05,010 --> 00:22:07,410
+many company have help desk job.
+
+468
+00:22:07,410 --> 00:22:11,460
+And the help desk from there, if you prove yourself,
+
+469
+00:22:11,460 --> 00:22:15,060
+it can be easy, migrated to a higher position,
+
+470
+00:22:15,060 --> 00:22:17,580
+help desk require you have a skill set
+
+471
+00:22:17,580 --> 00:22:20,550
+in basic knowledge that cybersecurity requires.
+
+472
+00:22:20,550 --> 00:22:23,040
+Whether it's already a system, programming,
+
+473
+00:22:23,040 --> 00:22:25,170
+you know, networking, everything, right?
+
+474
+00:22:25,170 --> 00:22:28,353
+So another since, you know,
+
+475
+00:22:28,353 --> 00:22:30,715
+that people mentioned about the student,
+
+476
+00:22:30,715 --> 00:22:31,548
+you know, you mentioned,
+
+477
+00:22:31,548 --> 00:22:33,630
+well, our student doesn't know anybody, which isn't true,
+
+478
+00:22:33,630 --> 00:22:34,657
+they know somebody,
+
+479
+00:22:34,657 --> 00:22:38,160
+you know, their professors or as they said,
+
+480
+00:22:38,160 --> 00:22:40,170
+maybe you should go out.
+
+481
+00:22:40,170 --> 00:22:43,350
+And so Aaron and I are involved
+
+482
+00:22:43,350 --> 00:22:44,610
+in a number of organizations.
+
+483
+00:22:44,610 --> 00:22:49,170
+Sometimes we have, you know, event we need volunteers.
+
+484
+00:22:49,170 --> 00:22:51,390
+I always encourage our students,
+
+485
+00:22:51,390 --> 00:22:55,140
+you have to go to the volunteers
+
+486
+00:22:55,140 --> 00:22:57,987
+because one of the event, we have a CIO scholarship fund,
+
+487
+00:22:57,987 --> 00:22:59,970
+we have an annual golf event,
+
+488
+00:22:59,970 --> 00:23:03,856
+and we have about a hundred senior high team, CIO, the CSO
+
+489
+00:23:03,856 --> 00:23:05,610
+over there at a golf course.
+
+490
+00:23:05,610 --> 00:23:07,380
+And in the past many years,
+
+491
+00:23:07,380 --> 00:23:10,560
+some students actually got internship right there
+
+492
+00:23:10,560 --> 00:23:11,580
+and they got a job offer
+
+493
+00:23:11,580 --> 00:23:14,340
+because they become a personal, right?
+
+494
+00:23:14,340 --> 00:23:16,980
+And so, you know, I use the word industry,
+
+495
+00:23:16,980 --> 00:23:20,670
+you know, sometimes some of the job is not advertised,
+
+496
+00:23:20,670 --> 00:23:21,870
+it's there.
+
+497
+00:23:21,870 --> 00:23:25,080
+And I write out job description afterwards.
+
+498
+00:23:25,080 --> 00:23:27,270
+Well, that's a fact of life, you know?
+
+499
+00:23:27,270 --> 00:23:28,334
+- I think there's another question,
+
+500
+00:23:28,334 --> 00:23:29,735
+sorry, I think there's another question
+
+501
+00:23:29,735 --> 00:23:31,590
+that I'll come back to this on.
+
+502
+00:23:31,590 --> 00:23:34,260
+But what I want to also mention here,
+
+503
+00:23:34,260 --> 00:23:36,870
+I mentioned some other, some other techniques,
+
+504
+00:23:36,870 --> 00:23:39,060
+but another technique is just to reach out
+
+505
+00:23:39,060 --> 00:23:40,440
+to folks from industry
+
+506
+00:23:40,440 --> 00:23:42,810
+and have them come in and guess lecture.
+
+507
+00:23:42,810 --> 00:23:47,190
+That's how I started with my involvement in this space,
+
+508
+00:23:47,190 --> 00:23:48,678
+in this educational space.
+
+509
+00:23:48,678 --> 00:23:50,790
+And then grow it from there.
+
+510
+00:23:50,790 --> 00:23:53,737
+So doing that could bring in
+
+511
+00:23:53,737 --> 00:23:56,520
+some semblance of networking for your students,
+
+512
+00:23:56,520 --> 00:23:59,370
+bringing in folks that are in industry.
+
+513
+00:23:59,370 --> 00:24:01,847
+You'd be surprised how many people just answer LinkedIn,
+
+514
+00:24:01,847 --> 00:24:03,240
+if you do that.
+
+515
+00:24:03,240 --> 00:24:07,620
+I have for security awareness programs with companies,
+
+516
+00:24:07,620 --> 00:24:08,670
+that's when you want the company
+
+517
+00:24:08,670 --> 00:24:10,290
+to become more security aware.
+
+518
+00:24:10,290 --> 00:24:12,570
+You want to build a culture of security awareness.
+
+519
+00:24:12,570 --> 00:24:13,920
+I've just reached out to authors,
+
+520
+00:24:13,920 --> 00:24:15,330
+so I sort of do the opposite, right?
+
+521
+00:24:15,330 --> 00:24:19,950
+I reach out to an author of a cybersecurity book and I say,
+
+522
+00:24:19,950 --> 00:24:22,530
+hey, will you come in and speak to the company?
+
+523
+00:24:22,530 --> 00:24:25,440
+So you'd be surprised, most of them, most of them do.
+
+524
+00:24:25,440 --> 00:24:27,030
+Now sometimes you have to buy their book,
+
+525
+00:24:27,030 --> 00:24:28,530
+but that's fine, right?
+
+526
+00:24:28,530 --> 00:24:30,870
+Just buy their book or whatever, right?
+
+527
+00:24:30,870 --> 00:24:33,673
+- I've got one, everyone's gonna cringe as soon as I say it.
+
+528
+00:24:33,673 --> 00:24:34,506
+Esports.
+
+529
+00:24:35,467 --> 00:24:38,220
+So if you didn't know, and there's only about,
+
+530
+00:24:38,220 --> 00:24:40,140
+I believe, five or six in the southern region,
+
+531
+00:24:40,140 --> 00:24:41,280
+there is a organization
+
+532
+00:24:41,280 --> 00:24:44,280
+called the Intercollegiate Cyber Defense Competition.
+
+533
+00:24:44,280 --> 00:24:48,570
+And it's an amazing program and it's an esport.
+
+534
+00:24:48,570 --> 00:24:49,590
+I joke with my wife,
+
+535
+00:24:49,590 --> 00:24:50,423
+I'm like, 'cause I'm not a sports person,
+
+536
+00:24:50,423 --> 00:24:53,160
+I'm like, I want to be a coach, a college coach,
+
+537
+00:24:53,160 --> 00:24:55,050
+that's the sport that I'm gonna go after.
+
+538
+00:24:55,050 --> 00:24:56,440
+It's an amazing opportunity.
+
+539
+00:24:56,440 --> 00:24:58,920
+I believe Coast, if you're, if anyone from Coast is here,
+
+540
+00:24:58,920 --> 00:25:00,690
+I think the last couple of years they've actually hosted
+
+541
+00:25:00,690 --> 00:25:02,640
+one of the events on their site.
+
+542
+00:25:02,640 --> 00:25:04,020
+It's a great opportunity for students
+
+543
+00:25:04,020 --> 00:25:07,080
+to get in front of industry, not just like need industry,
+
+544
+00:25:07,080 --> 00:25:09,780
+but get in front of industry, get into environments
+
+545
+00:25:09,780 --> 00:25:13,099
+where they're actually learning to do things
+
+546
+00:25:13,099 --> 00:25:17,550
+in an actual cyber range, is what we call them.
+
+547
+00:25:17,550 --> 00:25:19,774
+And so to be able to actually do things, touch things,
+
+548
+00:25:19,774 --> 00:25:22,735
+interact with other people, network,
+
+549
+00:25:22,735 --> 00:25:24,120
+it's an amazing program.
+
+550
+00:25:24,120 --> 00:25:26,040
+And again, it, it really ties back
+
+551
+00:25:26,040 --> 00:25:27,030
+to that college experience
+
+552
+00:25:27,030 --> 00:25:29,707
+that we have an opportunity to provide, so.
+
+553
+00:25:31,069 --> 00:25:31,902
+- Thank you.
+
+554
+00:25:31,902 --> 00:25:33,660
+So I think this is a nice segue
+
+555
+00:25:33,660 --> 00:25:35,820
+to the next question that I want to ask, which is,
+
+556
+00:25:35,820 --> 00:25:38,670
+can you share some examples, successful examples
+
+557
+00:25:38,670 --> 00:25:42,780
+of partnerships between community colleges and industry
+
+558
+00:25:42,780 --> 00:25:45,330
+that have led to meaningful student opportunities
+
+559
+00:25:45,330 --> 00:25:48,180
+like internships, apprenticeships,
+
+560
+00:25:48,180 --> 00:25:50,910
+or even maybe direct job placement?
+
+561
+00:25:50,910 --> 00:25:53,280
+So here's my question. I knew it was coming.
+
+562
+00:25:53,280 --> 00:25:56,883
+All right, so, I'll share a specific example.
+
+563
+00:25:58,260 --> 00:26:00,933
+Over the summer, this last summer,
+
+564
+00:26:02,243 --> 00:26:06,030
+so I teach a cybersecurity bootcamp once a year.
+
+565
+00:26:06,030 --> 00:26:09,000
+Over this last, over this last summer,
+
+566
+00:26:09,000 --> 00:26:12,930
+I met a student that was very interested in the field,
+
+567
+00:26:12,930 --> 00:26:14,520
+had the drive.
+
+568
+00:26:14,520 --> 00:26:18,900
+I invited him to my, my monthly event.
+
+569
+00:26:18,900 --> 00:26:20,100
+At that monthly event,
+
+570
+00:26:20,100 --> 00:26:22,410
+I introduced him to somebody that was hiring
+
+571
+00:26:22,410 --> 00:26:25,380
+and that person hired him on the spot, right?
+
+572
+00:26:25,380 --> 00:26:26,430
+Those things happen.
+
+573
+00:26:26,430 --> 00:26:29,206
+There are success stories like that that happened.
+
+574
+00:26:29,206 --> 00:26:32,580
+I was proud to do that and will continue to do that, right?
+
+575
+00:26:32,580 --> 00:26:34,260
+So. - Okay.
+
+576
+00:26:34,260 --> 00:26:36,030
+- Perfect, perfect example.
+
+577
+00:26:36,030 --> 00:26:37,680
+- All right, David.
+
+578
+00:26:37,680 --> 00:26:39,261
+- Yeah, I think I've seen some success
+
+579
+00:26:39,261 --> 00:26:43,590
+in some of the mentorship programs that some
+
+580
+00:26:43,590 --> 00:26:46,830
+universities and educational institutions are creating,
+
+581
+00:26:46,830 --> 00:26:47,940
+obviously, industry as well.
+
+582
+00:26:47,940 --> 00:26:49,980
+But, you know, being able to,
+
+583
+00:26:49,980 --> 00:26:52,110
+to kind of have that networking opportunity
+
+584
+00:26:52,110 --> 00:26:54,791
+to help guide students into whether it's,
+
+585
+00:26:54,791 --> 00:26:55,920
+you know, a professional organization
+
+586
+00:26:55,920 --> 00:26:58,080
+where they can start to build community,
+
+587
+00:26:58,080 --> 00:27:00,963
+whether it's, you know, a bootcamp or a cyber range,
+
+588
+00:27:00,963 --> 00:27:04,590
+it's really trying to teach that skill
+
+589
+00:27:04,590 --> 00:27:08,850
+of the interpersonal component and why it is important.
+
+590
+00:27:08,850 --> 00:27:10,080
+A lot of great comments about,
+
+591
+00:27:10,080 --> 00:27:13,650
+you know, it really is a differentiator
+
+592
+00:27:13,650 --> 00:27:15,060
+in the old adage, right?
+
+593
+00:27:15,060 --> 00:27:17,697
+It's, what, you know, but it's also who you know
+
+594
+00:27:17,697 --> 00:27:20,520
+and getting in front of people and helping them see that,
+
+595
+00:27:20,520 --> 00:27:24,183
+that sense of interest and ambition, curiosity,
+
+596
+00:27:25,800 --> 00:27:28,440
+absolutely agree to helping students
+
+597
+00:27:28,440 --> 00:27:30,480
+look at things through a different lens.
+
+598
+00:27:30,480 --> 00:27:32,760
+So sure, everyone wants to go straight to the top,
+
+599
+00:27:32,760 --> 00:27:34,580
+but, you know, there's a lot of value
+
+600
+00:27:34,580 --> 00:27:39,120
+in taking the necessary steps to build on that foundation
+
+601
+00:27:39,120 --> 00:27:40,800
+that you're getting from community college
+
+602
+00:27:40,800 --> 00:27:42,990
+or through other academic programs,
+
+603
+00:27:42,990 --> 00:27:45,030
+that's really, really vital.
+
+604
+00:27:45,030 --> 00:27:48,896
+And it's gonna help you reinforce those skills and expertise
+
+605
+00:27:48,896 --> 00:27:50,730
+and ultimately make them,
+
+606
+00:27:50,730 --> 00:27:53,400
+you know, successful in their career and their journey,
+
+607
+00:27:53,400 --> 00:27:56,670
+but also help that company that set out little caveat,
+
+608
+00:27:56,670 --> 00:27:58,320
+I wanted to mention a comment earlier,
+
+609
+00:27:58,320 --> 00:28:02,160
+but unfortunately, a lot of times corporations,
+
+610
+00:28:02,160 --> 00:28:03,577
+organizations are their own worst enemy,
+
+611
+00:28:03,577 --> 00:28:07,181
+that they don't really create a good ecosystem
+
+612
+00:28:07,181 --> 00:28:10,170
+or pathway internally
+
+613
+00:28:10,170 --> 00:28:14,130
+for that pipeline of students to come in.
+
+614
+00:28:14,130 --> 00:28:16,380
+You know, they're not necessarily doing great jobs
+
+615
+00:28:16,380 --> 00:28:18,480
+in supporting professional development
+
+616
+00:28:18,480 --> 00:28:20,460
+of their current employees.
+
+617
+00:28:20,460 --> 00:28:21,508
+You know, upward,
+
+618
+00:28:21,508 --> 00:28:24,300
+you know, lateral mobility in job descriptions
+
+619
+00:28:24,300 --> 00:28:26,490
+I find is lacking more than it's in place.
+
+620
+00:28:26,490 --> 00:28:28,620
+And so, you know, I think there's an opportunity for us
+
+621
+00:28:28,620 --> 00:28:31,096
+to start having conversations with industry and asking them,
+
+622
+00:28:31,096 --> 00:28:33,720
+you know, what is your succession plan?
+
+623
+00:28:33,720 --> 00:28:34,620
+What is your pipeline?
+
+624
+00:28:34,620 --> 00:28:38,160
+How are you, you know, supporting your current workforce,
+
+625
+00:28:38,160 --> 00:28:40,320
+but then also looking at, you know,
+
+626
+00:28:40,320 --> 00:28:42,960
+how to continue to replenish that workforce.
+
+627
+00:28:42,960 --> 00:28:47,011
+And, you know, a lot of times I see that still is a miss
+
+628
+00:28:47,011 --> 00:28:50,310
+that we can really start to have conversations around,
+
+629
+00:28:50,310 --> 00:28:52,620
+start to have partnerships around,
+
+630
+00:28:52,620 --> 00:28:54,663
+and create a lot more improvement.
+
+631
+00:28:56,460 --> 00:29:00,300
+- So I want to add on the student volunteers.
+
+632
+00:29:00,300 --> 00:29:03,630
+Well, I want to concentrate the word volunteers.
+
+633
+00:29:03,630 --> 00:29:06,483
+I have a student say, well, do you pay me for it?
+
+634
+00:29:07,770 --> 00:29:08,970
+Well, it's volunteer.
+
+635
+00:29:08,970 --> 00:29:10,290
+So it's an opportunity
+
+636
+00:29:10,290 --> 00:29:13,320
+the student has to take that advantage for.
+
+637
+00:29:13,320 --> 00:29:16,320
+So I have a perfect example, you know, two years ago,
+
+638
+00:29:16,320 --> 00:29:19,980
+I offered at one of our summer camp,
+
+639
+00:29:19,980 --> 00:29:21,476
+I have a student want to volunteer,
+
+640
+00:29:21,476 --> 00:29:23,356
+you know, I say I don't have money for it.
+
+641
+00:29:23,356 --> 00:29:25,380
+Volunteer? Yes.
+
+642
+00:29:25,380 --> 00:29:28,110
+So they volunteer for entire two weeks.
+
+643
+00:29:28,110 --> 00:29:33,110
+And after that, and I introduced to somebody I know
+
+644
+00:29:33,300 --> 00:29:36,362
+that he talked about the type of things he learned
+
+645
+00:29:36,362 --> 00:29:38,340
+at the summer camp,
+
+646
+00:29:38,340 --> 00:29:43,320
+how he helped other student and then the company hired him.
+
+647
+00:29:43,320 --> 00:29:47,850
+So, if a student say, I have to getting paid,
+
+648
+00:29:47,850 --> 00:29:50,310
+well, they're not really taking the opportunity
+
+649
+00:29:50,310 --> 00:29:54,510
+to try to help themself, not everything has to be paid.
+
+650
+00:29:54,510 --> 00:29:56,910
+It's your experience you need to get,
+
+651
+00:29:56,910 --> 00:30:01,680
+so you have to step out your, the comfort zone
+
+652
+00:30:01,680 --> 00:30:03,303
+and to help yourself.
+
+653
+00:30:04,980 --> 00:30:08,460
+- I think the other piece that has to happen too
+
+654
+00:30:08,460 --> 00:30:10,050
+is my personal networking,
+
+655
+00:30:10,050 --> 00:30:11,220
+and I'll talk about that piece of it.
+
+656
+00:30:11,220 --> 00:30:13,290
+So, my VP's in the back of the room,
+
+657
+00:30:13,290 --> 00:30:14,123
+who will know this, right?
+
+658
+00:30:14,123 --> 00:30:16,650
+So, I didn't see a pathway, so I built one.
+
+659
+00:30:16,650 --> 00:30:19,320
+Part of what we built through our security grant
+
+660
+00:30:19,320 --> 00:30:21,270
+was to make sure that we provided opportunities,
+
+661
+00:30:21,270 --> 00:30:22,650
+paid opportunities for our students
+
+662
+00:30:22,650 --> 00:30:24,060
+to actually come through
+
+663
+00:30:24,060 --> 00:30:27,120
+and then actually move into roles as opportunities.
+
+664
+00:30:27,120 --> 00:30:28,860
+And when I present to them,
+
+665
+00:30:28,860 --> 00:30:30,510
+I said, the gentleman from Palo Alto in the back,
+
+666
+00:30:30,510 --> 00:30:31,830
+I'll call you guys out,
+
+667
+00:30:31,830 --> 00:30:33,660
+plus other industry partners that I know.
+
+668
+00:30:33,660 --> 00:30:36,330
+I've got team, you know, members of Microsoft, CrowdStrike,
+
+669
+00:30:36,330 --> 00:30:38,190
+you know, name the big companies, right?
+
+670
+00:30:38,190 --> 00:30:39,960
+And so as I'm talking to them, it's not just about,
+
+671
+00:30:39,960 --> 00:30:42,390
+hey, you know, I'm potentially buying money
+
+672
+00:30:42,390 --> 00:30:44,277
+or spending money or working with you on something.
+
+673
+00:30:44,277 --> 00:30:47,367
+I'm like, hey, I have people coming into this space
+
+674
+00:30:47,367 --> 00:30:49,680
+and I would like to put them in front of you.
+
+675
+00:30:49,680 --> 00:30:51,540
+Where's that opportunity for me?
+
+676
+00:30:51,540 --> 00:30:52,710
+Where you programs,
+
+677
+00:30:52,710 --> 00:30:54,270
+'cause some of them have a lot of,
+
+678
+00:30:54,270 --> 00:30:57,480
+a lot of those big companies do have those opportunities.
+
+679
+00:30:57,480 --> 00:30:59,580
+But again, as we talked about it earlier,
+
+680
+00:30:59,580 --> 00:31:00,413
+it's who you know
+
+681
+00:31:00,413 --> 00:31:02,880
+and how do you get into those opportunities?
+
+682
+00:31:02,880 --> 00:31:05,130
+And so, for me it's also to make sure
+
+683
+00:31:05,130 --> 00:31:08,040
+that I'm networking myself to see who it is.
+
+684
+00:31:08,040 --> 00:31:10,080
+I think I was just on call with a big vendor the other day
+
+685
+00:31:10,080 --> 00:31:12,510
+and I'm like, hey, by the way, since we're here,
+
+686
+00:31:12,510 --> 00:31:14,250
+what do you do for internships?
+
+687
+00:31:14,250 --> 00:31:16,050
+And I actually had my two lead interns
+
+688
+00:31:16,050 --> 00:31:18,510
+who both happen to be female in the background listening.
+
+689
+00:31:18,510 --> 00:31:21,780
+And we talked about her history, her story,
+
+690
+00:31:21,780 --> 00:31:24,180
+how focused she was on bringing
+
+691
+00:31:24,180 --> 00:31:25,860
+especially females into site.
+
+692
+00:31:25,860 --> 00:31:28,080
+And, you know, that was a, it was an amazing opportunity
+
+693
+00:31:28,080 --> 00:31:29,370
+because now there's that connection.
+
+694
+00:31:29,370 --> 00:31:32,940
+So when something comes up for her, she's calling me.
+
+695
+00:31:32,940 --> 00:31:36,480
+And so, as a practitioner, as someone in the space,
+
+696
+00:31:36,480 --> 00:31:38,610
+as someone who's trying to do this for our students,
+
+697
+00:31:38,610 --> 00:31:40,557
+also about making sure I get out there
+
+698
+00:31:40,557 --> 00:31:42,150
+and I make those connections
+
+699
+00:31:42,150 --> 00:31:45,600
+to bring them back to the people that I'm trying to support.
+
+700
+00:31:45,600 --> 00:31:46,433
+- Thank you.
+
+701
+00:31:47,310 --> 00:31:50,970
+So, if you were all there at the main stage this morning,
+
+702
+00:31:50,970 --> 00:31:53,010
+we saw the chancellor from my district,
+
+703
+00:31:53,010 --> 00:31:58,010
+Lee Lambert, an AI generated video of him talking,
+
+704
+00:31:58,470 --> 00:31:59,760
+which was kind of fun,
+
+705
+00:31:59,760 --> 00:32:02,520
+but also a little bit scary at the same time.
+
+706
+00:32:02,520 --> 00:32:05,400
+So, we are talking about cybersecurity here.
+
+707
+00:32:05,400 --> 00:32:07,350
+So can you share your perspective
+
+708
+00:32:07,350 --> 00:32:10,620
+on how AI has impacted cybersecurity,
+
+709
+00:32:10,620 --> 00:32:14,520
+made it more something that we have to pay attention to
+
+710
+00:32:14,520 --> 00:32:19,380
+or has it helped battle combat cyber threats?
+
+711
+00:32:19,380 --> 00:32:22,330
+- That's gonna be a whole talk on this, on this right here.
+
+712
+00:32:23,698 --> 00:32:24,531
+- We have time.
+
+713
+00:32:24,531 --> 00:32:25,781
+- We have time?
+
+714
+00:32:27,360 --> 00:32:28,380
+- I'll jump in really quick.
+
+715
+00:32:28,380 --> 00:32:30,177
+So. I want to make sure
+
+716
+00:32:30,177 --> 00:32:31,680
+that we don't just talk about cyber, right?
+
+717
+00:32:31,680 --> 00:32:32,850
+Because it really,
+
+718
+00:32:32,850 --> 00:32:35,100
+knowing that everything feeds into cyber, right?
+
+719
+00:32:35,100 --> 00:32:37,050
+Knowing that the help desk and computer science,
+
+720
+00:32:37,050 --> 00:32:40,200
+those fields, AI is completely changing.
+
+721
+00:32:40,200 --> 00:32:43,200
+That whole landscape, you see all the,
+
+722
+00:32:43,200 --> 00:32:44,190
+if you live up in the Bay Area,
+
+723
+00:32:44,190 --> 00:32:46,800
+you know when the FAANG companies have their calling, right?
+
+724
+00:32:46,800 --> 00:32:51,330
+So FAANG, Facebook, Apple, Amazon, Netflix, and Google,
+
+725
+00:32:51,330 --> 00:32:52,680
+even though they're Alphabet now,
+
+726
+00:32:52,680 --> 00:32:54,295
+you know, when the call occurs, you see those in the news,
+
+727
+00:32:54,295 --> 00:32:55,800
+and you see that happen.
+
+728
+00:32:55,800 --> 00:32:57,225
+And a lot of times that is,
+
+729
+00:32:57,225 --> 00:33:00,210
+we're reducing workforce because of the efficiency of AI.
+
+730
+00:33:00,210 --> 00:33:01,980
+And so when you see a thousand people
+
+731
+00:33:01,980 --> 00:33:03,150
+onto that chopping block,
+
+732
+00:33:03,150 --> 00:33:05,130
+they're not in the workforce, right?
+
+733
+00:33:05,130 --> 00:33:07,080
+So in addition to all of the things that are,
+
+734
+00:33:07,080 --> 00:33:09,546
+that our AI is doing to improve efficiency,
+
+735
+00:33:09,546 --> 00:33:12,485
+it's impacting our ability to get into those spaces.
+
+736
+00:33:12,485 --> 00:33:13,890
+We talked about a bunch of computer science instructors
+
+737
+00:33:13,890 --> 00:33:15,060
+especially who are like,
+
+738
+00:33:15,060 --> 00:33:17,010
+oh, we don't let the students use AI.
+
+739
+00:33:17,010 --> 00:33:18,690
+And in talking to teams at Netflix,
+
+740
+00:33:18,690 --> 00:33:21,390
+they're like, we don't not use AI, you know?
+
+741
+00:33:21,390 --> 00:33:23,910
+And so as we push students into those spaces,
+
+742
+00:33:23,910 --> 00:33:28,080
+it's not just about understanding the impact of AI
+
+743
+00:33:28,080 --> 00:33:30,360
+or that you need to know, have the foundational knowledge
+
+744
+00:33:30,360 --> 00:33:33,630
+of the topic that you're studying.
+
+745
+00:33:33,630 --> 00:33:36,540
+It's about understanding how the tools are changing
+
+746
+00:33:36,540 --> 00:33:38,010
+on a daily basis.
+
+747
+00:33:38,010 --> 00:33:40,050
+You know, that's not even from
+
+748
+00:33:40,050 --> 00:33:41,280
+attack and defense standpoint,
+
+749
+00:33:41,280 --> 00:33:43,500
+that's just how this is going to impact your roles
+
+750
+00:33:43,500 --> 00:33:44,340
+in the world.
+
+751
+00:33:44,340 --> 00:33:45,810
+And so I think that's a big conversation
+
+752
+00:33:45,810 --> 00:33:48,863
+that really has to be had in the classroom of how,
+
+753
+00:33:48,863 --> 00:33:50,457
+especially in the technology space,
+
+754
+00:33:50,457 --> 00:33:53,460
+it's not just about whether it's going to happen,
+
+755
+00:33:53,460 --> 00:33:54,990
+it's you're walking into a space
+
+756
+00:33:54,990 --> 00:33:56,400
+that's already impacted by this.
+
+757
+00:33:56,400 --> 00:33:58,080
+And we need to be teaching those tools now
+
+758
+00:33:58,080 --> 00:33:59,370
+before we get there, okay.
+
+759
+00:33:59,370 --> 00:34:02,730
+- Yeah. So I'm gonna add, I'm gonna add to that and say
+
+760
+00:34:02,730 --> 00:34:07,140
+the adversaries that are attacking companies, government,
+
+761
+00:34:07,140 --> 00:34:09,990
+infrastructure, et cetera, are absolutely using AI.
+
+762
+00:34:09,990 --> 00:34:14,190
+They're getting faster in time to,
+
+763
+00:34:14,190 --> 00:34:15,990
+the time to compromise is getting faster.
+
+764
+00:34:15,990 --> 00:34:18,960
+And it's because of AI, the, however, the defense,
+
+765
+00:34:18,960 --> 00:34:22,203
+our defenses are getting faster because of AI as well.
+
+766
+00:34:23,160 --> 00:34:24,903
+Those are the positives,
+
+767
+00:34:26,730 --> 00:34:31,620
+the negatives from a talk,
+
+768
+00:34:31,620 --> 00:34:34,170
+again from the FBI talk, last week.
+
+769
+00:34:34,170 --> 00:34:37,620
+We had the CSO of philanthropic speak there
+
+770
+00:34:37,620 --> 00:34:39,030
+and what he was talking about
+
+771
+00:34:39,030 --> 00:34:43,860
+was how they no longer have SOC tier 1 analysts.
+
+772
+00:34:43,860 --> 00:34:46,740
+So typically your SOC tier 1 analyst
+
+773
+00:34:46,740 --> 00:34:48,660
+is your entry level position.
+
+774
+00:34:48,660 --> 00:34:51,000
+So they no longer have SOC tier 1 analyst
+
+775
+00:34:51,000 --> 00:34:53,400
+because they have replaced them with AI.
+
+776
+00:34:53,400 --> 00:34:55,673
+Now whether or not everybody's gonna do that
+
+777
+00:34:55,673 --> 00:34:59,100
+in the next five years remains to be seen,
+
+778
+00:34:59,100 --> 00:35:01,140
+but you could, you should expect that over,
+
+779
+00:35:01,140 --> 00:35:03,660
+let's say the next 10 years,
+
+780
+00:35:03,660 --> 00:35:06,180
+that position may be gone, period.
+
+781
+00:35:06,180 --> 00:35:10,683
+So, what do we do about that? What do we think about that?
+
+782
+00:35:12,030 --> 00:35:13,974
+My thought is that
+
+783
+00:35:13,974 --> 00:35:18,974
+we need to start thinking the next layer up for SOC analysts
+
+784
+00:35:19,620 --> 00:35:22,230
+or security engineers in general,
+
+785
+00:35:22,230 --> 00:35:23,880
+or just security in general.
+
+786
+00:35:23,880 --> 00:35:28,880
+I think security engineers tend to have a very narrow scope
+
+787
+00:35:29,670 --> 00:35:31,380
+of what it is that their job is.
+
+788
+00:35:31,380 --> 00:35:34,830
+And it's very, this is my, you know, technology's my job
+
+789
+00:35:34,830 --> 00:35:36,390
+and that's all I need to think about.
+
+790
+00:35:36,390 --> 00:35:37,830
+What I'd like to see more
+
+791
+00:35:37,830 --> 00:35:40,110
+are folks that are a little more well-rounded,
+
+792
+00:35:40,110 --> 00:35:41,970
+they understand the business more.
+
+793
+00:35:41,970 --> 00:35:45,150
+Because AI right now, doesn't do that.
+
+794
+00:35:45,150 --> 00:35:48,030
+It doesn't understand that this is a business,
+
+795
+00:35:48,030 --> 00:35:51,210
+this is a company, this is a educational institution,
+
+796
+00:35:51,210 --> 00:35:53,700
+it's a, you know, it's a water plant,
+
+797
+00:35:53,700 --> 00:35:57,090
+whatever it is, it only understands the context that's given
+
+798
+00:35:57,090 --> 00:35:59,653
+for now until AI becomes smarter than we are,
+
+799
+00:35:59,653 --> 00:36:02,310
+it understands the context that it's given.
+
+800
+00:36:02,310 --> 00:36:07,310
+And so, people need to sort of outthink AI, if you will.
+
+801
+00:36:07,650 --> 00:36:09,063
+It's a weird thing to say,
+
+802
+00:36:10,020 --> 00:36:14,700
+but that's what I think we need to start to teach students,
+
+803
+00:36:14,700 --> 00:36:18,360
+don't think so myopically about your field.
+
+804
+00:36:18,360 --> 00:36:22,240
+Think more business, think more broadly.
+
+805
+00:36:25,740 --> 00:36:28,429
+- Thank you. I'm glad you're bringing up the topic
+
+806
+00:36:28,429 --> 00:36:32,010
+about what we should be teaching our students
+
+807
+00:36:32,010 --> 00:36:33,840
+because that is one of the questions that I had
+
+808
+00:36:33,840 --> 00:36:37,290
+is looking ahead, like let's say five years,
+
+809
+00:36:37,290 --> 00:36:40,890
+what changes do you think we should,
+
+810
+00:36:40,890 --> 00:36:42,990
+based on the changes that we might expect
+
+811
+00:36:42,990 --> 00:36:45,330
+in the cybersecurity landscape,
+
+812
+00:36:45,330 --> 00:36:47,580
+what should community colleges be doing
+
+813
+00:36:47,580 --> 00:36:50,043
+to prepare our students for the future?
+
+814
+00:36:52,500 --> 00:36:54,690
+What are some new curricular innovations
+
+815
+00:36:54,690 --> 00:36:57,000
+that we should be working towards?
+
+816
+00:36:57,000 --> 00:37:00,360
+- Well, technology changes rapidly all the time.
+
+817
+00:37:00,360 --> 00:37:03,540
+We cannot keep up with it if we are just teaching,
+
+818
+00:37:03,540 --> 00:37:05,460
+as a faculty of school.
+
+819
+00:37:05,460 --> 00:37:07,680
+So one of the key things is how do you work
+
+820
+00:37:07,680 --> 00:37:11,370
+with practitioners in the industry, right?
+
+821
+00:37:11,370 --> 00:37:14,580
+The people who really in the real world is doing that.
+
+822
+00:37:14,580 --> 00:37:16,950
+And I'm sure many of the school you guys
+
+823
+00:37:16,950 --> 00:37:18,212
+have an advisory board, right?
+
+824
+00:37:18,212 --> 00:37:20,617
+Have the people that actually share
+
+825
+00:37:20,617 --> 00:37:24,450
+their real world experience and advise you
+
+826
+00:37:24,450 --> 00:37:26,850
+what kind of a curriculum you have.
+
+827
+00:37:26,850 --> 00:37:31,850
+And so, just like I work with my colleagues
+
+828
+00:37:32,220 --> 00:37:35,850
+and I also encourage them to teach as well
+
+829
+00:37:35,850 --> 00:37:38,460
+and to become adjunct faculties, you know?
+
+830
+00:37:38,460 --> 00:37:41,130
+So I have a number of friends now
+
+831
+00:37:41,130 --> 00:37:43,980
+they teach at the San Jose State, Cal State, East
+
+832
+00:37:43,980 --> 00:37:46,290
+are only, right? Different schools.
+
+833
+00:37:46,290 --> 00:37:50,250
+So by then working in our classroom
+
+834
+00:37:50,250 --> 00:37:53,098
+and share with the real world examples.
+
+835
+00:37:53,098 --> 00:37:57,630
+And also they can help us to create a new curriculum and,
+
+836
+00:37:57,630 --> 00:37:59,737
+so that we can getting ahead,
+
+837
+00:37:59,737 --> 00:38:01,830
+you know, as we all know, right?
+
+838
+00:38:01,830 --> 00:38:04,740
+To create a new course is not like today is you one to one
+
+839
+00:38:04,740 --> 00:38:05,730
+tomorrow is there,
+
+840
+00:38:05,730 --> 00:38:07,800
+it take about six to nine months, right?
+
+841
+00:38:07,800 --> 00:38:09,300
+So you have to think ahead.
+
+842
+00:38:09,300 --> 00:38:13,290
+And, so it is more of a, how can you create something
+
+843
+00:38:13,290 --> 00:38:18,290
+that align with the skillset demand in the industry
+
+844
+00:38:18,510 --> 00:38:20,010
+in the next couple years.
+
+845
+00:38:20,010 --> 00:38:24,540
+And by working with industry practitioners,
+
+846
+00:38:24,540 --> 00:38:27,016
+that's all you're gonna get.
+
+847
+00:38:27,016 --> 00:38:27,849
+- Thank you.
+
+848
+00:38:27,849 --> 00:38:29,430
+- So six years ago, if I would've asked you
+
+849
+00:38:29,430 --> 00:38:32,670
+what's the biggest data breach you remember?
+
+850
+00:38:32,670 --> 00:38:34,110
+Some of you may say Target,
+
+851
+00:38:34,110 --> 00:38:35,280
+you guys remember when Target got breach?
+
+852
+00:38:35,280 --> 00:38:36,723
+That was a big deal.
+
+853
+00:38:36,723 --> 00:38:39,030
+Now, if I ask you this morning,
+
+854
+00:38:39,030 --> 00:38:40,410
+what's the biggest data breach you remember
+
+855
+00:38:40,410 --> 00:38:41,700
+that's happened in the last week?
+
+856
+00:38:41,700 --> 00:38:43,920
+And you can probably think of at least six, right?
+
+857
+00:38:43,920 --> 00:38:46,230
+The landscape has changed completely and dramatically.
+
+858
+00:38:46,230 --> 00:38:49,380
+Like ever since COVID and I talk about,
+
+859
+00:38:49,380 --> 00:38:51,450
+when I talk to specifically to IT folks
+
+860
+00:38:51,450 --> 00:38:54,660
+in the education space, the gloves are off.
+
+861
+00:38:54,660 --> 00:38:57,540
+Back, pre-COVID schools and hospitals,
+
+862
+00:38:57,540 --> 00:38:59,460
+cities and counties, water,
+
+863
+00:38:59,460 --> 00:39:02,400
+they were doing the public good and you don't touch them.
+
+864
+00:39:02,400 --> 00:39:04,140
+And ever since then
+
+865
+00:39:04,140 --> 00:39:05,940
+they come to find out we all carry insurance
+
+866
+00:39:05,940 --> 00:39:08,370
+and we all are really terrible at cybersecurity,
+
+867
+00:39:08,370 --> 00:39:11,010
+so they're gonna come after us in that respect, right?
+
+868
+00:39:11,010 --> 00:39:13,200
+And so, to be able to sit here and prognostic,
+
+869
+00:39:13,200 --> 00:39:14,520
+and unfortunately, in five more years
+
+870
+00:39:14,520 --> 00:39:15,750
+what that's gonna happen,
+
+871
+00:39:15,750 --> 00:39:18,270
+it's, I, it's, I'd love to do that.
+
+872
+00:39:18,270 --> 00:39:20,790
+I'd probably be able to make a lot of money.
+
+873
+00:39:20,790 --> 00:39:22,857
+What we work on in our process
+
+874
+00:39:22,857 --> 00:39:25,200
+is what's happening right now.
+
+875
+00:39:25,200 --> 00:39:27,510
+How do we grow this process? How do we understand it?
+
+876
+00:39:27,510 --> 00:39:29,850
+It's one of the fun things I actually do with my students
+
+877
+00:39:29,850 --> 00:39:31,410
+is actually,
+
+878
+00:39:31,410 --> 00:39:35,280
+I require them to come in bringing current events
+
+879
+00:39:35,280 --> 00:39:36,540
+because remember doing current events
+
+880
+00:39:36,540 --> 00:39:38,940
+in like junior high and elementary school.
+
+881
+00:39:38,940 --> 00:39:41,550
+And so what we'll do is we'll walk through a data breach,
+
+882
+00:39:41,550 --> 00:39:45,720
+like just based off of what is, what did you read?
+
+883
+00:39:45,720 --> 00:39:49,740
+Who was it? What was the threat actor? What was the way in?
+
+884
+00:39:49,740 --> 00:39:51,870
+And that's what you are building,
+
+885
+00:39:51,870 --> 00:39:54,390
+is you're not building necessarily a person
+
+886
+00:39:54,390 --> 00:39:57,450
+who can kind of come in and look at screens that go by.
+
+887
+00:39:57,450 --> 00:39:59,610
+You're building someone who can think critically,
+
+888
+00:39:59,610 --> 00:40:02,490
+can understand organizational risk.
+
+889
+00:40:02,490 --> 00:40:05,850
+You're building that process of like wholly understanding
+
+890
+00:40:05,850 --> 00:40:07,770
+what an incident is and does.
+
+891
+00:40:07,770 --> 00:40:10,647
+And then how do we bring this tooling in to address it.
+
+892
+00:40:10,647 --> 00:40:13,860
+So, it really is a ch it's changing daily
+
+893
+00:40:13,860 --> 00:40:16,917
+and changing how we make sure we focus our students
+
+894
+00:40:16,917 --> 00:40:18,269
+and the people that are working in the space
+
+895
+00:40:18,269 --> 00:40:19,830
+to make sure that they're understanding
+
+896
+00:40:19,830 --> 00:40:22,050
+every single day something's happening.
+
+897
+00:40:22,050 --> 00:40:24,630
+- So you touched on a number of different things
+
+898
+00:40:24,630 --> 00:40:27,840
+that I want to, I don't know, emphasize.
+
+899
+00:40:27,840 --> 00:40:30,090
+One is, so I'm gonna hit again
+
+900
+00:40:30,090 --> 00:40:31,292
+on the ideal understanding business
+
+901
+00:40:31,292 --> 00:40:33,540
+like that that needs to be done
+
+902
+00:40:33,540 --> 00:40:36,570
+or at least understanding the greater organization.
+
+903
+00:40:36,570 --> 00:40:37,470
+If it's not business,
+
+904
+00:40:37,470 --> 00:40:38,790
+if it's, you're working on a water plant,
+
+905
+00:40:38,790 --> 00:40:40,470
+like understand why you're working on a water plant,
+
+906
+00:40:40,470 --> 00:40:42,314
+what the purpose the water plant is, right?
+
+907
+00:40:42,314 --> 00:40:43,290
+The other thing is risk.
+
+908
+00:40:43,290 --> 00:40:46,800
+And you touched on that, like thank you for that.
+
+909
+00:40:46,800 --> 00:40:48,780
+That's always gonna be true
+
+910
+00:40:48,780 --> 00:40:51,240
+regardless of technology, et cetera.
+
+911
+00:40:51,240 --> 00:40:54,363
+A fundamental understanding of risk and applying risk.
+
+912
+00:40:55,650 --> 00:40:56,640
+The greater the risk,
+
+913
+00:40:56,640 --> 00:40:58,440
+like maybe you shouldn't do the thing
+
+914
+00:40:58,440 --> 00:40:59,760
+regardless of technology.
+
+915
+00:40:59,760 --> 00:41:01,392
+I've said to a number of different executives
+
+916
+00:41:01,392 --> 00:41:04,680
+who just don't understand cybersecurity in general,
+
+917
+00:41:04,680 --> 00:41:09,680
+all cybersecurity is, is applying risk to technology.
+
+918
+00:41:10,260 --> 00:41:12,360
+That's all it is. That's all you need to think about it.
+
+919
+00:41:12,360 --> 00:41:14,280
+Just think about me as the chief risk officer
+
+920
+00:41:14,280 --> 00:41:16,597
+instead of the chief information security officer,
+
+921
+00:41:16,597 --> 00:41:18,510
+if that makes things easier for you.
+
+922
+00:41:18,510 --> 00:41:20,610
+And the other thing you had almost, Target.
+
+923
+00:41:20,610 --> 00:41:22,590
+So as somebody who worked at Albertsons',
+
+924
+00:41:22,590 --> 00:41:25,110
+we thought about Target a lot.
+
+925
+00:41:25,110 --> 00:41:27,840
+Here's a funny, a fun fact about Target.
+
+926
+00:41:27,840 --> 00:41:30,090
+One would've assumed, at least at the time,
+
+927
+00:41:30,090 --> 00:41:32,250
+that when that data breach happened
+
+928
+00:41:32,250 --> 00:41:36,180
+that it imploded Target like, or exploded Target,
+
+929
+00:41:36,180 --> 00:41:38,313
+like things would've just ended Target.
+
+930
+00:41:39,240 --> 00:41:44,240
+It affected their revenue for exactly three months.
+
+931
+00:41:44,460 --> 00:41:45,773
+And after those three months,
+
+932
+00:41:45,773 --> 00:41:48,570
+they went right back to normal, right?
+
+933
+00:41:48,570 --> 00:41:50,190
+But you know what didn't,
+
+934
+00:41:50,190 --> 00:41:51,750
+or you know what affected them more
+
+935
+00:41:51,750 --> 00:41:55,710
+was when they didn't have toilet paper on the shelves
+
+936
+00:41:55,710 --> 00:41:58,110
+in Target, Canada.
+
+937
+00:41:58,110 --> 00:42:01,062
+That closed the stores in Target, Canada.
+
+938
+00:42:01,062 --> 00:42:03,360
+They had a, they had to end up,
+
+939
+00:42:03,360 --> 00:42:05,580
+they end up shutting down those stores
+
+940
+00:42:05,580 --> 00:42:09,330
+because all of their customers went over to Walmart
+
+941
+00:42:09,330 --> 00:42:12,720
+who did have toilet paper, that's it.
+
+942
+00:42:12,720 --> 00:42:15,600
+Supply chain for them mattered more than anything else
+
+943
+00:42:15,600 --> 00:42:18,510
+because that's the risk for that business.
+
+944
+00:42:18,510 --> 00:42:20,550
+It's not people's personal data,
+
+945
+00:42:20,550 --> 00:42:22,290
+their credit card information, et cetera,
+
+946
+00:42:22,290 --> 00:42:25,410
+for that particular business, it's supply chain.
+
+947
+00:42:25,410 --> 00:42:27,300
+Because of the end of the day,
+
+948
+00:42:27,300 --> 00:42:29,403
+a physical product is what Target sell.
+
+949
+00:42:30,440 --> 00:42:32,910
+- And just to kind of add to that,
+
+950
+00:42:32,910 --> 00:42:35,220
+a lot of times I think we focus on threats
+
+951
+00:42:35,220 --> 00:42:36,462
+and call them risks,
+
+952
+00:42:36,462 --> 00:42:39,554
+really the risks is, is the business context, right?
+
+953
+00:42:39,554 --> 00:42:42,120
+And what resonates with the business leader
+
+954
+00:42:42,120 --> 00:42:43,809
+and helps us get funding, helps us,
+
+955
+00:42:43,809 --> 00:42:45,630
+you know, make certain decisions
+
+956
+00:42:45,630 --> 00:42:49,230
+that are gonna be either risk averse or risk tolerant.
+
+957
+00:42:49,230 --> 00:42:51,813
+So absolutely, plus point to all those.
+
+958
+00:42:53,250 --> 00:42:54,909
+The other thing I would say is,
+
+959
+00:42:54,909 --> 00:42:55,800
+you know, and we're slowly getting there
+
+960
+00:42:55,800 --> 00:42:57,510
+by changing the mental model
+
+961
+00:42:57,510 --> 00:43:00,693
+to more of a assumed breach, right?
+
+962
+00:43:01,950 --> 00:43:06,870
+The pendulum has shifted and the new normal is more attacks,
+
+963
+00:43:06,870 --> 00:43:08,730
+successful exploitation,
+
+964
+00:43:08,730 --> 00:43:10,680
+AI absolutely ramping up the ability
+
+965
+00:43:10,680 --> 00:43:13,110
+and lowering the bar for people to be able to do that
+
+966
+00:43:13,110 --> 00:43:14,370
+and do it at scale.
+
+967
+00:43:14,370 --> 00:43:15,527
+And so, you know, I think
+
+968
+00:43:15,527 --> 00:43:19,290
+again, we have to change how we think about things.
+
+969
+00:43:19,290 --> 00:43:22,080
+Zero trust is a great, you know, concept to help.
+
+970
+00:43:22,080 --> 00:43:25,110
+But, you know, there's still a lot of organizations,
+
+971
+00:43:25,110 --> 00:43:26,520
+a lot of people that have that kind of
+
+972
+00:43:26,520 --> 00:43:28,423
+crunchy outside, chew inside mentality of,
+
+973
+00:43:28,423 --> 00:43:30,430
+oh, we've got all these controls
+
+974
+00:43:31,500 --> 00:43:34,470
+and forget like what's the thing that's most important?
+
+975
+00:43:34,470 --> 00:43:39,470
+What's that data piece or what are the critical processes
+
+976
+00:43:39,690 --> 00:43:43,440
+that make this business run, and then work outwards.
+
+977
+00:43:43,440 --> 00:43:45,600
+And that'll help, you know,
+
+978
+00:43:45,600 --> 00:43:47,940
+really I think lessen some of the impacts,
+
+979
+00:43:47,940 --> 00:43:52,263
+at least, maybe hopefully the frequency of malicious events.
+
+980
+00:43:53,490 --> 00:43:56,033
+- Somebody wanna explain zero trust real quick?
+
+981
+00:43:56,033 --> 00:43:57,033
+- Go for it.
+
+982
+00:43:58,068 --> 00:44:01,818
+- Were there any questions form the audience?
+
+983
+00:44:02,940 --> 00:44:04,740
+Go ahead, Constantine.
+
+984
+00:44:04,740 --> 00:44:05,573
+- [Constantine] Yeah, this is,
+
+985
+00:44:05,573 --> 00:44:07,080
+so let's say a community college
+
+986
+00:44:07,080 --> 00:44:09,101
+establishes a cybersecurity lab.
+
+987
+00:44:09,101 --> 00:44:11,423
+I'm not an expert in it, I don't know the industry,
+
+988
+00:44:11,423 --> 00:44:13,267
+I don't know anybody, but we do care about our students,
+
+989
+00:44:13,267 --> 00:44:15,210
+and we do have students
+
+990
+00:44:15,210 --> 00:44:17,874
+who are really excellent in cybersecurity
+
+991
+00:44:17,874 --> 00:44:19,170
+and they want to go forward,
+
+992
+00:44:19,170 --> 00:44:20,430
+they have now the experience.
+
+993
+00:44:20,430 --> 00:44:23,010
+Internships are, I don't about internships,
+
+994
+00:44:23,010 --> 00:44:26,760
+but I'm not sure I know many people don't know internships.
+
+995
+00:44:26,760 --> 00:44:27,960
+What would you recommend?
+
+996
+00:44:27,960 --> 00:44:30,420
+I mean, I stopped by Palo Alto Networks,
+
+997
+00:44:30,420 --> 00:44:32,970
+I talked to the gentleman in the back, he's smiling.
+
+998
+00:44:32,970 --> 00:44:34,713
+And I said, hey, we got this Palo Alto,
+
+999
+00:44:34,713 --> 00:44:37,730
+this research plan we are establishing,
+
+1000
+00:44:37,730 --> 00:44:39,810
+can you come over and talk to us
+
+1001
+00:44:39,810 --> 00:44:42,780
+and see if we can partner and maybe teach them?
+
+1002
+00:44:42,780 --> 00:44:46,080
+But is there anything in the industry or experts or how,
+
+1003
+00:44:46,080 --> 00:44:49,470
+what would you recommend for us to go to the next step
+
+1004
+00:44:49,470 --> 00:44:51,060
+so that we can bring these students
+
+1005
+00:44:51,060 --> 00:44:52,445
+that do are very interested,
+
+1006
+00:44:52,445 --> 00:44:54,930
+but they don't know what pathways to follow.
+
+1007
+00:44:54,930 --> 00:44:57,663
+We do have a couple of instructors from your college here
+
+1008
+00:44:57,663 --> 00:45:00,750
+that we teach those classes around, mention that,
+
+1009
+00:45:00,750 --> 00:45:02,070
+but it stops there.
+
+1010
+00:45:02,070 --> 00:45:03,870
+You take the class and then what?
+
+1011
+00:45:03,870 --> 00:45:06,720
+So what would you recommend to get these students in our lab
+
+1012
+00:45:06,720 --> 00:45:09,540
+as an internship, maybe with support from the industry?
+
+1013
+00:45:09,540 --> 00:45:12,240
+Which industry? Palo Alto Networks? Somebody else?
+
+1014
+00:45:12,240 --> 00:45:13,587
+How would you proceed?
+
+1015
+00:45:13,587 --> 00:45:15,260
+- So, my partner in 909 Cyber
+
+1016
+00:45:15,260 --> 00:45:17,580
+also struggled with this problem
+
+1017
+00:45:17,580 --> 00:45:19,230
+and wanted to give back to the community.
+
+1018
+00:45:19,230 --> 00:45:21,567
+So he decided he would do exactly that
+
+1019
+00:45:21,567 --> 00:45:24,543
+and he started an effort called 909 IC.
+
+1020
+00:45:26,580 --> 00:45:28,470
+Offline I can show you that website.
+
+1021
+00:45:28,470 --> 00:45:30,300
+And so the idea there is exactly that.
+
+1022
+00:45:30,300 --> 00:45:34,560
+Starting interns and get them connected with companies.
+
+1023
+00:45:34,560 --> 00:45:35,393
+- [Constantine] Awesome.
+
+1024
+00:45:35,393 --> 00:45:37,920
+- This is why I love working in community colleges.
+
+1025
+00:45:37,920 --> 00:45:39,660
+Walk over to financial aid
+
+1026
+00:45:39,660 --> 00:45:43,230
+and ask them about federal student aid workers, right?
+
+1027
+00:45:43,230 --> 00:45:45,600
+And so, one of the things I'll ask students
+
+1028
+00:45:45,600 --> 00:45:46,710
+that come to me and say, hey, I want a job.
+
+1029
+00:45:46,710 --> 00:45:48,810
+I'm like, okay, hey first, you know, no,
+
+1030
+00:45:48,810 --> 00:45:49,860
+don't answer the question.
+
+1031
+00:45:49,860 --> 00:45:52,653
+I just wanna understand, do you receive aid?
+
+1032
+00:45:53,490 --> 00:45:55,410
+Go to the FSA, go to the financial aid officer
+
+1033
+00:45:55,410 --> 00:45:57,030
+and ask them if you have,
+
+1034
+00:45:57,030 --> 00:45:58,680
+you're available for federal student aid
+
+1035
+00:45:58,680 --> 00:46:00,630
+or the federal student work,
+
+1036
+00:46:00,630 --> 00:46:01,590
+federal work student, excuse me.
+
+1037
+00:46:01,590 --> 00:46:02,760
+- [Unison] Federal work study.
+
+1038
+00:46:02,760 --> 00:46:05,970
+- The federal work study. Yeah, that is like right there.
+
+1039
+00:46:05,970 --> 00:46:08,670
+I'll hire you right off off the rip.
+
+1040
+00:46:08,670 --> 00:46:10,380
+Back when I used to run the help desk,
+
+1041
+00:46:10,380 --> 00:46:12,600
+half my kids were federal work study students.
+
+1042
+00:46:12,600 --> 00:46:16,140
+Because it's free, it gives opportunities for our students.
+
+1043
+00:46:16,140 --> 00:46:17,790
+And that's one of the easiest ways, right?
+
+1044
+00:46:17,790 --> 00:46:20,610
+The other piece of it too is look in work, right?
+
+1045
+00:46:20,610 --> 00:46:23,235
+And again, it's dependent upon your own programs,
+
+1046
+00:46:23,235 --> 00:46:25,260
+your own abilities within your districts
+
+1047
+00:46:25,260 --> 00:46:28,680
+is how can we build this process within our own departments.
+
+1048
+00:46:28,680 --> 00:46:31,590
+I'm trying to help guide that conversation
+
+1049
+00:46:31,590 --> 00:46:33,810
+because, again, we can create those opportunities
+
+1050
+00:46:33,810 --> 00:46:36,333
+as members of the department, as members of IT.
+
+1051
+00:46:37,230 --> 00:46:39,120
+How do we provide those opportunities?
+
+1052
+00:46:39,120 --> 00:46:41,596
+Look just outside the road,
+
+1053
+00:46:41,596 --> 00:46:45,900
+did you ever know how understaffed and under capable
+
+1054
+00:46:45,900 --> 00:46:48,060
+our K12s are?
+
+1055
+00:46:48,060 --> 00:46:52,950
+We actually are, our internship programs goes out
+
+1056
+00:46:52,950 --> 00:46:54,210
+and says, hey K12s,
+
+1057
+00:46:54,210 --> 00:46:56,520
+would you like free students for the summer?
+
+1058
+00:46:56,520 --> 00:46:58,620
+And that gives students the opportunity to go in,
+
+1059
+00:46:58,620 --> 00:47:01,650
+wipe Chromebooks, plugin projectors,
+
+1060
+00:47:01,650 --> 00:47:02,970
+you know, swap things out.
+
+1061
+00:47:02,970 --> 00:47:05,130
+Yeah, it's, you know, it, it may or may not be paid.
+
+1062
+00:47:05,130 --> 00:47:06,120
+Yeah, it may or may not be,
+
+1063
+00:47:06,120 --> 00:47:07,650
+you know, super, you know, awesome.
+
+1064
+00:47:07,650 --> 00:47:09,371
+But it's an opportunity, you know?
+
+1065
+00:47:09,371 --> 00:47:11,430
+As he had mentioned earlier.
+
+1066
+00:47:11,430 --> 00:47:13,830
+It's an opportunity to go out, to earn some time,
+
+1067
+00:47:13,830 --> 00:47:15,240
+to show that you have a willingness
+
+1068
+00:47:15,240 --> 00:47:16,710
+to work within this space.
+
+1069
+00:47:16,710 --> 00:47:19,590
+So it's really a two sided process, right?
+
+1070
+00:47:19,590 --> 00:47:21,270
+We internally, as the college
+
+1071
+00:47:21,270 --> 00:47:22,457
+have to be willing to make those pathways.
+
+1072
+00:47:22,457 --> 00:47:24,909
+And then two, the students have to be able to jump on
+
+1073
+00:47:24,909 --> 00:47:27,510
+and run with us even though sometimes it may not,
+
+1074
+00:47:27,510 --> 00:47:28,980
+it may not be paid.
+
+1075
+00:47:28,980 --> 00:47:31,080
+- Look inwards. Just great advice, period.
+
+1076
+00:47:31,920 --> 00:47:34,863
+- So I want to add some more,
+
+1077
+00:47:35,910 --> 00:47:37,440
+I mentioned a little bit earlier,
+
+1078
+00:47:37,440 --> 00:47:41,470
+community college student actually has a huge disadvantage
+
+1079
+00:47:42,540 --> 00:47:44,550
+in the industry from internship.
+
+1080
+00:47:44,550 --> 00:47:46,680
+You ask Palo Alto Networks.
+
+1081
+00:47:46,680 --> 00:47:49,023
+They probably have some kind of school program,
+
+1082
+00:47:49,023 --> 00:47:50,670
+but, you know, don't put you guys down.
+
+1083
+00:47:50,670 --> 00:47:52,650
+You probably go to Stanford, go to UC Berkeley,
+
+1084
+00:47:52,650 --> 00:47:55,230
+go to those named schools.
+
+1085
+00:47:55,230 --> 00:48:00,180
+How many of you go to community college? Right?
+
+1086
+00:48:00,180 --> 00:48:01,590
+It is hard.
+
+1087
+00:48:01,590 --> 00:48:03,180
+Yeah, so maybe you can find out,
+
+1088
+00:48:03,180 --> 00:48:06,810
+maybe you can start a community college programs
+
+1089
+00:48:06,810 --> 00:48:07,860
+won't go back, right?
+
+1090
+00:48:07,860 --> 00:48:09,621
+- [Person 2] I'm actually a graduate from community college.
+
+1091
+00:48:09,621 --> 00:48:11,793
+- Okay. Yeah. That's even better, even better.
+
+1092
+00:48:11,793 --> 00:48:13,685
+That's even better, right?
+
+1093
+00:48:13,685 --> 00:48:15,306
+- And it comes from K12. - Yeah.
+
+1094
+00:48:15,306 --> 00:48:17,245
+So, so it is hard.
+
+1095
+00:48:17,245 --> 00:48:22,245
+So one of the things is more of in your program, right?
+
+1096
+00:48:22,620 --> 00:48:24,150
+I think as a faculty
+
+1097
+00:48:24,150 --> 00:48:28,290
+you need to also get involved in the industry consortium,
+
+1098
+00:48:28,290 --> 00:48:30,510
+industry organizations
+
+1099
+00:48:30,510 --> 00:48:33,960
+because there are more company than just Palo Alto Networks,
+
+1100
+00:48:33,960 --> 00:48:35,160
+Cisco.
+
+1101
+00:48:35,160 --> 00:48:39,030
+And those are smaller companies, they do have,
+
+1102
+00:48:39,030 --> 00:48:42,030
+you know, programs or internship or jobs
+
+1103
+00:48:42,030 --> 00:48:46,830
+that they perfectly sometime want to hire student.
+
+1104
+00:48:46,830 --> 00:48:48,510
+And that's what we recommend.
+
+1105
+00:48:48,510 --> 00:48:52,020
+You know, that's where I place number of our student
+
+1106
+00:48:52,020 --> 00:48:54,033
+to those companies because, you know,
+
+1107
+00:48:54,033 --> 00:48:56,460
+they just say, oh we need it, yeah, that's great.
+
+1108
+00:48:56,460 --> 00:48:57,960
+Right? So that's one, right?
+
+1109
+00:48:57,960 --> 00:49:00,493
+So I think that's a very important part of it.
+
+1110
+00:49:00,493 --> 00:49:04,887
+I say it is. I'm sure you guys have edge on from industry.
+
+1111
+00:49:04,887 --> 00:49:08,343
+And they have a network too. Ask them, right?
+
+1112
+00:49:10,170 --> 00:49:12,480
+- Yeah. I just to add to that.
+
+1113
+00:49:12,480 --> 00:49:14,640
+Absolutely, it's relationship management 101, right?
+
+1114
+00:49:14,640 --> 00:49:16,830
+It's kinda what we've been saying multiple times.
+
+1115
+00:49:16,830 --> 00:49:21,570
+Networking, connections, you know, finding creative ways.
+
+1116
+00:49:21,570 --> 00:49:22,403
+At the end of the day,
+
+1117
+00:49:22,403 --> 00:49:23,670
+that's really what this career is, right?
+
+1118
+00:49:23,670 --> 00:49:26,880
+It's a lot of critical thinking, problem solving.
+
+1119
+00:49:26,880 --> 00:49:30,680
+And so, you know, those are the types of, I think, mindsets
+
+1120
+00:49:30,680 --> 00:49:32,853
+that are be most successful.
+
+1121
+00:49:34,050 --> 00:49:35,550
+But, you know, a lot of times
+
+1122
+00:49:35,550 --> 00:49:38,010
+organizations may not have the bandwidth
+
+1123
+00:49:38,010 --> 00:49:41,760
+to sit down and really understand, hey we,
+
+1124
+00:49:41,760 --> 00:49:44,370
+they know they've got a need that's not being met,
+
+1125
+00:49:44,370 --> 00:49:47,940
+but they may not have the ability to think past that
+
+1126
+00:49:47,940 --> 00:49:49,440
+just because there's so much noise
+
+1127
+00:49:49,440 --> 00:49:50,700
+through firefighting constantly.
+
+1128
+00:49:50,700 --> 00:49:52,860
+So, I think there's an opportunity for,
+
+1129
+00:49:52,860 --> 00:49:55,080
+you know, education system to come to them
+
+1130
+00:49:55,080 --> 00:49:56,280
+and say, hey, we want to partner with you,
+
+1131
+00:49:56,280 --> 00:49:57,720
+we wanna understand what are your needs,
+
+1132
+00:49:57,720 --> 00:50:00,483
+what are your products? Where are there gaps?
+
+1133
+00:50:01,650 --> 00:50:06,157
+How can we, you know, take our current internship programs
+
+1134
+00:50:06,157 --> 00:50:07,863
+that work for other organizations
+
+1135
+00:50:07,863 --> 00:50:11,407
+or other areas in the industry and apply that so that,
+
+1136
+00:50:11,407 --> 00:50:15,330
+you know, you're giving a solution to an organization.
+
+1137
+00:50:15,330 --> 00:50:17,220
+They don't have to try and sit down,
+
+1138
+00:50:17,220 --> 00:50:18,930
+figure out how are we gonna build this.
+
+1139
+00:50:18,930 --> 00:50:20,583
+If you can kind of package that,
+
+1140
+00:50:21,810 --> 00:50:25,260
+that will be really impactful for a lot of organizations
+
+1141
+00:50:25,260 --> 00:50:29,463
+and really I think remove some of that barrier to entry.
+
+1142
+00:50:30,736 --> 00:50:33,210
+- I think we have time for one more question.
+
+1143
+00:50:33,210 --> 00:50:34,043
+Yes, go ahead.
+
+1144
+00:50:34,043 --> 00:50:36,267
+- [Person 3] Yes I come from community college
+
+1145
+00:50:36,267 --> 00:50:38,550
+and I would like to collaborate as well
+
+1146
+00:50:38,550 --> 00:50:39,930
+as we are opening door,
+
+1147
+00:50:39,930 --> 00:50:42,810
+which is opened our first open AI lab.
+
+1148
+00:50:42,810 --> 00:50:47,040
+Last week and this week, thank you so much.
+
+1149
+00:50:47,040 --> 00:50:47,887
+I appreciate that.
+
+1150
+00:50:47,887 --> 00:50:50,732
+So by the way, I think that cybersecurity
+
+1151
+00:50:50,732 --> 00:50:53,160
+sometimes is taken for granted.
+
+1152
+00:50:53,160 --> 00:50:57,040
+I do am undergoing a tech program right now.
+
+1153
+00:50:57,040 --> 00:50:59,986
+And so, I taught myself about cybersecurity.
+
+1154
+00:50:59,986 --> 00:51:02,430
+I was so scared when I read the book
+
+1155
+00:51:02,430 --> 00:51:06,390
+about zero day and the stops net,
+
+1156
+00:51:06,390 --> 00:51:10,323
+which is like really like a, becoming like a digital weapon.
+
+1157
+00:51:10,323 --> 00:51:13,260
+And so with that, risk management right now,
+
+1158
+00:51:13,260 --> 00:51:15,660
+where are we with preparing ourselves
+
+1159
+00:51:15,660 --> 00:51:17,050
+for the quantum technology?
+
+1160
+00:51:17,050 --> 00:51:19,468
+Because the risk management for that technology
+
+1161
+00:51:19,468 --> 00:51:21,600
+is really scary for now.
+
+1162
+00:51:21,600 --> 00:51:23,637
+But, in that capacity,
+
+1163
+00:51:23,637 --> 00:51:26,910
+I just wanna bring back to that reaching the gap
+
+1164
+00:51:26,910 --> 00:51:31,140
+because we would like to kind of like educate ourselves,
+
+1165
+00:51:31,140 --> 00:51:34,050
+like more with the risk management approach
+
+1166
+00:51:34,050 --> 00:51:37,590
+because as an educator, sometimes like the teacher
+
+1167
+00:51:37,590 --> 00:51:40,466
+before my class forgets to sign out
+
+1168
+00:51:40,466 --> 00:51:42,960
+and I can just easily hack person.
+
+1169
+00:51:42,960 --> 00:51:44,830
+So I think like even the industry
+
+1170
+00:51:45,810 --> 00:51:50,040
+like open password for some and it's just like,
+
+1171
+00:51:50,040 --> 00:51:54,720
+there's so much open doors like anyone can enter as of now.
+
+1172
+00:51:54,720 --> 00:51:58,865
+And then this quantum technology, how the VP ready for that?
+
+1173
+00:51:58,865 --> 00:52:01,410
+If as simple as like logging out
+
+1174
+00:52:01,410 --> 00:52:04,770
+or getting a two factor authentication
+
+1175
+00:52:04,770 --> 00:52:08,343
+is something that is not kind of like progressing sometimes.
+
+1176
+00:52:09,180 --> 00:52:13,260
+- I think you set us up for a whole new conference topic,
+
+1177
+00:52:13,260 --> 00:52:16,230
+but if you all want to answer very quickly.
+
+1178
+00:52:16,230 --> 00:52:18,960
+- Really quick, cybersecurity is not a function,
+
+1179
+00:52:18,960 --> 00:52:20,430
+it's a culture.
+
+1180
+00:52:20,430 --> 00:52:22,416
+It's a very hard move to make
+
+1181
+00:52:22,416 --> 00:52:25,110
+within the community college system, especially.
+
+1182
+00:52:25,110 --> 00:52:27,303
+Especially within education, we talk about,
+
+1183
+00:52:28,500 --> 00:52:31,230
+oh gosh, academic freedom, we talk about all the things.
+
+1184
+00:52:31,230 --> 00:52:32,640
+And, you know, and I come from this space, right?
+
+1185
+00:52:32,640 --> 00:52:34,830
+So understand that that's, you know, I hear those words,
+
+1186
+00:52:34,830 --> 00:52:38,520
+but, I talk to my cyber folks all across the state and say,
+
+1187
+00:52:38,520 --> 00:52:40,410
+if you walk out in the middle of quad or wherever
+
+1188
+00:52:40,410 --> 00:52:42,150
+and ask a random faculty member
+
+1189
+00:52:42,150 --> 00:52:43,047
+who your cybersecurity person is,
+
+1190
+00:52:43,047 --> 00:52:44,880
+are they gonna have an answer?
+
+1191
+00:52:44,880 --> 00:52:45,870
+And if the answer is no,
+
+1192
+00:52:45,870 --> 00:52:47,880
+that's because you haven't built the culture.
+
+1193
+00:52:47,880 --> 00:52:50,780
+You have to build that level of understanding, of knowing,
+
+1194
+00:52:51,720 --> 00:52:53,100
+in my organization, they're gonna be like,
+
+1195
+00:52:53,100 --> 00:52:55,560
+oh yeah, that's the guy that sends us scary emails.
+
+1196
+00:52:55,560 --> 00:52:57,180
+So, you know, and that's fine.
+
+1197
+00:52:57,180 --> 00:52:58,980
+I send scary emails, that's okay.
+
+1198
+00:52:58,980 --> 00:53:01,310
+But building a culture of security
+
+1199
+00:53:01,310 --> 00:53:03,716
+is more important than any framework,
+
+1200
+00:53:03,716 --> 00:53:06,870
+any process that we can put into place
+
+1201
+00:53:06,870 --> 00:53:08,130
+because it's all about making sure
+
+1202
+00:53:08,130 --> 00:53:09,650
+that our users are empowered
+
+1203
+00:53:09,650 --> 00:53:12,900
+and that we and you understand what the risks are.
+
+1204
+00:53:12,900 --> 00:53:13,844
+- Yeah. And I'd add to that by saying
+
+1205
+00:53:13,844 --> 00:53:15,840
+that the best way to build a culture
+
+1206
+00:53:15,840 --> 00:53:18,090
+is to do it from their perspective, right?
+
+1207
+00:53:18,090 --> 00:53:20,850
+You mentioned taking over their account,
+
+1208
+00:53:20,850 --> 00:53:22,470
+but because they didn't log off, okay?
+
+1209
+00:53:22,470 --> 00:53:24,660
+Now explain to them what you could have done,
+
+1210
+00:53:24,660 --> 00:53:27,570
+take over their bank account, et cetera, right?
+
+1211
+00:53:27,570 --> 00:53:30,750
+And then, oh, you know, now I'm personally affected, right?
+
+1212
+00:53:30,750 --> 00:53:33,690
+So that helps to build a security culture.
+
+1213
+00:53:33,690 --> 00:53:38,467
+- Yeah. I was gonna say, you know, we're all plus one HR,
+
+1214
+00:53:38,467 --> 00:53:41,250
+you know, the culture at absolutely is super important,
+
+1215
+00:53:41,250 --> 00:53:43,200
+understanding what the risk tolerance is.
+
+1216
+00:53:43,200 --> 00:53:45,570
+'Cause not every organization or institution's
+
+1217
+00:53:45,570 --> 00:53:46,980
+gonna have the same risk tolerance, right?
+
+1218
+00:53:46,980 --> 00:53:49,110
+I think one of the great things about education
+
+1219
+00:53:49,110 --> 00:53:52,560
+is it's more open, you know, academics,
+
+1220
+00:53:52,560 --> 00:53:56,370
+you know, is designed for us to be creative,
+
+1221
+00:53:56,370 --> 00:53:59,493
+and to question, and to learn and be, you know, curious.
+
+1222
+00:54:00,810 --> 00:54:03,840
+But at the same time, you know, sometimes the,
+
+1223
+00:54:03,840 --> 00:54:08,490
+there may be more room to improve the security,
+
+1224
+00:54:08,490 --> 00:54:10,980
+but it's personalizing it, right?
+
+1225
+00:54:10,980 --> 00:54:13,230
+It's understanding what is that risk tolerance,
+
+1226
+00:54:13,230 --> 00:54:16,890
+what are the examples that you know,
+
+1227
+00:54:16,890 --> 00:54:18,660
+real impacts could have.
+
+1228
+00:54:18,660 --> 00:54:20,860
+Maybe it's not necessarily too like a whole,
+
+1229
+00:54:22,023 --> 00:54:26,370
+you know, community college stakeholder role,
+
+1230
+00:54:26,370 --> 00:54:29,550
+but perhaps maybe if there's quality work that's being done,
+
+1231
+00:54:29,550 --> 00:54:30,660
+it's a little bit more sensitive
+
+1232
+00:54:30,660 --> 00:54:34,980
+or, you know, a certain department within the school system
+
+1233
+00:54:34,980 --> 00:54:36,810
+that's dealing with privacy,
+
+1234
+00:54:36,810 --> 00:54:39,243
+you know, confidential personal information, right?
+
+1235
+00:54:39,243 --> 00:54:42,750
+Like those are gonna be good places to start
+
+1236
+00:54:42,750 --> 00:54:45,930
+'cause they're probably gonna have less of a risk tolerance.
+
+1237
+00:54:45,930 --> 00:54:48,120
+And then you can use them as champions, right?
+
+1238
+00:54:48,120 --> 00:54:49,620
+You build upon your successes.
+
+1239
+00:54:49,620 --> 00:54:50,827
+A lot of times I think we focus on,
+
+1240
+00:54:50,827 --> 00:54:53,160
+you know, the doom and gloom, the cybersecurity
+
+1241
+00:54:53,160 --> 00:54:54,510
+and, you know, everything's so scary.
+
+1242
+00:54:54,510 --> 00:54:57,090
+But, you know, there are a lot of wins too, right?
+
+1243
+00:54:57,090 --> 00:54:59,609
+It's not just about, I can't say this, the incident,
+
+1244
+00:54:59,609 --> 00:55:01,683
+it's, hey, you know, here's some success stories
+
+1245
+00:55:01,683 --> 00:55:03,660
+that we don't do ourselves.
+
+1246
+00:55:03,660 --> 00:55:06,870
+We often forget to beat our own drum
+
+1247
+00:55:06,870 --> 00:55:10,530
+and highlight where those wins are
+
+1248
+00:55:10,530 --> 00:55:12,990
+and leverage, you know, other people
+
+1249
+00:55:12,990 --> 00:55:15,210
+'cause leading isn't just going somewhere,
+
+1250
+00:55:15,210 --> 00:55:16,290
+bringing people with us, right?
+
+1251
+00:55:16,290 --> 00:55:18,810
+So, the more we can get that ground swell
+
+1252
+00:55:18,810 --> 00:55:21,289
+and help people work smarter, not harder,
+
+1253
+00:55:21,289 --> 00:55:23,580
+and you know, understand, you know,
+
+1254
+00:55:23,580 --> 00:55:25,800
+what some of the trade offs are, right?
+
+1255
+00:55:25,800 --> 00:55:28,740
+You mentioned MFA, that's always a big one.
+
+1256
+00:55:28,740 --> 00:55:30,720
+And pushback, oh, that's an extra step,
+
+1257
+00:55:30,720 --> 00:55:32,100
+there's friction involved.
+
+1258
+00:55:32,100 --> 00:55:35,130
+And there's some ways to do that with less friction.
+
+1259
+00:55:35,130 --> 00:55:36,270
+But it's also under,
+
+1260
+00:55:36,270 --> 00:55:38,160
+you know, trying to have that conversation with them
+
+1261
+00:55:38,160 --> 00:55:40,380
+and figure out what are really their concerns
+
+1262
+00:55:40,380 --> 00:55:43,590
+and then see if you can address the root cause
+
+1263
+00:55:43,590 --> 00:55:44,673
+or find, you know,
+
+1264
+00:55:45,660 --> 00:55:49,140
+find an acceptable level of risk that works.
+
+1265
+00:55:49,140 --> 00:55:51,210
+Knowing that if something, when it's really,
+
+1266
+00:55:51,210 --> 00:55:54,840
+when something happens, you already kind of set the stage
+
+1267
+00:55:54,840 --> 00:55:57,930
+to hopefully be able to respond faster
+
+1268
+00:55:57,930 --> 00:56:02,930
+and be able to start to shift, you always stay up,
+
+1269
+00:56:03,417 --> 00:56:06,090
+but build security in earlier as a partner
+
+1270
+00:56:06,090 --> 00:56:08,565
+as opposed to, you know, someone who's kind of coming in
+
+1271
+00:56:08,565 --> 00:56:10,410
+after the fact to tell people that,
+
+1272
+00:56:10,410 --> 00:56:13,102
+you know, they haven't been doing what they supposed to
+
+1273
+00:56:13,102 --> 00:56:16,503
+and sometimes it's still their fault.
+
+1274
+00:56:16,503 --> 00:56:17,336
+- And then I guess I'd say real quick
+
+1275
+00:56:17,336 --> 00:56:21,330
+for the quantum part of your question.
+
+1276
+00:56:21,330 --> 00:56:25,410
+It does sound scary, but the protections from quantum
+
+1277
+00:56:25,410 --> 00:56:27,963
+are not unknown to many of us or to all of us.
+
+1278
+00:56:29,730 --> 00:56:31,770
+So it sounds scary,
+
+1279
+00:56:31,770 --> 00:56:34,260
+but I don't think right now, today,
+
+1280
+00:56:34,260 --> 00:56:36,120
+there's much to worry about.
+
+1281
+00:56:36,120 --> 00:56:39,302
+Other than don't rely on only encryption
+
+1282
+00:56:39,302 --> 00:56:41,700
+for your own protection mechanism.
+
+1283
+00:56:41,700 --> 00:56:43,593
+- 62 character passwords.
+
+1284
+00:56:45,476 --> 00:56:46,560
+- Yeah.
+
+1285
+00:56:46,560 --> 00:56:47,393
+- All right.
+
+1286
+00:56:47,393 --> 00:56:51,023
+So for our community college educators, go ahead.
+
+1287
+00:56:51,023 --> 00:56:53,705
+- [Person 4] Just one more, just one more.
+
+1288
+00:56:53,705 --> 00:56:58,404
+For the corporate, as an cyber security officer,
+
+1289
+00:56:58,404 --> 00:57:01,844
+I'll ask my favorite softball question,
+
+1290
+00:57:01,844 --> 00:57:06,844
+what is the biggest cybersecurity risk a company has?
+
+1291
+00:57:07,726 --> 00:57:10,582
+- You know I answered that already. It's people.
+
+1292
+00:57:10,582 --> 00:57:14,249
+- [Person 4] Huge part is? - All the people.
+
+1293
+00:57:15,940 --> 00:57:17,820
+- [Person 4] Right?
+
+1294
+00:57:17,820 --> 00:57:19,320
+- I'm gonna argue on that one.
+
+1295
+00:57:20,370 --> 00:57:22,767
+As a guy in the space, I will tell you,
+
+1296
+00:57:22,767 --> 00:57:24,210
+and I tell districts this all the time.
+
+1297
+00:57:24,210 --> 00:57:26,340
+Like, if you can be taken down soup to nuts
+
+1298
+00:57:26,340 --> 00:57:27,510
+because they got a hold
+
+1299
+00:57:27,510 --> 00:57:30,063
+of a short term employee's username and password,
+
+1300
+00:57:31,350 --> 00:57:33,990
+we are not doing right by our organization, so,
+
+1301
+00:57:33,990 --> 00:57:36,660
+I mean, yes, there's the risk, but at the same time to,
+
+1302
+00:57:36,660 --> 00:57:37,950
+from a security perspective,
+
+1303
+00:57:37,950 --> 00:57:39,390
+I'm gonna own that right there.
+
+1304
+00:57:39,390 --> 00:57:42,238
+And so you will never hear me tell my employees
+
+1305
+00:57:42,238 --> 00:57:44,040
+that they're at risk.
+
+1306
+00:57:44,040 --> 00:57:45,172
+They're a part of the process.
+
+1307
+00:57:45,172 --> 00:57:46,530
+And that's a culture change right there too.
+
+1308
+00:57:46,530 --> 00:57:48,270
+And I appreciate you asking that question.
+
+1309
+00:57:48,270 --> 00:57:49,890
+- Yeah, we don't tell them that.
+
+1310
+00:57:49,890 --> 00:57:50,723
+- It's nothing.
+
+1311
+00:57:53,053 --> 00:57:56,010
+- All right. To sort of wrap up our conversation.
+
+1312
+00:57:56,010 --> 00:57:56,970
+So here's what I heard
+
+1313
+00:57:56,970 --> 00:57:59,630
+for us folks in the community college space
+
+1314
+00:57:59,630 --> 00:58:03,150
+is we teach our students critical thinking skills,
+
+1315
+00:58:03,150 --> 00:58:06,000
+problem solving skills, networking,
+
+1316
+00:58:06,000 --> 00:58:07,590
+and how to build relationships.
+
+1317
+00:58:07,590 --> 00:58:08,790
+So those are,
+
+1318
+00:58:08,790 --> 00:58:10,950
+seem like those types of themes keep coming up
+
+1319
+00:58:10,950 --> 00:58:12,750
+in many different spaces,
+
+1320
+00:58:12,750 --> 00:58:15,240
+and that is something that we need to be working on.
+
+1321
+00:58:15,240 --> 00:58:17,190
+For our industry partners,
+
+1322
+00:58:17,190 --> 00:58:20,100
+I want to say, please partner with the community colleges,
+
+1323
+00:58:20,100 --> 00:58:22,770
+that is definitely an ask from us.
+
+1324
+00:58:22,770 --> 00:58:26,340
+Maybe join our advisory boards whenever you can
+
+1325
+00:58:26,340 --> 00:58:27,664
+or teach at our colleges,
+
+1326
+00:58:27,664 --> 00:58:32,664
+as we do have part-time/adjunct teaching positions.
+
+1327
+00:58:32,670 --> 00:58:35,910
+And then most importantly, get to know our students.
+
+1328
+00:58:35,910 --> 00:58:39,240
+So you might actually find them very talented.
+
+1329
+00:58:39,240 --> 00:58:41,970
+And so with that, I want to thank our panelists
+
+1330
+00:58:41,970 --> 00:58:45,029
+and thank you all for being here.
+
+1331
+00:58:45,029 --> 00:58:47,779
+(all applauding)
+
+1332
+00:58:49,691 --> 00:58:52,437
+That brings our panel to a close. Thank you.
+
+1333
+00:58:57,039 --> 00:58:59,956
+(people murmuring)

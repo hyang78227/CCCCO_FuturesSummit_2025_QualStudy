@@ -1,0 +1,6939 @@
+1
+00:00:05,340 --> 00:00:06,660
+- So I'm Pam Gutman.
+
+2
+00:00:06,660 --> 00:00:09,990
+I'm the Regional Director for Advanced Transportation
+
+3
+00:00:09,990 --> 00:00:13,080
+for the California Community Colleges here in the Bay Area.
+
+4
+00:00:13,080 --> 00:00:17,280
+What that means is I work with the transportation programs
+
+5
+00:00:17,280 --> 00:00:22,170
+for the colleges that have programs in aviation,
+
+6
+00:00:22,170 --> 00:00:25,650
+automotive, and in drones.
+
+7
+00:00:25,650 --> 00:00:27,780
+And this morning we're gonna be talking about
+
+8
+00:00:27,780 --> 00:00:30,570
+advanced air mobility.
+
+9
+00:00:30,570 --> 00:00:33,060
+And this is an area that I particularly
+
+10
+00:00:33,060 --> 00:00:35,310
+have a great passion for.
+
+11
+00:00:35,310 --> 00:00:37,620
+I have been extraordinarily lucky
+
+12
+00:00:37,620 --> 00:00:41,400
+to be working in the field of transportation
+
+13
+00:00:41,400 --> 00:00:45,070
+because transportation has been absolutely transforming
+
+14
+00:00:46,080 --> 00:00:47,463
+before our very eyes.
+
+15
+00:00:48,813 --> 00:00:51,330
+And we are so fortunate today to have three
+
+16
+00:00:51,330 --> 00:00:54,930
+of our partners in advanced air mobility to share with you
+
+17
+00:00:54,930 --> 00:00:58,140
+what they're doing in the world of eVTOLs
+
+18
+00:00:58,140 --> 00:00:59,850
+and autonomous aircraft.
+
+19
+00:00:59,850 --> 00:01:03,420
+Some of which seem like out of another age completely,
+
+20
+00:01:03,420 --> 00:01:06,510
+but they are getting very, very close
+
+21
+00:01:06,510 --> 00:01:09,630
+to joining the other aircraft in the sky.
+
+22
+00:01:09,630 --> 00:01:12,960
+And for our students, this is a tremendous opportunity
+
+23
+00:01:12,960 --> 00:01:16,410
+to partner with people who are pioneers
+
+24
+00:01:16,410 --> 00:01:19,770
+in absolutely new technology and new aircraft.
+
+25
+00:01:19,770 --> 00:01:23,790
+And it's our good fortune to have them with us today
+
+26
+00:01:23,790 --> 00:01:26,640
+to share with us the skills that our students are going
+
+27
+00:01:26,640 --> 00:01:30,480
+to need to be successful in those careers going forward.
+
+28
+00:01:30,480 --> 00:01:33,780
+Because what we're preparing them for now comes close,
+
+29
+00:01:33,780 --> 00:01:36,270
+but not quite the whole ball of wax
+
+30
+00:01:36,270 --> 00:01:39,270
+or what they need for careers going forward.
+
+31
+00:01:39,270 --> 00:01:44,270
+So today we are very lucky to have with us three employers,
+
+32
+00:01:44,730 --> 00:01:46,590
+Pyka, who is in Alameda
+
+33
+00:01:46,590 --> 00:01:49,710
+and quite close by to my home college.
+
+34
+00:01:49,710 --> 00:01:52,920
+And she's working in the area of advanced aircraft
+
+35
+00:01:52,920 --> 00:01:55,200
+that's autonomous and working
+
+36
+00:01:55,200 --> 00:01:59,733
+and providing crop dusting services autonomously.
+
+37
+00:02:00,957 --> 00:02:03,058
+And they're doing that currently in certain countries
+
+38
+00:02:03,058 --> 00:02:04,830
+around the world and soon in our own backyards.
+
+39
+00:02:04,830 --> 00:02:07,080
+And then we have both Joby and Wisk Aero
+
+40
+00:02:07,080 --> 00:02:09,390
+who are very, very close to getting
+
+41
+00:02:09,390 --> 00:02:12,360
+all of what they need in the area of eVTOLs.
+
+42
+00:02:12,360 --> 00:02:13,980
+And they're gonna explain all that to you.
+
+43
+00:02:13,980 --> 00:02:16,020
+And I'm hopefully gonna sign up for one
+
+44
+00:02:16,020 --> 00:02:18,330
+of the first rides ever in that area.
+
+45
+00:02:18,330 --> 00:02:19,741
+I'm very excited.
+
+46
+00:02:19,741 --> 00:02:20,850
+They don't know that, but I'm gonna do that.
+
+47
+00:02:20,850 --> 00:02:22,860
+And then we have UC Berkeley here with us today
+
+48
+00:02:22,860 --> 00:02:25,170
+because I found out not too long ago
+
+49
+00:02:25,170 --> 00:02:27,780
+that UC Berkeley's doing some exciting things
+
+50
+00:02:27,780 --> 00:02:30,870
+in the world of advanced transportation.
+
+51
+00:02:30,870 --> 00:02:34,740
+And they're going to hopefully be working with us,
+
+52
+00:02:34,740 --> 00:02:37,410
+partnering with the community colleges in this capacity.
+
+53
+00:02:37,410 --> 00:02:40,980
+Because I see tremendous opportunity for us
+
+54
+00:02:40,980 --> 00:02:42,360
+to work together going forward
+
+55
+00:02:42,360 --> 00:02:45,030
+because we're gonna be sharing our skill sets,
+
+56
+00:02:45,030 --> 00:02:46,860
+our knowledge, and our students with them.
+
+57
+00:02:46,860 --> 00:02:48,780
+'Cause some of our students hopefully,
+
+58
+00:02:48,780 --> 00:02:52,020
+will go on to UC Berkeley, let's hope.
+
+59
+00:02:52,020 --> 00:02:53,880
+I also have with us today DART,
+
+60
+00:02:53,880 --> 00:02:57,810
+which is the drone and robotic technology initiative
+
+61
+00:02:57,810 --> 00:02:59,970
+who I got to meet a couple of years ago
+
+62
+00:02:59,970 --> 00:03:02,490
+and was absolutely blown out of the water
+
+63
+00:03:02,490 --> 00:03:05,070
+when I went to their LIFT Summit this past March.
+
+64
+00:03:05,070 --> 00:03:07,830
+Because they brought in everybody from the world
+
+65
+00:03:07,830 --> 00:03:09,030
+of advanced air mobility
+
+66
+00:03:09,030 --> 00:03:12,000
+and it was extremely exciting and thrilling.
+
+67
+00:03:12,000 --> 00:03:14,010
+And they're doing tremendous work
+
+68
+00:03:14,010 --> 00:03:16,980
+for our students in the workforce development field.
+
+69
+00:03:16,980 --> 00:03:19,890
+So today we have Josh Metz from DART
+
+70
+00:03:19,890 --> 00:03:22,650
+who's going to be moderating the panel this morning.
+
+71
+00:03:22,650 --> 00:03:25,384
+And I'm gonna turn it over to Josh.
+
+72
+00:03:25,384 --> 00:03:28,578
+- All right.
+
+73
+00:03:28,578 --> 00:03:29,850
+All right, Pam, thank you very much.
+
+74
+00:03:29,850 --> 00:03:31,377
+And thank you, yeah.
+
+75
+00:03:31,377 --> 00:03:32,953
+(attendees applaud)
+
+76
+00:03:32,953 --> 00:03:33,786
+Yeah.
+
+77
+00:03:35,867 --> 00:03:38,040
+It was great to have you at the LIFT Summit
+
+78
+00:03:38,040 --> 00:03:41,100
+and get a chance to make this connection
+
+79
+00:03:41,100 --> 00:03:43,470
+with the Bay Area Community College Consortium
+
+80
+00:03:43,470 --> 00:03:45,720
+and now the California group.
+
+81
+00:03:45,720 --> 00:03:49,110
+And I'm gonna open with a little overview
+
+82
+00:03:49,110 --> 00:03:52,380
+of where DART is coming from.
+
+83
+00:03:52,380 --> 00:03:56,343
+And let me see if I can get that to come up on the screen.
+
+84
+00:03:58,710 --> 00:04:01,050
+Give me one moment here.
+
+85
+00:04:01,050 --> 00:04:04,110
+And then I'll turn it over to our panelists.
+
+86
+00:04:04,110 --> 00:04:05,760
+The reason I'm gonna talk about DART
+
+87
+00:04:05,760 --> 00:04:08,970
+is that that we indeed have been working
+
+88
+00:04:08,970 --> 00:04:12,660
+in the field of advanced air mobility.
+
+89
+00:04:12,660 --> 00:04:16,650
+And really the integration of emerging capabilities
+
+90
+00:04:16,650 --> 00:04:20,560
+and autonomy, electrification
+
+91
+00:04:21,690 --> 00:04:24,990
+and how those converge to deliver
+
+92
+00:04:24,990 --> 00:04:27,180
+growth opportunities in a variety of sectors.
+
+93
+00:04:27,180 --> 00:04:28,510
+So this is our DART board
+
+94
+00:04:29,592 --> 00:04:34,260
+and the blue lines there indicate some of the areas
+
+95
+00:04:34,260 --> 00:04:37,710
+that we've seen opportunity since starting this work
+
+96
+00:04:37,710 --> 00:04:39,990
+really back in 2017.
+
+97
+00:04:39,990 --> 00:04:41,640
+We were involved with the redevelopment
+
+98
+00:04:41,640 --> 00:04:43,713
+of Fort Ord down in Monterey County,
+
+99
+00:04:44,915 --> 00:04:47,430
+and saw some things happening
+
+100
+00:04:47,430 --> 00:04:49,290
+that pointed us in this direction.
+
+101
+00:04:49,290 --> 00:04:52,440
+And so we have, we're a public benefit corporation
+
+102
+00:04:52,440 --> 00:04:55,110
+and we have programs in workforce development,
+
+103
+00:04:55,110 --> 00:04:57,150
+infrastructure and ecosystem.
+
+104
+00:04:57,150 --> 00:05:00,420
+So a lot of what we do is connect with industry,
+
+105
+00:05:00,420 --> 00:05:03,130
+academia, government and community based organizations
+
+106
+00:05:04,460 --> 00:05:05,460
+to realize the opportunities
+
+107
+00:05:05,460 --> 00:05:07,800
+that these emerging technologies represent.
+
+108
+00:05:07,800 --> 00:05:09,570
+And so that's some of the background.
+
+109
+00:05:09,570 --> 00:05:13,200
+One of the, we have the Joby aircraft up there on the right
+
+110
+00:05:13,200 --> 00:05:16,140
+because Joby has found a home at the form of Fort Ord
+
+111
+00:05:16,140 --> 00:05:17,820
+with their manufacturing operations.
+
+112
+00:05:17,820 --> 00:05:19,710
+And that was really one of the catalysts
+
+113
+00:05:19,710 --> 00:05:21,300
+for our involvement.
+
+114
+00:05:21,300 --> 00:05:23,490
+But you can see that, you know,
+
+115
+00:05:23,490 --> 00:05:25,050
+what's really compelling for,
+
+116
+00:05:25,050 --> 00:05:27,510
+from the standpoint of rural California
+
+117
+00:05:27,510 --> 00:05:31,650
+and counties outside the Bay Area
+
+118
+00:05:31,650 --> 00:05:35,460
+is that there's opportunities in this emerging sector
+
+119
+00:05:35,460 --> 00:05:39,300
+as along with the traditional hubs in the Bay Area.
+
+120
+00:05:39,300 --> 00:05:41,490
+So we focus a lot on that.
+
+121
+00:05:41,490 --> 00:05:44,820
+And you know, I just wanna point out that, you know,
+
+122
+00:05:44,820 --> 00:05:47,940
+while Pam indicated there are some technicalities
+
+123
+00:05:47,940 --> 00:05:50,776
+in terms of future certification of aircraft
+
+124
+00:05:50,776 --> 00:05:51,609
+to carry people.
+
+125
+00:05:51,609 --> 00:05:53,430
+There's a lot going on, as you well know,
+
+126
+00:05:53,430 --> 00:05:57,330
+in existing applications of autonomous systems,
+
+127
+00:05:57,330 --> 00:05:59,820
+drones for different use cases.
+
+128
+00:05:59,820 --> 00:06:01,500
+You hear about it in the news all the time.
+
+129
+00:06:01,500 --> 00:06:04,350
+And certainly the national security apparatus
+
+130
+00:06:04,350 --> 00:06:05,910
+is the largest market,
+
+131
+00:06:05,910 --> 00:06:09,450
+but we, there's huge potential for good.
+
+132
+00:06:09,450 --> 00:06:11,940
+And so infrastructure inspection,
+
+133
+00:06:11,940 --> 00:06:14,880
+wildfire response and support,
+
+134
+00:06:14,880 --> 00:06:18,480
+moving people and in agriculture.
+
+135
+00:06:18,480 --> 00:06:21,240
+So those are the Joby, Wisk and Pyka aircraft
+
+136
+00:06:21,240 --> 00:06:22,073
+down there below.
+
+137
+00:06:22,073 --> 00:06:23,970
+So those are things to pay attention to
+
+138
+00:06:23,970 --> 00:06:26,310
+for your students and your programs.
+
+139
+00:06:26,310 --> 00:06:28,440
+And we have identified,
+
+140
+00:06:28,440 --> 00:06:31,410
+especially in the advanced air mobility category,
+
+141
+00:06:31,410 --> 00:06:34,680
+these opportunities for community college.
+
+142
+00:06:34,680 --> 00:06:38,160
+You know, certainly moving into four year
+
+143
+00:06:38,160 --> 00:06:42,420
+and the engineering degree pathway is well understood,
+
+144
+00:06:42,420 --> 00:06:44,880
+but we have found that there's a huge need
+
+145
+00:06:44,880 --> 00:06:49,080
+for all kinds of technical, technician roles
+
+146
+00:06:49,080 --> 00:06:50,430
+in advanced manufacturing,
+
+147
+00:06:50,430 --> 00:06:52,560
+electric aircraft maintenance,
+
+148
+00:06:52,560 --> 00:06:55,140
+aerospace and ground operations
+
+149
+00:06:55,140 --> 00:06:57,447
+and field operations among others.
+
+150
+00:06:57,447 --> 00:06:59,910
+And to make this all work, especially for the moving
+
+151
+00:06:59,910 --> 00:07:01,050
+of people and goods,
+
+152
+00:07:01,050 --> 00:07:03,000
+there's gonna be new infrastructure required.
+
+153
+00:07:03,000 --> 00:07:06,810
+So all of that is opportunity for our community
+
+154
+00:07:06,810 --> 00:07:09,960
+and the community college has a huge role to play in that.
+
+155
+00:07:09,960 --> 00:07:13,200
+I just wanted to call out two recent funding awards
+
+156
+00:07:13,200 --> 00:07:15,330
+that the state of California has made in terms
+
+157
+00:07:15,330 --> 00:07:17,430
+of supporting the growth of this sector.
+
+158
+00:07:17,430 --> 00:07:22,080
+One is a large award to the University of California
+
+159
+00:07:22,080 --> 00:07:25,230
+natural resources, $15 million across the state
+
+160
+00:07:25,230 --> 00:07:29,250
+to support the movement towards improved
+
+161
+00:07:29,250 --> 00:07:30,660
+ag tech integration.
+
+162
+00:07:30,660 --> 00:07:34,980
+And so one of the components of that is a whole curriculum
+
+163
+00:07:34,980 --> 00:07:36,360
+for drone education.
+
+164
+00:07:36,360 --> 00:07:37,860
+We find that the drone education
+
+165
+00:07:37,860 --> 00:07:40,530
+is really the gateway drug
+
+166
+00:07:40,530 --> 00:07:42,420
+for aerospace today.
+
+167
+00:07:42,420 --> 00:07:47,420
+And so it's a great way to engage students at an early age.
+
+168
+00:07:47,970 --> 00:07:50,940
+Down in the Monterey Bay Area in the Central Coast,
+
+169
+00:07:50,940 --> 00:07:54,900
+there was another big award made $7.5 million dollars
+
+170
+00:07:54,900 --> 00:07:55,920
+to support the growth
+
+171
+00:07:55,920 --> 00:08:00,900
+of an air mobility innovation corridor
+
+172
+00:08:00,900 --> 00:08:03,600
+that will link general aviation airports
+
+173
+00:08:03,600 --> 00:08:06,480
+to existing nodes to further the capabilities
+
+174
+00:08:06,480 --> 00:08:08,520
+of the companies represented here
+
+175
+00:08:08,520 --> 00:08:10,800
+to develop and test and expand in California.
+
+176
+00:08:10,800 --> 00:08:13,590
+That's all really important for retaining jobs
+
+177
+00:08:13,590 --> 00:08:15,510
+and growing our economy.
+
+178
+00:08:15,510 --> 00:08:17,580
+So if you wanna hear more about this, Pam mentioned it,
+
+179
+00:08:17,580 --> 00:08:19,860
+our LIFT Summit is in March of next year
+
+180
+00:08:19,860 --> 00:08:24,150
+and we'd love to have more community college folks involved.
+
+181
+00:08:24,150 --> 00:08:28,920
+And so with that I'd like to turn to our esteemed panel,
+
+182
+00:08:28,920 --> 00:08:33,150
+which is an incredible group of people and companies
+
+183
+00:08:33,150 --> 00:08:36,180
+and education providers that you'll hear from.
+
+184
+00:08:36,180 --> 00:08:40,470
+And I'll pass it next to Monisha White from Pyka
+
+185
+00:08:40,470 --> 00:08:44,040
+to do a little introduction and tell you about herself
+
+186
+00:08:44,040 --> 00:08:46,950
+and her company and then we'll get into some Q&A
+
+187
+00:08:46,950 --> 00:08:47,783
+as we get into it.
+
+188
+00:08:47,783 --> 00:08:48,871
+Thank you.
+
+189
+00:08:48,871 --> 00:08:51,871
+(attendees applaud)
+
+190
+00:08:55,542 --> 00:08:58,125
+You can pull your guy up there.
+
+191
+00:09:11,670 --> 00:09:13,170
+- All right.
+
+192
+00:09:13,170 --> 00:09:14,550
+Hi, everyone.
+
+193
+00:09:14,550 --> 00:09:18,300
+I am really excited to be here to talk to you about Pyka.
+
+194
+00:09:18,300 --> 00:09:21,300
+Pyka is a robotics company on a mission
+
+195
+00:09:21,300 --> 00:09:25,710
+to build the most useful autonomous aircraft on Earth.
+
+196
+00:09:25,710 --> 00:09:27,660
+I wanna start with a video
+
+197
+00:09:27,660 --> 00:09:30,750
+so you can actually see our planes in action.
+
+198
+00:09:30,750 --> 00:09:33,870
+- [Narrator] Pyka was founded in 2017 by four entrepreneurs
+
+199
+00:09:33,870 --> 00:09:36,780
+with a vision to bring society a safer, cleaner,
+
+200
+00:09:36,780 --> 00:09:39,300
+and more cost-effective form of transportation
+
+201
+00:09:39,300 --> 00:09:41,970
+enabled by autonomous electric aircraft.
+
+202
+00:09:41,970 --> 00:09:44,010
+But to get there, we have taken a very different
+
+203
+00:09:44,010 --> 00:09:45,780
+approach than most.
+
+204
+00:09:45,780 --> 00:09:47,550
+First, we gave up on the vertical takeoff
+
+205
+00:09:47,550 --> 00:09:50,907
+and landing requirements of past aircraft we have developed
+
+206
+00:09:50,907 --> 00:09:52,350
+in order to dramatically simplify our products
+
+207
+00:09:52,350 --> 00:09:54,210
+and increase their range.
+
+208
+00:09:54,210 --> 00:09:56,176
+And second, we wanted to bring
+
+209
+00:09:56,176 --> 00:09:57,009
+an autonomous electric aircraft to market
+
+210
+00:09:57,009 --> 00:09:58,713
+as fast as humanly possible.
+
+211
+00:09:59,640 --> 00:10:02,130
+So we targeted use cases that have an inherent tolerance
+
+212
+00:10:02,130 --> 00:10:04,593
+of risk and an immediate need for innovation.
+
+213
+00:10:05,490 --> 00:10:08,040
+We started with the most dangerous commercial aviation
+
+214
+00:10:08,040 --> 00:10:10,530
+mission on Earth, which is crop dusting.
+
+215
+00:10:10,530 --> 00:10:11,970
+And then the question for us was,
+
+216
+00:10:11,970 --> 00:10:14,130
+can we actually show an end-to-end proof
+
+217
+00:10:14,130 --> 00:10:16,080
+of these autonomous electric capabilities
+
+218
+00:10:16,080 --> 00:10:19,050
+really demonstrate their significance to customers?
+
+219
+00:10:19,050 --> 00:10:20,943
+So that is exactly what we did.
+
+220
+00:10:21,810 --> 00:10:23,850
+We identified the requirements for the market
+
+221
+00:10:23,850 --> 00:10:26,250
+and designed an extremely innovative product
+
+222
+00:10:26,250 --> 00:10:28,980
+to fit those requirements that incorporates just dozens
+
+223
+00:10:28,980 --> 00:10:32,010
+of proprietary technologies ranging from batteries
+
+224
+00:10:32,010 --> 00:10:33,780
+to motor controllers to motors,
+
+225
+00:10:33,780 --> 00:10:36,010
+and the entire flight control stack
+
+226
+00:10:36,010 --> 00:10:36,990
+in avionics underneath that.
+
+227
+00:10:36,990 --> 00:10:39,360
+We then secured precedent setting regulatory approvals
+
+228
+00:10:39,360 --> 00:10:40,710
+for the aircraft, which allows us
+
+229
+00:10:40,710 --> 00:10:43,020
+to operate commercially in the United States,
+
+230
+00:10:43,020 --> 00:10:45,660
+in Brazil and much of Latin America.
+
+231
+00:10:45,660 --> 00:10:47,760
+We delivered to some of the biggest players in the market,
+
+232
+00:10:47,760 --> 00:10:49,440
+including Dole and Embraer.
+
+233
+00:10:49,440 --> 00:10:52,110
+And ramped production to roughly one aircraft per month
+
+234
+00:10:52,110 --> 00:10:54,303
+while racking up over 5,000 flights.
+
+235
+00:10:55,410 --> 00:10:58,075
+On top of that, we answered the market's demand
+
+236
+00:10:58,075 --> 00:10:59,760
+for a large scale zero emission cargo aircraft
+
+237
+00:10:59,760 --> 00:11:03,303
+by launching an exciting new product, Pelican Cargo.
+
+238
+00:11:04,500 --> 00:11:06,810
+Today we've delivered Pelican Cargo to customers
+
+239
+00:11:06,810 --> 00:11:09,480
+including the United States Air Force Research Lab
+
+240
+00:11:09,480 --> 00:11:11,520
+as well as Skyports' drone services.
+
+241
+00:11:11,520 --> 00:11:13,230
+And we managed to pull all of this off
+
+242
+00:11:13,230 --> 00:11:14,780
+with roughly $30 million spent.
+
+243
+00:11:16,050 --> 00:11:18,300
+With five years of commercial operation under our belt
+
+244
+00:11:18,300 --> 00:11:20,280
+and customers across three different continents,
+
+245
+00:11:20,280 --> 00:11:23,520
+Pyka is by far the leader in commercializing large scale
+
+246
+00:11:23,520 --> 00:11:24,970
+autonomous electric aircraft.
+
+247
+00:11:26,610 --> 00:11:28,950
+We're now rapidly scaling up production in the Bay Area
+
+248
+00:11:28,950 --> 00:11:31,170
+with an eye towards significant revenue growth
+
+249
+00:11:31,170 --> 00:11:32,640
+in the next couple of years
+
+250
+00:11:32,640 --> 00:11:34,640
+as well as a fast path to profitability.
+
+251
+00:11:37,955 --> 00:11:41,160
+(attendees applaud)
+
+252
+00:11:41,160 --> 00:11:44,010
+- I'm still going. (laughs)
+
+253
+00:11:44,010 --> 00:11:48,150
+So Pyka was founded in 2017 in the Bay Area.
+
+254
+00:11:48,150 --> 00:11:50,190
+The company actually started in Michael,
+
+255
+00:11:50,190 --> 00:11:53,610
+the CEO's parents' backyard in Stanford, California,
+
+256
+00:11:53,610 --> 00:11:57,300
+where our four co-founders built the very first prototype
+
+257
+00:11:57,300 --> 00:12:00,540
+of a Pyka plane that actually flew successfully.
+
+258
+00:12:00,540 --> 00:12:03,870
+We've now grown to around 80 employees
+
+259
+00:12:03,870 --> 00:12:08,670
+and we operate in a 110,000 square foot production facility
+
+260
+00:12:08,670 --> 00:12:10,523
+in Alameda Point.
+
+261
+00:12:10,523 --> 00:12:12,930
+So this is our whole team, our people and dogs
+
+262
+00:12:12,930 --> 00:12:15,420
+in our facility in Alameda.
+
+263
+00:12:15,420 --> 00:12:18,120
+We have, in addition to our production facility,
+
+264
+00:12:18,120 --> 00:12:21,570
+we have two test sites that are each about an hour away
+
+265
+00:12:21,570 --> 00:12:23,820
+and we are actively flying our aircraft
+
+266
+00:12:23,820 --> 00:12:25,353
+there every single day.
+
+267
+00:12:26,850 --> 00:12:29,340
+Our founders really wanted our products
+
+268
+00:12:29,340 --> 00:12:33,210
+to actually make a real world impact quickly.
+
+269
+00:12:33,210 --> 00:12:37,170
+We identified use cases that are very risky
+
+270
+00:12:37,170 --> 00:12:40,800
+and where our aircraft would have an immediate benefit
+
+271
+00:12:40,800 --> 00:12:42,510
+to our customers.
+
+272
+00:12:42,510 --> 00:12:44,820
+We started with crop dusting,
+
+273
+00:12:44,820 --> 00:12:48,540
+which is the most dangerous flight mission on Earth.
+
+274
+00:12:48,540 --> 00:12:50,280
+Just to give you a bit of a sense of this,
+
+275
+00:12:50,280 --> 00:12:53,820
+a pilot who has a 40 plus year career
+
+276
+00:12:53,820 --> 00:12:58,443
+as a crop duster has about a 15% chance of dying on the job.
+
+277
+00:12:59,940 --> 00:13:02,520
+We launched our agricultural aircraft as a safer,
+
+278
+00:13:02,520 --> 00:13:04,620
+cleaner and more cost-effective alternative
+
+279
+00:13:04,620 --> 00:13:07,530
+to the conventional crop dusting methods.
+
+280
+00:13:07,530 --> 00:13:10,350
+One, there's no pilot on board.
+
+281
+00:13:10,350 --> 00:13:12,330
+There is, it's zero emission.
+
+282
+00:13:12,330 --> 00:13:15,720
+It massively reduces the drift of the chemicals
+
+283
+00:13:15,720 --> 00:13:17,550
+that are spraying that can be really harmful
+
+284
+00:13:17,550 --> 00:13:20,310
+to neighboring communities and neighboring farms.
+
+285
+00:13:20,310 --> 00:13:24,270
+And it reduces the use of these chemicals up to 15%,
+
+286
+00:13:24,270 --> 00:13:27,150
+which in addition to being more environmentally friendly
+
+287
+00:13:27,150 --> 00:13:29,943
+is also creates significant cost savings.
+
+288
+00:13:31,110 --> 00:13:33,960
+In 2021, we then launched our Pelican Cargo,
+
+289
+00:13:33,960 --> 00:13:36,180
+which is the aircraft on the left.
+
+290
+00:13:36,180 --> 00:13:39,468
+It has about 80% shared commonality
+
+291
+00:13:39,468 --> 00:13:41,162
+with our agricultural aircraft.
+
+292
+00:13:41,162 --> 00:13:43,380
+So we reused a lot of the same design choices
+
+293
+00:13:43,380 --> 00:13:46,473
+and then made modifications to support the new use cases.
+
+294
+00:13:48,120 --> 00:13:50,850
+We created this product as a zero emission commercial
+
+295
+00:13:50,850 --> 00:13:54,360
+logistics platform designed to enable deliveries
+
+296
+00:13:54,360 --> 00:13:56,820
+of critical supplies to remote, rural
+
+297
+00:13:56,820 --> 00:13:59,670
+and hard to get to locations.
+
+298
+00:13:59,670 --> 00:14:02,520
+We're now actually expanding the capabilities
+
+299
+00:14:02,520 --> 00:14:04,290
+of our cargo aircraft
+
+300
+00:14:04,290 --> 00:14:07,510
+to support humanitarian disaster relief
+
+301
+00:14:08,585 --> 00:14:10,085
+and defense use cases as well.
+
+302
+00:14:11,043 --> 00:14:13,260
+We're actually excited to be launching the next generation
+
+303
+00:14:13,260 --> 00:14:15,540
+of Pelican Cargo soon.
+
+304
+00:14:15,540 --> 00:14:19,083
+So stay tuned for the launch of this aircraft.
+
+305
+00:14:21,000 --> 00:14:22,830
+On the regulatory side,
+
+306
+00:14:22,830 --> 00:14:25,860
+we've achieved industry first milestones.
+
+307
+00:14:25,860 --> 00:14:30,090
+Pyka today is the largest autonomous aircraft authorized
+
+308
+00:14:30,090 --> 00:14:33,900
+by the FAA for commercial use in the United States.
+
+309
+00:14:33,900 --> 00:14:36,270
+Additionally, we have a lot of overseas operations,
+
+310
+00:14:36,270 --> 00:14:39,270
+so we've also received comparable authorization
+
+311
+00:14:39,270 --> 00:14:41,954
+for commercial use in several other countries
+
+312
+00:14:41,954 --> 00:14:43,290
+including Brazil, Honduras,
+
+313
+00:14:43,290 --> 00:14:45,093
+Costa Rica and New Zealand.
+
+314
+00:14:47,131 --> 00:14:50,880
+And not only are we authorized to fly in the United States
+
+315
+00:14:50,880 --> 00:14:54,030
+commercially, we actually have our products in the hands
+
+316
+00:14:54,030 --> 00:14:57,483
+of customers and are doing real work around the world.
+
+317
+00:15:00,090 --> 00:15:02,208
+These are a few of the locations
+
+318
+00:15:02,208 --> 00:15:03,600
+where we have active customers
+
+319
+00:15:03,600 --> 00:15:06,843
+and our products are currently operating commercially.
+
+320
+00:15:08,233 --> 00:15:09,480
+The customers listed here are most
+
+321
+00:15:09,480 --> 00:15:11,880
+of our publicly announced customers.
+
+322
+00:15:11,880 --> 00:15:13,860
+We'll also be announcing a couple of,
+
+323
+00:15:13,860 --> 00:15:15,960
+actually a handful of additional customers
+
+324
+00:15:16,924 --> 00:15:19,524
+who haven't yet been disclosed in the coming months.
+
+325
+00:15:20,632 --> 00:15:24,040
+Right now we are gearing up to ramp up production in 2026
+
+326
+00:15:25,551 --> 00:15:27,330
+to satisfy a massive demand from our existing
+
+327
+00:15:27,330 --> 00:15:28,773
+and our new customers.
+
+328
+00:15:30,540 --> 00:15:32,253
+And then zooming out,
+
+329
+00:15:33,284 --> 00:15:36,120
+we really see industrial use cases as just the start.
+
+330
+00:15:36,120 --> 00:15:38,760
+In the future we aim to leverage our experience
+
+331
+00:15:38,760 --> 00:15:42,330
+and our expertise to then move into passenger carrying
+
+332
+00:15:42,330 --> 00:15:45,000
+autonomous aircraft as well.
+
+333
+00:15:45,000 --> 00:15:48,360
+We see the current operations that we're doing
+
+334
+00:15:48,360 --> 00:15:50,790
+as really extremely meaningful
+
+335
+00:15:50,790 --> 00:15:52,830
+and impactful in their own right.
+
+336
+00:15:52,830 --> 00:15:56,700
+And we also see these as positioning us really well
+
+337
+00:15:56,700 --> 00:15:59,610
+to expand into passenger carrying with thousands
+
+338
+00:15:59,610 --> 00:16:01,610
+and thousands of flights under our belt.
+
+339
+00:16:03,540 --> 00:16:05,580
+In order to support the production ramp up,
+
+340
+00:16:05,580 --> 00:16:07,567
+to support our customer,
+
+341
+00:16:07,567 --> 00:16:08,400
+increasing customer operations
+
+342
+00:16:08,400 --> 00:16:10,350
+and the continued development of our current
+
+343
+00:16:10,350 --> 00:16:12,210
+and new products,
+
+344
+00:16:12,210 --> 00:16:14,790
+we are hiring, we need to grow our team.
+
+345
+00:16:14,790 --> 00:16:17,280
+We're bringing on technicians, operators
+
+346
+00:16:17,280 --> 00:16:19,890
+and engineers across our teams,
+
+347
+00:16:19,890 --> 00:16:22,380
+and looking to bring them on in departments
+
+348
+00:16:22,380 --> 00:16:24,960
+including manufacturing and supply chain
+
+349
+00:16:24,960 --> 00:16:26,730
+in our flight operations.
+
+350
+00:16:26,730 --> 00:16:29,070
+Both test site at our local test sites
+
+351
+00:16:29,070 --> 00:16:32,280
+as well as deploying to our customer sites
+
+352
+00:16:32,280 --> 00:16:35,043
+and in engineering, in hardware engineering.
+
+353
+00:16:36,120 --> 00:16:40,020
+At Pyka, our mission really depends on talented people
+
+354
+00:16:40,020 --> 00:16:43,800
+as much as the cutting edge technology that we've developed.
+
+355
+00:16:43,800 --> 00:16:46,890
+And I'm really excited to be here to talk today about
+
+356
+00:16:46,890 --> 00:16:48,872
+how we can grow the workforce
+
+357
+00:16:48,872 --> 00:16:49,860
+that makes this future possible.
+
+358
+00:16:49,860 --> 00:16:51,399
+Thank you.
+
+359
+00:16:51,399 --> 00:16:54,399
+(attendees applaud)
+
+360
+00:16:58,183 --> 00:17:00,150
+- All right, thank you, Monisha.
+
+361
+00:17:00,150 --> 00:17:00,983
+Next,
+
+362
+00:17:03,240 --> 00:17:05,320
+I'll let Dr. Pavan
+
+363
+00:17:09,205 --> 00:17:10,126
+Yedavalli.
+
+364
+00:17:10,126 --> 00:17:10,959
+- You got it.
+
+365
+00:17:10,959 --> 00:17:12,123
+- Introduce himself.
+
+366
+00:17:12,962 --> 00:17:13,879
+Here. Okay.
+
+367
+00:17:23,450 --> 00:17:24,617
+- There we go.
+
+368
+00:17:26,202 --> 00:17:27,535
+And then let me,
+
+369
+00:17:32,562 --> 00:17:34,103
+do you know how to make this slideshow?
+
+370
+00:17:36,415 --> 00:17:40,413
+Let's see.
+
+371
+00:17:52,327 --> 00:17:56,910
+- Who knows the quick prompt to get the PDF to show up?
+
+372
+00:17:58,410 --> 00:18:01,560
+- That's an excellent question.
+
+373
+00:18:01,560 --> 00:18:03,270
+Let's see here.
+
+374
+00:18:03,270 --> 00:18:05,617
+- Close your tools. - Yeah. Oh.
+
+375
+00:18:07,335 --> 00:18:08,847
+- There you go. There you go.
+
+376
+00:18:08,847 --> 00:18:09,680
+- All right.
+
+377
+00:18:09,680 --> 00:18:11,137
+And then.
+
+378
+00:18:11,137 --> 00:18:13,897
+- Oh, is it not showing? - No.
+
+379
+00:18:13,897 --> 00:18:15,564
+Let me try to enter.
+
+380
+00:18:20,805 --> 00:18:21,638
+Let's see.
+
+381
+00:18:21,638 --> 00:18:22,980
+- We'll get the slideshow in a moment here
+
+382
+00:18:22,980 --> 00:18:27,660
+as soon as we get our engineering expert
+
+383
+00:18:27,660 --> 00:18:29,687
+to figure out the tech.
+
+384
+00:18:29,687 --> 00:18:33,030
+(Pavan and Josh laugh)
+
+385
+00:18:33,030 --> 00:18:34,233
+- All right, let's see.
+
+386
+00:18:35,700 --> 00:18:38,163
+I mean, they're present here.
+
+387
+00:18:39,180 --> 00:18:40,458
+Let's see.
+
+388
+00:18:40,458 --> 00:18:42,210
+- You're sharing via Zoom? - Yeah.
+
+389
+00:18:42,210 --> 00:18:44,160
+- Here's the solution. - Yeah.
+
+390
+00:18:44,160 --> 00:18:46,890
+- So we'll stop our screen share here.
+
+391
+00:18:46,890 --> 00:18:47,800
+- And then we'll just do the window.
+
+392
+00:18:47,800 --> 00:18:49,680
+- Yeah. - Yeah, that's-
+
+393
+00:18:49,680 --> 00:18:50,705
+- There you go. You know what you're doing.
+
+394
+00:18:50,705 --> 00:18:51,855
+- Yeah. - Yeah.
+
+395
+00:18:51,855 --> 00:18:53,555
+So hit that red stop button first.
+
+396
+00:18:54,794 --> 00:18:59,250
+- Yeah.
+
+397
+00:18:59,250 --> 00:19:00,500
+- Oh, there it is, there.
+
+398
+00:19:02,340 --> 00:19:03,540
+- There you go. - Yeah.
+
+399
+00:19:07,112 --> 00:19:08,562
+- All right.
+
+400
+00:19:08,562 --> 00:19:09,562
+It's on Zoom anyhow.
+
+401
+00:19:13,290 --> 00:19:14,123
+- All right.
+
+402
+00:19:15,540 --> 00:19:17,880
+That's, yeah, Acrobat.
+
+403
+00:19:17,880 --> 00:19:18,713
+It's...
+
+404
+00:19:20,430 --> 00:19:21,363
+Let's see.
+
+405
+00:19:23,700 --> 00:19:25,383
+- One second, one second.
+
+406
+00:19:27,090 --> 00:19:28,740
+- You know what I can do?
+
+407
+00:19:28,740 --> 00:19:30,461
+I'm gonna go-
+
+408
+00:19:30,461 --> 00:19:32,861
+- I think view full screen mode might be there.
+
+409
+00:19:32,861 --> 00:19:33,694
+- It's...
+
+410
+00:19:33,694 --> 00:19:34,853
+Yeah, exactly.
+
+411
+00:19:34,853 --> 00:19:37,020
+It's on Acrobat.
+
+412
+00:19:37,020 --> 00:19:39,750
+All right, let me try.
+
+413
+00:19:39,750 --> 00:19:42,123
+- There you go. - Do we know finder here?
+
+414
+00:19:43,890 --> 00:19:44,723
+It's...
+
+415
+00:19:48,960 --> 00:19:51,690
+Let me try the PowerPoint version instead.
+
+416
+00:19:51,690 --> 00:19:54,570
+- There you go. PowerPoint version.
+
+417
+00:19:54,570 --> 00:19:58,653
+- Then let me go here.
+
+418
+00:20:00,536 --> 00:20:01,744
+Okay.
+
+419
+00:20:01,744 --> 00:20:04,277
+Oh, yeah. Okay.
+
+420
+00:20:04,277 --> 00:20:06,408
+- Oh, yeah Zoom should be screened too, I think.
+
+421
+00:20:06,408 --> 00:20:08,665
+And then it's just, you just slideshow
+
+422
+00:20:08,665 --> 00:20:09,498
+to the screens.
+
+423
+00:20:09,498 --> 00:20:10,437
+I think when you start.
+
+424
+00:20:10,437 --> 00:20:12,868
+- Yeah. - There you go. There you go.
+
+425
+00:20:12,868 --> 00:20:13,701
+- Yeah.
+
+426
+00:20:13,701 --> 00:20:14,534
+- When you start the slideshow,
+
+427
+00:20:14,534 --> 00:20:16,351
+it automatically goes as well.
+
+428
+00:20:16,351 --> 00:20:17,518
+- Okay. There.
+
+429
+00:20:25,843 --> 00:20:26,872
+- Slideshow there.
+
+430
+00:20:26,872 --> 00:20:27,705
+Start.
+
+431
+00:20:29,250 --> 00:20:30,083
+There we go.
+
+432
+00:20:30,083 --> 00:20:30,916
+- There we go. All right.
+
+433
+00:20:30,916 --> 00:20:32,280
+- So for the educators in the room which is-
+
+434
+00:20:32,280 --> 00:20:33,450
+- Takes a little bit, right? - Yeah.
+
+435
+00:20:33,450 --> 00:20:35,100
+- All right.
+
+436
+00:20:35,100 --> 00:20:36,153
+Well, thanks guys.
+
+437
+00:20:37,050 --> 00:20:38,940
+Appreciate it, Josh.
+
+438
+00:20:38,940 --> 00:20:40,729
+I'm Pavan Yedavalli.
+
+439
+00:20:40,729 --> 00:20:44,117
+I lead our system simulation
+
+440
+00:20:44,117 --> 00:20:46,590
+and product intelligence efforts at Wisk Aero.
+
+441
+00:20:46,590 --> 00:20:49,270
+So I'll be like fairly focused here
+
+442
+00:20:50,242 --> 00:20:52,571
+and talk about what Wisk does.
+
+443
+00:20:52,571 --> 00:20:55,770
+And generally how we're really looking at the future
+
+444
+00:20:55,770 --> 00:20:58,170
+of advanced air mobility as it relates
+
+445
+00:20:58,170 --> 00:20:59,940
+to workforce development,
+
+446
+00:20:59,940 --> 00:21:02,640
+and really the future of what we hope, you know,
+
+447
+00:21:02,640 --> 00:21:05,640
+transportation to look like in the coming decades.
+
+448
+00:21:05,640 --> 00:21:07,023
+So with that being said,
+
+449
+00:21:07,950 --> 00:21:12,950
+Wisk, we are essentially building autonomous,
+
+450
+00:21:13,110 --> 00:21:16,110
+fully autonomous, electric vertical takeoff
+
+451
+00:21:16,110 --> 00:21:17,400
+and landing aircraft.
+
+452
+00:21:17,400 --> 00:21:19,680
+So there are,
+
+453
+00:21:19,680 --> 00:21:23,310
+and what I mean by that is we are purely doing
+
+454
+00:21:23,310 --> 00:21:26,220
+passenger aircraft and that's what we're developing
+
+455
+00:21:26,220 --> 00:21:27,723
+our aircraft for right now.
+
+456
+00:21:28,938 --> 00:21:31,380
+And the whole idea is that we want to create a future
+
+457
+00:21:31,380 --> 00:21:34,530
+where there's autonomous aircraft carrying people
+
+458
+00:21:34,530 --> 00:21:38,673
+across major metro areas like the Bay Area, for instance,
+
+459
+00:21:39,855 --> 00:21:40,688
+across the world.
+
+460
+00:21:40,688 --> 00:21:43,020
+And the whole idea is to really try to bring people,
+
+461
+00:21:43,020 --> 00:21:47,492
+communities, aviation, all together in one beautiful,
+
+462
+00:21:47,492 --> 00:21:51,300
+beautiful, you know, combination of
+
+463
+00:21:51,300 --> 00:21:52,830
+what new mobility might look like.
+
+464
+00:21:52,830 --> 00:21:55,560
+So, you know, the goal in our mission is really
+
+465
+00:21:55,560 --> 00:21:58,833
+to deliver safe everyday flight for everyone.
+
+466
+00:22:00,060 --> 00:22:04,800
+So just kind of going into what autonomous eVTOLs are.
+
+467
+00:22:04,800 --> 00:22:09,800
+So autonomy is obviously without a pilot,
+
+468
+00:22:10,290 --> 00:22:12,960
+and the eVTOL part is actually,
+
+469
+00:22:12,960 --> 00:22:16,740
+that's short for electric vertical takeoff and landing.
+
+470
+00:22:16,740 --> 00:22:19,410
+So what we're developing as our aircraft,
+
+471
+00:22:19,410 --> 00:22:20,610
+which you see right there,
+
+472
+00:22:20,610 --> 00:22:24,510
+is we are trying to develop an aircraft
+
+473
+00:22:24,510 --> 00:22:26,970
+that does not require any runways,
+
+474
+00:22:26,970 --> 00:22:29,760
+but instead can just vertically take off and land
+
+475
+00:22:29,760 --> 00:22:32,010
+and it does all of this fully autonomously.
+
+476
+00:22:32,010 --> 00:22:33,780
+So the whole idea behind that,
+
+477
+00:22:33,780 --> 00:22:35,940
+obviously safety is number one.
+
+478
+00:22:35,940 --> 00:22:38,220
+You know, the, we are trying to build an aircraft
+
+479
+00:22:38,220 --> 00:22:41,340
+and an operation that is to 10 to the minus nine
+
+480
+00:22:41,340 --> 00:22:43,500
+safety levels, which is even more than
+
+481
+00:22:43,500 --> 00:22:47,103
+what current commercial aviation does to this day.
+
+482
+00:22:48,016 --> 00:22:49,500
+And that is the safest mode of transportation
+
+483
+00:22:49,500 --> 00:22:52,980
+there is on Earth, (laughs)
+
+484
+00:22:52,980 --> 00:22:54,390
+by seat mile.
+
+485
+00:22:54,390 --> 00:22:56,670
+And of course outside of safety, you know,
+
+486
+00:22:56,670 --> 00:22:57,750
+very sustainable.
+
+487
+00:22:57,750 --> 00:22:59,730
+And the goal at scale is to make it
+
+488
+00:22:59,730 --> 00:23:01,380
+as affordable as possible.
+
+489
+00:23:01,380 --> 00:23:03,870
+Well, obviously we're focusing on
+
+490
+00:23:03,870 --> 00:23:07,770
+going toward passenger transport first,
+
+491
+00:23:07,770 --> 00:23:10,560
+which we obviously believe is not only challenging,
+
+492
+00:23:10,560 --> 00:23:13,673
+but you know, hopefully the holy grail as well.
+
+493
+00:23:13,673 --> 00:23:15,720
+We are looking into other use cases as well.
+
+494
+00:23:15,720 --> 00:23:18,573
+Cargo, medical emergency services,
+
+495
+00:23:19,620 --> 00:23:24,150
+as Cody will certainly talk about representing Joby.
+
+496
+00:23:24,150 --> 00:23:27,300
+You know, piloted operations are expected soon.
+
+497
+00:23:27,300 --> 00:23:28,860
+So very, very exciting there.
+
+498
+00:23:28,860 --> 00:23:32,190
+So we're gonna really see this industry start to grow
+
+499
+00:23:32,190 --> 00:23:35,820
+and start to understand how folks are riding on the aircraft
+
+500
+00:23:35,820 --> 00:23:40,080
+and what sort of benefit advanced air mobility will give.
+
+501
+00:23:40,080 --> 00:23:43,710
+Autonomous operations of Wisk in particular
+
+502
+00:23:43,710 --> 00:23:46,050
+will really start shortly thereafter.
+
+503
+00:23:46,050 --> 00:23:49,170
+So we're kind of going directly to autonomy.
+
+504
+00:23:49,170 --> 00:23:53,130
+And just at the bottom here, there's a lot of potential.
+
+505
+00:23:53,130 --> 00:23:55,800
+A lot of folks are really, really excited about
+
+506
+00:23:55,800 --> 00:23:58,290
+what the future of advanced air mobility will do
+
+507
+00:23:58,290 --> 00:24:01,260
+to society, to communities,
+
+508
+00:24:01,260 --> 00:24:06,260
+and ultimately to adding well paying,
+
+509
+00:24:06,420 --> 00:24:10,140
+well paying jobs and contribute to economic output.
+
+510
+00:24:10,140 --> 00:24:13,770
+So just kind of putting into perspective a couple of,
+
+511
+00:24:13,770 --> 00:24:15,000
+a couple of numbers here.
+
+512
+00:24:15,000 --> 00:24:19,987
+By 2035, we're expecting up to 280,000 well paying jobs
+
+513
+00:24:21,149 --> 00:24:23,019
+across the US.
+
+514
+00:24:23,019 --> 00:24:25,410
+So with that being said, Wisk,
+
+515
+00:24:25,410 --> 00:24:29,310
+I'll quickly go into a very, very quick history.
+
+516
+00:24:29,310 --> 00:24:32,130
+We started off as Larry Page's,
+
+517
+00:24:32,130 --> 00:24:34,230
+Larry Page, one of the founders of Google,
+
+518
+00:24:35,125 --> 00:24:36,150
+a bit of his pet project
+
+519
+00:24:36,150 --> 00:24:38,793
+almost 15 years ago as Zee.Aero.
+
+520
+00:24:39,883 --> 00:24:42,960
+And from there, over time we started developing
+
+521
+00:24:42,960 --> 00:24:45,173
+many generations of aircraft,
+
+522
+00:24:45,173 --> 00:24:47,082
+which I'll get into in just a moment.
+
+523
+00:24:47,082 --> 00:24:50,040
+But now to this day, we are,
+
+524
+00:24:50,040 --> 00:24:51,360
+we became a joint venture
+
+525
+00:24:51,360 --> 00:24:56,310
+between Boeing and Kitty Hawk several years ago.
+
+526
+00:24:56,310 --> 00:24:58,830
+And then just a couple of years ago,
+
+527
+00:24:58,830 --> 00:25:00,243
+we became a fully,
+
+528
+00:25:01,272 --> 00:25:04,177
+wholly owned independent subsidiary of Boeing.
+
+529
+00:25:04,177 --> 00:25:07,470
+So with all that, with this decade of experience,
+
+530
+00:25:07,470 --> 00:25:11,400
+we've actually flown thousands of test flights
+
+531
+00:25:11,400 --> 00:25:13,440
+of our different generations of aircraft.
+
+532
+00:25:13,440 --> 00:25:16,530
+So, you know, issued hundreds of patents.
+
+533
+00:25:16,530 --> 00:25:19,890
+We have employees across the world, predominantly here.
+
+534
+00:25:19,890 --> 00:25:21,780
+Our headquarters are in Mountain View,
+
+535
+00:25:21,780 --> 00:25:25,200
+but we have folks in Canada, in Poland,
+
+536
+00:25:25,200 --> 00:25:27,480
+in New Zealand and Australia.
+
+537
+00:25:27,480 --> 00:25:31,473
+So just a quick history of flight.
+
+538
+00:25:32,617 --> 00:25:33,540
+You know, we started with our Gen 1,
+
+539
+00:25:33,540 --> 00:25:35,160
+which was back in 2011
+
+540
+00:25:35,160 --> 00:25:36,240
+and started developing that?
+
+541
+00:25:36,240 --> 00:25:38,400
+This was a smaller aircraft but fully autonomous.
+
+542
+00:25:38,400 --> 00:25:41,460
+And you can kind of see that we jumped across generations
+
+543
+00:25:41,460 --> 00:25:45,540
+up to our Gen 5 aircraft between autonomous and piloted.
+
+544
+00:25:45,540 --> 00:25:48,523
+As you can imagine, there are so many different,
+
+545
+00:25:48,523 --> 00:25:51,300
+different learnings that we can gain
+
+546
+00:25:51,300 --> 00:25:54,180
+from having both versions so that we can understand
+
+547
+00:25:54,180 --> 00:25:55,980
+what the most optimal solution would be
+
+548
+00:25:55,980 --> 00:25:58,500
+for an autonomous aircraft ultimately.
+
+549
+00:25:58,500 --> 00:26:02,040
+So we've flown Gen 5, which is our Cora aircraft,
+
+550
+00:26:02,040 --> 00:26:03,060
+thousands of times.
+
+551
+00:26:03,060 --> 00:26:05,280
+And it's been very, very exciting
+
+552
+00:26:05,280 --> 00:26:09,390
+to take those learnings into what our current aircraft
+
+553
+00:26:09,390 --> 00:26:10,290
+that we're developing is,
+
+554
+00:26:10,290 --> 00:26:13,050
+which is our Wisk Generation 6 aircraft.
+
+555
+00:26:13,050 --> 00:26:15,810
+So this is intended to be the first
+
+556
+00:26:15,810 --> 00:26:20,310
+FAA certified commercial autonomous passenger aircraft.
+
+557
+00:26:20,310 --> 00:26:23,220
+So just a couple of specs here on this aircraft.
+
+558
+00:26:23,220 --> 00:26:27,780
+It's autonomous, but autonomy doesn't mean, you know,
+
+559
+00:26:27,780 --> 00:26:28,923
+set it and forget it.
+
+560
+00:26:29,820 --> 00:26:31,020
+As hopefully, you know,
+
+561
+00:26:31,020 --> 00:26:32,550
+being all in the Bay Area right now,
+
+562
+00:26:32,550 --> 00:26:35,710
+hopefully at some point folks have been able to take Waymo's
+
+563
+00:26:36,900 --> 00:26:37,980
+maybe in San Francisco.
+
+564
+00:26:37,980 --> 00:26:39,880
+I know it's happening in San Jose now,
+
+565
+00:26:40,901 --> 00:26:43,680
+but the whole idea is there's remote supervision.
+
+566
+00:26:43,680 --> 00:26:46,020
+A lot of supervision of the aircraft,
+
+567
+00:26:46,020 --> 00:26:48,070
+constant communication with the aircraft.
+
+568
+00:26:49,161 --> 00:26:50,723
+So there's constant human oversight.
+
+569
+00:26:51,998 --> 00:26:56,460
+Our, the capacity of the aircraft is four people.
+
+570
+00:26:56,460 --> 00:26:59,103
+The dimensions, you know, we have about a 50 foot,
+
+571
+00:26:59,986 --> 00:27:02,100
+well a little less than 50 feet in wingspan.
+
+572
+00:27:02,100 --> 00:27:04,680
+The range of the aircraft is about 90 miles.
+
+573
+00:27:04,680 --> 00:27:07,293
+So that covers the bulk of the Bay Area,
+
+574
+00:27:08,253 --> 00:27:10,755
+you know, our nine county Bay Area.
+
+575
+00:27:10,755 --> 00:27:12,630
+So it's, and I'll jump into the,
+
+576
+00:27:12,630 --> 00:27:14,490
+what we're seeing in the Bay Area itself,
+
+577
+00:27:14,490 --> 00:27:19,230
+but there's a lot of potential to carry people in the,
+
+578
+00:27:19,230 --> 00:27:21,270
+with the goal of having them save time
+
+579
+00:27:21,270 --> 00:27:24,870
+or, you know, provide a unique experience altogether.
+
+580
+00:27:24,870 --> 00:27:27,084
+And then, because it's all electric,
+
+581
+00:27:27,084 --> 00:27:29,130
+so that's the e part of the eVTOL,
+
+582
+00:27:29,130 --> 00:27:33,900
+we expect the infrastructure which are known as vertiports.
+
+583
+00:27:33,900 --> 00:27:37,170
+We expect that those will be charging, you know,
+
+584
+00:27:37,170 --> 00:27:40,080
+in just a few minutes, up to 15 minutes.
+
+585
+00:27:40,080 --> 00:27:42,180
+And then off to the next, off to the next.
+
+586
+00:27:43,266 --> 00:27:45,416
+So the, if you can imagine a little bit of,
+
+587
+00:27:46,258 --> 00:27:47,640
+and this is kind of in my,
+
+588
+00:27:47,640 --> 00:27:50,012
+in my dream world, you know?
+
+589
+00:27:50,012 --> 00:27:51,840
+We have a lot of dense infrastructure sites,
+
+590
+00:27:51,840 --> 00:27:54,840
+not dissimilar to a subway network, you know,
+
+591
+00:27:54,840 --> 00:27:55,983
+maybe not that many,
+
+592
+00:27:56,910 --> 00:27:59,290
+but, you know, very, very much
+
+593
+00:28:00,543 --> 00:28:01,376
+a beautiful marriage
+
+594
+00:28:01,376 --> 00:28:06,030
+between public transit right now and aviation.
+
+595
+00:28:06,030 --> 00:28:08,130
+'Cause obviously we're gonna have a lot of,
+
+596
+00:28:08,130 --> 00:28:09,630
+a lot of work with,
+
+597
+00:28:09,630 --> 00:28:12,360
+with everything associated with aviation
+
+598
+00:28:12,360 --> 00:28:15,780
+and things to do at the infrastructure sites.
+
+599
+00:28:15,780 --> 00:28:18,270
+So why autonomy?
+
+600
+00:28:18,270 --> 00:28:19,920
+Monisha actually touched on it as well.
+
+601
+00:28:19,920 --> 00:28:21,210
+So there's safety.
+
+602
+00:28:21,210 --> 00:28:23,760
+Safety is, you know, first and foremost, you know,
+
+603
+00:28:23,760 --> 00:28:28,760
+the bulk of accidents right now are often due to,
+
+604
+00:28:29,250 --> 00:28:33,420
+due to errors that are occurring due to the humans.
+
+605
+00:28:33,420 --> 00:28:36,600
+You know, it's also relate to scalability?
+
+606
+00:28:36,600 --> 00:28:40,050
+You know, at scale it will bring costs down?
+
+607
+00:28:40,050 --> 00:28:42,876
+And then, you know, it's maintenance.
+
+608
+00:28:42,876 --> 00:28:46,200
+Ultimately the aircraft will be significantly easier
+
+609
+00:28:46,200 --> 00:28:48,600
+to maintain over time.
+
+610
+00:28:48,600 --> 00:28:51,420
+So one thing we really focus on here at Wisk
+
+611
+00:28:51,420 --> 00:28:55,650
+is accessibility, and this is accessibility for the riders
+
+612
+00:28:55,650 --> 00:29:00,216
+as well as those, you know, at infrastructure itself.
+
+613
+00:29:00,216 --> 00:29:01,650
+So we do a lot of work
+
+614
+00:29:01,650 --> 00:29:05,280
+with those who are disabled,
+
+615
+00:29:05,280 --> 00:29:07,230
+we get a lot of user research about
+
+616
+00:29:07,230 --> 00:29:08,940
+what the experience needs to be
+
+617
+00:29:08,940 --> 00:29:12,150
+to accommodate a good experience for everyone.
+
+618
+00:29:12,150 --> 00:29:14,136
+So you can see here, you know,
+
+619
+00:29:14,136 --> 00:29:15,636
+we've brought people into our,
+
+620
+00:29:16,502 --> 00:29:18,000
+into our headquarters,
+
+621
+00:29:18,000 --> 00:29:20,820
+actually have them test out our aircraft
+
+622
+00:29:20,820 --> 00:29:23,400
+to see exactly what are the pain points,
+
+623
+00:29:23,400 --> 00:29:24,850
+how do we improve the design.
+
+624
+00:29:25,985 --> 00:29:28,290
+And similarly, you know, things relate to accessibility
+
+625
+00:29:28,290 --> 00:29:31,020
+as we kind of take an Uber right now
+
+626
+00:29:31,020 --> 00:29:32,643
+or a Lyft right now or a Waymo.
+
+627
+00:29:33,539 --> 00:29:35,430
+You know, we'll probably have something similar
+
+628
+00:29:35,430 --> 00:29:39,150
+where we're using our phones to schedule a flight?
+
+629
+00:29:39,150 --> 00:29:41,970
+And, you know, trying to understand what exactly
+
+630
+00:29:41,970 --> 00:29:44,973
+that user experience should be is very, very important.
+
+631
+00:29:46,170 --> 00:29:50,100
+So very, very quickly on the regional benefits of AAM.
+
+632
+00:29:50,100 --> 00:29:52,950
+You know, the whole idea again is to augment
+
+633
+00:29:52,950 --> 00:29:55,138
+the transportation network?
+
+634
+00:29:55,138 --> 00:29:57,330
+A lot of my research actually at UC Berkeley
+
+635
+00:29:57,330 --> 00:30:01,200
+was trying to understand what the impacts of AAM are
+
+636
+00:30:01,200 --> 00:30:03,030
+on metropolitan environments.
+
+637
+00:30:03,030 --> 00:30:06,270
+And the reality is that we are going to see
+
+638
+00:30:06,270 --> 00:30:08,850
+that this will be a very, very valuable mode
+
+639
+00:30:08,850 --> 00:30:11,100
+to the overarching transportation network.
+
+640
+00:30:11,100 --> 00:30:14,550
+But it's not necessarily going to relieve the congestion
+
+641
+00:30:14,550 --> 00:30:17,700
+that we see on 101 or on 880 every day.
+
+642
+00:30:17,700 --> 00:30:22,140
+What we do hope to do is we intend to have it
+
+643
+00:30:22,140 --> 00:30:26,040
+actually provide a service that is very much necessary
+
+644
+00:30:26,040 --> 00:30:30,750
+to allow for longer distance travel for very short times.
+
+645
+00:30:30,750 --> 00:30:34,110
+So in the end, it still took almost an hour 20 for me
+
+646
+00:30:34,110 --> 00:30:36,660
+to come from San Francisco down to Santa Clara.
+
+647
+00:30:36,660 --> 00:30:40,440
+In an ideal world that would be cut down significantly
+
+648
+00:30:40,440 --> 00:30:42,690
+and maybe there, and there's an opportunity for that.
+
+649
+00:30:42,690 --> 00:30:44,940
+So community time, reducing pressure on
+
+650
+00:30:44,940 --> 00:30:46,320
+existing infrastructure.
+
+651
+00:30:46,320 --> 00:30:49,260
+And the last couple of things that are very much related
+
+652
+00:30:49,260 --> 00:30:52,620
+to today is workforce development.
+
+653
+00:30:52,620 --> 00:30:55,890
+So just looking at the Bay area very quickly,
+
+654
+00:30:55,890 --> 00:30:58,014
+and this is a lot of the work
+
+655
+00:30:58,014 --> 00:31:01,470
+that my team does is relate to software simulation
+
+656
+00:31:01,470 --> 00:31:03,240
+and demand modeling to understand
+
+657
+00:31:03,240 --> 00:31:05,400
+where we should place our infrastructure
+
+658
+00:31:05,400 --> 00:31:07,980
+and what sort of benefit this will provide for riders.
+
+659
+00:31:07,980 --> 00:31:10,320
+So you can see that in the Bay area, you know,
+
+660
+00:31:10,320 --> 00:31:11,970
+we could have almost, you know,
+
+661
+00:31:11,970 --> 00:31:14,410
+several hundred thousand passengers per day
+
+662
+00:31:15,290 --> 00:31:18,870
+who may take this, you know, obviously at the service level
+
+663
+00:31:18,870 --> 00:31:22,110
+who, what we can actually serve based on our fleet sizes
+
+664
+00:31:22,110 --> 00:31:24,420
+and things of that nature, based on infrastructure
+
+665
+00:31:24,420 --> 00:31:26,730
+will be significantly lower than that.
+
+666
+00:31:26,730 --> 00:31:30,000
+But just to show exactly what the potential
+
+667
+00:31:30,000 --> 00:31:33,270
+of AAM is in the Bay Area is significant.
+
+668
+00:31:33,270 --> 00:31:36,690
+And obviously you can imagine other places like New York,
+
+669
+00:31:36,690 --> 00:31:41,690
+Tokyo, Chicago, LA, we're starting to talk about,
+
+670
+00:31:42,326 --> 00:31:44,310
+you know, a really, really valuable mode of transportation.
+
+671
+00:31:44,310 --> 00:31:47,580
+So I'll just end on a couple of things
+
+672
+00:31:47,580 --> 00:31:50,310
+that we've been working on at Wisk
+
+673
+00:31:50,310 --> 00:31:53,040
+and in particular in California.
+
+674
+00:31:53,040 --> 00:31:57,330
+We did a case study down in LA in the Long Beach Area
+
+675
+00:31:57,330 --> 00:31:59,133
+with Cal State Long Beach.
+
+676
+00:32:00,428 --> 00:32:04,140
+And essentially it was an economic development study
+
+677
+00:32:04,140 --> 00:32:08,475
+that we did in tandem with Cal State Long Beach.
+
+678
+00:32:08,475 --> 00:32:11,160
+And what we found is we wanted to understand the impact,
+
+679
+00:32:11,160 --> 00:32:15,673
+the economic development impact of developing AAM
+
+680
+00:32:16,960 --> 00:32:21,022
+as part of the transportation network down in LA.
+
+681
+00:32:21,022 --> 00:32:24,450
+And so there were several different areas of opportunity
+
+682
+00:32:24,450 --> 00:32:26,640
+where jobs will be created,
+
+683
+00:32:26,640 --> 00:32:29,220
+good, nice, well paying jobs that will require
+
+684
+00:32:29,220 --> 00:32:31,440
+enormous amount of training,
+
+685
+00:32:31,440 --> 00:32:33,610
+but also a great amount of
+
+686
+00:32:34,470 --> 00:32:37,650
+potential knowledge in a variety of industries.
+
+687
+00:32:37,650 --> 00:32:41,130
+So, you know, in construction, at scale
+
+688
+00:32:41,130 --> 00:32:44,160
+we're talking about over 2,000 jobs
+
+689
+00:32:44,160 --> 00:32:47,640
+annually from operations at the vertiports themselves.
+
+690
+00:32:47,640 --> 00:32:49,740
+We're talking about maintenance,
+
+691
+00:32:49,740 --> 00:32:54,120
+the passenger experience, terminal facilities,
+
+692
+00:32:54,120 --> 00:32:56,490
+all of these things not dissimilar
+
+693
+00:32:56,490 --> 00:32:58,320
+to commercial aviation today.
+
+694
+00:32:58,320 --> 00:33:00,930
+We're gonna need some level of that
+
+695
+00:33:00,930 --> 00:33:03,630
+at the infrastructure that is being developed.
+
+696
+00:33:03,630 --> 00:33:05,640
+So that's on the infrastructure side
+
+697
+00:33:05,640 --> 00:33:08,740
+and obviously on the aircraft side we're talking about
+
+698
+00:33:09,812 --> 00:33:11,970
+operations with air traffic management,
+
+699
+00:33:11,970 --> 00:33:15,210
+with ATC, all these things are actually
+
+700
+00:33:15,210 --> 00:33:19,560
+going to be enormous opportunities for jobs.
+
+701
+00:33:19,560 --> 00:33:21,240
+And one thing I'll mention
+
+702
+00:33:21,240 --> 00:33:26,240
+is we just as we're starting to see a lot of the, you know,
+
+703
+00:33:26,880 --> 00:33:28,920
+generative AI, these types of things
+
+704
+00:33:28,920 --> 00:33:30,720
+really coming into our lexicon,
+
+705
+00:33:30,720 --> 00:33:34,560
+a little bit about how jobs are shifting.
+
+706
+00:33:34,560 --> 00:33:37,110
+Now, what we're finding is exactly that,
+
+707
+00:33:37,110 --> 00:33:39,300
+is that there are going to be new versions
+
+708
+00:33:39,300 --> 00:33:42,360
+of jobs while we focus on autonomy,
+
+709
+00:33:42,360 --> 00:33:46,209
+there's going to be a significant requirement
+
+710
+00:33:46,209 --> 00:33:49,320
+for other skill sets and other knowledge.
+
+711
+00:33:49,320 --> 00:33:50,910
+And that's what we're trying to understand
+
+712
+00:33:50,910 --> 00:33:52,350
+and work toward as well.
+
+713
+00:33:52,350 --> 00:33:55,438
+So we're very, very excited
+
+714
+00:33:55,438 --> 00:33:57,480
+down in Long Beach in particular.
+
+715
+00:33:57,480 --> 00:34:01,530
+We hosted Long Beach Community College students
+
+716
+00:34:01,530 --> 00:34:04,170
+and really talked about what the potential
+
+717
+00:34:04,170 --> 00:34:07,320
+is for contributing to this industry in the coming decades.
+
+718
+00:34:07,320 --> 00:34:09,030
+So, you know, this is just a start
+
+719
+00:34:09,030 --> 00:34:12,570
+and we're really trying to get everyone very much involved
+
+720
+00:34:12,570 --> 00:34:15,360
+and excited about what advanced air mobility
+
+721
+00:34:15,360 --> 00:34:18,000
+and autonomous advanced air mobility is in the future.
+
+722
+00:34:18,000 --> 00:34:21,900
+So I'll end there and yeah, very, very excited
+
+723
+00:34:21,900 --> 00:34:23,940
+and very honored to be here to talk
+
+724
+00:34:23,940 --> 00:34:26,760
+a little bit more about the industry.
+
+725
+00:34:26,760 --> 00:34:28,310
+So, thank you.
+
+726
+00:34:28,310 --> 00:34:31,310
+(attendees applaud)
+
+727
+00:34:32,432 --> 00:34:33,265
+- Thank you, Pavan.
+
+728
+00:34:33,265 --> 00:34:37,670
+And next we will have our colleague Cody Cleverly from Joby.
+
+729
+00:34:40,320 --> 00:34:41,820
+- Thank you, enjoy your thing.
+
+730
+00:34:42,690 --> 00:34:45,960
+All right, we'll see if Zoom cooperates again here.
+
+731
+00:34:45,960 --> 00:34:47,913
+We went way off the rails,
+
+732
+00:34:49,230 --> 00:34:51,360
+I think for some good reasons a few minutes ago.
+
+733
+00:34:51,360 --> 00:34:52,383
+So give me a second.
+
+734
+00:34:58,950 --> 00:35:00,870
+And as I get this deck pulled up,
+
+735
+00:35:00,870 --> 00:35:02,920
+I'm gonna also go way off script here
+
+736
+00:35:03,960 --> 00:35:08,848
+because there's a lot of similarities
+
+737
+00:35:08,848 --> 00:35:09,681
+across our three companies,
+
+738
+00:35:09,681 --> 00:35:13,030
+which is I think a trend that is really important
+
+739
+00:35:13,890 --> 00:35:16,563
+for you all to see as educators.
+
+740
+00:35:18,015 --> 00:35:19,013
+Let's see, I've lost Zoom.
+
+741
+00:35:25,341 --> 00:35:26,515
+- Do you start slideshow?
+
+742
+00:35:26,515 --> 00:35:27,348
+It will- - Yes.
+
+743
+00:35:27,348 --> 00:35:28,320
+- Well it would, it would've before
+
+744
+00:35:28,320 --> 00:35:29,310
+we changed the settings,
+
+745
+00:35:29,310 --> 00:35:30,240
+but it's working now.
+
+746
+00:35:30,240 --> 00:35:31,950
+Yeah. Cool.
+
+747
+00:35:31,950 --> 00:35:33,450
+Good, so I'm gonna go off script here
+
+748
+00:35:33,450 --> 00:35:37,470
+and highlight some key facts that kind of build on
+
+749
+00:35:37,470 --> 00:35:40,350
+what my colleagues and my competitors talk to you about.
+
+750
+00:35:40,350 --> 00:35:43,170
+I can't believe, I can't believe they even let us sit
+
+751
+00:35:43,170 --> 00:35:44,779
+next to each other up here.
+
+752
+00:35:44,779 --> 00:35:45,612
+(all laughing)
+
+753
+00:35:45,612 --> 00:35:47,940
+In fact, I was untying his shoes while he was trying,
+
+754
+00:35:47,940 --> 00:35:49,080
+getting ready to stand up
+
+755
+00:35:49,080 --> 00:35:51,180
+to see if I could embarrass him a little bit
+
+756
+00:35:51,180 --> 00:35:52,350
+before he came up here.
+
+757
+00:35:52,350 --> 00:35:54,360
+But I think one thing I want you to all take away
+
+758
+00:35:54,360 --> 00:35:56,460
+as educators about this industry
+
+759
+00:35:56,460 --> 00:35:59,640
+is that it's a huge emerging industry
+
+760
+00:35:59,640 --> 00:36:02,490
+that's gonna absolutely change our world in tremendous ways.
+
+761
+00:36:02,490 --> 00:36:05,915
+And it's represented by the fact that there's three
+
+762
+00:36:05,915 --> 00:36:08,144
+of us in an industry full of players
+
+763
+00:36:08,144 --> 00:36:11,790
+who are advancing this new sector of aerospace.
+
+764
+00:36:11,790 --> 00:36:14,913
+And I'll also emphasize from a workforce standpoint,
+
+765
+00:36:15,930 --> 00:36:18,690
+what's incredible about this new sector of aviation
+
+766
+00:36:18,690 --> 00:36:21,570
+and aerospace is it in no way cannibalizes
+
+767
+00:36:21,570 --> 00:36:24,180
+the existing industry in almost no ways,
+
+768
+00:36:24,180 --> 00:36:26,070
+in very, very small ways.
+
+769
+00:36:26,070 --> 00:36:28,950
+For example, you know, the regional airlines,
+
+770
+00:36:28,950 --> 00:36:30,870
+the large airlines like Delta and United,
+
+771
+00:36:30,870 --> 00:36:32,460
+they're gonna continue doing what they're doing.
+
+772
+00:36:32,460 --> 00:36:34,650
+The concepts that we are talking about here,
+
+773
+00:36:34,650 --> 00:36:36,390
+and we use the term advanced air mobility
+
+774
+00:36:36,390 --> 00:36:39,570
+or urban air mobility to really illustrate, you know,
+
+775
+00:36:39,570 --> 00:36:42,960
+this urban ride sharing service, which is ultimately
+
+776
+00:36:42,960 --> 00:36:45,410
+what the three of us have our site set on, right?
+
+777
+00:36:46,765 --> 00:36:49,950
+As Monisha shared, you know, crop dusting
+
+778
+00:36:49,950 --> 00:36:51,840
+and these other really important things
+
+779
+00:36:51,840 --> 00:36:53,940
+are an important part of the industry segment.
+
+780
+00:36:53,940 --> 00:36:55,710
+But ultimately passenger carriage
+
+781
+00:36:55,710 --> 00:37:00,210
+is where the bulk of the industry is going.
+
+782
+00:37:00,210 --> 00:37:03,720
+And that creates demand for air transportation
+
+783
+00:37:03,720 --> 00:37:06,453
+that has never existed in human history
+
+784
+00:37:06,453 --> 00:37:08,250
+and thus creates demand for extra jobs
+
+785
+00:37:08,250 --> 00:37:10,980
+that haven't existed before in aerospace and aviation.
+
+786
+00:37:10,980 --> 00:37:13,290
+And it's happening right here in California,
+
+787
+00:37:13,290 --> 00:37:15,960
+particularly on the Central Coast and in the Bay Area,
+
+788
+00:37:15,960 --> 00:37:18,185
+as you're seeing from those of us
+
+789
+00:37:18,185 --> 00:37:20,280
+who are here to share about our companies.
+
+790
+00:37:20,280 --> 00:37:22,770
+So I'll go quick through Joby
+
+791
+00:37:22,770 --> 00:37:24,420
+so that you just get a broad perspective
+
+792
+00:37:24,420 --> 00:37:26,733
+of kind of what's happening in the industry.
+
+793
+00:37:27,600 --> 00:37:30,780
+Joby is a pretty large player in the space
+
+794
+00:37:30,780 --> 00:37:32,130
+with over 2,000 employees,
+
+795
+00:37:32,130 --> 00:37:36,420
+primarily between San Carlos and Marina, California
+
+796
+00:37:36,420 --> 00:37:38,460
+and the Monterey Peninsula
+
+797
+00:37:38,460 --> 00:37:39,840
+and growing considerably.
+
+798
+00:37:39,840 --> 00:37:40,740
+So if you go to our website,
+
+799
+00:37:40,740 --> 00:37:42,540
+you'll see that we have hundreds of job posted today
+
+800
+00:37:42,540 --> 00:37:44,850
+for your graduates that are coming out of your,
+
+801
+00:37:44,850 --> 00:37:46,200
+out of your programs.
+
+802
+00:37:46,200 --> 00:37:48,690
+We're vertically integrated transportation company.
+
+803
+00:37:48,690 --> 00:37:50,370
+And really what that means is we do virtually
+
+804
+00:37:50,370 --> 00:37:51,480
+everything in house.
+
+805
+00:37:51,480 --> 00:37:53,850
+So rather than, you know, typically an aerospace,
+
+806
+00:37:53,850 --> 00:37:56,760
+an aircraft OEM or original equipment manufacturer
+
+807
+00:37:56,760 --> 00:37:59,700
+will outsource as much of the aircraft as they can,
+
+808
+00:37:59,700 --> 00:38:01,320
+and they'll kind of assemble it together
+
+809
+00:38:01,320 --> 00:38:04,444
+into an aircraft design and then sell it to operators.
+
+810
+00:38:04,444 --> 00:38:07,110
+At Joby we've decided to bring all of that in house.
+
+811
+00:38:07,110 --> 00:38:09,840
+So if you go to that third line there,
+
+812
+00:38:09,840 --> 00:38:14,280
+we develop test manufacturer and it says soon we'll operate,
+
+813
+00:38:14,280 --> 00:38:15,870
+and I guess soon we'll operate it commercially.
+
+814
+00:38:15,870 --> 00:38:18,000
+But we're already operating our aircraft in partnership
+
+815
+00:38:18,000 --> 00:38:20,121
+with the Department of Defense.
+
+816
+00:38:20,121 --> 00:38:22,770
+And what that vertical integration means for all of you
+
+817
+00:38:22,770 --> 00:38:24,750
+and for all of us in this region
+
+818
+00:38:24,750 --> 00:38:26,910
+and across the state from a workforce standpoint,
+
+819
+00:38:26,910 --> 00:38:29,790
+is there is a tremendous diversity of jobs
+
+820
+00:38:29,790 --> 00:38:32,880
+that are coming up in this industry for graduates
+
+821
+00:38:32,880 --> 00:38:34,953
+of the community college system.
+
+822
+00:38:36,300 --> 00:38:37,383
+So we have a,
+
+823
+00:38:38,460 --> 00:38:39,810
+it looks like I have a font issue there,
+
+824
+00:38:39,810 --> 00:38:42,300
+but we have a core aircraft product
+
+825
+00:38:42,300 --> 00:38:45,180
+that we've developed over the last 15 years
+
+826
+00:38:45,180 --> 00:38:48,360
+that kind of serves as our flagship product
+
+827
+00:38:48,360 --> 00:38:49,830
+that we think will help
+
+828
+00:38:49,830 --> 00:38:52,260
+along with my colleagues here at the other companies
+
+829
+00:38:52,260 --> 00:38:55,998
+to help pioneer this air taxi industry.
+
+830
+00:38:55,998 --> 00:38:56,831
+And our aircraft,
+
+831
+00:38:56,831 --> 00:38:59,220
+unlike the ones you heard about before,
+
+832
+00:38:59,220 --> 00:39:00,300
+is a piloted aircraft.
+
+833
+00:39:00,300 --> 00:39:02,490
+So we've made the choice to bring a piloted aircraft
+
+834
+00:39:02,490 --> 00:39:04,470
+to market for a host of regulatory
+
+835
+00:39:04,470 --> 00:39:06,180
+and public acceptance reasons, right?
+
+836
+00:39:06,180 --> 00:39:08,379
+So that kind of goes without saying
+
+837
+00:39:08,379 --> 00:39:09,510
+and we're thrilled, I'm thrilled
+
+838
+00:39:09,510 --> 00:39:12,870
+that you are pushing the limits on autonomy safely.
+
+839
+00:39:12,870 --> 00:39:13,830
+So thank you.
+
+840
+00:39:13,830 --> 00:39:16,140
+So that when our autonomy division,
+
+841
+00:39:16,140 --> 00:39:17,610
+Joby has an autonomy division,
+
+842
+00:39:17,610 --> 00:39:21,015
+we fly aircraft autonomously on conventional platforms
+
+843
+00:39:21,015 --> 00:39:23,160
+so that this aircraft that you see here
+
+844
+00:39:23,160 --> 00:39:25,510
+that's piloted either will have a variant
+
+845
+00:39:26,419 --> 00:39:27,300
+a few years down the line
+
+846
+00:39:27,300 --> 00:39:30,136
+that's autonomous or this aircraft
+
+847
+00:39:30,136 --> 00:39:31,740
+will see block upgrades to be autonomous as well.
+
+848
+00:39:31,740 --> 00:39:33,240
+So I think I'm illustrating
+
+849
+00:39:33,240 --> 00:39:36,381
+that even though Joby, you know, you hear about
+
+850
+00:39:36,381 --> 00:39:38,573
+what we're doing if you go read our press releases,
+
+851
+00:39:39,810 --> 00:39:41,880
+while we're launching a piloted aircraft,
+
+852
+00:39:41,880 --> 00:39:43,470
+we have our site set on autonomy as well.
+
+853
+00:39:43,470 --> 00:39:46,170
+So it kind of illustrates where this industry is going
+
+854
+00:39:47,593 --> 00:39:48,630
+in the context of everything you're hearing
+
+855
+00:39:48,630 --> 00:39:50,070
+about over the next few days.
+
+856
+00:39:50,070 --> 00:39:51,600
+But similar to what you've heard,
+
+857
+00:39:51,600 --> 00:39:52,710
+it's an all electric aircraft,
+
+858
+00:39:52,710 --> 00:39:54,990
+it takes off and lands vertically,
+
+859
+00:39:54,990 --> 00:39:56,730
+100 mile range.
+
+860
+00:39:56,730 --> 00:39:58,080
+So that really doubles down
+
+861
+00:39:58,080 --> 00:39:59,820
+on the urban air mobility mission, right?
+
+862
+00:39:59,820 --> 00:40:03,050
+We're not talking about flying from one end
+
+863
+00:40:03,050 --> 00:40:04,560
+of the state of California to the other,
+
+864
+00:40:04,560 --> 00:40:07,440
+we're talking about connecting people inside the Bay Area.
+
+865
+00:40:07,440 --> 00:40:10,020
+We're talking about connecting the Bay to the Bay, right?
+
+866
+00:40:10,020 --> 00:40:13,140
+And that's really where all of this traffic is.
+
+867
+00:40:13,140 --> 00:40:16,140
+So I'll play this video to kind of try
+
+868
+00:40:16,140 --> 00:40:19,440
+to give you a visual picture of the diversity of jobs
+
+869
+00:40:19,440 --> 00:40:21,000
+that I talked about in this industry
+
+870
+00:40:21,000 --> 00:40:23,460
+and specifically at Joby, in this case.
+
+871
+00:40:24,946 --> 00:40:27,529
+(upbeat music)
+
+872
+00:41:00,748 --> 00:41:04,165
+(upbeat music continues)
+
+873
+00:41:30,739 --> 00:41:34,156
+(upbeat music continues)
+
+874
+00:41:55,590 --> 00:41:57,780
+Okay, so I'll skip some of this go to market stuff
+
+875
+00:41:57,780 --> 00:41:59,190
+and I'll hit a few key points
+
+876
+00:41:59,190 --> 00:42:01,560
+so we can get into the meat of the panel here.
+
+877
+00:42:01,560 --> 00:42:04,920
+But we're talking about flying taxis, right?
+
+878
+00:42:04,920 --> 00:42:09,090
+That's ultimately what this business segment is all about.
+
+879
+00:42:09,090 --> 00:42:11,970
+And so, you know, in a few years you'll be,
+
+880
+00:42:11,970 --> 00:42:13,650
+you'll expect a similar experience
+
+881
+00:42:13,650 --> 00:42:16,050
+that you have with Uber or Lyft for air taxis.
+
+882
+00:42:16,050 --> 00:42:18,870
+In fact, we have key operational partnerships
+
+883
+00:42:18,870 --> 00:42:20,910
+and investments from both Delta and Uber
+
+884
+00:42:20,910 --> 00:42:22,860
+who are key operational partners.
+
+885
+00:42:22,860 --> 00:42:25,530
+And we'll be integrated into the Uber app.
+
+886
+00:42:25,530 --> 00:42:27,060
+So you'll be able to book a Joby in the Uber app.
+
+887
+00:42:27,060 --> 00:42:28,878
+You'll be able to book a,
+
+888
+00:42:28,878 --> 00:42:31,020
+an Uber in the Joby app ultimately creating
+
+889
+00:42:31,020 --> 00:42:34,590
+what we call a seamless multimodal ride sharing experience.
+
+890
+00:42:34,590 --> 00:42:36,360
+So here's an example of a route network
+
+891
+00:42:36,360 --> 00:42:38,770
+to kind of get into the meat and potatoes
+
+892
+00:42:38,770 --> 00:42:40,050
+of what's the actual experience going to look like.
+
+893
+00:42:40,050 --> 00:42:42,630
+This is an example in New York City
+
+894
+00:42:42,630 --> 00:42:45,540
+and this route starts at the downtown heliport
+
+895
+00:42:45,540 --> 00:42:49,500
+in Manhattan and arrives at JFK Airport in Queens.
+
+896
+00:42:49,500 --> 00:42:52,440
+So that's a seven minute flight in a Joby aircraft.
+
+897
+00:42:52,440 --> 00:42:55,620
+And by car, well we're saying 49 minutes,
+
+898
+00:42:55,620 --> 00:42:59,040
+raise your hand if you've driven from Manhattan to JFK.
+
+899
+00:42:59,040 --> 00:43:00,240
+Okay, we've got some people.
+
+900
+00:43:00,240 --> 00:43:02,430
+Somebody shout it out, how long does it take
+
+901
+00:43:02,430 --> 00:43:05,530
+to drive from JFK to Manhattan?
+
+902
+00:43:05,530 --> 00:43:06,363
+- [Attendee] Hour and a half.
+
+903
+00:43:06,363 --> 00:43:07,590
+- Hour and a half is what everyone's saying.
+
+904
+00:43:07,590 --> 00:43:08,986
+Okay, good.
+
+905
+00:43:08,986 --> 00:43:09,870
+Yeah, rush hour, which is most of the day,
+
+906
+00:43:09,870 --> 00:43:12,150
+sometimes over two hours, right?
+
+907
+00:43:12,150 --> 00:43:14,280
+Yeah, 49 minutes is at 2:00 AM
+
+908
+00:43:14,280 --> 00:43:17,130
+and miraculously all the potholes were repaired, right?
+
+909
+00:43:17,130 --> 00:43:19,410
+Just before you drove this route.
+
+910
+00:43:19,410 --> 00:43:21,270
+But this illustrates how tremendous
+
+911
+00:43:21,270 --> 00:43:23,340
+the time savings really are
+
+912
+00:43:23,340 --> 00:43:25,530
+by bringing travel into the third dimension.
+
+913
+00:43:25,530 --> 00:43:28,263
+And that's really why this, why this industry segment,
+
+914
+00:43:29,160 --> 00:43:32,400
+why it was, why we're creating these products.
+
+915
+00:43:32,400 --> 00:43:36,960
+And this is an example just building on the Wisk slide
+
+916
+00:43:36,960 --> 00:43:40,110
+of what a route network might look like in the Bay Area
+
+917
+00:43:40,110 --> 00:43:42,300
+to connect, like I said, the Bay to the Bay.
+
+918
+00:43:42,300 --> 00:43:43,620
+'Cause the issue, you know,
+
+919
+00:43:43,620 --> 00:43:45,240
+getting around the Bay is the real problem.
+
+920
+00:43:45,240 --> 00:43:48,660
+Getting across the Bay is the real problem, right?
+
+921
+00:43:48,660 --> 00:43:51,660
+And so bringing people into the,
+
+922
+00:43:51,660 --> 00:43:55,713
+into the skies is a key part of that experience.
+
+923
+00:43:57,120 --> 00:43:58,830
+Of course, like I said, it's a piloted aircraft
+
+924
+00:43:58,830 --> 00:44:01,351
+that carries up to four passengers.
+
+925
+00:44:01,351 --> 00:44:02,184
+And I had another slide in here
+
+926
+00:44:02,184 --> 00:44:03,690
+that didn't transfer from my USB drive.
+
+927
+00:44:03,690 --> 00:44:05,670
+Well that actually played some audio
+
+928
+00:44:05,670 --> 00:44:08,160
+of how quiet the aircraft is.
+
+929
+00:44:08,160 --> 00:44:09,507
+It didn't work.
+
+930
+00:44:09,507 --> 00:44:10,340
+So you'll have to go to YouTube
+
+931
+00:44:10,340 --> 00:44:11,310
+and watch some YouTube videos.
+
+932
+00:44:11,310 --> 00:44:13,740
+We also actually just launched an iPhone app
+
+933
+00:44:13,740 --> 00:44:15,750
+called Joby Sounds where you can download the app
+
+934
+00:44:15,750 --> 00:44:17,850
+and hear our aircraft
+
+935
+00:44:17,850 --> 00:44:19,710
+with different urban backgrounds
+
+936
+00:44:19,710 --> 00:44:20,820
+and things in the background.
+
+937
+00:44:20,820 --> 00:44:23,940
+You can compare it to helicopters, which is always fun.
+
+938
+00:44:23,940 --> 00:44:26,880
+To hear how much quieter electric aircraft
+
+939
+00:44:26,880 --> 00:44:29,340
+can be when they're designed properly.
+
+940
+00:44:29,340 --> 00:44:32,130
+But you know, you know, we got some academics in here.
+
+941
+00:44:32,130 --> 00:44:34,170
+So decimals are a logarithmic scale, right?
+
+942
+00:44:34,170 --> 00:44:37,680
+Orders of magnitude difference in sound.
+
+943
+00:44:37,680 --> 00:44:39,390
+And so, you know, the Joby aircraft is fewer
+
+944
+00:44:39,390 --> 00:44:42,390
+than 50 decibels at 700 feet flying overhead
+
+945
+00:44:42,390 --> 00:44:46,080
+compared to a comparable size helicopter at 65 decibels.
+
+946
+00:44:46,080 --> 00:44:48,240
+And for those of you who vacuum,
+
+947
+00:44:48,240 --> 00:44:49,890
+raise your hand if you've ever used a vacuum.
+
+948
+00:44:49,890 --> 00:44:50,723
+Yeah, okay.
+
+949
+00:44:50,723 --> 00:44:52,110
+Some of you're staring at me like I'm not gonna
+
+950
+00:44:52,110 --> 00:44:53,297
+raise my hand.
+
+951
+00:44:53,297 --> 00:44:54,130
+(attendees laugh)
+
+952
+00:44:54,130 --> 00:44:55,140
+'Cause we all know you've never vacuumed,
+
+953
+00:44:55,140 --> 00:44:58,770
+most of you, but a vacuum puts out 75 decibels, right?
+
+954
+00:44:58,770 --> 00:45:00,180
+So when you vacuum your living room,
+
+955
+00:45:00,180 --> 00:45:01,740
+you're exposed to more decibels
+
+956
+00:45:01,740 --> 00:45:03,090
+than our aircraft will expose you
+
+957
+00:45:03,090 --> 00:45:07,770
+to flying over urban cities across the world.
+
+958
+00:45:07,770 --> 00:45:09,540
+And there's my video that I thought I took out
+
+959
+00:45:09,540 --> 00:45:12,180
+that's broken, so find it on YouTube.
+
+960
+00:45:12,180 --> 00:45:13,330
+You'll be glad you did.
+
+961
+00:45:14,190 --> 00:45:15,990
+Again, just to kind of double down on the fact
+
+962
+00:45:15,990 --> 00:45:18,570
+that these are real jobs right here in our backyard.
+
+963
+00:45:18,570 --> 00:45:20,430
+This is the Joby footprint.
+
+964
+00:45:20,430 --> 00:45:22,350
+There's a few of our facilities aren't on this map
+
+965
+00:45:22,350 --> 00:45:25,320
+because they're small and growing facilities.
+
+966
+00:45:25,320 --> 00:45:28,170
+But our four primary facilities, San Carlos,
+
+967
+00:45:28,170 --> 00:45:31,440
+so closest to home here is where we do our powertrain
+
+968
+00:45:31,440 --> 00:45:32,700
+and electronics manufacturing.
+
+969
+00:45:32,700 --> 00:45:34,230
+So it's where we make all of our batteries,
+
+970
+00:45:34,230 --> 00:45:35,670
+all of our electric motors,
+
+971
+00:45:35,670 --> 00:45:36,930
+all of our circuit boards,
+
+972
+00:45:36,930 --> 00:45:39,240
+all of our flight computers, et cetera.
+
+973
+00:45:39,240 --> 00:45:41,070
+Santa Cruz is our headquarters
+
+974
+00:45:41,070 --> 00:45:43,710
+and we have some R&D work happening in Santa Cruz as well.
+
+975
+00:45:43,710 --> 00:45:46,561
+We have a training academy in Watsonville,
+
+976
+00:45:46,561 --> 00:45:47,580
+where we train pilots and mechanics.
+
+977
+00:45:47,580 --> 00:45:50,490
+Public offering for folks with zero experience in aviation.
+
+978
+00:45:50,490 --> 00:45:51,540
+They can come into our academy
+
+979
+00:45:51,540 --> 00:45:53,998
+and learn to become a pilot or a mechanic.
+
+980
+00:45:53,998 --> 00:45:57,060
+And then in Marina, down near Monterey
+
+981
+00:45:57,060 --> 00:45:59,910
+is where we're actually manufacturing our aircraft.
+
+982
+00:45:59,910 --> 00:46:02,970
+We've ramped capacity to about 12 aircraft per year
+
+983
+00:46:02,970 --> 00:46:04,140
+at that facility.
+
+984
+00:46:04,140 --> 00:46:07,080
+And we'll double that capacity in the next 12 to 18 months
+
+985
+00:46:07,080 --> 00:46:08,190
+there in Marina.
+
+986
+00:46:08,190 --> 00:46:10,710
+And all of that's happening in California.
+
+987
+00:46:10,710 --> 00:46:13,050
+And over 80% of the aircraft components
+
+988
+00:46:13,050 --> 00:46:15,570
+are made right here in our backyard,
+
+989
+00:46:15,570 --> 00:46:18,070
+hopefully in the next few years by your graduates.
+
+990
+00:46:19,080 --> 00:46:20,922
+And I'm actually gonna stop there
+
+991
+00:46:20,922 --> 00:46:21,755
+so we can get into the panel
+
+992
+00:46:21,755 --> 00:46:23,460
+because I want to hear what you want
+
+993
+00:46:23,460 --> 00:46:25,593
+to know about this industry.
+
+994
+00:46:26,670 --> 00:46:28,891
+And actually we're not getting into the panel,
+
+995
+00:46:28,891 --> 00:46:29,724
+we're getting into the best part,
+
+996
+00:46:29,724 --> 00:46:30,780
+but I don't wanna prolong,
+
+997
+00:46:30,780 --> 00:46:32,813
+I don't wanna prolong things any further.
+
+998
+00:46:33,757 --> 00:46:34,975
+- Thanks. Thanks, Cody.
+
+999
+00:46:34,975 --> 00:46:38,220
+(attendees applaud)
+
+1000
+00:46:38,220 --> 00:46:42,690
+Yeah, so with all these great companies growing here,
+
+1001
+00:46:42,690 --> 00:46:45,480
+there's just a couple of things I would like to point out
+
+1002
+00:46:45,480 --> 00:46:48,120
+is that all of this is in such early stages
+
+1003
+00:46:48,120 --> 00:46:51,000
+and you've heard each of them talk about the longer vision.
+
+1004
+00:46:51,000 --> 00:46:53,700
+So I think the opportunity for growth is like,
+
+1005
+00:46:53,700 --> 00:46:56,520
+it's a new renaissance in the aviation
+
+1006
+00:46:56,520 --> 00:46:58,500
+for the Bay Area and for California.
+
+1007
+00:46:58,500 --> 00:47:00,870
+So really exciting time and it hadn't
+
+1008
+00:47:00,870 --> 00:47:03,330
+and it wouldn't have happened as well
+
+1009
+00:47:03,330 --> 00:47:05,460
+or as quickly without UC Berkeley
+
+1010
+00:47:05,460 --> 00:47:07,680
+and other key research institutions here.
+
+1011
+00:47:07,680 --> 00:47:09,933
+So, Go Bears. - Go Bears.
+
+1012
+00:47:11,205 --> 00:47:12,371
+(attendees applaud)
+
+1013
+00:47:12,371 --> 00:47:14,621
+- And I'd like to introduce Dr. Jasenka Rakas
+
+1014
+00:47:15,570 --> 00:47:17,340
+who's gonna tell you all about
+
+1015
+00:47:17,340 --> 00:47:20,790
+some of the exciting things happening up there.
+
+1016
+00:47:20,790 --> 00:47:25,110
+Let's end this and you can get into your thing.
+
+1017
+00:47:25,110 --> 00:47:25,943
+- It's called...
+
+1018
+00:47:27,235 --> 00:47:28,068
+Here.
+
+1019
+00:47:28,068 --> 00:47:28,901
+- This one? - No, no.
+
+1020
+00:47:28,901 --> 00:47:29,734
+- This one? - Yeah.
+
+1021
+00:47:31,365 --> 00:47:32,963
+- And let me see if I can do this.
+
+1022
+00:47:35,128 --> 00:47:35,961
+Boom.
+
+1023
+00:47:35,961 --> 00:47:36,794
+- Thank you. - Okay.
+
+1024
+00:47:37,980 --> 00:47:39,939
+- Hello, everyone.
+
+1025
+00:47:39,939 --> 00:47:41,730
+And thank you for your patience.
+
+1026
+00:47:41,730 --> 00:47:46,372
+You can see how competitors can be nice and civilized here.
+
+1027
+00:47:46,372 --> 00:47:48,120
+(all laughing) (attendees applaud)
+
+1028
+00:47:48,120 --> 00:47:49,680
+And so,
+
+1029
+00:47:49,680 --> 00:47:53,370
+yes, they do deserve a round of applause.
+
+1030
+00:47:53,370 --> 00:47:55,440
+So why am I here?
+
+1031
+00:47:55,440 --> 00:48:00,440
+Well, UC Berkeley is a state university
+
+1032
+00:48:01,616 --> 00:48:05,580
+and UC Berkeley has a very good reputation
+
+1033
+00:48:05,580 --> 00:48:10,456
+and history about working with community colleges.
+
+1034
+00:48:10,456 --> 00:48:12,630
+And personally because I teach aviation courses,
+
+1035
+00:48:12,630 --> 00:48:14,700
+I teach sustainable aviation and infrastructure
+
+1036
+00:48:14,700 --> 00:48:17,163
+and airport systems design.
+
+1037
+00:48:18,090 --> 00:48:21,300
+Students who transfer to our engineering program
+
+1038
+00:48:21,300 --> 00:48:24,813
+from community colleges are usually at that,
+
+1039
+00:48:25,812 --> 00:48:28,620
+well, this is a senior undergrad classes.
+
+1040
+00:48:28,620 --> 00:48:33,180
+They are the most enthusiastic, the most resourceful,
+
+1041
+00:48:33,180 --> 00:48:36,420
+the most eager to learn and create
+
+1042
+00:48:36,420 --> 00:48:38,673
+and often the most innovative.
+
+1043
+00:48:39,526 --> 00:48:41,394
+So in light of that,
+
+1044
+00:48:41,394 --> 00:48:46,050
+we will be also discussing how further UC Berkeley
+
+1045
+00:48:46,050 --> 00:48:48,813
+and our Institute of Transportation Studies.
+
+1046
+00:48:49,769 --> 00:48:50,970
+And what I'm going to talk about
+
+1047
+00:48:50,970 --> 00:48:54,540
+is our UC Berkeley Mobility Hub
+
+1048
+00:48:54,540 --> 00:48:58,830
+at one of our facilities at Richmond Field Station.
+
+1049
+00:48:58,830 --> 00:49:03,010
+All working together hopefully to bring
+
+1050
+00:49:03,906 --> 00:49:07,725
+and to collaborate with community colleges
+
+1051
+00:49:07,725 --> 00:49:09,420
+and to bring and transfer
+
+1052
+00:49:09,420 --> 00:49:14,420
+more of these young talents into our engineering program.
+
+1053
+00:49:14,610 --> 00:49:17,640
+Our, as you know, by reputation,
+
+1054
+00:49:17,640 --> 00:49:21,570
+UC Berkeley is the world renowned university
+
+1055
+00:49:21,570 --> 00:49:25,740
+as ranked number one public university in the world.
+
+1056
+00:49:25,740 --> 00:49:30,720
+Our engineering program is ranked number one
+
+1057
+00:49:30,720 --> 00:49:35,460
+and our students really, as you get to Berkeley
+
+1058
+00:49:35,460 --> 00:49:39,240
+and near these engineering schools,
+
+1059
+00:49:39,240 --> 00:49:42,180
+you can get that vibe and that energy
+
+1060
+00:49:42,180 --> 00:49:47,130
+and enthusiasm that comes with these young bright minds.
+
+1061
+00:49:47,130 --> 00:49:51,630
+So to support all of that and to support
+
+1062
+00:49:51,630 --> 00:49:55,440
+and collaborate on this
+
+1063
+00:49:55,440 --> 00:49:59,350
+new innovative way of bringing
+
+1064
+00:50:01,380 --> 00:50:05,730
+or transporting people through emerging concepts
+
+1065
+00:50:05,730 --> 00:50:08,013
+such as urban air mobility.
+
+1066
+00:50:09,000 --> 00:50:10,770
+Urban air mobility is just one
+
+1067
+00:50:10,770 --> 00:50:14,970
+of the emerging concepts
+
+1068
+00:50:14,970 --> 00:50:17,613
+that further transport people.
+
+1069
+00:50:18,577 --> 00:50:21,420
+And our UC Berkeley Mobility Hub,
+
+1070
+00:50:21,420 --> 00:50:25,440
+which was recently created at the Richmond Field Station,
+
+1071
+00:50:25,440 --> 00:50:28,620
+which is a property of UC Berkeley,
+
+1072
+00:50:28,620 --> 00:50:32,853
+very close to Berkeley but in Richmond,
+
+1073
+00:50:33,930 --> 00:50:38,930
+which was created not that long ago,
+
+1074
+00:50:39,360 --> 00:50:42,840
+is a part of our Institute of Transportation Studies.
+
+1075
+00:50:42,840 --> 00:50:45,682
+And our institute is the oldest
+
+1076
+00:50:45,682 --> 00:50:49,053
+and our transportation libraries, the oldest in the country.
+
+1077
+00:50:50,040 --> 00:50:53,160
+Our students spent, transportation students,
+
+1078
+00:50:53,160 --> 00:50:56,470
+engineering students spent long hours there studying
+
+1079
+00:50:58,100 --> 00:51:00,280
+and working on their homework assignments
+
+1080
+00:51:00,280 --> 00:51:01,180
+and term projects.
+
+1081
+00:51:02,184 --> 00:51:05,733
+But the ITS as a big institute
+
+1082
+00:51:07,440 --> 00:51:10,140
+under now the guidance
+
+1083
+00:51:10,140 --> 00:51:12,270
+and leadership of Justin Wiley,
+
+1084
+00:51:12,270 --> 00:51:14,910
+who is our strategy and development director.
+
+1085
+00:51:14,910 --> 00:51:19,863
+And Justin is right in the back as a boss, yes please.
+
+1086
+00:51:20,970 --> 00:51:24,510
+And you will be hearing from him during
+
+1087
+00:51:24,510 --> 00:51:28,620
+probably the last part of this session
+
+1088
+00:51:28,620 --> 00:51:31,290
+and during the break about
+
+1089
+00:51:31,290 --> 00:51:35,430
+all these exciting opportunities that UC Berkeley
+
+1090
+00:51:35,430 --> 00:51:39,750
+is now having with community colleges.
+
+1091
+00:51:39,750 --> 00:51:44,460
+This 140 acre now piece of land
+
+1092
+00:51:44,460 --> 00:51:49,330
+is more than just simple Richmond Field Station
+
+1093
+00:51:50,194 --> 00:51:55,194
+for advancing transportation and advancing mobility.
+
+1094
+00:51:55,920 --> 00:51:58,260
+This new Berkeley Mobility Hub
+
+1095
+00:51:58,260 --> 00:52:03,260
+serves as a real world test bed,
+
+1096
+00:52:03,813 --> 00:52:07,803
+and not only for one type of research and operations,
+
+1097
+00:52:09,514 --> 00:52:11,400
+UC Berkeley is well known for connected
+
+1098
+00:52:11,400 --> 00:52:14,860
+and autonomous vehicles design
+
+1099
+00:52:14,860 --> 00:52:16,360
+and system that connects them.
+
+1100
+00:52:17,430 --> 00:52:20,340
+At this mobility hub,
+
+1101
+00:52:20,340 --> 00:52:23,460
+we further develop zero emissions vehicles
+
+1102
+00:52:23,460 --> 00:52:25,980
+and new energy sources.
+
+1103
+00:52:25,980 --> 00:52:30,397
+Hydrogen is a big innovation area
+
+1104
+00:52:31,800 --> 00:52:35,960
+that ITS researchers are working on
+
+1105
+00:52:37,260 --> 00:52:39,120
+through various research centers
+
+1106
+00:52:39,120 --> 00:52:42,540
+that are under the Institute of Transportation Studies.
+
+1107
+00:52:42,540 --> 00:52:46,950
+We have research trust at the Berkeley Mobility Hub
+
+1108
+00:52:46,950 --> 00:52:50,520
+about public transportation and shared mobility
+
+1109
+00:52:50,520 --> 00:52:53,100
+about fleet, freight and logistics
+
+1110
+00:52:53,100 --> 00:52:55,110
+and then advanced aviation,
+
+1111
+00:52:55,110 --> 00:52:59,040
+anything from drones, eVTOLs.
+
+1112
+00:52:59,040 --> 00:53:03,150
+And you heard from our developers
+
+1113
+00:53:03,150 --> 00:53:06,120
+what kind of eVTOLs we have,
+
+1114
+00:53:06,120 --> 00:53:08,880
+how different concepts can be used
+
+1115
+00:53:08,880 --> 00:53:12,630
+to bring these eVTOLs into the city
+
+1116
+00:53:12,630 --> 00:53:15,750
+and regional fabric.
+
+1117
+00:53:15,750 --> 00:53:19,230
+Because one side of the story
+
+1118
+00:53:19,230 --> 00:53:20,970
+is to develop a vehicle,
+
+1119
+00:53:20,970 --> 00:53:23,658
+well you have to develop a system
+
+1120
+00:53:23,658 --> 00:53:25,470
+and then you have to actually bring
+
+1121
+00:53:25,470 --> 00:53:28,710
+that system into your communities.
+
+1122
+00:53:28,710 --> 00:53:31,050
+And as with the noise,
+
+1123
+00:53:31,050 --> 00:53:34,743
+when we originally started building airports,
+
+1124
+00:53:36,734 --> 00:53:38,034
+that wasn't a big problem.
+
+1125
+00:53:39,720 --> 00:53:44,720
+Citizens who live south of LAX Airport
+
+1126
+00:53:44,853 --> 00:53:46,710
+and El Segundo were powerful enough
+
+1127
+00:53:46,710 --> 00:53:50,550
+to stop the expansion of, and the number of gates at LAX
+
+1128
+00:53:50,550 --> 00:53:52,350
+because of the noise issues.
+
+1129
+00:53:52,350 --> 00:53:55,860
+So my point is that it is extremely important to work
+
+1130
+00:53:55,860 --> 00:54:00,510
+with your communities to get their approval
+
+1131
+00:54:00,510 --> 00:54:03,180
+of your new concepts.
+
+1132
+00:54:03,180 --> 00:54:08,040
+And although the aircraft might be very quiet,
+
+1133
+00:54:08,040 --> 00:54:10,470
+maybe visual pollution might be another problem.
+
+1134
+00:54:10,470 --> 00:54:13,260
+So working with these communities,
+
+1135
+00:54:13,260 --> 00:54:16,290
+as I said would be very important.
+
+1136
+00:54:16,290 --> 00:54:19,710
+We also have research on connected
+
+1137
+00:54:19,710 --> 00:54:21,450
+and digital infrastructure
+
+1138
+00:54:21,450 --> 00:54:25,660
+and that is basically an underlying
+
+1139
+00:54:27,390 --> 00:54:31,860
+piece of infrastructure that enables flights
+
+1140
+00:54:31,860 --> 00:54:36,243
+of drones or eVTOLs or connected vehicles.
+
+1141
+00:54:37,320 --> 00:54:40,920
+So these are some of the new facilities,
+
+1142
+00:54:40,920 --> 00:54:44,700
+new automated vehicle test track,
+
+1143
+00:54:44,700 --> 00:54:49,700
+new signal lab, new drone park training facility.
+
+1144
+00:54:50,974 --> 00:54:53,020
+And with all these facilities
+
+1145
+00:54:54,039 --> 00:54:57,423
+under the leadership now of Justin,
+
+1146
+00:54:58,500 --> 00:55:01,680
+Berkeley's position, again as a global center
+
+1147
+00:55:01,680 --> 00:55:04,590
+for next generation mobility research,
+
+1148
+00:55:04,590 --> 00:55:09,590
+how to make it into the real world and make it to commercial
+
+1149
+00:55:10,020 --> 00:55:12,870
+and how to create a workforce.
+
+1150
+00:55:12,870 --> 00:55:17,670
+And we have also through the ITS
+
+1151
+00:55:17,670 --> 00:55:20,610
+various other initiatives
+
+1152
+00:55:20,610 --> 00:55:23,970
+where our knowledge can be transferred
+
+1153
+00:55:23,970 --> 00:55:28,970
+into the real world where our former students
+
+1154
+00:55:31,410 --> 00:55:36,410
+are now leaders at one of these eVTOLs developer companies.
+
+1155
+00:55:36,810 --> 00:55:41,810
+So as I said, this is the very unique university
+
+1156
+00:55:43,110 --> 00:55:47,313
+that welcomes community college students.
+
+1157
+00:55:48,340 --> 00:55:53,207
+It is very famous for what we call the social mobility,
+
+1158
+00:55:53,207 --> 00:55:56,320
+students from, at our university
+
+1159
+00:55:57,420 --> 00:56:02,420
+often come as students from underprivileged backgrounds,
+
+1160
+00:56:04,592 --> 00:56:06,330
+a large percentage of students are actually
+
+1161
+00:56:06,330 --> 00:56:09,123
+first generation college students.
+
+1162
+00:56:09,990 --> 00:56:12,556
+And that gives that diversity
+
+1163
+00:56:12,556 --> 00:56:15,120
+and that enthusiasm brings us
+
+1164
+00:56:15,120 --> 00:56:19,170
+to that next level where we are now,
+
+1165
+00:56:19,170 --> 00:56:22,233
+where we are the best public university in the world.
+
+1166
+00:56:23,433 --> 00:56:25,290
+Our UC Berkeley Mobility Hub
+
+1167
+00:56:25,290 --> 00:56:28,680
+is now this unique opportunity
+
+1168
+00:56:28,680 --> 00:56:30,870
+to fill this growing industry need
+
+1169
+00:56:30,870 --> 00:56:32,490
+for advanced vehicle testing
+
+1170
+00:56:32,490 --> 00:56:36,423
+across different transportation verticals and modes.
+
+1171
+00:56:37,430 --> 00:56:41,580
+And this hub creates a scalable ecosystem
+
+1172
+00:56:41,580 --> 00:56:44,550
+for research, commercialization
+
+1173
+00:56:44,550 --> 00:56:46,623
+and workforce development.
+
+1174
+00:56:47,861 --> 00:56:50,820
+And that benefits the university, our partners,
+
+1175
+00:56:50,820 --> 00:56:53,400
+and more importantly the public
+
+1176
+00:56:53,400 --> 00:56:56,130
+because we are the public university
+
+1177
+00:56:56,130 --> 00:56:58,620
+and we are very much aware of it
+
+1178
+00:56:58,620 --> 00:57:02,220
+because it is your tax payer's,
+
+1179
+00:57:02,220 --> 00:57:05,190
+tax money that we live on.
+
+1180
+00:57:05,190 --> 00:57:07,740
+So we are trying to make the best out of it.
+
+1181
+00:57:07,740 --> 00:57:09,297
+Thank you.
+
+1182
+00:57:09,297 --> 00:57:10,721
+(attendees applaud)
+
+1183
+00:57:10,721 --> 00:57:14,550
+I wanted to also just share with you this link.
+
+1184
+00:57:14,550 --> 00:57:18,990
+We will be having on October 23rd and the 24th,
+
+1185
+00:57:18,990 --> 00:57:21,210
+AI mobility workshop.
+
+1186
+00:57:21,210 --> 00:57:26,210
+And Justin might share maybe during the panel discussion
+
+1187
+00:57:26,520 --> 00:57:30,660
+a few words about this workshop.
+
+1188
+00:57:30,660 --> 00:57:33,157
+Thanks. (attendees applaud)
+
+1189
+00:57:33,157 --> 00:57:34,157
+- All right.
+
+1190
+00:57:35,610 --> 00:57:36,873
+Thank you, Jasenka.
+
+1191
+00:57:38,310 --> 00:57:41,700
+Well I would love to invite you all to the panel discussion,
+
+1192
+00:57:41,700 --> 00:57:45,240
+but we've had such a great set of talks
+
+1193
+00:57:45,240 --> 00:57:50,240
+that we have actually expended our time for the panel.
+
+1194
+00:57:50,880 --> 00:57:53,880
+So what I would like to invite you to do,
+
+1195
+00:57:53,880 --> 00:57:55,260
+some of us will stick around
+
+1196
+00:57:55,260 --> 00:57:57,960
+and as some of us have calls to run off to,
+
+1197
+00:57:57,960 --> 00:57:59,760
+but some of us will stick around
+
+1198
+00:57:59,760 --> 00:58:03,330
+and we'd love to take questions over here on the side
+
+1199
+00:58:03,330 --> 00:58:06,060
+if that's something you want to do or out in the lobby.
+
+1200
+00:58:06,060 --> 00:58:07,710
+If this, we can stay here?
+
+1201
+00:58:07,710 --> 00:58:09,720
+So we can stay here.
+
+1202
+00:58:09,720 --> 00:58:13,500
+Maybe if, can we keep talking, if we can stay here?
+
+1203
+00:58:13,500 --> 00:58:17,160
+Well if anyone has to leave to the next session,
+
+1204
+00:58:17,160 --> 00:58:18,270
+you may do so.
+
+1205
+00:58:18,270 --> 00:58:20,490
+But if you would like to stick around here,
+
+1206
+00:58:20,490 --> 00:58:23,850
+it doesn't seem like we have to run out right away
+
+1207
+00:58:23,850 --> 00:58:27,150
+so we can take a couple of questions
+
+1208
+00:58:27,150 --> 00:58:28,620
+or comments from the audience.
+
+1209
+00:58:28,620 --> 00:58:30,600
+Does that sound right?
+
+1210
+00:58:30,600 --> 00:58:32,160
+Sir?
+
+1211
+00:58:32,160 --> 00:58:33,960
+- First off, I wanna thank you for your panel.
+
+1212
+00:58:33,960 --> 00:58:37,118
+I'm with (faintly speaking) for the workforce board.
+
+1213
+00:58:37,118 --> 00:58:38,610
+We work very close to our community college partners.
+
+1214
+00:58:38,610 --> 00:58:40,560
+I've worked in multiple states before
+
+1215
+00:58:40,560 --> 00:58:43,153
+and in supporting aviation programs,
+
+1216
+00:58:43,153 --> 00:58:45,000
+the A&P, the Airframe and Powerplant license
+
+1217
+00:58:45,000 --> 00:58:46,830
+is a very common credential
+
+1218
+00:58:46,830 --> 00:58:49,620
+that colleges and workforce boards can really focus on,
+
+1219
+00:58:49,620 --> 00:58:51,870
+produce a skilled town pipeline.
+
+1220
+00:58:51,870 --> 00:58:55,500
+Do you foresee any equivalency to that
+
+1221
+00:58:55,500 --> 00:58:59,659
+where one program can meet multiple employer needs?
+
+1222
+00:58:59,659 --> 00:59:02,070
+It really kind of helps, I think leverage a lot of synergy
+
+1223
+00:59:02,070 --> 00:59:05,220
+around training workforce and employer needs.
+
+1224
+00:59:05,220 --> 00:59:06,053
+Thank you.
+
+1225
+00:59:07,380 --> 00:59:08,370
+- You wanna start?
+
+1226
+00:59:08,370 --> 00:59:09,203
+- No, go ahead.
+
+1227
+00:59:09,203 --> 00:59:10,268
+- Okay.
+
+1228
+00:59:10,268 --> 00:59:11,101
+Can you guys hear me okay? Good.
+
+1229
+00:59:11,101 --> 00:59:12,390
+Yeah, this is, I actually had a slide on this.
+
+1230
+00:59:12,390 --> 00:59:15,630
+One of the slides I skipped was about this very issue.
+
+1231
+00:59:15,630 --> 00:59:18,995
+So all of you have heard about the pilot shortage, right?
+
+1232
+00:59:18,995 --> 00:59:19,828
+In the mainstream media there's not enough pilots,
+
+1233
+00:59:19,828 --> 00:59:21,216
+not enough pilots.
+
+1234
+00:59:21,216 --> 00:59:22,049
+It's true.
+
+1235
+00:59:22,049 --> 00:59:22,890
+I'm a pilot and Joby only hired me
+
+1236
+00:59:22,890 --> 00:59:24,060
+'cause there weren't enough of me, right?
+
+1237
+00:59:24,060 --> 00:59:24,960
+So I'm lucky,
+
+1238
+00:59:24,960 --> 00:59:26,957
+I'm a lucky recipient of the shortage.
+
+1239
+00:59:26,957 --> 00:59:29,430
+But the mechanic shortage is far worse,
+
+1240
+00:59:29,430 --> 00:59:31,680
+even though there's not mainstream media coverage
+
+1241
+00:59:31,680 --> 00:59:32,700
+for the mechanic shortage.
+
+1242
+00:59:32,700 --> 00:59:33,900
+And even my colleagues here
+
+1243
+00:59:33,900 --> 00:59:35,700
+who are developing autonomous aircraft
+
+1244
+00:59:35,700 --> 00:59:36,900
+need a lot of mechanics, right?
+
+1245
+00:59:36,900 --> 00:59:40,170
+So there's a huge pain across the industry already.
+
+1246
+00:59:40,170 --> 00:59:42,698
+And as I said before, we're creating, you know-
+
+1247
+00:59:42,698 --> 00:59:43,531
+- Slides.
+
+1248
+00:59:43,531 --> 00:59:44,820
+- Oh, thank you, thank you.
+
+1249
+00:59:44,820 --> 00:59:46,370
+Josh knows my slides well.
+
+1250
+00:59:46,370 --> 00:59:49,080
+So this represents Oliver Wyman's study
+
+1251
+00:59:49,080 --> 00:59:51,930
+that shows that by I think 2027,
+
+1252
+00:59:51,930 --> 00:59:55,110
+they're predicting a shortage of 8,000 mechanics
+
+1253
+00:59:55,110 --> 00:59:56,280
+across the US.
+
+1254
+00:59:56,280 --> 00:59:57,810
+And this does not take into account
+
+1255
+00:59:57,810 --> 00:59:59,040
+the advanced air mobility industry
+
+1256
+00:59:59,040 --> 01:00:00,330
+that we just described to you today.
+
+1257
+01:00:00,330 --> 01:00:02,640
+So this is just our conventional aviation industry.
+
+1258
+01:00:02,640 --> 01:00:07,230
+So the reality is there's a huge gap there already.
+
+1259
+01:00:07,230 --> 01:00:08,910
+The other reality is that
+
+1260
+01:00:08,910 --> 01:00:10,320
+the Airframe and Powerplant certification
+
+1261
+01:00:10,320 --> 01:00:13,350
+is a federal aviation administration certification.
+
+1262
+01:00:13,350 --> 01:00:15,240
+You cannot, you're not authorized
+
+1263
+01:00:15,240 --> 01:00:16,500
+to perform maintenance on an aircraft
+
+1264
+01:00:16,500 --> 01:00:17,430
+without this certification.
+
+1265
+01:00:17,430 --> 01:00:18,430
+You have to have it.
+
+1266
+01:00:19,350 --> 01:00:20,730
+The problem is it doesn't teach
+
+1267
+01:00:20,730 --> 01:00:22,380
+anything about electric aircraft.
+
+1268
+01:00:22,380 --> 01:00:23,793
+So there's a big gap there.
+
+1269
+01:00:24,630 --> 01:00:27,120
+But the other problem is there, you know,
+
+1270
+01:00:27,120 --> 01:00:29,010
+I don't know if there's any community colleges, Gavilan
+
+1271
+01:00:29,010 --> 01:00:30,780
+or quest to college
+
+1272
+01:00:30,780 --> 01:00:33,540
+closest in our region here in the room,
+
+1273
+01:00:33,540 --> 01:00:35,670
+but the, they don't have room in their curriculum
+
+1274
+01:00:35,670 --> 01:00:37,320
+to add anything about electric aircraft
+
+1275
+01:00:37,320 --> 01:00:39,510
+because of the nature of the FAA requirements.
+
+1276
+01:00:39,510 --> 01:00:42,330
+And so there's, you know, a lot of work
+
+1277
+01:00:42,330 --> 01:00:44,700
+that needs to go into there.
+
+1278
+01:00:44,700 --> 01:00:46,920
+What we know needs to happen
+
+1279
+01:00:46,920 --> 01:00:48,990
+is we need more academic institutions
+
+1280
+01:00:48,990 --> 01:00:51,480
+creating aircraft mechanics who have that certification.
+
+1281
+01:00:51,480 --> 01:00:53,610
+And then we need more industry partnerships
+
+1282
+01:00:53,610 --> 01:00:56,040
+with academic institutions, nonprofits, and others
+
+1283
+01:00:56,040 --> 01:00:58,890
+to bring that additional electric aircraft training,
+
+1284
+01:00:58,890 --> 01:01:00,360
+like the advanced manufacturing
+
+1285
+01:01:00,360 --> 01:01:02,010
+or the advanced maintenance technician
+
+1286
+01:01:02,010 --> 01:01:04,320
+apprenticeship program that DART created
+
+1287
+01:01:04,320 --> 01:01:06,150
+in partnership with Joby
+
+1288
+01:01:06,150 --> 01:01:08,310
+to create an apprenticeship path
+
+1289
+01:01:08,310 --> 01:01:10,530
+to both the Airframe and Powerplant certification
+
+1290
+01:01:10,530 --> 01:01:12,300
+and the electric aircraft training
+
+1291
+01:01:12,300 --> 01:01:14,280
+that allows technicians over two and a half years
+
+1292
+01:01:14,280 --> 01:01:16,410
+to get all that training while they earn and learn
+
+1293
+01:01:16,410 --> 01:01:17,243
+on the job training.
+
+1294
+01:01:17,243 --> 01:01:20,553
+So more to discuss there for sure. It's a huge issue.
+
+1295
+01:01:22,080 --> 01:01:22,913
+- Yeah, absolutely.
+
+1296
+01:01:22,913 --> 01:01:24,390
+And I'll quickly double down on
+
+1297
+01:01:24,390 --> 01:01:25,650
+what Cody was saying
+
+1298
+01:01:25,650 --> 01:01:29,700
+and add a little bit more from that autonomy piece as well.
+
+1299
+01:01:29,700 --> 01:01:32,400
+You know, just in that electric powertrain,
+
+1300
+01:01:32,400 --> 01:01:35,160
+electric mechanic for aircraft,
+
+1301
+01:01:35,160 --> 01:01:37,590
+we're obviously gonna have another aspect of that
+
+1302
+01:01:37,590 --> 01:01:41,820
+that's really related to autonomy integration technicians
+
+1303
+01:01:41,820 --> 01:01:44,970
+and things of that nature that are like basically
+
+1304
+01:01:44,970 --> 01:01:47,850
+very, very much tied into the operation
+
+1305
+01:01:47,850 --> 01:01:49,410
+of the aircraft itself.
+
+1306
+01:01:49,410 --> 01:01:53,550
+That will very much be a new occupation altogether
+
+1307
+01:01:53,550 --> 01:01:56,910
+that we're kind of trying to understand and develop now.
+
+1308
+01:01:56,910 --> 01:01:59,040
+So that's yet another aspect of it
+
+1309
+01:01:59,040 --> 01:02:00,150
+that I'll just quickly add.
+
+1310
+01:02:00,150 --> 01:02:01,202
+Thanks.
+
+1311
+01:02:01,202 --> 01:02:03,000
+- [Josh] We have another question here.
+
+1312
+01:02:03,000 --> 01:02:05,156
+You can see if there's a microphone.
+
+1313
+01:02:05,156 --> 01:02:05,989
+- There's a button on the bottom
+
+1314
+01:02:05,989 --> 01:02:06,990
+that you have to press and hold.
+
+1315
+01:02:06,990 --> 01:02:08,040
+Long press.
+
+1316
+01:02:08,040 --> 01:02:10,240
+Yeah, long press till you see a green light.
+
+1317
+01:02:11,700 --> 01:02:13,830
+And then flip the switch near the top too.
+
+1318
+01:02:13,830 --> 01:02:14,973
+- Nice.
+
+1319
+01:02:16,470 --> 01:02:17,400
+- I can't figure out Zoom,
+
+1320
+01:02:17,400 --> 01:02:19,472
+but I know how to work myself
+
+1321
+01:02:19,472 --> 01:02:20,723
+around a microphone, that's for sure.
+
+1322
+01:02:23,688 --> 01:02:24,521
+- [Attendee] Well.
+
+1323
+01:02:24,521 --> 01:02:26,510
+- We can hear you. - Yeah, we can hear you.
+
+1324
+01:02:26,510 --> 01:02:27,510
+- So I was thinking,
+
+1325
+01:02:27,510 --> 01:02:30,780
+given the shortage and how long it takes us
+
+1326
+01:02:30,780 --> 01:02:34,080
+to actually build up a program in our community colleges,
+
+1327
+01:02:34,080 --> 01:02:38,370
+what do you see as potentials of transferable paths
+
+1328
+01:02:38,370 --> 01:02:42,150
+that would lead into some of your workforce needs
+
+1329
+01:02:42,150 --> 01:02:44,880
+as well as, you know, one of the things
+
+1330
+01:02:44,880 --> 01:02:48,154
+that would be nice similar to the apprenticeship route
+
+1331
+01:02:48,154 --> 01:02:50,400
+would be almost like a bridge to your industry?
+
+1332
+01:02:50,400 --> 01:02:52,290
+So we have advanced manufacturing,
+
+1333
+01:02:52,290 --> 01:02:54,600
+we have our automotive programs
+
+1334
+01:02:54,600 --> 01:02:57,390
+that are in electrical, autonomous space
+
+1335
+01:02:57,390 --> 01:02:59,580
+that we're, you know, moving into
+
+1336
+01:02:59,580 --> 01:03:01,290
+and getting students through.
+
+1337
+01:03:01,290 --> 01:03:03,840
+Can those then lead into something
+
+1338
+01:03:03,840 --> 01:03:07,160
+that we would then be able to partner with?
+
+1339
+01:03:08,190 --> 01:03:11,557
+- I think so many of the things and the people
+
+1340
+01:03:11,557 --> 01:03:14,790
+you're already training are extremely valuable
+
+1341
+01:03:14,790 --> 01:03:16,950
+for a lot of roles at our companies.
+
+1342
+01:03:16,950 --> 01:03:20,376
+I think like some of the skills that I talked with
+
+1343
+01:03:20,376 --> 01:03:22,560
+a number of my leaders about what are the skills
+
+1344
+01:03:22,560 --> 01:03:24,780
+that you're most looking for in people
+
+1345
+01:03:24,780 --> 01:03:27,960
+to enter into our technician, operator, engineering,
+
+1346
+01:03:27,960 --> 01:03:28,793
+honestly all roles.
+
+1347
+01:03:28,793 --> 01:03:31,350
+And some of the kind of critical things
+
+1348
+01:03:31,350 --> 01:03:33,630
+they talked about are practical problem solving,
+
+1349
+01:03:33,630 --> 01:03:37,920
+creating simple solutions to complex problems,
+
+1350
+01:03:37,920 --> 01:03:40,830
+ability to work in fast-paced learning environments.
+
+1351
+01:03:40,830 --> 01:03:43,893
+So flexibility, adapting to kind of changed,
+
+1352
+01:03:44,758 --> 01:03:46,931
+like changing requirements and such.
+
+1353
+01:03:46,931 --> 01:03:47,940
+And then hands-on skills and experience.
+
+1354
+01:03:47,940 --> 01:03:50,160
+And I really want to emphasize the hands-on skills
+
+1355
+01:03:50,160 --> 01:03:51,810
+and experience, like everyone I talk to
+
+1356
+01:03:51,810 --> 01:03:54,600
+and every role I've hired for essentially,
+
+1357
+01:03:54,600 --> 01:03:56,430
+that is working on the plane in any capacity
+
+1358
+01:03:56,430 --> 01:03:58,787
+is looking for what have you actually built,
+
+1359
+01:03:58,787 --> 01:03:59,790
+what have you actually assembled?
+
+1360
+01:03:59,790 --> 01:04:01,950
+So I think, and we look to not just
+
+1361
+01:04:01,950 --> 01:04:05,370
+what you're doing in school, but also projects in your own.
+
+1362
+01:04:05,370 --> 01:04:09,120
+So I think the, like, the more you can, for us at least,
+
+1363
+01:04:09,120 --> 01:04:12,150
+or my experience is the more you can get people out
+
+1364
+01:04:12,150 --> 01:04:14,310
+of just theory and actually building
+
+1365
+01:04:14,310 --> 01:04:15,870
+and assembling things, fixing things,
+
+1366
+01:04:15,870 --> 01:04:17,970
+kind of debugging things
+
+1367
+01:04:17,970 --> 01:04:22,770
+and encouraging project work on their own, the better.
+
+1368
+01:04:22,770 --> 01:04:25,470
+Like if, you know, people take time to work on their bike,
+
+1369
+01:04:25,470 --> 01:04:29,040
+motorcycle, build something at home, yeah.
+
+1370
+01:04:29,040 --> 01:04:31,050
+Those are some skills that are really valuable.
+
+1371
+01:04:31,050 --> 01:04:32,550
+- That's great. - Yeah.
+
+1372
+01:04:32,550 --> 01:04:34,850
+- The community colleges are your best friend.
+
+1373
+01:04:36,294 --> 01:04:38,610
+- Totally.
+
+1374
+01:04:38,610 --> 01:04:39,826
+Totally.
+
+1375
+01:04:39,826 --> 01:04:41,204
+- So I think the challenge though,
+
+1376
+01:04:41,204 --> 01:04:42,660
+if I look at your job descriptions,
+
+1377
+01:04:42,660 --> 01:04:44,061
+because I opened up some of 'em.
+
+1378
+01:04:44,061 --> 01:04:44,894
+- Yeah.
+
+1379
+01:04:44,894 --> 01:04:45,870
+- Each of your conversations,
+
+1380
+01:04:45,870 --> 01:04:49,170
+they all require three to five years of some experience
+
+1381
+01:04:49,170 --> 01:04:50,490
+in your industry.
+
+1382
+01:04:50,490 --> 01:04:53,340
+So how do we translate all of the skills
+
+1383
+01:04:53,340 --> 01:04:55,200
+that students are building in our programs
+
+1384
+01:04:55,200 --> 01:04:57,690
+that are technical, that are hands-on,
+
+1385
+01:04:57,690 --> 01:04:59,070
+might be in electrical tech,
+
+1386
+01:04:59,070 --> 01:05:01,511
+it might be in advanced manufacturing,
+
+1387
+01:05:01,511 --> 01:05:03,090
+it might be, you know, to get into your industry.
+
+1388
+01:05:03,090 --> 01:05:04,410
+That's the challenge.
+
+1389
+01:05:04,410 --> 01:05:05,790
+- That's-
+
+1390
+01:05:05,790 --> 01:05:07,560
+- [Attendee] We would love to partner with you.
+
+1391
+01:05:07,560 --> 01:05:08,670
+- That's a really great question
+
+1392
+01:05:08,670 --> 01:05:12,263
+and I, yeah, I am really excited about the idea of,
+
+1393
+01:05:12,263 --> 01:05:13,230
+and I need to talk to somebody.
+
+1394
+01:05:13,230 --> 01:05:14,700
+I would definitely need like the buy-in
+
+1395
+01:05:14,700 --> 01:05:16,813
+of some of the managers on those teams,
+
+1396
+01:05:16,813 --> 01:05:18,788
+but I know they're excited about the potential
+
+1397
+01:05:18,788 --> 01:05:20,988
+of having like internship or co-op programs.
+
+1398
+01:05:21,923 --> 01:05:25,140
+And I think like having a partner of a college,
+
+1399
+01:05:25,140 --> 01:05:26,280
+like I'm excited to be here
+
+1400
+01:05:26,280 --> 01:05:29,140
+and hopefully just have exposure to people knowing me
+
+1401
+01:05:30,120 --> 01:05:33,180
+to build partnerships where people in colleges,
+
+1402
+01:05:33,180 --> 01:05:36,180
+like, are actually partners in
+
+1403
+01:05:36,180 --> 01:05:40,155
+creating exposure and being excited.
+
+1404
+01:05:40,155 --> 01:05:41,411
+(attendee faintly speaking)
+
+1405
+01:05:41,411 --> 01:05:42,244
+- Like, great.
+
+1406
+01:05:42,244 --> 01:05:43,080
+- [Attendee] Talk to them, you should.
+
+1407
+01:05:43,080 --> 01:05:44,700
+- Pam was just telling me about it.
+
+1408
+01:05:44,700 --> 01:05:46,470
+College of Alameda? Great.
+
+1409
+01:05:46,470 --> 01:05:49,225
+- [Attendee] Hi, you already, you are doing that,
+
+1410
+01:05:49,225 --> 01:05:50,058
+you're doing that right now.
+
+1411
+01:05:50,058 --> 01:05:51,330
+You're partnered with us on a project
+
+1412
+01:05:51,330 --> 01:05:53,580
+where community college students are gonna get to do that.
+
+1413
+01:05:53,580 --> 01:05:55,136
+- Amazing.
+
+1414
+01:05:55,136 --> 01:05:56,029
+(Monisha laughs)
+
+1415
+01:05:56,029 --> 01:05:56,862
+- [Attendee] Tell you more about what we're doing.
+
+1416
+01:05:56,862 --> 01:05:58,275
+(all laughing)
+
+1417
+01:05:58,275 --> 01:06:00,292
+- Great. Thank you.
+
+1418
+01:06:00,292 --> 01:06:03,030
+- [Josh] And I would just take a moment
+
+1419
+01:06:03,030 --> 01:06:05,190
+to mention some of the work that we've been
+
+1420
+01:06:05,190 --> 01:06:08,700
+able to do down in Monterey in this regard,
+
+1421
+01:06:08,700 --> 01:06:10,890
+has really been about addressing
+
+1422
+01:06:10,890 --> 01:06:12,590
+exactly what you're talking about.
+
+1423
+01:06:13,710 --> 01:06:18,090
+And through apprenticeship model has really worked well.
+
+1424
+01:06:18,090 --> 01:06:21,090
+And we've also worked with the workforce board
+
+1425
+01:06:21,090 --> 01:06:24,120
+to do internship programs
+
+1426
+01:06:24,120 --> 01:06:26,610
+and increasingly with each of the community colleges
+
+1427
+01:06:26,610 --> 01:06:30,570
+to align kind of short-term work experience,
+
+1428
+01:06:30,570 --> 01:06:33,570
+opportunities that meet the need
+
+1429
+01:06:33,570 --> 01:06:36,273
+that Joby and other players have down there.
+
+1430
+01:06:36,273 --> 01:06:37,106
+So-
+
+1431
+01:06:37,106 --> 01:06:38,462
+- [Attendee] Yeah, I'm in Southern California
+
+1432
+01:06:38,462 --> 01:06:40,607
+so anybody wants to go to Orange County?
+
+1433
+01:06:40,607 --> 01:06:41,440
+- [Josh] Yeah.
+
+1434
+01:06:41,440 --> 01:06:43,935
+So we're talking to your Orange County business people.
+
+1435
+01:06:43,935 --> 01:06:45,510
+- [Attendee] 'Cause I think it's really hard
+
+1436
+01:06:45,510 --> 01:06:48,470
+for you to finish it from down there about.
+
+1437
+01:06:48,470 --> 01:06:49,303
+- [Josh] Yeah, yeah.
+
+1438
+01:06:49,303 --> 01:06:50,940
+We've just been having good conversations
+
+1439
+01:06:50,940 --> 01:06:53,220
+with the Orange County Business Council
+
+1440
+01:06:53,220 --> 01:06:56,520
+and also the South Coast Workforce Investment Board
+
+1441
+01:06:56,520 --> 01:06:58,620
+has some really good stuff going on in that regard.
+
+1442
+01:06:58,620 --> 01:07:00,420
+- I wanna add one more thing to that question
+
+1443
+01:07:00,420 --> 01:07:02,010
+'cause I think it's actually something
+
+1444
+01:07:02,010 --> 01:07:03,600
+that is I'm passionate about,
+
+1445
+01:07:03,600 --> 01:07:06,690
+is getting people of different backgrounds
+
+1446
+01:07:06,690 --> 01:07:09,630
+and underrepresented populations into the workforce.
+
+1447
+01:07:09,630 --> 01:07:12,480
+And I definitely being in an industry
+
+1448
+01:07:12,480 --> 01:07:15,780
+that is, I would love to see more diversity
+
+1449
+01:07:15,780 --> 01:07:17,220
+in the pipeline coming in.
+
+1450
+01:07:17,220 --> 01:07:19,980
+One of the messages that I really want
+
+1451
+01:07:19,980 --> 01:07:21,810
+to get out more is encouraging
+
+1452
+01:07:21,810 --> 01:07:23,880
+and for us all to encourage people who don't check all
+
+1453
+01:07:23,880 --> 01:07:26,700
+of the boxes to still apply.
+
+1454
+01:07:26,700 --> 01:07:30,060
+I think like it's rare to find candidates
+
+1455
+01:07:30,060 --> 01:07:31,860
+who check every single box.
+
+1456
+01:07:31,860 --> 01:07:34,980
+So we, like, write preferred qualifications
+
+1457
+01:07:34,980 --> 01:07:36,750
+and we've started shifting to doing preferred
+
+1458
+01:07:36,750 --> 01:07:39,300
+and required, so it's a little more clear, like,
+
+1459
+01:07:39,300 --> 01:07:42,420
+which are actually really necessary to have.
+
+1460
+01:07:42,420 --> 01:07:44,850
+But establishing and really encouraging students
+
+1461
+01:07:44,850 --> 01:07:48,561
+to apply to things, even if they don't check all the boxes.
+
+1462
+01:07:48,561 --> 01:07:50,100
+And recognizing that it tends to shift
+
+1463
+01:07:50,100 --> 01:07:52,440
+towards underrepresented populations
+
+1464
+01:07:52,440 --> 01:07:54,975
+who don't apply to things
+
+1465
+01:07:54,975 --> 01:07:55,890
+that they don't check all the boxes for.
+
+1466
+01:07:55,890 --> 01:07:57,600
+So like all collectively kind of getting
+
+1467
+01:07:57,600 --> 01:07:59,700
+that message out I think is really important.
+
+1468
+01:07:59,700 --> 01:08:03,390
+And then I think like adding into resumes, you know,
+
+1469
+01:08:03,390 --> 01:08:06,810
+projects and such outside of just the careers
+
+1470
+01:08:06,810 --> 01:08:08,220
+that you've done.
+
+1471
+01:08:08,220 --> 01:08:09,660
+And yeah, I mean for,
+
+1472
+01:08:09,660 --> 01:08:11,880
+I actually haven't seen portfolios really
+
+1473
+01:08:11,880 --> 01:08:13,500
+for technician role and operator roles
+
+1474
+01:08:13,500 --> 01:08:15,120
+for a mech, like engineering roles.
+
+1475
+01:08:15,120 --> 01:08:17,340
+We really value portfolios
+
+1476
+01:08:17,340 --> 01:08:19,530
+and portfolios that show project work,
+
+1477
+01:08:19,530 --> 01:08:22,041
+things that you've actually built.
+
+1478
+01:08:22,041 --> 01:08:22,874
+And so, yeah, I don't know.
+
+1479
+01:08:22,874 --> 01:08:23,790
+I haven't talked about the idea
+
+1480
+01:08:23,790 --> 01:08:26,010
+of adding portfolios into some of those other roles,
+
+1481
+01:08:26,010 --> 01:08:27,360
+but in my head right now I'm like,
+
+1482
+01:08:27,360 --> 01:08:28,800
+I think that would go a long way
+
+1483
+01:08:28,800 --> 01:08:30,600
+for our hiring managers to see,
+
+1484
+01:08:30,600 --> 01:08:32,730
+oh, you've actually built and made things on your own,
+
+1485
+01:08:32,730 --> 01:08:34,773
+even if not in this specific profession.
+
+1486
+01:08:35,834 --> 01:08:36,667
+- [Attendee] That's really cool. Thank you.
+
+1487
+01:08:36,667 --> 01:08:37,860
+- [Josh] That's great.
+
+1488
+01:08:37,860 --> 01:08:39,540
+Cody, do you want to add anything to that
+
+1489
+01:08:39,540 --> 01:08:40,770
+based on your experience
+
+1490
+01:08:40,770 --> 01:08:45,150
+with the way you frame the recruitments and things?
+
+1491
+01:08:45,150 --> 01:08:46,500
+- Sure, I'll briefly address,
+
+1492
+01:08:46,500 --> 01:08:48,690
+specifically what you said about advanced manufacturing.
+
+1493
+01:08:48,690 --> 01:08:51,480
+I think, one thing that we have going against us
+
+1494
+01:08:51,480 --> 01:08:52,650
+in California, as everyone says,
+
+1495
+01:08:52,650 --> 01:08:54,450
+you can't manufacture things in California.
+
+1496
+01:08:54,450 --> 01:08:57,600
+And for a long time we all believed that it was true.
+
+1497
+01:08:57,600 --> 01:09:00,210
+And I think what we're finding down in Monterey County
+
+1498
+01:09:00,210 --> 01:09:01,710
+and San Mateo County for that matter
+
+1499
+01:09:01,710 --> 01:09:03,450
+with our aircraft manufacturing,
+
+1500
+01:09:03,450 --> 01:09:06,050
+is that we started manufacturing in California
+
+1501
+01:09:06,050 --> 01:09:07,650
+as a measure of necessity,
+
+1502
+01:09:07,650 --> 01:09:09,630
+co-located with our R&D efforts
+
+1503
+01:09:09,630 --> 01:09:10,920
+because we didn't have time
+
+1504
+01:09:10,920 --> 01:09:12,420
+to spool up manufacturing elsewhere.
+
+1505
+01:09:12,420 --> 01:09:13,350
+We didn't have time.
+
+1506
+01:09:13,350 --> 01:09:15,120
+Turns out manufacturing in California
+
+1507
+01:09:15,120 --> 01:09:18,510
+works really well if you have the support systems in place.
+
+1508
+01:09:18,510 --> 01:09:20,820
+And so what I would love to see
+
+1509
+01:09:20,820 --> 01:09:24,810
+is more advanced manufacturing programs
+
+1510
+01:09:24,810 --> 01:09:26,310
+at the community colleges
+
+1511
+01:09:26,310 --> 01:09:29,100
+with an engineering lens, right?
+
+1512
+01:09:29,100 --> 01:09:30,720
+So they're not necessarily engineering degrees,
+
+1513
+01:09:30,720 --> 01:09:33,870
+but where people really get accustomed
+
+1514
+01:09:33,870 --> 01:09:36,180
+to building things and the hardware.
+
+1515
+01:09:36,180 --> 01:09:37,950
+And so, you know, we're all excited about AI,
+
+1516
+01:09:37,950 --> 01:09:39,683
+that's why we're all here,
+
+1517
+01:09:39,683 --> 01:09:41,040
+but we're also all terrified about AI, right?
+
+1518
+01:09:41,040 --> 01:09:43,890
+Because of the job loss that's inevitable
+
+1519
+01:09:43,890 --> 01:09:45,390
+and it's also gonna make our world
+
+1520
+01:09:45,390 --> 01:09:46,800
+a better place in many ways.
+
+1521
+01:09:46,800 --> 01:09:50,340
+One antidote to that that Silicon Valley really needs
+
+1522
+01:09:50,340 --> 01:09:52,410
+to further embrace is hardware, right?
+
+1523
+01:09:52,410 --> 01:09:53,610
+So when you have aircraft
+
+1524
+01:09:53,610 --> 01:09:56,760
+or other hardware, you need people to make that stuff.
+
+1525
+01:09:56,760 --> 01:09:59,430
+And yeah, there's advanced robotics and other things,
+
+1526
+01:09:59,430 --> 01:10:03,810
+but the point is people with hardware competence
+
+1527
+01:10:03,810 --> 01:10:06,502
+are a lot more competitive for these jobs.
+
+1528
+01:10:06,502 --> 01:10:07,830
+And as this industry industry continues
+
+1529
+01:10:07,830 --> 01:10:11,220
+to vertically integrate, like I talked about
+
+1530
+01:10:11,220 --> 01:10:12,690
+with Joby's business model,
+
+1531
+01:10:12,690 --> 01:10:15,900
+we have many, many, many manufacturing technicians
+
+1532
+01:10:15,900 --> 01:10:18,630
+with some of those technical competencies
+
+1533
+01:10:18,630 --> 01:10:21,390
+for engineering, moving into engineering roles
+
+1534
+01:10:21,390 --> 01:10:23,340
+without a four-year degree.
+
+1535
+01:10:23,340 --> 01:10:25,590
+And we like them better than some
+
+1536
+01:10:25,590 --> 01:10:27,030
+of the four-year degree graduates
+
+1537
+01:10:27,030 --> 01:10:29,220
+who have no experience with manufacturing
+
+1538
+01:10:29,220 --> 01:10:31,230
+because they can hit the ground running
+
+1539
+01:10:31,230 --> 01:10:33,660
+providing engineering support to the manufacturing teams.
+
+1540
+01:10:33,660 --> 01:10:36,000
+- So we got one other question here and one over there
+
+1541
+01:10:36,000 --> 01:10:37,290
+and then maybe we can wrap.
+
+1542
+01:10:37,290 --> 01:10:38,190
+- [Mike] Sure.
+
+1543
+01:10:38,190 --> 01:10:40,620
+Mike Roberts, I'm with Creating Coding Careers.
+
+1544
+01:10:40,620 --> 01:10:43,020
+We are building the playbook for company driven
+
+1545
+01:10:43,020 --> 01:10:44,400
+earn and learn pathways.
+
+1546
+01:10:44,400 --> 01:10:45,750
+So one of the things I do a lot of work
+
+1547
+01:10:45,750 --> 01:10:48,090
+with is apprenticeship degree pathways.
+
+1548
+01:10:48,090 --> 01:10:50,250
+One of our partners is Foothill.
+
+1549
+01:10:50,250 --> 01:10:51,360
+We also have four year partners
+
+1550
+01:10:51,360 --> 01:10:53,070
+like Western Governors University.
+
+1551
+01:10:53,070 --> 01:10:56,700
+And I'm curious, one of the populations we serve a lot of
+
+1552
+01:10:56,700 --> 01:10:59,463
+are transitioning service members.
+
+1553
+01:10:59,463 --> 01:11:00,450
+Folks that have military experience,
+
+1554
+01:11:00,450 --> 01:11:01,680
+they're within their last six months.
+
+1555
+01:11:01,680 --> 01:11:03,330
+We have a Skillbridge program where they can come
+
+1556
+01:11:03,330 --> 01:11:06,510
+skill bridge, be reassigned their duty to train,
+
+1557
+01:11:06,510 --> 01:11:08,160
+and we put them on a pathway for apprenticeships
+
+1558
+01:11:08,160 --> 01:11:09,420
+and apprenticeship degrees.
+
+1559
+01:11:09,420 --> 01:11:11,520
+I'm curious if any of you have experience working
+
+1560
+01:11:11,520 --> 01:11:13,290
+with transitioning service members
+
+1561
+01:11:13,290 --> 01:11:15,780
+and if you think that that population aligns
+
+1562
+01:11:15,780 --> 01:11:17,940
+with some of the experience that you're looking for.
+
+1563
+01:11:17,940 --> 01:11:21,093
+And then your thoughts on apprenticeship degrees in general.
+
+1564
+01:11:22,830 --> 01:11:25,200
+- I can quickly touch on it.
+
+1565
+01:11:25,200 --> 01:11:29,040
+To my knowledge, I'm not entirely sure
+
+1566
+01:11:29,040 --> 01:11:32,130
+whether Wisk has a formal program for that,
+
+1567
+01:11:32,130 --> 01:11:34,650
+but given what we know about
+
+1568
+01:11:34,650 --> 01:11:35,940
+how we're developing the aircraft
+
+1569
+01:11:35,940 --> 01:11:40,300
+and the operations, having a former military background
+
+1570
+01:11:41,280 --> 01:11:46,260
+is absolutely invaluable to what we can do.
+
+1571
+01:11:46,260 --> 01:11:49,440
+And the reason for that obviously is having real operational
+
+1572
+01:11:49,440 --> 01:11:51,660
+and manufacturing capabilities
+
+1573
+01:11:51,660 --> 01:11:56,010
+as well as being able to use the systems
+
+1574
+01:11:56,010 --> 01:11:57,250
+that are being developed
+
+1575
+01:11:58,369 --> 01:11:59,202
+and understanding exactly
+
+1576
+01:11:59,202 --> 01:12:01,200
+what the fail-safes are versus not.
+
+1577
+01:12:01,200 --> 01:12:04,200
+So one thing that I'll, you know,
+
+1578
+01:12:04,200 --> 01:12:05,700
+pretty, pretty bluntly say
+
+1579
+01:12:05,700 --> 01:12:09,390
+is that autonomy is in the military right now, right?
+
+1580
+01:12:09,390 --> 01:12:11,850
+It has been in the military for a long time.
+
+1581
+01:12:11,850 --> 01:12:15,180
+So the usage of autonomy in different ways
+
+1582
+01:12:15,180 --> 01:12:16,620
+is going to be kind of the future.
+
+1583
+01:12:16,620 --> 01:12:18,990
+How do we use it for specific applications?
+
+1584
+01:12:18,990 --> 01:12:21,570
+And so even having a grounded understanding
+
+1585
+01:12:21,570 --> 01:12:23,400
+of how autonomous aircraft work,
+
+1586
+01:12:23,400 --> 01:12:25,230
+autonomous ground-based vehicles work,
+
+1587
+01:12:25,230 --> 01:12:28,260
+that is incredibly valuable for us
+
+1588
+01:12:28,260 --> 01:12:30,540
+and for the industry moving forward.
+
+1589
+01:12:30,540 --> 01:12:33,180
+And so I would say that's one aspect of it.
+
+1590
+01:12:33,180 --> 01:12:36,420
+The other aspect of it is obviously just having
+
+1591
+01:12:36,420 --> 01:12:39,540
+extensive experience with aircraft in general,
+
+1592
+01:12:39,540 --> 01:12:43,110
+pilots, operational technician,
+
+1593
+01:12:43,110 --> 01:12:44,700
+maintenance, these are all things
+
+1594
+01:12:44,700 --> 01:12:47,350
+that will continue to remain, as Cody was mentioning,
+
+1595
+01:12:48,396 --> 01:12:50,900
+in electric vertical takeoff and landing aircraft,
+
+1596
+01:12:50,900 --> 01:12:54,720
+in autonomous eVTOLs, in autonomous CTOLs.
+
+1597
+01:12:54,720 --> 01:12:58,950
+Everything in the future of aviation will still require
+
+1598
+01:12:58,950 --> 01:13:01,890
+many of those jobs that have already been essentially
+
+1599
+01:13:01,890 --> 01:13:04,320
+perfected by many military folks.
+
+1600
+01:13:04,320 --> 01:13:07,410
+So to that extent, I think it's,
+
+1601
+01:13:07,410 --> 01:13:10,350
+now is a perfect opportunity to start thinking about
+
+1602
+01:13:10,350 --> 01:13:12,750
+how to build that pipeline for apprenticeships.
+
+1603
+01:13:12,750 --> 01:13:13,773
+So absolutely.
+
+1604
+01:13:14,730 --> 01:13:17,264
+- I have a critical word of caution.
+
+1605
+01:13:17,264 --> 01:13:19,020
+So we hired dozens of Skillbridge folks
+
+1606
+01:13:19,020 --> 01:13:20,570
+through Skillbridge every year,
+
+1607
+01:13:21,464 --> 01:13:23,250
+and you can, you would expect that we have, you know,
+
+1608
+01:13:23,250 --> 01:13:25,113
+a huge pipeline of military folks.
+
+1609
+01:13:26,340 --> 01:13:28,170
+People talk about how challenging the transition
+
+1610
+01:13:28,170 --> 01:13:29,610
+from military to civilian is
+
+1611
+01:13:29,610 --> 01:13:32,940
+because it really, really is extremely challenging.
+
+1612
+01:13:32,940 --> 01:13:35,580
+And the harsh reality is that
+
+1613
+01:13:35,580 --> 01:13:38,850
+these startup environments are in some cases the worst
+
+1614
+01:13:38,850 --> 01:13:42,150
+place for folks coming straight out of the military.
+
+1615
+01:13:42,150 --> 01:13:45,072
+You go from, and I, you know, I've had former,
+
+1616
+01:13:45,072 --> 01:13:45,905
+I don't have a military background,
+
+1617
+01:13:45,905 --> 01:13:47,880
+I've had many service members work on my team
+
+1618
+01:13:47,880 --> 01:13:50,220
+and report to me and in their first few weeks
+
+1619
+01:13:50,220 --> 01:13:52,950
+and months when they ask me what I want them to do
+
+1620
+01:13:52,950 --> 01:13:55,440
+and I say, well here's the problem, what do you think?
+
+1621
+01:13:55,440 --> 01:13:57,630
+Like their brain, like short circuits, right?
+
+1622
+01:13:57,630 --> 01:14:01,110
+Because they're used to being told like what to do, right?
+
+1623
+01:14:01,110 --> 01:14:03,630
+And in these egalitarian startup environments,
+
+1624
+01:14:03,630 --> 01:14:05,943
+that is not how we operate very often.
+
+1625
+01:14:06,870 --> 01:14:09,630
+And so I think the message there would be, you know,
+
+1626
+01:14:09,630 --> 01:14:12,060
+I think a lot of times employers think about Skillbridge
+
+1627
+01:14:12,060 --> 01:14:14,040
+and other programs as like a try it before you buy it,
+
+1628
+01:14:14,040 --> 01:14:14,910
+let's see if this works.
+
+1629
+01:14:14,910 --> 01:14:17,310
+And if we like this person and then bring them on full time,
+
+1630
+01:14:17,310 --> 01:14:18,930
+we should be coaching service members
+
+1631
+01:14:18,930 --> 01:14:20,580
+to look at it the same way.
+
+1632
+01:14:20,580 --> 01:14:23,760
+And seize those opportunities to give them exposure
+
+1633
+01:14:23,760 --> 01:14:26,310
+to these, like, rapidly moving
+
+1634
+01:14:26,310 --> 01:14:28,110
+highly dynamic environments
+
+1635
+01:14:28,110 --> 01:14:30,420
+so they can decide if that's really the best first step
+
+1636
+01:14:30,420 --> 01:14:33,150
+for them coming out of the service.
+
+1637
+01:14:33,150 --> 01:14:35,520
+And then of course preparing them
+
+1638
+01:14:35,520 --> 01:14:37,500
+and the employers for actually setting people up
+
+1639
+01:14:37,500 --> 01:14:39,240
+for success is another huge challenge.
+
+1640
+01:14:39,240 --> 01:14:41,340
+So I think we have a long way to go
+
+1641
+01:14:41,340 --> 01:14:43,470
+to better supporting service members,
+
+1642
+01:14:43,470 --> 01:14:47,700
+primarily in these startup environments, yeah.
+
+1643
+01:14:47,700 --> 01:14:48,780
+- Nice word of caution.
+
+1644
+01:14:48,780 --> 01:14:50,880
+There's one last question over here,
+
+1645
+01:14:50,880 --> 01:14:52,470
+if you wanna grab the mic.
+
+1646
+01:14:52,470 --> 01:14:54,630
+Maybe you could pass the mic over.
+
+1647
+01:14:54,630 --> 01:14:55,950
+- [Attendee] I'll just use my teacher voice.
+
+1648
+01:14:55,950 --> 01:14:57,870
+- Okay. Use your teacher voice.
+
+1649
+01:14:57,870 --> 01:14:59,070
+- [Attendee] Awesome.
+
+1650
+01:14:59,070 --> 01:15:01,800
+So I was just curious what the interaction level is,
+
+1651
+01:15:01,800 --> 01:15:06,800
+like for autonomous planes, you know, air taxis, et cetera,
+
+1652
+01:15:07,680 --> 01:15:09,303
+with air traffic controllers.
+
+1653
+01:15:10,362 --> 01:15:12,450
+And also considering that there's also a shortage
+
+1654
+01:15:12,450 --> 01:15:15,570
+of air traffic controllers in addition to pilots
+
+1655
+01:15:15,570 --> 01:15:17,883
+as you mentioned and mechanics.
+
+1656
+01:15:17,883 --> 01:15:21,030
+Is there like an industry discussion happening right now?
+
+1657
+01:15:21,030 --> 01:15:22,740
+How to meet those shortages?
+
+1658
+01:15:22,740 --> 01:15:25,510
+- Yeah, now this is an absolutely excellent question
+
+1659
+01:15:26,412 --> 01:15:29,480
+and it's something that we at Wisk are grappling
+
+1660
+01:15:29,480 --> 01:15:30,720
+with on a day-to-day basis.
+
+1661
+01:15:30,720 --> 01:15:32,430
+We're discussing with the FAA,
+
+1662
+01:15:32,430 --> 01:15:34,740
+we're obviously very, very well in tune
+
+1663
+01:15:34,740 --> 01:15:37,230
+with all the NASA UTM work that's occurring.
+
+1664
+01:15:37,230 --> 01:15:39,150
+So air traffic control
+
+1665
+01:15:39,150 --> 01:15:42,360
+and air traffic management is arguably
+
+1666
+01:15:42,360 --> 01:15:46,173
+the most critical aspect of this entire system.
+
+1667
+01:15:47,280 --> 01:15:50,280
+And we've already seen without,
+
+1668
+01:15:50,280 --> 01:15:52,830
+without these futuristic aircraft in the airspace,
+
+1669
+01:15:52,830 --> 01:15:55,383
+things are already getting tougher.
+
+1670
+01:15:56,220 --> 01:15:59,550
+So with all that being said, this is something
+
+1671
+01:15:59,550 --> 01:16:01,440
+that we're thinking about constantly
+
+1672
+01:16:01,440 --> 01:16:04,740
+and we are working to understand exactly
+
+1673
+01:16:04,740 --> 01:16:06,690
+what skills are required,
+
+1674
+01:16:06,690 --> 01:16:09,480
+how to address that ATC shortage you were mentioning,
+
+1675
+01:16:09,480 --> 01:16:12,840
+and where like Wisk and really all the players
+
+1676
+01:16:12,840 --> 01:16:15,240
+in AAM should be positioning themselves
+
+1677
+01:16:15,240 --> 01:16:17,250
+to make that a reality.
+
+1678
+01:16:17,250 --> 01:16:19,920
+What we're finding is, as I was mentioning, you know,
+
+1679
+01:16:19,920 --> 01:16:24,900
+we do remote supervision and that's how we do autonomy.
+
+1680
+01:16:24,900 --> 01:16:28,050
+Remote supervisors, you know, our multi-vehicle supervisors,
+
+1681
+01:16:28,050 --> 01:16:31,860
+these folks will be very, very tied at the hip
+
+1682
+01:16:31,860 --> 01:16:33,213
+to air traffic control.
+
+1683
+01:16:34,410 --> 01:16:36,510
+And to be totally frank,
+
+1684
+01:16:36,510 --> 01:16:40,320
+it's going to be a different type of air traffic management
+
+1685
+01:16:40,320 --> 01:16:41,400
+that we're going to have.
+
+1686
+01:16:41,400 --> 01:16:44,850
+So we're trying to drum up and brainstorm and test
+
+1687
+01:16:44,850 --> 01:16:47,130
+and validate what skills
+
+1688
+01:16:47,130 --> 01:16:49,800
+and what positions will be additionally necessary
+
+1689
+01:16:49,800 --> 01:16:51,720
+for this new airspace.
+
+1690
+01:16:51,720 --> 01:16:55,530
+So all of that is to say we're absolutely looking into it
+
+1691
+01:16:55,530 --> 01:16:58,110
+and that's probably one of the most critical things
+
+1692
+01:16:58,110 --> 01:16:59,250
+that's top of mind.
+
+1693
+01:16:59,250 --> 01:17:03,480
+And this is obviously a huge area of opening
+
+1694
+01:17:03,480 --> 01:17:06,570
+for potential jobs in the industry
+
+1695
+01:17:06,570 --> 01:17:07,890
+that we're very, very aware of.
+
+1696
+01:17:07,890 --> 01:17:10,080
+So it's honestly very, very exciting.
+
+1697
+01:17:10,080 --> 01:17:11,250
+And now is the time that we're trying
+
+1698
+01:17:11,250 --> 01:17:12,990
+to build that pipeline.
+
+1699
+01:17:12,990 --> 01:17:14,385
+- Follow up.
+
+1700
+01:17:14,385 --> 01:17:15,843
+- [Attendee] Just follow up on that, sorry,
+
+1701
+01:17:15,843 --> 01:17:17,610
+I didn't mention my name and background,
+
+1702
+01:17:17,610 --> 01:17:20,000
+(attendee faintly speaking)
+
+1703
+01:17:20,000 --> 01:17:21,600
+education at a college in Long Beach.
+
+1704
+01:17:21,600 --> 01:17:24,863
+And so, you know, if you're having those discussions
+
+1705
+01:17:24,863 --> 01:17:27,060
+and you're not already including colleges at the table
+
+1706
+01:17:27,060 --> 01:17:30,300
+and highly recommend, as one of my colleagues mentioned,
+
+1707
+01:17:30,300 --> 01:17:32,415
+you know, getting us involved.
+
+1708
+01:17:32,415 --> 01:17:33,635
+So I know earlier it was mentioned
+
+1709
+01:17:33,635 --> 01:17:34,866
+that we should create the curriculum.
+
+1710
+01:17:34,866 --> 01:17:35,699
+- Yes.
+
+1711
+01:17:35,699 --> 01:17:36,806
+- [Attendee] Reach out to you guys for
+
+1712
+01:17:36,806 --> 01:17:37,937
+(faintly speaking)
+
+1713
+01:17:37,937 --> 01:17:39,817
+but I would push back a little bit on that
+
+1714
+01:17:39,817 --> 01:17:41,640
+and say, let's have us at the table earlier
+
+1715
+01:17:41,640 --> 01:17:44,640
+and co-create the curriculum to meet their exact needs.
+
+1716
+01:17:44,640 --> 01:17:47,520
+And then also if our students know there are job interviews
+
+1717
+01:17:47,520 --> 01:17:49,410
+waiting at the end of that program,
+
+1718
+01:17:49,410 --> 01:17:51,060
+we're gonna successfully move students
+
+1719
+01:17:51,060 --> 01:17:52,400
+through those programs really quickly.
+
+1720
+01:17:52,400 --> 01:17:55,849
+So that would be my, you know, suggestion
+
+1721
+01:17:55,849 --> 01:17:57,987
+and request for all of us here in the system.
+
+1722
+01:17:57,987 --> 01:17:58,820
+- Absolutely.
+
+1723
+01:17:58,820 --> 01:18:00,240
+And one thing I'll quickly add,
+
+1724
+01:18:00,240 --> 01:18:02,910
+we're working with Berkeley, with NASA,
+
+1725
+01:18:02,910 --> 01:18:06,990
+with other major players in the AAM space
+
+1726
+01:18:06,990 --> 01:18:09,420
+to actually understand what these operations can look like.
+
+1727
+01:18:09,420 --> 01:18:13,350
+Both at early stages and at scale
+
+1728
+01:18:13,350 --> 01:18:15,840
+and then by understanding that a little bit better,
+
+1729
+01:18:15,840 --> 01:18:16,770
+we can get a better picture
+
+1730
+01:18:16,770 --> 01:18:20,340
+of what requirements are necessary, so.
+
+1731
+01:18:20,340 --> 01:18:21,173
+- Fantastic.
+
+1732
+01:18:21,173 --> 01:18:23,436
+Well thank you very much to the panelists.
+
+1733
+01:18:23,436 --> 01:18:24,572
+(attendees applaud)
+
+1734
+01:18:24,572 --> 01:18:25,590
+Thank you, Pam for organizing.
+
+1735
+01:18:25,590 --> 01:18:26,757
+- Thank you, everyone.

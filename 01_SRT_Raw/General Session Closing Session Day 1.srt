@@ -1,0 +1,5435 @@
+1
+00:00:04,650 --> 00:00:05,580
+- Good afternoon everyone.
+
+2
+00:00:05,580 --> 00:00:07,560
+Once again, Don Daves-Rougeaux,
+
+3
+00:00:07,560 --> 00:00:09,810
+Senior Advisor to Chancellor Christian's Office,
+
+4
+00:00:09,810 --> 00:00:12,780
+Workforce Economic Development, Strategic Partnerships,
+
+5
+00:00:12,780 --> 00:00:17,780
+and part of the generative AI team led by Craig Hayward.
+
+6
+00:00:18,660 --> 00:00:23,280
+Really super excited about our concluding panel for today.
+
+7
+00:00:23,280 --> 00:00:24,960
+And I want to,
+
+8
+00:00:24,960 --> 00:00:28,170
+before we jump into that panel, I wanna take a little bit
+
+9
+00:00:28,170 --> 00:00:31,590
+of time to orient ourselves to some of the work
+
+10
+00:00:31,590 --> 00:00:34,620
+and connections to last year's summit,
+
+11
+00:00:34,620 --> 00:00:37,713
+and then introduce one of our key partners.
+
+12
+00:00:38,670 --> 00:00:41,220
+So last year, well, let me start here.
+
+13
+00:00:41,220 --> 00:00:44,790
+I would say this, so part of what we want you to do here is
+
+14
+00:00:44,790 --> 00:00:47,940
+to build relationships, to network, to meet people.
+
+15
+00:00:47,940 --> 00:00:50,880
+We want our college faculty
+
+16
+00:00:50,880 --> 00:00:51,987
+and classified professionals
+
+17
+00:00:51,987 --> 00:00:55,260
+and administrators to connect with our industry partners,
+
+18
+00:00:55,260 --> 00:00:57,780
+with our partners in labor and state agencies,
+
+19
+00:00:57,780 --> 00:00:59,220
+but also with partners
+
+20
+00:00:59,220 --> 00:01:01,500
+who are here from other higher ed institutions,
+
+21
+00:01:01,500 --> 00:01:03,933
+or even our K-12 partners who may be here.
+
+22
+00:01:05,460 --> 00:01:10,460
+Last year, we had an opportunity to pilot
+
+23
+00:01:10,980 --> 00:01:14,730
+or demo a very specific tool.
+
+24
+00:01:14,730 --> 00:01:18,120
+And that opportunity came as result
+
+25
+00:01:18,120 --> 00:01:19,980
+of just a single conversation
+
+26
+00:01:19,980 --> 00:01:22,620
+that we were having in a hallway.
+
+27
+00:01:22,620 --> 00:01:24,660
+It was very opportune as well,
+
+28
+00:01:24,660 --> 00:01:25,680
+because we happened
+
+29
+00:01:25,680 --> 00:01:29,040
+to be having our faculty professional development committee
+
+30
+00:01:29,040 --> 00:01:31,110
+that was going to be meeting on Friday,
+
+31
+00:01:31,110 --> 00:01:33,030
+and that actually will be happening again this year.
+
+32
+00:01:33,030 --> 00:01:36,090
+On Friday, that group will continue to convene
+
+33
+00:01:36,090 --> 00:01:38,550
+and think about how we do professional development
+
+34
+00:01:38,550 --> 00:01:40,250
+for our faculty across the system.
+
+35
+00:01:41,700 --> 00:01:43,410
+And so we were able to start up
+
+36
+00:01:43,410 --> 00:01:45,570
+that conversation in passing.
+
+37
+00:01:45,570 --> 00:01:49,620
+And I am known as well,
+
+38
+00:01:49,620 --> 00:01:50,610
+I always say this,
+
+39
+00:01:50,610 --> 00:01:52,740
+but I'm trying to change my vernacular on this
+
+40
+00:01:52,740 --> 00:01:54,812
+because of climate, but you know,
+
+41
+00:01:54,812 --> 00:01:56,670
+I'm a boil the ocean kind of person.
+
+42
+00:01:56,670 --> 00:02:00,090
+I like to run really fast with cautionary guardrails,
+
+43
+00:02:00,090 --> 00:02:01,593
+but I like to go.
+
+44
+00:02:02,430 --> 00:02:05,640
+So I tried to change it to green, the desert,
+
+45
+00:02:05,640 --> 00:02:07,260
+but then I thought, there's nothing wrong
+
+46
+00:02:07,260 --> 00:02:09,180
+with desert environments as well,
+
+47
+00:02:09,180 --> 00:02:10,440
+so I gotta get away from that.
+
+48
+00:02:10,440 --> 00:02:13,650
+So we're just gonna change things really fast, okay?
+
+49
+00:02:13,650 --> 00:02:17,190
+A lot of things at the same time, really fast in our system.
+
+50
+00:02:17,190 --> 00:02:21,690
+So I approached now Vice Chancellor
+
+51
+00:02:21,690 --> 00:02:24,780
+for Academic Affairs, James Todd, and I said, "Hey James,"
+
+52
+00:02:24,780 --> 00:02:27,480
+and another faculty member's on that committee,
+
+53
+00:02:27,480 --> 00:02:29,130
+Michelle, and I said, "Hey James,
+
+54
+00:02:30,510 --> 00:02:34,923
+can I just take one hour of your six hour meeting time?
+
+55
+00:02:35,970 --> 00:02:38,130
+Just one hour, one hour is all we need."
+
+56
+00:02:38,130 --> 00:02:42,713
+He said, "Don." If you know James, he's like, "Don."
+
+57
+00:02:44,451 --> 00:02:45,750
+And I said, "Okay, how about 45 minutes?"
+
+58
+00:02:45,750 --> 00:02:47,370
+He said, "Okay, let me go check with the committee."
+
+59
+00:02:47,370 --> 00:02:48,900
+And the committee said, "Yes."
+
+60
+00:02:48,900 --> 00:02:53,640
+And as it were, we already had two of our faculty members
+
+61
+00:02:53,640 --> 00:02:55,830
+on that professional development committee
+
+62
+00:02:55,830 --> 00:02:57,690
+who were innovators in our system
+
+63
+00:02:57,690 --> 00:02:59,790
+that were already using the tool.
+
+64
+00:02:59,790 --> 00:03:01,560
+So I got those two faculty members
+
+65
+00:03:01,560 --> 00:03:03,900
+with our guests member I'm gonna bring up now,
+
+66
+00:03:03,900 --> 00:03:06,510
+and they said, we will use that 45 minutes
+
+67
+00:03:06,510 --> 00:03:08,010
+and we will demo this project.
+
+68
+00:03:09,060 --> 00:03:11,460
+And as a result of that,
+
+69
+00:03:11,460 --> 00:03:14,230
+we were able to launch the Playlab pilot
+
+70
+00:03:15,120 --> 00:03:19,650
+and Playlab took off with the level of enthusiasm
+
+71
+00:03:19,650 --> 00:03:21,690
+that we could never have imagined in that moment.
+
+72
+00:03:21,690 --> 00:03:24,360
+We sent out an interest form
+
+73
+00:03:24,360 --> 00:03:28,840
+and in 10 days we had 879 people sign up
+
+74
+00:03:29,790 --> 00:03:34,763
+saying that they were interested in doing a Playlab,
+
+75
+00:03:34,763 --> 00:03:36,060
+a professional learning community.
+
+76
+00:03:36,060 --> 00:03:40,680
+454 of those 800 plus folks who signed up,
+
+77
+00:03:40,680 --> 00:03:44,130
+and these are classified professionals, faculty, et cetera,
+
+78
+00:03:44,130 --> 00:03:47,080
+actually went through that professional learning community.
+
+79
+00:03:47,970 --> 00:03:52,970
+And this is the power of moving at the pace of innovation,
+
+80
+00:03:57,930 --> 00:04:00,453
+having a bias for action.
+
+81
+00:04:01,560 --> 00:04:04,887
+My mom would always say, "Maybe,"
+
+82
+00:04:06,240 --> 00:04:08,613
+and I never knew if maybe meant yes or no.
+
+83
+00:04:09,600 --> 00:04:11,370
+More often than not, it meant no,
+
+84
+00:04:11,370 --> 00:04:14,343
+but occasionally gave me time to negotiate to get to yes.
+
+85
+00:04:15,930 --> 00:04:20,100
+But if we act with the bias of action,
+
+86
+00:04:20,100 --> 00:04:23,940
+even if we are uncertain around what the results might be,
+
+87
+00:04:23,940 --> 00:04:27,990
+we might find that innovation is at our fingertips.
+
+88
+00:04:27,990 --> 00:04:32,040
+And that there are folks in our system who are hungry
+
+89
+00:04:32,040 --> 00:04:35,310
+for these kinds of experiments and opportunities.
+
+90
+00:04:35,310 --> 00:04:40,310
+And we act with the reality that we might fail, right?
+
+91
+00:04:42,120 --> 00:04:44,523
+And we can't be afraid to fail.
+
+92
+00:04:45,540 --> 00:04:48,180
+I was a hurdler in high school and college.
+
+93
+00:04:48,180 --> 00:04:49,620
+The first time I went over a hurdle,
+
+94
+00:04:49,620 --> 00:04:51,243
+I literally fell on my face.
+
+95
+00:04:52,920 --> 00:04:55,260
+That's 'cause I raised the hurdle way too high,
+
+96
+00:04:55,260 --> 00:04:58,080
+'cause I didn't know that you could put them down lower.
+
+97
+00:04:58,080 --> 00:05:01,410
+I learned that, maybe start with a low bar.
+
+98
+00:05:01,410 --> 00:05:05,670
+But all that to be said, it was a great moment in time.
+
+99
+00:05:05,670 --> 00:05:07,500
+And we have done some great work
+
+100
+00:05:07,500 --> 00:05:09,900
+with Playlab since that time.
+
+101
+00:05:09,900 --> 00:05:13,770
+And I'm pleased to be able to bring
+
+102
+00:05:13,770 --> 00:05:18,070
+to you today, to the stage, my partner in crime
+
+103
+00:05:19,050 --> 00:05:22,290
+who is a faculty member at UC Berkeley
+
+104
+00:05:22,290 --> 00:05:24,630
+in the Graduate School of Education
+
+105
+00:05:24,630 --> 00:05:29,630
+and leads UC Berkeley's Changemaker program.
+
+106
+00:05:30,120 --> 00:05:33,390
+And you may have heard us talk about our AI Fellows
+
+107
+00:05:33,390 --> 00:05:34,620
+and then we also have this other group
+
+108
+00:05:34,620 --> 00:05:36,752
+called our AI Changemakers
+
+109
+00:05:36,752 --> 00:05:37,770
+who are folks who applied to be fellows.
+
+110
+00:05:37,770 --> 00:05:40,470
+But despite their incredible talent,
+
+111
+00:05:40,470 --> 00:05:42,117
+we just didn't have enough space.
+
+112
+00:05:42,117 --> 00:05:44,940
+So we reached out to them and said, we would like for you to
+
+113
+00:05:44,940 --> 00:05:47,916
+stay involved in this, figure out a way to engage you.
+
+114
+00:05:47,916 --> 00:05:49,599
+And I know there are some of the Changemakers
+
+115
+00:05:49,599 --> 00:05:51,930
+that are here in the audience today.
+
+116
+00:05:51,930 --> 00:05:55,650
+And I was very intentional about using
+
+117
+00:05:55,650 --> 00:05:57,330
+that term Changemakers
+
+118
+00:05:57,330 --> 00:06:00,840
+because I wanted to think down the road.
+
+119
+00:06:00,840 --> 00:06:01,673
+I'm a gamer.
+
+120
+00:06:01,673 --> 00:06:04,710
+So gamers we're all about down board thinking
+
+121
+00:06:04,710 --> 00:06:08,550
+and knowing that at some point down the road we would want
+
+122
+00:06:08,550 --> 00:06:11,760
+to build a formal partnership with UC Berkeley,
+
+123
+00:06:11,760 --> 00:06:14,730
+and their Changemaker program.
+
+124
+00:06:14,730 --> 00:06:17,400
+And so those conversations are in play
+
+125
+00:06:17,400 --> 00:06:19,800
+and if when we get there,
+
+126
+00:06:19,800 --> 00:06:23,540
+we will have already built a cohort and a cadre of faculty
+
+127
+00:06:23,540 --> 00:06:25,542
+of classified professionals,
+
+128
+00:06:25,542 --> 00:06:27,720
+and administrators in our system, across our entire system
+
+129
+00:06:27,720 --> 00:06:31,770
+to lean into that partnership with depth.
+
+130
+00:06:31,770 --> 00:06:33,510
+So at this time, I'd like to go ahead
+
+131
+00:06:33,510 --> 00:06:37,170
+and bring up to stage, Dr. Christyna Serrano,
+
+132
+00:06:37,170 --> 00:06:39,060
+also known as Dr. C.
+
+133
+00:06:39,060 --> 00:06:41,190
+And she will talk a little bit about
+
+134
+00:06:41,190 --> 00:06:43,110
+what that partnership looks like
+
+135
+00:06:43,110 --> 00:06:44,673
+from the side of UC Berkeley.
+
+136
+00:06:46,140 --> 00:06:46,973
+Dr. C.
+
+137
+00:06:46,973 --> 00:06:50,140
+(audience applauding)
+
+138
+00:06:53,992 --> 00:06:54,825
+- Hi.
+
+139
+00:06:56,662 --> 00:07:00,750
+Hi everybody. Okay, so first I want
+
+140
+00:07:00,750 --> 00:07:04,305
+to start this conversation off with saying I'm the product
+
+141
+00:07:04,305 --> 00:07:06,274
+of a community college.
+
+142
+00:07:06,274 --> 00:07:07,682
+(audience cheering) (audience applauding)
+
+143
+00:07:07,682 --> 00:07:10,214
+Thank you.
+
+144
+00:07:10,214 --> 00:07:12,092
+I was first in my family
+
+145
+00:07:12,092 --> 00:07:13,620
+to go to college and I went to Hartnell College
+
+146
+00:07:13,620 --> 00:07:15,420
+and then transferred to UC Berkeley.
+
+147
+00:07:17,232 --> 00:07:19,983
+Woo-hoo. Go Panthers and Go Bears.
+
+148
+00:07:21,390 --> 00:07:24,480
+And I apologize, my slides are text heavy
+
+149
+00:07:24,480 --> 00:07:27,391
+and this is a no no, we know this, right?
+
+150
+00:07:27,391 --> 00:07:28,260
+This is a no no, so I apologize,
+
+151
+00:07:28,260 --> 00:07:30,450
+but you know, we got lots of things going on.
+
+152
+00:07:30,450 --> 00:07:33,600
+So try and ignore my slides
+
+153
+00:07:33,600 --> 00:07:35,190
+and hopefully you'll hear the story,
+
+154
+00:07:35,190 --> 00:07:38,100
+which is, I can't walk, I wanna walk,
+
+155
+00:07:38,100 --> 00:07:39,550
+but then like there's no mic.
+
+156
+00:07:41,670 --> 00:07:44,220
+So this is a true privilege and an honor.
+
+157
+00:07:44,220 --> 00:07:47,820
+So a year ago I was at the first Future Summit
+
+158
+00:07:47,820 --> 00:07:50,610
+and I was a participant.
+
+159
+00:07:50,610 --> 00:07:52,800
+And as Don was describing,
+
+160
+00:07:52,800 --> 00:07:55,080
+he and I had chatted about, okay,
+
+161
+00:07:55,080 --> 00:07:57,720
+how can we do this work together?
+
+162
+00:07:57,720 --> 00:08:02,720
+And I got a chance to shout out to Havi and Scotty,
+
+163
+00:08:03,660 --> 00:08:04,493
+if you're here.
+
+164
+00:08:05,486 --> 00:08:06,990
+Woo-hoo.
+
+165
+00:08:06,990 --> 00:08:09,090
+We basically, Havi
+
+166
+00:08:09,090 --> 00:08:12,491
+and I were both in the Relay Graduate School
+
+167
+00:08:12,491 --> 00:08:16,590
+of Education's Playlab Professional Learning Community.
+
+168
+00:08:16,590 --> 00:08:21,480
+And from there I saw how powerful of a tool it was.
+
+169
+00:08:21,480 --> 00:08:22,800
+And so one of my classes
+
+170
+00:08:22,800 --> 00:08:25,320
+that I teach at Berkeley in the School of Ed,
+
+171
+00:08:25,320 --> 00:08:27,090
+it's called Critical Studies and Education,
+
+172
+00:08:27,090 --> 00:08:32,090
+partners students with social impact ed tech organizations,
+
+173
+00:08:33,330 --> 00:08:36,000
+so they can do a Changemaker project.
+
+174
+00:08:36,000 --> 00:08:38,250
+And the goal of these projects is to really show students
+
+175
+00:08:38,250 --> 00:08:40,680
+that you can have an impact in the field of education
+
+176
+00:08:40,680 --> 00:08:43,230
+beyond traditional classroom teaching, which is great,
+
+177
+00:08:43,230 --> 00:08:45,060
+but it invites people to consider
+
+178
+00:08:45,060 --> 00:08:46,560
+how they are always educators
+
+179
+00:08:46,560 --> 00:08:49,058
+and learners all at the same time.
+
+180
+00:08:49,058 --> 00:08:51,900
+But also the grind that it takes to be in the field
+
+181
+00:08:51,900 --> 00:08:54,750
+and to learn skills around what we call the three C's
+
+182
+00:08:54,750 --> 00:08:56,790
+in the work of Changemaker, critical thinking,
+
+183
+00:08:56,790 --> 00:08:59,130
+communication, and collaboration.
+
+184
+00:08:59,130 --> 00:09:02,460
+So Playlab was one of those partners that year.
+
+185
+00:09:02,460 --> 00:09:04,440
+'cause I felt like it was such a powerful tool
+
+186
+00:09:04,440 --> 00:09:05,790
+and I'd asked Yusef,
+
+187
+00:09:05,790 --> 00:09:09,150
+who's our co-founder, what are you trying to do?
+
+188
+00:09:09,150 --> 00:09:10,830
+What goal can I help you advance
+
+189
+00:09:10,830 --> 00:09:13,230
+that would also give my students an opportunity
+
+190
+00:09:13,230 --> 00:09:17,010
+to do this work, to do this really important work
+
+191
+00:09:17,010 --> 00:09:19,696
+that we're doing at Playlab now?
+
+192
+00:09:19,696 --> 00:09:23,280
+And they were not initially a higher education sort
+
+193
+00:09:23,280 --> 00:09:24,180
+of focused platform.
+
+194
+00:09:24,180 --> 00:09:27,720
+It was K-12 and they were growing organically from there.
+
+195
+00:09:27,720 --> 00:09:31,053
+And so then I said, "Hey John,
+
+196
+00:09:33,027 --> 00:09:33,860
+I have a project for you.
+
+197
+00:09:33,860 --> 00:09:34,860
+What do you think?"
+
+198
+00:09:34,860 --> 00:09:37,920
+And so hence began this year long journey.
+
+199
+00:09:37,920 --> 00:09:41,100
+It's crazy because I used to work at Stanford
+
+200
+00:09:41,100 --> 00:09:43,440
+as Director of Early Career Online Business Education,
+
+201
+00:09:43,440 --> 00:09:46,410
+but I recently left Stanford in order to join Playlab
+
+202
+00:09:46,410 --> 00:09:48,872
+as head of community learning and growth
+
+203
+00:09:48,872 --> 00:09:49,705
+as part of this journey.
+
+204
+00:09:49,705 --> 00:09:51,930
+So I'm really excited to be here with you today
+
+205
+00:09:51,930 --> 00:09:56,412
+and talk about what we're doing.
+
+206
+00:09:56,412 --> 00:09:58,320
+And hopefully, I'll just get the opportunity.
+
+207
+00:09:58,320 --> 00:09:59,400
+I hope you'll say hi to me.
+
+208
+00:09:59,400 --> 00:10:00,840
+I hope you'll reach out to me.
+
+209
+00:10:00,840 --> 00:10:03,810
+I'm so interested in collaborating with you.
+
+210
+00:10:03,810 --> 00:10:06,630
+But about Playlab, for those of you that might not born,
+
+211
+00:10:06,630 --> 00:10:10,623
+it was born in 2022, it was actually,
+
+212
+00:10:11,640 --> 00:10:13,590
+there was a product that was for the team,
+
+213
+00:10:13,590 --> 00:10:16,030
+the founding team, they made something on GPT 3
+
+214
+00:10:17,490 --> 00:10:21,570
+that was founded by Google and that achieved acquisition.
+
+215
+00:10:21,570 --> 00:10:23,490
+But the team started to notice
+
+216
+00:10:23,490 --> 00:10:26,250
+that despite the success in these commercial AI
+
+217
+00:10:26,250 --> 00:10:27,720
+and research applications
+
+218
+00:10:27,720 --> 00:10:29,807
+that they were doing at MIT,
+
+219
+00:10:29,807 --> 00:10:31,500
+educators weren't really using them.
+
+220
+00:10:31,500 --> 00:10:33,660
+So that's when Playlab was founded
+
+221
+00:10:33,660 --> 00:10:34,980
+because it was this notion
+
+222
+00:10:34,980 --> 00:10:39,120
+that educators shouldn't be passed down ed tech tools
+
+223
+00:10:39,120 --> 00:10:41,970
+and not have a say in sort of determining like
+
+224
+00:10:41,970 --> 00:10:44,040
+what do these tools do for us,
+
+225
+00:10:44,040 --> 00:10:45,060
+but be creators
+
+226
+00:10:45,060 --> 00:10:48,030
+of these tools rather than just passive recipients.
+
+227
+00:10:48,030 --> 00:10:51,780
+So what happened was when they sort
+
+228
+00:10:51,780 --> 00:10:54,420
+of gave educators the tools in terms of being able
+
+229
+00:10:54,420 --> 00:10:56,130
+to build their own chatbots
+
+230
+00:10:56,130 --> 00:10:57,390
+or own AI tools in order
+
+231
+00:10:57,390 --> 00:11:00,000
+to solve problems in specific contexts,
+
+232
+00:11:00,000 --> 00:11:02,730
+that these were really powerful things
+
+233
+00:11:02,730 --> 00:11:05,430
+that educators were building to solve these problems.
+
+234
+00:11:05,430 --> 00:11:09,930
+And they were really cracking like the nut, you could say,
+
+235
+00:11:09,930 --> 00:11:13,140
+of how do we solve like some wicked problems
+
+236
+00:11:13,140 --> 00:11:14,310
+in the classroom,
+
+237
+00:11:14,310 --> 00:11:17,070
+not all the way, but really starting to make some headway
+
+238
+00:11:17,070 --> 00:11:18,630
+and how can you use this application
+
+239
+00:11:18,630 --> 00:11:20,010
+in these particular ways.
+
+240
+00:11:20,010 --> 00:11:22,800
+So it really created some fundamental shifts around
+
+241
+00:11:22,800 --> 00:11:25,620
+how teaching and learning has started to happen.
+
+242
+00:11:25,620 --> 00:11:27,670
+And we're seeing that a lot with Playlab.
+
+243
+00:11:28,560 --> 00:11:32,340
+So the thing that also is really important
+
+244
+00:11:32,340 --> 00:11:35,430
+to know about Playlab is it's a non-profit organization.
+
+245
+00:11:35,430 --> 00:11:37,040
+And one of the reasons
+
+246
+00:11:37,040 --> 00:11:40,260
+that Playlab is a non-profit organization is
+
+247
+00:11:40,260 --> 00:11:43,440
+because we're really mindful, very thoughtful about
+
+248
+00:11:43,440 --> 00:11:45,940
+how do we protect our young people
+
+249
+00:11:47,100 --> 00:11:50,100
+and protect really what's the responsibility, right,
+
+250
+00:11:50,100 --> 00:11:53,010
+of like this technology is very disruptive
+
+251
+00:11:53,010 --> 00:11:55,920
+and how do we support our educators in being able
+
+252
+00:11:55,920 --> 00:12:00,420
+to manage it, to think about how to integrate it.
+
+253
+00:12:00,420 --> 00:12:03,420
+And so one of the things was like, hey,
+
+254
+00:12:03,420 --> 00:12:04,680
+our systems are already,
+
+255
+00:12:04,680 --> 00:12:07,143
+like pedagogy as an educator,
+
+256
+00:12:08,190 --> 00:12:10,140
+it's already kind of broken, right?
+
+257
+00:12:10,140 --> 00:12:11,987
+The systems are already hard.
+
+258
+00:12:11,987 --> 00:12:16,080
+Education is, there's already systems in place
+
+259
+00:12:16,080 --> 00:12:18,210
+that aren't always serving students
+
+260
+00:12:18,210 --> 00:12:22,440
+and AI can, unfortunately, just kind of reinforce that
+
+261
+00:12:22,440 --> 00:12:24,090
+and exacerbate it further.
+
+262
+00:12:24,090 --> 00:12:27,000
+So premature scaling is really not something
+
+263
+00:12:27,000 --> 00:12:28,233
+we wanted to do.
+
+264
+00:12:29,433 --> 00:12:30,266
+If you do so,
+
+265
+00:12:30,266 --> 00:12:33,030
+it can just really over fit into an already broken system
+
+266
+00:12:33,030 --> 00:12:36,780
+and kind of further exacerbate that and create real harm.
+
+267
+00:12:36,780 --> 00:12:41,460
+So in this case, we wanted to create something
+
+268
+00:12:41,460 --> 00:12:45,000
+that enabled people to play, to feel curious and feel safe
+
+269
+00:12:45,000 --> 00:12:48,150
+because Playlab is a school safe platform.
+
+270
+00:12:48,150 --> 00:12:52,620
+So even though you can run your tools on all the models,
+
+271
+00:12:52,620 --> 00:12:55,050
+all the foundational models like ChatGPT 3
+
+272
+00:12:55,050 --> 00:12:57,990
+or ChatGPT, sorry, Anthropic's Claude,
+
+273
+00:12:57,990 --> 00:13:01,710
+none of that data gets seen when you're in the play space.
+
+274
+00:13:01,710 --> 00:13:05,250
+And we wanted people to feel comfortable to experiment
+
+275
+00:13:05,250 --> 00:13:07,709
+and to co-create with their students.
+
+276
+00:13:07,709 --> 00:13:10,590
+So it's your ability to, even if you're using Google Gemini
+
+277
+00:13:10,590 --> 00:13:11,433
+or you're using ChatGPT,
+
+278
+00:13:11,433 --> 00:13:14,610
+even if you create a bot in those contexts,
+
+279
+00:13:14,610 --> 00:13:15,870
+you can never look under the hood,
+
+280
+00:13:15,870 --> 00:13:17,670
+you can't see the conversations,
+
+281
+00:13:17,670 --> 00:13:19,680
+you can't collectively build with people.
+
+282
+00:13:19,680 --> 00:13:22,290
+It is a very specifically built for educators
+
+283
+00:13:22,290 --> 00:13:24,540
+and by educators tool.
+
+284
+00:13:24,540 --> 00:13:26,863
+So we just saw the creative power
+
+285
+00:13:26,863 --> 00:13:29,520
+that this global community of educators have built,
+
+286
+00:13:29,520 --> 00:13:32,220
+the kinds of tools that have come out of it.
+
+287
+00:13:32,220 --> 00:13:35,400
+And so being a nonprofit enables us to think about
+
+288
+00:13:35,400 --> 00:13:38,160
+what is the public infrastructure that we can create,
+
+289
+00:13:38,160 --> 00:13:40,560
+where we can democratize access to these tools
+
+290
+00:13:40,560 --> 00:13:44,247
+and where we can cultivate voices for our students
+
+291
+00:13:44,247 --> 00:13:47,250
+and our educators who can have a say
+
+292
+00:13:47,250 --> 00:13:49,650
+in what this future should be
+
+293
+00:13:49,650 --> 00:13:51,960
+and have the skills to be able to navigate
+
+294
+00:13:51,960 --> 00:13:54,690
+that future workforce where it's really a much more
+
+295
+00:13:54,690 --> 00:13:56,790
+about machine/human collaboration.
+
+296
+00:13:56,790 --> 00:13:58,923
+As head counts start to go down,
+
+297
+00:14:01,470 --> 00:14:04,080
+there's more management that has to happen
+
+298
+00:14:04,080 --> 00:14:05,430
+in the future of work
+
+299
+00:14:05,430 --> 00:14:10,290
+where your team members are essentially agentic AI tools.
+
+300
+00:14:10,290 --> 00:14:14,040
+All right, so with that we have an official announcement.
+
+301
+00:14:14,040 --> 00:14:17,130
+So what was initially a pilot
+
+302
+00:14:17,130 --> 00:14:21,540
+and it was crazy, we were all working for free, ask Miya.
+
+303
+00:14:21,540 --> 00:14:22,560
+And it was all volunteer
+
+304
+00:14:22,560 --> 00:14:25,634
+and all of you that were in that cohort, I appreciate you,
+
+305
+00:14:25,634 --> 00:14:26,940
+and that was all voluntary.
+
+306
+00:14:26,940 --> 00:14:30,810
+So as Dawn said, it was about 800 folks interested,
+
+307
+00:14:30,810 --> 00:14:33,450
+but we ended up with 400 plus faculty
+
+308
+00:14:33,450 --> 00:14:37,350
+and staff in a four week series
+
+309
+00:14:37,350 --> 00:14:38,940
+of a professional learning community.
+
+310
+00:14:38,940 --> 00:14:42,717
+And it's amazing how much has come from that.
+
+311
+00:14:42,717 --> 00:14:45,090
+And I think many of the AI fellows
+
+312
+00:14:45,090 --> 00:14:47,730
+are pretty much Playlabbers.
+
+313
+00:14:47,730 --> 00:14:50,400
+Many of you may be using it in your classroom already.
+
+314
+00:14:50,400 --> 00:14:53,144
+And so it's really representative of a partnership
+
+315
+00:14:53,144 --> 00:14:57,210
+that is meant to be built on trust, collaboration,
+
+316
+00:14:57,210 --> 00:14:58,500
+and shared values rather
+
+317
+00:14:58,500 --> 00:15:02,553
+than a top down kind of technology implementation.
+
+318
+00:15:03,480 --> 00:15:07,350
+So our approach is really about how do we build tools.
+
+319
+00:15:07,350 --> 00:15:11,457
+So you guys use it, you start asking me.
+
+320
+00:15:11,457 --> 00:15:14,310
+I was just having conversation with Bobby that like, hey,
+
+321
+00:15:14,310 --> 00:15:17,040
+can we have this attribution, right,
+
+322
+00:15:17,040 --> 00:15:19,800
+where, you know, it's a new form of scholarship.
+
+323
+00:15:19,800 --> 00:15:21,840
+These bots are running on systems prompts
+
+324
+00:15:21,840 --> 00:15:25,500
+which reflect the metacognition that we're having
+
+325
+00:15:25,500 --> 00:15:27,630
+to develop in our students, for example.
+
+326
+00:15:27,630 --> 00:15:29,965
+And as you author these chatbots
+
+327
+00:15:29,965 --> 00:15:31,740
+that are solving real problems in your context
+
+328
+00:15:31,740 --> 00:15:33,300
+and other folks remix it
+
+329
+00:15:33,300 --> 00:15:35,580
+because we're set up as a community of practice,
+
+330
+00:15:35,580 --> 00:15:38,040
+how do we keep that line going?
+
+331
+00:15:38,040 --> 00:15:42,120
+But additionally, so many, you know, chatbots are remixed
+
+332
+00:15:42,120 --> 00:15:46,980
+and used for silo bot for just all kinds of functionality
+
+333
+00:15:46,980 --> 00:15:49,650
+and it's really helping others across the classroom.
+
+334
+00:15:49,650 --> 00:15:53,010
+And so as people are building things, I just love
+
+335
+00:15:53,010 --> 00:15:54,570
+how much they say, "You know,
+
+336
+00:15:54,570 --> 00:15:57,357
+it'd be really cool if it could do this."
+
+337
+00:15:57,357 --> 00:15:59,370
+And so our small engineering team at Playlab
+
+338
+00:15:59,370 --> 00:16:03,480
+works really hard to basically be responsive to the feedback
+
+339
+00:16:03,480 --> 00:16:04,477
+that you're giving us of like,
+
+340
+00:16:04,477 --> 00:16:06,420
+"I really wish it could do this in my classroom.
+
+341
+00:16:06,420 --> 00:16:08,490
+If it could do this, it would be a game changer."
+
+342
+00:16:08,490 --> 00:16:11,880
+So that's how we're building essentially in collaboration
+
+343
+00:16:11,880 --> 00:16:13,350
+with educators like yourself
+
+344
+00:16:13,350 --> 00:16:16,710
+and staff like yourself in order to improve what the future
+
+345
+00:16:16,710 --> 00:16:19,599
+of education and work looks like.
+
+346
+00:16:19,599 --> 00:16:21,930
+So I have three strategies that I'm gonna tell you about,
+
+347
+00:16:21,930 --> 00:16:24,330
+about how we're deploying this at a much larger scale
+
+348
+00:16:24,330 --> 00:16:25,904
+across the system,
+
+349
+00:16:25,904 --> 00:16:27,930
+even though the 400 plus faculty represented the full state
+
+350
+00:16:27,930 --> 00:16:30,960
+of California and all the colleges within it.
+
+351
+00:16:30,960 --> 00:16:33,498
+I'm just gonna go straight to these slides.
+
+352
+00:16:33,498 --> 00:16:34,680
+So the first pillar is kind
+
+353
+00:16:34,680 --> 00:16:36,630
+of this comprehensive learning experience.
+
+354
+00:16:36,630 --> 00:16:39,570
+So what we do is this one-on-one series
+
+355
+00:16:39,570 --> 00:16:41,940
+where you're doing a foundational sort of,
+
+356
+00:16:41,940 --> 00:16:44,189
+this is what generative AI is,
+
+357
+00:16:44,189 --> 00:16:45,810
+and this is how you build a system prompts,
+
+358
+00:16:45,810 --> 00:16:48,150
+and this is how you configure a chatbot
+
+359
+00:16:48,150 --> 00:16:50,220
+so that it can do all these powerful things
+
+360
+00:16:50,220 --> 00:16:53,613
+and help you advance your goals in the community.
+
+361
+00:16:54,480 --> 00:16:55,860
+Then we move into tool ones,
+
+362
+00:16:55,860 --> 00:16:57,840
+which is much more like leveling up your bots
+
+363
+00:16:57,840 --> 00:16:59,400
+and really taking the feedback
+
+364
+00:16:59,400 --> 00:17:01,560
+that you might get in your analytics
+
+365
+00:17:01,560 --> 00:17:05,190
+and supporting just deeper innovation.
+
+366
+00:17:05,190 --> 00:17:09,090
+And we're definitely including the staff in this engagement
+
+367
+00:17:09,090 --> 00:17:10,560
+because we're all working together,
+
+368
+00:17:10,560 --> 00:17:12,150
+faculty, staff, and students,
+
+369
+00:17:12,150 --> 00:17:14,940
+and you can have your students build as well.
+
+370
+00:17:14,940 --> 00:17:17,340
+So the second pillar is that we have a Solution Studio.
+
+371
+00:17:17,340 --> 00:17:18,540
+As I mentioned already,
+
+372
+00:17:18,540 --> 00:17:21,404
+all of you have been building really important tools
+
+373
+00:17:21,404 --> 00:17:23,250
+that are applicable across context,
+
+374
+00:17:23,250 --> 00:17:25,800
+and so we wanna make sure that those tools are available
+
+375
+00:17:25,800 --> 00:17:27,600
+for you to remix.
+
+376
+00:17:27,600 --> 00:17:29,820
+And then additionally, we just have, like I said,
+
+377
+00:17:29,820 --> 00:17:31,620
+co-developed AI systems.
+
+378
+00:17:31,620 --> 00:17:35,070
+We are not building for profit, right?
+
+379
+00:17:35,070 --> 00:17:38,490
+We can't say this about the big guys who are not necessarily
+
+380
+00:17:38,490 --> 00:17:41,910
+engaged in doing this work.
+
+381
+00:17:41,910 --> 00:17:43,290
+They have private interests
+
+382
+00:17:43,290 --> 00:17:44,820
+and we have public interest.
+
+383
+00:17:44,820 --> 00:17:47,400
+So we are really working with the system to ensure
+
+384
+00:17:47,400 --> 00:17:50,340
+that this platform is built for all of you
+
+385
+00:17:50,340 --> 00:17:53,640
+to support the most vulnerable populations to create,
+
+386
+00:17:53,640 --> 00:17:55,230
+as Chancellor Christian was saying earlier,
+
+387
+00:17:55,230 --> 00:17:58,860
+it's equity of access, democratization, et cetera.
+
+388
+00:17:58,860 --> 00:18:02,880
+All right, so the scale of this partnership is unique
+
+389
+00:18:02,880 --> 00:18:03,870
+by virtue of the fact
+
+390
+00:18:03,870 --> 00:18:06,720
+that the community colleges in California are so big.
+
+391
+00:18:06,720 --> 00:18:10,110
+So I'm getting told like it's like wrap it up.
+
+392
+00:18:10,110 --> 00:18:11,610
+Don, you took too much time.
+
+393
+00:18:11,610 --> 00:18:13,578
+You took all the time Don. Sorry.
+
+394
+00:18:13,578 --> 00:18:16,925
+(audience laughing)
+
+395
+00:18:16,925 --> 00:18:21,390
+All right, so the vision, we are supporting the vision 2030
+
+396
+00:18:21,390 --> 00:18:23,610
+and this AI ready workforce.
+
+397
+00:18:23,610 --> 00:18:25,620
+We really are trying to think about, okay,
+
+398
+00:18:25,620 --> 00:18:26,670
+how do we upskill?
+
+399
+00:18:26,670 --> 00:18:28,170
+But then additionally,
+
+400
+00:18:28,170 --> 00:18:32,250
+how are we creating those only human skills?
+
+401
+00:18:32,250 --> 00:18:34,800
+How do we cultivate and anchor people in those skills
+
+402
+00:18:34,800 --> 00:18:36,990
+while also advancing the tooling?
+
+403
+00:18:36,990 --> 00:18:39,360
+So I think that's it. Thank you.
+
+404
+00:18:39,360 --> 00:18:41,010
+I appreciate your time and listening to me.
+
+405
+00:18:41,010 --> 00:18:42,323
+I hope to see you there. Bless you.
+
+406
+00:18:44,051 --> 00:18:47,218
+(audience applauding)
+
+407
+00:18:58,294 --> 00:19:00,960
+- I'm here to take more time.
+
+408
+00:19:00,960 --> 00:19:05,960
+Okay, so a librarian, a college president,
+
+409
+00:19:06,930 --> 00:19:09,810
+and a computer science researcher
+
+410
+00:19:09,810 --> 00:19:14,008
+and a chatbot building education faculty member
+
+411
+00:19:14,008 --> 00:19:15,963
+walk onto a stage.
+
+412
+00:19:17,400 --> 00:19:18,630
+Now this isn't the setup
+
+413
+00:19:18,630 --> 00:19:21,360
+for a joke about artificial intelligence
+
+414
+00:19:21,360 --> 00:19:25,293
+taking over higher ed, though honestly it might as well be.
+
+415
+00:19:27,210 --> 00:19:30,660
+So welcome to Agentic AI in Higher Education:
+
+416
+00:19:30,660 --> 00:19:32,250
+Preparing the Future Workforce
+
+417
+00:19:32,250 --> 00:19:34,530
+Through Strategic Partnerships,
+
+418
+00:19:34,530 --> 00:19:35,550
+where we've assembled
+
+419
+00:19:35,550 --> 00:19:37,920
+what might be the most unlikely dream team
+
+420
+00:19:37,920 --> 00:19:41,460
+since the Avengers, but with significantly more caffeine
+
+421
+00:19:41,460 --> 00:19:44,043
+and considerably less superpowers.
+
+422
+00:19:45,090 --> 00:19:47,040
+Though our librarian would argue
+
+423
+00:19:47,040 --> 00:19:49,140
+that finding obscure research papers
+
+424
+00:19:49,140 --> 00:19:52,503
+in under 30 seconds is basically a superpower.
+
+425
+00:19:54,180 --> 00:19:57,120
+Our college president brings the big picture vision.
+
+426
+00:19:57,120 --> 00:19:59,640
+And by big picture we mean trying to figure out how
+
+427
+00:19:59,640 --> 00:20:04,211
+to explain to the board why we need a budget approval for AI
+
+428
+00:20:04,211 --> 00:20:07,323
+that might actually become smarter than all of us combined.
+
+429
+00:20:08,670 --> 00:20:12,420
+Our lead librarian has gone from shushing people
+
+430
+00:20:12,420 --> 00:20:15,090
+to teaching them how to have productive conversations
+
+431
+00:20:15,090 --> 00:20:16,590
+with chatbots.
+
+432
+00:20:16,590 --> 00:20:19,413
+Talk about career evolution.
+
+433
+00:20:20,550 --> 00:20:23,280
+Our computer science researcher is here to remind us
+
+434
+00:20:23,280 --> 00:20:27,720
+that we think AI can do,
+
+435
+00:20:27,720 --> 00:20:31,570
+and to remind us that what we think AI can do
+
+436
+00:20:33,153 --> 00:20:36,357
+and what it actually can do are two very different things.
+
+437
+00:20:36,357 --> 00:20:38,670
+And our education faculty member
+
+438
+00:20:38,670 --> 00:20:40,890
+has been busy building chatbots,
+
+439
+00:20:40,890 --> 00:20:42,630
+probably because grading papers
+
+440
+00:20:42,630 --> 00:20:46,593
+at 2:00 AM finally drove them to seek digital assistance.
+
+441
+00:20:48,000 --> 00:20:50,730
+Together, they'll explore the burning question,
+
+442
+00:20:50,730 --> 00:20:54,270
+how do we prepare students for a future
+
+443
+00:20:54,270 --> 00:20:57,630
+where their study buddy might be an AI agent,
+
+444
+00:20:57,630 --> 00:21:01,830
+their research assistant could be a sophisticated algorithm
+
+445
+00:21:01,830 --> 00:21:05,130
+and their biggest academic challenge might be learning
+
+446
+00:21:05,130 --> 00:21:09,243
+to collaborate with machines that never need coffee breaks.
+
+447
+00:21:10,530 --> 00:21:12,180
+Buckle up folks,
+
+448
+00:21:12,180 --> 00:21:15,810
+this is going to be either brilliantly insightful
+
+449
+00:21:15,810 --> 00:21:18,750
+or cautionary tale about what happens when educators try
+
+450
+00:21:18,750 --> 00:21:22,110
+to outsmart the technology they're teaching.
+
+451
+00:21:22,110 --> 00:21:24,303
+Either way it should be entertained.
+
+452
+00:21:25,290 --> 00:21:27,007
+I'll introduce you to our panel.
+
+453
+00:21:30,586 --> 00:21:33,169
+(bright music)
+
+454
+00:21:36,438 --> 00:21:39,605
+(audience applauding)
+
+455
+00:21:46,356 --> 00:21:47,853
+- Good afternoon everyone.
+
+456
+00:21:47,853 --> 00:21:51,203
+Hi and welcome to our panel discussion,
+
+457
+00:21:51,203 --> 00:21:54,090
+Agentic AI for Higher Education.
+
+458
+00:21:54,090 --> 00:21:58,500
+And today our goal is to explore the promises
+
+459
+00:21:58,500 --> 00:22:01,647
+and challenges of agentic AI
+
+460
+00:22:01,647 --> 00:22:04,410
+and how colleges will be prepared
+
+461
+00:22:04,410 --> 00:22:09,237
+for this transformative area on AI.
+
+462
+00:22:09,237 --> 00:22:13,200
+And let me now introduce my panelist.
+
+463
+00:22:13,200 --> 00:22:18,200
+I'm delighted to introduce President Ajita Talwalker Menon,
+
+464
+00:22:20,652 --> 00:22:23,763
+she's president and CEO of Calbright College.
+
+465
+00:22:25,214 --> 00:22:27,213
+And Dr. C, you just saw Dr. C,
+
+466
+00:22:28,260 --> 00:22:33,102
+she's the head of community learning and growth at Playlab
+
+467
+00:22:33,102 --> 00:22:36,270
+and Dr. Alison Gurganus,
+
+468
+00:22:36,270 --> 00:22:38,730
+she is serving as an innovation
+
+469
+00:22:38,730 --> 00:22:41,580
+and emerging technology faculty specialist
+
+470
+00:22:41,580 --> 00:22:45,000
+with the San Diego Community College District.
+
+471
+00:22:45,000 --> 00:22:46,980
+So welcome all,
+
+472
+00:22:46,980 --> 00:22:51,420
+and if you want to learn more about our panelists,
+
+473
+00:22:51,420 --> 00:22:55,527
+their work, they're amazing, the stuff that they are doing,
+
+474
+00:22:55,527 --> 00:22:59,040
+and you can find all the information available
+
+475
+00:22:59,040 --> 00:23:00,600
+in our website
+
+476
+00:23:00,600 --> 00:23:04,893
+And thank you all for being here. Welcome.
+
+477
+00:23:07,471 --> 00:23:10,700
+So I'm gonna like start directly,
+
+478
+00:23:11,940 --> 00:23:13,530
+don't have much time left.
+
+479
+00:23:14,397 --> 00:23:16,530
+And let's begin with some clarity.
+
+480
+00:23:16,530 --> 00:23:18,627
+So how do you define agentic AI
+
+481
+00:23:18,627 --> 00:23:20,730
+and what distinguishes agentic AI
+
+482
+00:23:20,730 --> 00:23:23,790
+from the traditional AI tools
+
+483
+00:23:23,790 --> 00:23:27,543
+that students might already be using?
+
+484
+00:23:29,130 --> 00:23:32,252
+- I was gonna take that one. I'm also your librarian, but.
+
+485
+00:23:32,252 --> 00:23:35,252
+(audience cheering)
+
+486
+00:23:36,088 --> 00:23:37,770
+So we thought we would let you know
+
+487
+00:23:37,770 --> 00:23:40,328
+for those that haven't quite gotten their hands
+
+488
+00:23:40,328 --> 00:23:41,700
+around the whole agentic situation.
+
+489
+00:23:41,700 --> 00:23:44,250
+So we are familiar with large language models,
+
+490
+00:23:44,250 --> 00:23:45,720
+which is a conversation.
+
+491
+00:23:45,720 --> 00:23:47,910
+So we speak, we write back and forth.
+
+492
+00:23:47,910 --> 00:23:50,871
+We have a conversation with our large language model.
+
+493
+00:23:50,871 --> 00:23:55,871
+And so it's sort of a one way, oh, are we not? Okay.
+
+494
+00:23:57,250 --> 00:23:59,208
+Is that, there we go. Hi.
+
+495
+00:23:59,208 --> 00:24:01,041
+So it's a conversation
+
+496
+00:24:02,165 --> 00:24:04,590
+that we're having with a large language model.
+
+497
+00:24:04,590 --> 00:24:08,460
+Agentic doesn't just have a conversation with you,
+
+498
+00:24:08,460 --> 00:24:11,393
+it is a tool that does tasks for you.
+
+499
+00:24:11,393 --> 00:24:13,350
+So I'll give you an example
+
+500
+00:24:13,350 --> 00:24:15,750
+that anybody can probably relate to.
+
+501
+00:24:15,750 --> 00:24:18,180
+Let's say I want go to Oahu
+
+502
+00:24:18,180 --> 00:24:21,900
+and I don't have time to deal with this.
+
+503
+00:24:21,900 --> 00:24:23,587
+So what I do is I tell my agent,
+
+504
+00:24:23,587 --> 00:24:28,587
+"Look, here is my number for American Airlines,
+
+505
+00:24:29,910 --> 00:24:32,430
+here is the seats I like to sit in.
+
+506
+00:24:32,430 --> 00:24:34,650
+Here's all the information about my likes
+
+507
+00:24:34,650 --> 00:24:36,090
+and dislikes about airlines,
+
+508
+00:24:36,090 --> 00:24:38,400
+and here's all my information about a hotel.
+
+509
+00:24:38,400 --> 00:24:39,750
+This is the hotel I like to do.
+
+510
+00:24:39,750 --> 00:24:41,760
+Here's my rewards number for this hotel.
+
+511
+00:24:41,760 --> 00:24:46,410
+These are the kind of rooms I like to stay in, so go."
+
+512
+00:24:46,410 --> 00:24:50,040
+And it will make the reservations for me.
+
+513
+00:24:50,040 --> 00:24:52,080
+Let's say I find out, then I have to go on the fifth
+
+514
+00:24:52,080 --> 00:24:54,060
+of every month back to Oahu.
+
+515
+00:24:54,060 --> 00:24:56,400
+Then it will make those reservations
+
+516
+00:24:56,400 --> 00:24:57,990
+for me and just let me know.
+
+517
+00:24:57,990 --> 00:24:58,823
+There you go.
+
+518
+00:24:58,823 --> 00:25:02,730
+Now this is a very simple agent AI system.
+
+519
+00:25:02,730 --> 00:25:05,910
+They get much more complicated
+
+520
+00:25:05,910 --> 00:25:07,710
+and they can also talk to one another
+
+521
+00:25:07,710 --> 00:25:09,120
+as they get more complicated.
+
+522
+00:25:09,120 --> 00:25:11,970
+So one agent can speak to another agent.
+
+523
+00:25:11,970 --> 00:25:16,230
+So it's large language models on steroids
+
+524
+00:25:16,230 --> 00:25:19,110
+and they can do things for us as opposed
+
+525
+00:25:19,110 --> 00:25:20,973
+to just conversating with us.
+
+526
+00:25:23,790 --> 00:25:27,150
+- Okay, so, you know, that's impressive
+
+527
+00:25:27,150 --> 00:25:31,350
+and this distinction between the traditional AI tools
+
+528
+00:25:31,350 --> 00:25:35,580
+and the agentic AI is kind of transformative.
+
+529
+00:25:35,580 --> 00:25:39,390
+So I think we'll come to a point
+
+530
+00:25:39,390 --> 00:25:42,990
+that the agent will do much more stuff for us
+
+531
+00:25:42,990 --> 00:25:46,170
+and I will hope I'll get into that time soon.
+
+532
+00:25:46,170 --> 00:25:50,633
+And if we want to move a little bit from the definition
+
+533
+00:25:50,633 --> 00:25:55,633
+and the technicals, so what human competencies
+
+534
+00:25:56,190 --> 00:25:59,670
+become more critical in AI augmented workplace,
+
+535
+00:25:59,670 --> 00:26:01,743
+and should we teach them?
+
+536
+00:26:03,108 --> 00:26:04,650
+- I'm happy to start.
+
+537
+00:26:04,650 --> 00:26:07,620
+I think, you know, at Calbright we're indexing very hard
+
+538
+00:26:07,620 --> 00:26:09,300
+on durable skills.
+
+539
+00:26:09,300 --> 00:26:11,443
+And these are often skills that we talk about.
+
+540
+00:26:11,443 --> 00:26:13,140
+We used to talk about them as soft skills
+
+541
+00:26:13,140 --> 00:26:16,020
+and as we enter this phase where the thing
+
+542
+00:26:16,020 --> 00:26:17,670
+that we're asking folks to navigate
+
+543
+00:26:17,670 --> 00:26:19,530
+is not just their educational experience
+
+544
+00:26:19,530 --> 00:26:20,700
+and their credential,
+
+545
+00:26:20,700 --> 00:26:25,700
+but increasingly a very uncertain and evolving labor market.
+
+546
+00:26:26,730 --> 00:26:29,640
+Indexing on those skills becomes very important.
+
+547
+00:26:29,640 --> 00:26:31,320
+And it's not just the critical thinking
+
+548
+00:26:31,320 --> 00:26:33,660
+and the collaboration, the communication skills.
+
+549
+00:26:33,660 --> 00:26:36,690
+It is a hundred percent the skills around resiliency,
+
+550
+00:26:36,690 --> 00:26:37,860
+emotional quotient,
+
+551
+00:26:37,860 --> 00:26:41,640
+and our ability to support self-efficacy,
+
+552
+00:26:41,640 --> 00:26:44,670
+to actually empower our learners to take action
+
+553
+00:26:44,670 --> 00:26:48,900
+and to vary action as they enter the workforce.
+
+554
+00:26:48,900 --> 00:26:53,498
+How we teach those skills becomes critically important.
+
+555
+00:26:53,498 --> 00:26:55,950
+I was having this conversation with Michael Stewart
+
+556
+00:26:55,950 --> 00:26:58,410
+who is the head of our academic senate,
+
+557
+00:26:58,410 --> 00:27:00,450
+and also doing some incredible work
+
+558
+00:27:00,450 --> 00:27:04,140
+as a faculty leader in the system as well around the ability
+
+559
+00:27:04,140 --> 00:27:06,870
+to contextualize these skills in different discipline
+
+560
+00:27:06,870 --> 00:27:09,570
+and domain areas so that students actually
+
+561
+00:27:09,570 --> 00:27:14,550
+have tactical experience interacting with AI tools
+
+562
+00:27:14,550 --> 00:27:17,070
+and resources as a part
+
+563
+00:27:17,070 --> 00:27:18,900
+of not just their educational experience,
+
+564
+00:27:18,900 --> 00:27:22,140
+but as a tool of empowerment, as a tool that allows them
+
+565
+00:27:22,140 --> 00:27:26,310
+to actually show what they can do in addition to being able
+
+566
+00:27:26,310 --> 00:27:27,810
+to demonstrate that the learning
+
+567
+00:27:27,810 --> 00:27:30,000
+that has occurred around those skills.
+
+568
+00:27:30,000 --> 00:27:33,493
+So I think these are gonna continue to be maybe the sort
+
+569
+00:27:33,493 --> 00:27:35,490
+of cream that rise to the top in terms
+
+570
+00:27:35,490 --> 00:27:37,650
+of the skills that are needed
+
+571
+00:27:37,650 --> 00:27:42,030
+and the more, not just exposure. but coaching interaction
+
+572
+00:27:42,030 --> 00:27:46,410
+and embedded experiences that students have
+
+573
+00:27:46,410 --> 00:27:48,687
+in developing those skills
+
+574
+00:27:48,687 --> 00:27:51,540
+and in being able to showcase those skills,
+
+575
+00:27:51,540 --> 00:27:54,120
+the more formidable they become as they position for
+
+576
+00:27:54,120 --> 00:27:56,253
+what will be an ever changing job market.
+
+577
+00:27:57,360 --> 00:27:59,100
+- And as you mentioned student
+
+578
+00:27:59,100 --> 00:28:02,610
+and how we should integrate our student
+
+579
+00:28:02,610 --> 00:28:07,020
+into all this transformative agentic AI world.
+
+580
+00:28:07,020 --> 00:28:09,750
+What do you think the barriers
+
+581
+00:28:09,750 --> 00:28:14,280
+that can face us when we want to integrate AI
+
+582
+00:28:14,280 --> 00:28:16,396
+into the educational system?
+
+583
+00:28:16,396 --> 00:28:18,960
+Like I will say our community college system,
+
+584
+00:28:18,960 --> 00:28:23,960
+I want to hear that from like the expert opinion.
+
+585
+00:28:24,780 --> 00:28:27,690
+So I think knowing those barriers,
+
+586
+00:28:27,690 --> 00:28:32,154
+maybe will be more prepared to what's coming
+
+587
+00:28:32,154 --> 00:28:34,590
+and will have better tools
+
+588
+00:28:34,590 --> 00:28:38,133
+facing all this transformation in the AI world.
+
+589
+00:28:39,780 --> 00:28:43,170
+- I'm going start the barrier discussion in one thing,
+
+590
+00:28:43,170 --> 00:28:45,060
+I thought we'd spend a little bit more time
+
+591
+00:28:45,060 --> 00:28:46,800
+on the opportunity and the power,
+
+592
+00:28:46,800 --> 00:28:49,590
+but we'll go back to that for sure.
+
+593
+00:28:49,590 --> 00:28:50,910
+I have to say that one of the things
+
+594
+00:28:50,910 --> 00:28:52,050
+that feels most important
+
+595
+00:28:52,050 --> 00:28:54,960
+for every institutional leader in this moment is to move
+
+596
+00:28:54,960 --> 00:28:56,880
+with intention in this space
+
+597
+00:28:56,880 --> 00:29:00,810
+and to really look at what is the sort of unsexy work
+
+598
+00:29:00,810 --> 00:29:02,940
+that has to happen within an institution
+
+599
+00:29:02,940 --> 00:29:06,000
+and an organization to be AI ready.
+
+600
+00:29:06,000 --> 00:29:06,957
+And for us,
+
+601
+00:29:06,957 --> 00:29:09,600
+and I know a number of colleges in this system, I think,
+
+602
+00:29:09,600 --> 00:29:12,960
+you know, we're working with an incredible organization,
+
+603
+00:29:12,960 --> 00:29:16,410
+AQL labs, who I think is here somewhere.
+
+604
+00:29:16,410 --> 00:29:18,150
+So if you encounter them
+
+605
+00:29:18,150 --> 00:29:21,120
+or seek them out asking about their work along
+
+606
+00:29:21,120 --> 00:29:25,800
+with MiraCosta College and Long Beach College
+
+607
+00:29:25,800 --> 00:29:29,880
+and Merced, who are at various stages in examining
+
+608
+00:29:29,880 --> 00:29:31,230
+as an institution,
+
+609
+00:29:31,230 --> 00:29:33,660
+what does their technology stack look like?
+
+610
+00:29:33,660 --> 00:29:36,030
+What does their cloud based infrastructure look like?
+
+611
+00:29:36,030 --> 00:29:38,070
+How does their data architecture need
+
+612
+00:29:38,070 --> 00:29:39,660
+to be positioned in order
+
+613
+00:29:39,660 --> 00:29:43,080
+to support all the exciting opportunities that are out there
+
+614
+00:29:43,080 --> 00:29:46,500
+to leverage this technology, not just the power that it has,
+
+615
+00:29:46,500 --> 00:29:48,450
+but the way that it can empower our learners
+
+616
+00:29:48,450 --> 00:29:51,930
+and empower our institutions to service our students better
+
+617
+00:29:51,930 --> 00:29:54,642
+and to drive better outcomes for our students.
+
+618
+00:29:54,642 --> 00:29:56,850
+So that foundational piece is critically important.
+
+619
+00:29:56,850 --> 00:29:59,220
+We're a bit farther along in that than a lot
+
+620
+00:29:59,220 --> 00:30:02,310
+of other institutions that I've been talking to.
+
+621
+00:30:02,310 --> 00:30:05,400
+But if we do that part right, then all the other things
+
+622
+00:30:05,400 --> 00:30:08,550
+that it unlocks can be extraordinary
+
+623
+00:30:08,550 --> 00:30:11,160
+and it allows us to retain the agency
+
+624
+00:30:11,160 --> 00:30:14,190
+as an educational institution that we need to properly
+
+625
+00:30:14,190 --> 00:30:17,552
+and responsibly oversee the leverage use
+
+626
+00:30:17,552 --> 00:30:19,093
+of these technologies.
+
+627
+00:30:19,093 --> 00:30:20,910
+- Yeah, I totally agree.
+
+628
+00:30:20,910 --> 00:30:25,910
+Having those type of connection, communication
+
+629
+00:30:26,100 --> 00:30:30,830
+to prepare our student to the agenetic AI
+
+630
+00:30:30,830 --> 00:30:35,460
+or the future, that brings to my mind
+
+631
+00:30:35,460 --> 00:30:37,660
+that very important idea
+
+632
+00:30:38,910 --> 00:30:42,450
+that you are referring to which collaboration.
+
+633
+00:30:42,450 --> 00:30:46,140
+So everything we can, when we get into a new technology,
+
+634
+00:30:46,140 --> 00:30:50,760
+a new world, you know, we always, as a higher education
+
+635
+00:30:50,760 --> 00:30:54,623
+or an educational system, we look always for
+
+636
+00:30:57,090 --> 00:31:01,200
+how we can collaborate within the industry with institutions
+
+637
+00:31:01,200 --> 00:31:03,840
+to better prepare our students
+
+638
+00:31:03,840 --> 00:31:06,670
+or to provide them the school they need to the world
+
+639
+00:31:08,261 --> 00:31:09,580
+of the agentic AI.
+
+640
+00:31:09,580 --> 00:31:13,740
+So what do you think, what makes successful partnership
+
+641
+00:31:13,740 --> 00:31:15,510
+between the higher education
+
+642
+00:31:15,510 --> 00:31:20,510
+and the industry in the context of AI education?
+
+643
+00:31:20,982 --> 00:31:23,815
+What shape would look like?
+
+644
+00:31:23,815 --> 00:31:26,730
+- I'm gonna be biased here if that's okay.
+
+645
+00:31:29,310 --> 00:31:30,810
+In order to do something,
+
+646
+00:31:30,810 --> 00:31:31,980
+I'm gonna thread something here,
+
+647
+00:31:31,980 --> 00:31:35,850
+which is when we think about the skills that are necessary,
+
+648
+00:31:35,850 --> 00:31:39,600
+I want you to think about what are the purposes
+
+649
+00:31:39,600 --> 00:31:40,800
+of education?
+
+650
+00:31:40,800 --> 00:31:43,730
+And we're always pipelining students
+
+651
+00:31:43,730 --> 00:31:45,856
+in the future workforce,
+
+652
+00:31:45,856 --> 00:31:46,689
+and that's really important.
+
+653
+00:31:46,689 --> 00:31:49,590
+That's part of the work of doing, you know,
+
+654
+00:31:49,590 --> 00:31:51,483
+schooling in a formal manner.
+
+655
+00:31:52,410 --> 00:31:55,530
+And in the United States context in particular,
+
+656
+00:31:55,530 --> 00:31:57,660
+so much of our identities are rolled up
+
+657
+00:31:57,660 --> 00:32:00,960
+in these are my achievements, this is where I work, right?
+
+658
+00:32:00,960 --> 00:32:03,390
+It's all about our productivity.
+
+659
+00:32:03,390 --> 00:32:05,910
+And I think what's interesting about what's coming
+
+660
+00:32:05,910 --> 00:32:09,780
+is that as AI continues to essentially
+
+661
+00:32:09,780 --> 00:32:13,080
+take away all these things that we identify
+
+662
+00:32:13,080 --> 00:32:15,930
+as like what makes us like who we are,
+
+663
+00:32:15,930 --> 00:32:17,790
+we have to really consider the question
+
+664
+00:32:17,790 --> 00:32:19,830
+of like what does it even mean to be human?
+
+665
+00:32:19,830 --> 00:32:23,670
+Because agentic AI can do all these things,
+
+666
+00:32:23,670 --> 00:32:27,300
+it's pretty powerful what it can achieve.
+
+667
+00:32:27,300 --> 00:32:31,920
+And we have to rethink one, you have to have a mindset shift
+
+668
+00:32:31,920 --> 00:32:34,800
+around like, okay, not only what does it mean to be human,
+
+669
+00:32:34,800 --> 00:32:36,780
+but then who am I collaborating with?
+
+670
+00:32:36,780 --> 00:32:39,630
+And you have to have a relationship almost,
+
+671
+00:32:39,630 --> 00:32:41,490
+not in this sort of like human way,
+
+672
+00:32:41,490 --> 00:32:43,530
+but you have to have this,
+
+673
+00:32:43,530 --> 00:32:45,336
+you have to think about like, okay,
+
+674
+00:32:45,336 --> 00:32:49,680
+if everything is going to be a machine
+
+675
+00:32:49,680 --> 00:32:51,510
+and human collaboration,
+
+676
+00:32:51,510 --> 00:32:53,190
+what role do I play in that
+
+677
+00:32:53,190 --> 00:32:56,820
+and how do I facilitate these types of relationships?
+
+678
+00:32:56,820 --> 00:33:01,020
+And as older jobs go away as a result of this kind
+
+679
+00:33:01,020 --> 00:33:04,140
+of redefining disruptive technology
+
+680
+00:33:04,140 --> 00:33:06,300
+and even disruptive in the sense of even
+
+681
+00:33:06,300 --> 00:33:08,850
+what it means to be like human,
+
+682
+00:33:08,850 --> 00:33:12,636
+what is the future of work even going to be
+
+683
+00:33:12,636 --> 00:33:13,469
+and what role will I play
+
+684
+00:33:13,469 --> 00:33:15,003
+and how does that counter with,
+
+685
+00:33:16,440 --> 00:33:18,660
+I still have bills to pay, right?
+
+686
+00:33:18,660 --> 00:33:20,310
+And how are we even thinking
+
+687
+00:33:20,310 --> 00:33:22,320
+about this new economy as a result of that?
+
+688
+00:33:22,320 --> 00:33:24,750
+So jobs will come, we've seen that, right?
+
+689
+00:33:24,750 --> 00:33:27,421
+So I always like to quote Kevin Kelly,
+
+690
+00:33:27,421 --> 00:33:29,271
+he has a book called, The Inevitable:
+
+691
+00:33:31,171 --> 00:33:34,200
+The 12 Technological Forces that Will Shape Our Future.
+
+692
+00:33:34,200 --> 00:33:36,270
+He talks about electrification.
+
+693
+00:33:36,270 --> 00:33:38,010
+So previous to the industrial revolution,
+
+694
+00:33:38,010 --> 00:33:42,960
+we had farmers at 70%, and then today about 1% is farmers.
+
+695
+00:33:42,960 --> 00:33:45,330
+And so they would look at our jobs today
+
+696
+00:33:45,330 --> 00:33:47,610
+and be like, "What the what?" Right?
+
+697
+00:33:47,610 --> 00:33:49,590
+So we're in that moment,
+
+698
+00:33:49,590 --> 00:33:51,540
+we're at this inflection point.
+
+699
+00:33:51,540 --> 00:33:55,710
+And so how do you enable your students, right,
+
+700
+00:33:55,710 --> 00:33:59,250
+to feel like they can be creators of set futures,
+
+701
+00:33:59,250 --> 00:34:01,020
+not just receivers of the future,
+
+702
+00:34:01,020 --> 00:34:02,220
+but if they are change makers,
+
+703
+00:34:02,220 --> 00:34:06,390
+how do you develop the agency, right, for them to navigate
+
+704
+00:34:06,390 --> 00:34:08,850
+what is an unknown future, but also to define it.
+
+705
+00:34:08,850 --> 00:34:11,850
+And so I think that's a critical piece.
+
+706
+00:34:11,850 --> 00:34:14,610
+And so partnerships, I think, are really important
+
+707
+00:34:14,610 --> 00:34:17,520
+in terms of there's two orientations, right?
+
+708
+00:34:17,520 --> 00:34:19,410
+So you have consumer based models
+
+709
+00:34:19,410 --> 00:34:22,580
+or consumer based companies, which, you know,
+
+710
+00:34:22,580 --> 00:34:25,980
+in the United States in particular, the goal is AGI, right?
+
+711
+00:34:25,980 --> 00:34:30,360
+It's a race, it's breaking things no matter
+
+712
+00:34:30,360 --> 00:34:33,010
+what the consequences we're going forward in this way
+
+713
+00:34:33,926 --> 00:34:35,640
+and it's not attending necessarily to, well, should we stop,
+
+714
+00:34:35,640 --> 00:34:37,170
+should we consider, right?
+
+715
+00:34:37,170 --> 00:34:39,392
+And then you have something like Playlab,
+
+716
+00:34:39,392 --> 00:34:40,260
+which is very much about
+
+717
+00:34:40,260 --> 00:34:43,080
+how do we think carefully about this?
+
+718
+00:34:43,080 --> 00:34:45,510
+And so because we're coming from that point of view,
+
+719
+00:34:45,510 --> 00:34:47,490
+our partnership focus is really
+
+720
+00:34:47,490 --> 00:34:50,340
+in leaning into the expertise,
+
+721
+00:34:50,340 --> 00:34:54,510
+the humans that enable the driving of this change
+
+722
+00:34:54,510 --> 00:34:56,910
+and the supporting, the empowering
+
+723
+00:34:56,910 --> 00:34:59,820
+of these change makers to not only take this change
+
+724
+00:34:59,820 --> 00:35:01,710
+but then move it forward in a particular way
+
+725
+00:35:01,710 --> 00:35:04,050
+that would be in service to the public good.
+
+726
+00:35:04,050 --> 00:35:07,776
+And so I think it's critical that if you're gonna partner,
+
+727
+00:35:07,776 --> 00:35:12,000
+you're really creating spaces for that co-creation
+
+728
+00:35:12,000 --> 00:35:14,760
+or that co-construction to be able to happen,
+
+729
+00:35:14,760 --> 00:35:17,220
+and then there's all the sort of operational logistic things
+
+730
+00:35:17,220 --> 00:35:18,153
+that go with it.
+
+731
+00:35:19,067 --> 00:35:20,280
+- I actually think the two tie together really nicely.
+
+732
+00:35:20,280 --> 00:35:21,990
+We've been thinking about that a lot.
+
+733
+00:35:21,990 --> 00:35:24,210
+There's so many points along the journey
+
+734
+00:35:24,210 --> 00:35:27,090
+that are gonna be not can we, which used to be the question,
+
+735
+00:35:27,090 --> 00:35:28,350
+but should we?
+
+736
+00:35:28,350 --> 00:35:30,870
+And there is, you know, I think we've sort
+
+737
+00:35:30,870 --> 00:35:33,660
+of just laid out the value on that within our institution
+
+738
+00:35:33,660 --> 00:35:35,100
+and our organization,
+
+739
+00:35:35,100 --> 00:35:37,140
+which is like the human is in the loop.
+
+740
+00:35:37,140 --> 00:35:40,500
+That is a choice because increasingly it may not be required
+
+741
+00:35:40,500 --> 00:35:41,970
+in a lot of different areas.
+
+742
+00:35:41,970 --> 00:35:45,210
+So that is a choice to make for a lot
+
+743
+00:35:45,210 --> 00:35:46,620
+of different organizations and entities,
+
+744
+00:35:46,620 --> 00:35:48,330
+not just in higher education,
+
+745
+00:35:48,330 --> 00:35:50,310
+about the future that they're gonna chart.
+
+746
+00:35:50,310 --> 00:35:52,500
+And I do think it is critically important
+
+747
+00:35:52,500 --> 00:35:56,160
+to not always accelerate towards the shiniest object
+
+748
+00:35:56,160 --> 00:35:57,330
+of what could be.
+
+749
+00:35:57,330 --> 00:35:59,670
+But you know, that when I speak about intentionality
+
+750
+00:35:59,670 --> 00:36:01,596
+or spoke about intentionality,
+
+751
+00:36:01,596 --> 00:36:02,746
+it's very much this thing.
+
+752
+00:36:02,746 --> 00:36:03,630
+How do we empower
+
+753
+00:36:03,630 --> 00:36:06,450
+and use these tools to supercharge the work
+
+754
+00:36:06,450 --> 00:36:09,510
+that is largely human driven within our organizations?
+
+755
+00:36:09,510 --> 00:36:12,270
+Because particularly in the space of education,
+
+756
+00:36:12,270 --> 00:36:13,830
+there's something important
+
+757
+00:36:13,830 --> 00:36:17,280
+and sacred about that evolution of the human condition
+
+758
+00:36:17,280 --> 00:36:20,040
+that is something we're uniquely positioned to do.
+
+759
+00:36:20,040 --> 00:36:23,340
+And so I love the way that you talked about that,
+
+760
+00:36:23,340 --> 00:36:25,317
+because I think that's exactly right.
+
+761
+00:36:25,317 --> 00:36:27,350
+- And to your point, I want you to say something too,
+
+762
+00:36:27,350 --> 00:36:31,950
+but to your point, like we need to teach our young people
+
+763
+00:36:31,950 --> 00:36:35,398
+and we need to teach ourselves, AI has its place.
+
+764
+00:36:35,398 --> 00:36:38,730
+It doesn't empathize, it's not human,
+
+765
+00:36:38,730 --> 00:36:41,490
+even though it's built to feel that way.
+
+766
+00:36:41,490 --> 00:36:44,359
+It has its place and you are the boss of it.
+
+767
+00:36:44,359 --> 00:36:45,930
+And it's really important to understand that,
+
+768
+00:36:45,930 --> 00:36:48,420
+especially with young people who are having relationships
+
+769
+00:36:48,420 --> 00:36:49,830
+with it, right?
+
+770
+00:36:49,830 --> 00:36:50,940
+It's causing real harm.
+
+771
+00:36:50,940 --> 00:36:55,050
+It's really rethinking what is the role of agentic AI
+
+772
+00:36:55,050 --> 00:36:56,550
+or AI in particular,
+
+773
+00:36:56,550 --> 00:36:59,070
+and how do we help people understand it's a tool,
+
+774
+00:36:59,070 --> 00:37:00,600
+it's a powerful tool,
+
+775
+00:37:00,600 --> 00:37:03,990
+but understanding the technical like workings of it,
+
+776
+00:37:03,990 --> 00:37:06,180
+I think help with supporting people
+
+777
+00:37:06,180 --> 00:37:08,160
+in making those decisions about have it's place,
+
+778
+00:37:08,160 --> 00:37:09,840
+know how to control it.
+
+779
+00:37:09,840 --> 00:37:12,183
+If it's your teammate, it's still a machine.
+
+780
+00:37:15,163 --> 00:37:18,413
+(audience applauding)
+
+781
+00:37:20,070 --> 00:37:22,487
+- I love that. You know, I love that.
+
+782
+00:37:22,487 --> 00:37:24,350
+And giving the fact
+
+783
+00:37:24,350 --> 00:37:27,870
+that our students are relying a lot on AI
+
+784
+00:37:27,870 --> 00:37:31,650
+and even with the look like, you know,
+
+785
+00:37:31,650 --> 00:37:35,280
+I will say traditional AI tool, GPTs
+
+786
+00:37:35,280 --> 00:37:36,540
+and stuff like that,
+
+787
+00:37:36,540 --> 00:37:40,020
+they were like deeply working with those.
+
+788
+00:37:40,020 --> 00:37:44,910
+And now we are going into agentic AI like even more.
+
+789
+00:37:44,910 --> 00:37:49,620
+So what do you think like from your, you know, opinion,
+
+790
+00:37:49,620 --> 00:37:51,630
+how we can prepare our students
+
+791
+00:37:51,630 --> 00:37:55,410
+to traditional from using like simple AI
+
+792
+00:37:55,410 --> 00:37:57,417
+or traditional AI to agentic AI
+
+793
+00:37:57,417 --> 00:38:01,770
+and the same way we are needed to keep it as ethical,
+
+794
+00:38:01,770 --> 00:38:06,140
+as responsible as, I will say, humanized as possible?
+
+795
+00:38:08,580 --> 00:38:11,820
+- Well, you said it, it's AI literacy.
+
+796
+00:38:11,820 --> 00:38:15,150
+This is AI literacy on another level.
+
+797
+00:38:15,150 --> 00:38:17,880
+But without that foundation of AI literacy,
+
+798
+00:38:17,880 --> 00:38:19,260
+you're not gonna get your ethics.
+
+799
+00:38:19,260 --> 00:38:22,980
+You're not going to get so many things.
+
+800
+00:38:22,980 --> 00:38:25,560
+You need to understand how to evaluate that output.
+
+801
+00:38:25,560 --> 00:38:27,663
+You need to understand how to prompt,
+
+802
+00:38:29,171 --> 00:38:31,440
+you can't have an agent work for you well
+
+803
+00:38:31,440 --> 00:38:34,260
+unless you know how to tell it what to do.
+
+804
+00:38:34,260 --> 00:38:37,680
+And that back to the partnerships with industry,
+
+805
+00:38:37,680 --> 00:38:39,870
+we find that some of the skills that are going
+
+806
+00:38:39,870 --> 00:38:43,899
+to be needed instead of those baseline skills that may,
+
+807
+00:38:43,899 --> 00:38:48,001
+those jobs that you first go into,
+
+808
+00:38:48,001 --> 00:38:51,720
+there will be more managerial jobs that will be talking
+
+809
+00:38:51,720 --> 00:38:55,290
+to humans and talking to agents,
+
+810
+00:38:55,290 --> 00:38:57,090
+so you're managing both things.
+
+811
+00:38:57,090 --> 00:39:01,290
+So when we look at the skills needed by these students,
+
+812
+00:39:01,290 --> 00:39:04,020
+there's a lot more collaboration needed,
+
+813
+00:39:04,020 --> 00:39:06,750
+a lot more discussing with one another,
+
+814
+00:39:06,750 --> 00:39:09,510
+communication skills, project skills.
+
+815
+00:39:09,510 --> 00:39:11,820
+These become more and more like the durable skills
+
+816
+00:39:11,820 --> 00:39:14,620
+that you were mentioning, becomes much more important
+
+817
+00:39:15,540 --> 00:39:17,280
+when we're dealing with these agents,
+
+818
+00:39:17,280 --> 00:39:19,680
+and it's all based on AI literacy.
+
+819
+00:39:19,680 --> 00:39:23,160
+And for me, when I go back into barriers,
+
+820
+00:39:23,160 --> 00:39:25,470
+it's one faculty member at a time
+
+821
+00:39:25,470 --> 00:39:29,670
+because we need to teach AI literacy to all faculty.
+
+822
+00:39:29,670 --> 00:39:32,217
+Even if it's no AI in my class, it's okay.
+
+823
+00:39:32,217 --> 00:39:34,950
+They need to have that conversation though
+
+824
+00:39:34,950 --> 00:39:37,740
+with why no AI in my class
+
+825
+00:39:37,740 --> 00:39:39,720
+and you have this class that you can use all the AI
+
+826
+00:39:39,720 --> 00:39:40,680
+in their class.
+
+827
+00:39:40,680 --> 00:39:42,780
+What is it about my class that is different?
+
+828
+00:39:42,780 --> 00:39:45,030
+And they need to be able to discuss these things.
+
+829
+00:39:45,030 --> 00:39:47,340
+So they have to have a level of AI literacy
+
+830
+00:39:47,340 --> 00:39:50,040
+that they can have that discussion.
+
+831
+00:39:50,040 --> 00:39:55,040
+So this is just a baseline that they need to have.
+
+832
+00:39:56,250 --> 00:39:58,380
+And again, it's one faculty member at a time.
+
+833
+00:39:58,380 --> 00:39:59,430
+You know, one of the barriers
+
+834
+00:39:59,430 --> 00:40:02,210
+that I see are faculty members who are just,
+
+835
+00:40:02,210 --> 00:40:04,861
+it is too much, it's just too much.
+
+836
+00:40:04,861 --> 00:40:06,750
+And it's affecting their assignments,
+
+837
+00:40:06,750 --> 00:40:08,550
+it's affecting their assessments.
+
+838
+00:40:08,550 --> 00:40:12,270
+How can we support them so that they can deal with the fact
+
+839
+00:40:12,270 --> 00:40:14,160
+that they are not necessarily getting paid
+
+840
+00:40:14,160 --> 00:40:17,370
+to redo all those assignments and assessments?
+
+841
+00:40:17,370 --> 00:40:21,900
+So this is how we get to the students is also
+
+842
+00:40:21,900 --> 00:40:24,870
+through the faculty and we do all the workshops
+
+843
+00:40:24,870 --> 00:40:26,910
+and we do all of the discussions
+
+844
+00:40:26,910 --> 00:40:29,640
+and we wanna get them together in disciplined groups
+
+845
+00:40:29,640 --> 00:40:31,680
+so they can talk amongst themselves.
+
+846
+00:40:31,680 --> 00:40:34,660
+And we also need them to talk amongst curricular areas
+
+847
+00:40:35,910 --> 00:40:37,890
+because in the workplace they're dealing
+
+848
+00:40:37,890 --> 00:40:39,270
+with lots of different areas.
+
+849
+00:40:39,270 --> 00:40:42,300
+They're not in silos like we are often
+
+850
+00:40:42,300 --> 00:40:44,760
+in the education system.
+
+851
+00:40:44,760 --> 00:40:48,660
+So we need to start to level those playing fields
+
+852
+00:40:48,660 --> 00:40:50,810
+and get people talking amongst one another.
+
+853
+00:40:52,979 --> 00:40:54,813
+- A hundred percent agree with you.
+
+854
+00:40:54,813 --> 00:40:56,940
+You know, one code that I use, sorry.
+
+855
+00:40:56,940 --> 00:40:57,773
+Sorry.
+
+856
+00:40:59,790 --> 00:41:02,280
+- I love the like taking us from the sort
+
+857
+00:41:02,280 --> 00:41:04,200
+of learning, knowing.
+
+858
+00:41:04,200 --> 00:41:06,750
+And I think for our students particularly,
+
+859
+00:41:06,750 --> 00:41:10,350
+they come to us with a goal in mind, which is a career goal
+
+860
+00:41:10,350 --> 00:41:12,870
+and so they learn best by the doing.
+
+861
+00:41:12,870 --> 00:41:16,950
+And one of the other areas when we talk about partnership
+
+862
+00:41:16,950 --> 00:41:18,909
+that feels really important
+
+863
+00:41:18,909 --> 00:41:21,900
+is the places which give them opportunities
+
+864
+00:41:21,900 --> 00:41:24,299
+or the partnerships that give them opportunities
+
+865
+00:41:24,299 --> 00:41:25,230
+to try these things out.
+
+866
+00:41:25,230 --> 00:41:26,820
+So we have two partnerships
+
+867
+00:41:26,820 --> 00:41:29,910
+that I think are particularly exciting for our learners
+
+868
+00:41:29,910 --> 00:41:32,287
+because they bring them closer to the world
+
+869
+00:41:32,287 --> 00:41:34,509
+of work in a way that is meaningful
+
+870
+00:41:34,509 --> 00:41:36,570
+and actually has some transactional value for them.
+
+871
+00:41:36,570 --> 00:41:38,520
+This incredible partnership with Riipen,
+
+872
+00:41:38,520 --> 00:41:41,370
+which is a work-based learning platform
+
+873
+00:41:41,370 --> 00:41:45,750
+and the work with Riipen is particularly instructive
+
+874
+00:41:45,750 --> 00:41:48,420
+and useful because it gives students an opportunity
+
+875
+00:41:48,420 --> 00:41:49,860
+to not just play around with tools,
+
+876
+00:41:49,860 --> 00:41:52,410
+but to actually have that micro internship experience.
+
+877
+00:41:52,410 --> 00:41:54,150
+To actually have something
+
+878
+00:41:54,150 --> 00:41:56,460
+that becomes an artifact on their resume
+
+879
+00:41:56,460 --> 00:41:58,770
+that is not just about the credential,
+
+880
+00:41:58,770 --> 00:42:02,100
+but is about demonstrating to an employer what they can do
+
+881
+00:42:02,100 --> 00:42:04,350
+and demonstrating to themselves what they can do
+
+882
+00:42:04,350 --> 00:42:05,520
+and accomplish.
+
+883
+00:42:05,520 --> 00:42:09,420
+And similarly, we have a really exciting opportunity
+
+884
+00:42:09,420 --> 00:42:10,620
+with HubSpot
+
+885
+00:42:10,620 --> 00:42:13,830
+and the work around HubSpot was really leaning into AI
+
+886
+00:42:13,830 --> 00:42:17,040
+and technology forward tools in as a CRM platform,
+
+887
+00:42:17,040 --> 00:42:18,780
+so in the marketing space
+
+888
+00:42:18,780 --> 00:42:21,570
+and really thinking about, again,
+
+889
+00:42:21,570 --> 00:42:23,340
+with a micro internship opportunity
+
+890
+00:42:23,340 --> 00:42:25,290
+or with a work-based learning project,
+
+891
+00:42:25,290 --> 00:42:29,760
+how can we allow our learners to explore
+
+892
+00:42:29,760 --> 00:42:30,960
+with partners who will help kind
+
+893
+00:42:30,960 --> 00:42:34,570
+of facilitate the opportunities that are gonna set them up
+
+894
+00:42:34,570 --> 00:42:35,640
+for success against their goal,
+
+895
+00:42:35,640 --> 00:42:38,100
+not our goal as an institution.
+
+896
+00:42:38,100 --> 00:42:40,770
+So when we talk about collaboration, all the folks
+
+897
+00:42:40,770 --> 00:42:42,210
+that have to come to the table,
+
+898
+00:42:42,210 --> 00:42:43,830
+the closer we thread to the folks
+
+899
+00:42:43,830 --> 00:42:46,980
+that are making those decisions on the demand side,
+
+900
+00:42:46,980 --> 00:42:49,980
+it becomes very important in terms of the position
+
+901
+00:42:49,980 --> 00:42:52,890
+and the strength that our learners have
+
+902
+00:42:52,890 --> 00:42:55,653
+in a very competitive and conflicted job market.
+
+903
+00:42:56,880 --> 00:42:59,023
+- Can I ask? - Yeah, sure.
+
+904
+00:42:59,023 --> 00:43:00,780
+- I think that's so cool.
+
+905
+00:43:00,780 --> 00:43:02,313
+And one more plug for Playlab.
+
+906
+00:43:04,320 --> 00:43:07,200
+But no, seriously, like so in the summer, for example,
+
+907
+00:43:07,200 --> 00:43:09,360
+well actually in all my courses,
+
+908
+00:43:09,360 --> 00:43:11,850
+my students build change maker chatbots.
+
+909
+00:43:11,850 --> 00:43:15,000
+They identify a problem in community that they care about
+
+910
+00:43:15,000 --> 00:43:17,550
+and then they build an AI tool that acts as an assistant
+
+911
+00:43:17,550 --> 00:43:20,130
+to support whatever movement they might be trying to make
+
+912
+00:43:20,130 --> 00:43:22,380
+or to address specific problems.
+
+913
+00:43:22,380 --> 00:43:27,380
+And so students create the most meaningful, amazing things.
+
+914
+00:43:27,390 --> 00:43:29,370
+And then because you can publish that chatbot,
+
+915
+00:43:29,370 --> 00:43:30,930
+you can share it out,
+
+916
+00:43:30,930 --> 00:43:33,300
+I've had students put that on their LinkedIn profiles
+
+917
+00:43:33,300 --> 00:43:35,790
+and have them be able to demonstrate,
+
+918
+00:43:35,790 --> 00:43:37,380
+I know how to system prompt,
+
+919
+00:43:37,380 --> 00:43:38,880
+I know how to configure a chatbot.
+
+920
+00:43:38,880 --> 00:43:40,680
+I know how to,
+
+921
+00:43:40,680 --> 00:43:45,030
+but you're also embedding the literacy skills within it.
+
+922
+00:43:45,030 --> 00:43:47,700
+A system prompt is all about understanding the problem,
+
+923
+00:43:47,700 --> 00:43:49,980
+who your target audience is, leveraging design thinking,
+
+924
+00:43:49,980 --> 00:43:51,720
+leveraging storytelling,
+
+925
+00:43:51,720 --> 00:43:54,570
+understanding how to communicate effectively.
+
+926
+00:43:54,570 --> 00:43:58,320
+How does this chatbot or this AI enable collaboration
+
+927
+00:43:58,320 --> 00:44:01,380
+or enable you to just extend the impact
+
+928
+00:44:01,380 --> 00:44:03,150
+of your change making endeavors.
+
+929
+00:44:03,150 --> 00:44:06,570
+So I love that about literacy.
+
+930
+00:44:06,570 --> 00:44:08,430
+I think staff is incredibly important.
+
+931
+00:44:08,430 --> 00:44:12,126
+I don't think we, you know, like it's the whole ecosystem
+
+932
+00:44:12,126 --> 00:44:16,110
+working together and all of us developing those capacities.
+
+933
+00:44:16,110 --> 00:44:19,680
+'cause I think the relationship between students
+
+934
+00:44:19,680 --> 00:44:22,560
+and teachers is also, I think we're in a new world, right,
+
+935
+00:44:22,560 --> 00:44:24,480
+'cause we're all learning at the same time
+
+936
+00:44:24,480 --> 00:44:27,001
+as our students are learning these skills.
+
+937
+00:44:27,001 --> 00:44:30,090
+And so I just wanted to highlight that,
+
+938
+00:44:30,090 --> 00:44:34,500
+that it's the opportunity for people to be able to build
+
+939
+00:44:34,500 --> 00:44:35,880
+is such an incredible skill
+
+940
+00:44:35,880 --> 00:44:38,069
+that will serve them well going forward,
+
+941
+00:44:38,069 --> 00:44:40,170
+especially when the workplace will demand you to be able
+
+942
+00:44:40,170 --> 00:44:43,833
+to know how to effectively work with AI and agents.
+
+943
+00:44:44,839 --> 00:44:47,280
+- I love what you also said about the connection
+
+944
+00:44:47,280 --> 00:44:50,163
+between the learner and the educator that's shifting.
+
+945
+00:44:51,180 --> 00:44:53,667
+This idea of a conversation between them.
+
+946
+00:44:53,667 --> 00:44:57,957
+And I'm flashing back to my child just discovered ChatGPT
+
+947
+00:44:57,957 --> 00:44:59,040
+and the first thing she did
+
+948
+00:44:59,040 --> 00:45:02,850
+was design an American girl doll in her likeness.
+
+949
+00:45:02,850 --> 00:45:06,900
+And then she, it is a hilarious feed.
+
+950
+00:45:06,900 --> 00:45:08,520
+I will happily share out.
+
+951
+00:45:08,520 --> 00:45:11,910
+But you know, the next jump she made was she was asked
+
+952
+00:45:11,910 --> 00:45:14,280
+to do some homework around the states.
+
+953
+00:45:14,280 --> 00:45:16,800
+And so she said, "I'm gonna ask ChatGPT for my states.
+
+954
+00:45:16,800 --> 00:45:18,060
+And I said, "Wait a second,
+
+955
+00:45:18,060 --> 00:45:19,890
+talk to me a little bit about how you're using it."
+
+956
+00:45:19,890 --> 00:45:21,547
+And the conversation she had was,
+
+957
+00:45:21,547 --> 00:45:24,600
+"Well, I know I meant sources.
+
+958
+00:45:24,600 --> 00:45:26,760
+So I was taught to research and to get sources
+
+959
+00:45:26,760 --> 00:45:28,560
+and beyond Google, I'm gonna use this."
+
+960
+00:45:28,560 --> 00:45:29,580
+And I was like, "Okay."
+
+961
+00:45:29,580 --> 00:45:30,780
+So she went through this thing,
+
+962
+00:45:30,780 --> 00:45:32,340
+it seemed credible from my perspective,
+
+963
+00:45:32,340 --> 00:45:33,750
+but I'm not her teacher.
+
+964
+00:45:33,750 --> 00:45:35,550
+And so I said, "Listen, I think it's really important
+
+965
+00:45:35,550 --> 00:45:38,490
+that you talk to your teacher about how you're using this,
+
+966
+00:45:38,490 --> 00:45:40,470
+understand her expectations about it,
+
+967
+00:45:40,470 --> 00:45:42,480
+clarify her expectations about it.
+
+968
+00:45:42,480 --> 00:45:45,480
+Show her what you're doing, show show her your work."
+
+969
+00:45:45,480 --> 00:45:48,540
+And it was just a moment when I was reflecting on it
+
+970
+00:45:48,540 --> 00:45:49,373
+when you said that,
+
+971
+00:45:49,373 --> 00:45:50,708
+where I thought, yeah,
+
+972
+00:45:50,708 --> 00:45:53,310
+that is actually such an important part of the teaching
+
+973
+00:45:53,310 --> 00:45:54,990
+and learning process now.
+
+974
+00:45:54,990 --> 00:45:57,776
+And it's not just because people, you know,
+
+975
+00:45:57,776 --> 00:45:58,609
+it's not a cheating conversation.
+
+976
+00:45:58,609 --> 00:46:01,290
+It's actually, I'm not sure where the lines are.
+
+977
+00:46:01,290 --> 00:46:04,680
+How do we actually bring out, draw out
+
+978
+00:46:04,680 --> 00:46:06,330
+and assess where those can be?
+
+979
+00:46:06,330 --> 00:46:09,300
+And if that varies by the person who is at the front
+
+980
+00:46:09,300 --> 00:46:12,725
+of the classroom, you know, how do we give, you know,
+
+981
+00:46:12,725 --> 00:46:14,430
+our learners the sort of skills to kind
+
+982
+00:46:14,430 --> 00:46:15,750
+of have those kinds of conversations?
+
+983
+00:46:15,750 --> 00:46:16,623
+Very different.
+
+984
+00:46:18,750 --> 00:46:21,660
+- Yeah, mentioning your director,
+
+985
+00:46:21,660 --> 00:46:24,120
+I have a faculty that's teaching AI,
+
+986
+00:46:24,120 --> 00:46:27,150
+she developed a chatbot for her families
+
+987
+00:46:27,150 --> 00:46:30,695
+that has all the schedule, the kids schedule this morning.
+
+988
+00:46:30,695 --> 00:46:32,117
+And yeah, every family was sharing that
+
+989
+00:46:32,117 --> 00:46:34,410
+and it was fantastic.
+
+990
+00:46:34,410 --> 00:46:36,990
+She was on Daylight, Nectar all those
+
+991
+00:46:36,990 --> 00:46:39,150
+and she got it from that.
+
+992
+00:46:39,150 --> 00:46:42,960
+I think extending this outside school, outside,
+
+993
+00:46:42,960 --> 00:46:45,300
+it's also literacy, it's also AI literacy.
+
+994
+00:46:45,300 --> 00:46:47,280
+Like we are people, you know,
+
+995
+00:46:47,280 --> 00:46:50,427
+outside the education environment are learning
+
+996
+00:46:50,427 --> 00:46:53,703
+about AI are developing, are using AI.
+
+997
+00:46:55,615 --> 00:46:58,950
+And that will be even preparing them better
+
+998
+00:46:58,950 --> 00:47:02,040
+for the new AI era.
+
+999
+00:47:02,040 --> 00:47:07,040
+And one code that I use it for all my,
+
+1000
+00:47:07,080 --> 00:47:09,720
+because I'm one of the AI nerds in my school
+
+1001
+00:47:09,720 --> 00:47:14,720
+and some people like will say, "We are anti AI,
+
+1002
+00:47:15,420 --> 00:47:17,604
+we will not accept AI."
+
+1003
+00:47:17,604 --> 00:47:20,580
+So one code that I keep using it in all my presentation
+
+1004
+00:47:20,580 --> 00:47:22,140
+is for Roseville.
+
+1005
+00:47:22,140 --> 00:47:24,660
+Like when change come, the best thing
+
+1006
+00:47:24,660 --> 00:47:28,680
+to do one is the, I will say,
+
+1007
+00:47:28,680 --> 00:47:31,410
+the one thing to do is the best thing
+
+1008
+00:47:31,410 --> 00:47:34,500
+and the worst thing to do is to do nothing.
+
+1009
+00:47:34,500 --> 00:47:36,420
+So the worst thing is to do nothing.
+
+1010
+00:47:36,420 --> 00:47:40,110
+So we don't want just to, you know, do nothing about AI.
+
+1011
+00:47:40,110 --> 00:47:43,560
+We all need to be, you know,
+
+1012
+00:47:43,560 --> 00:47:48,450
+changing all the way that we are learning, using,
+
+1013
+00:47:48,450 --> 00:47:53,070
+working to be prepared for the AI.
+
+1014
+00:47:53,070 --> 00:47:57,660
+And we talked about industry, we talk about student slide,
+
+1015
+00:47:57,660 --> 00:48:01,906
+now because this is this full community call.
+
+1016
+00:48:01,906 --> 00:48:02,850
+So as a community call system,
+
+1017
+00:48:02,850 --> 00:48:05,433
+what do you think like one concrete thing,
+
+1018
+00:48:08,455 --> 00:48:12,480
+one main action that can community college
+
+1019
+00:48:12,480 --> 00:48:16,260
+do immediately to be better prepare students
+
+1020
+00:48:16,260 --> 00:48:17,210
+for the agentic AI?
+
+1021
+00:48:21,210 --> 00:48:22,170
+- I'm trying to think of something
+
+1022
+00:48:22,170 --> 00:48:25,620
+that I did not say a minute ago.
+
+1023
+00:48:25,620 --> 00:48:29,070
+Yeah, it's the AI literacy.
+
+1024
+00:48:29,070 --> 00:48:30,870
+I keep going back, and the ethics,
+
+1025
+00:48:30,870 --> 00:48:33,900
+understanding how to communicate
+
+1026
+00:48:33,900 --> 00:48:36,123
+with each other and with the tools.
+
+1027
+00:48:38,460 --> 00:48:41,730
+Somehow finding ways to get that to everyone,
+
+1028
+00:48:41,730 --> 00:48:46,730
+classified professionals, administrators, students, faculty,
+
+1029
+00:48:47,430 --> 00:48:49,560
+because it's foundational
+
+1030
+00:48:49,560 --> 00:48:51,720
+and we can't get to the next level
+
+1031
+00:48:51,720 --> 00:48:53,370
+until we have that foundation.
+
+1032
+00:48:53,370 --> 00:48:54,540
+And people learn differently.
+
+1033
+00:48:54,540 --> 00:48:57,390
+So maybe for some it means playing with the tool first
+
+1034
+00:48:57,390 --> 00:49:00,360
+and then realizing I can't get where I wanna go,
+
+1035
+00:49:00,360 --> 00:49:01,650
+what do I need to do?
+
+1036
+00:49:01,650 --> 00:49:03,270
+And helping them at that level.
+
+1037
+00:49:03,270 --> 00:49:06,210
+Sometimes it's getting them into a session,
+
+1038
+00:49:06,210 --> 00:49:07,830
+explaining how things work
+
+1039
+00:49:07,830 --> 00:49:10,650
+to give them the permission to put their toe in the water
+
+1040
+00:49:10,650 --> 00:49:13,110
+or the permission to start using chatbots
+
+1041
+00:49:13,110 --> 00:49:16,920
+or the permission to ask about agents
+
+1042
+00:49:16,920 --> 00:49:18,363
+and see what's going on.
+
+1043
+00:49:20,010 --> 00:49:22,140
+Also, people get overwhelmed
+
+1044
+00:49:22,140 --> 00:49:24,750
+and I try and let them know
+
+1045
+00:49:24,750 --> 00:49:27,213
+that perhaps it's best to stay in their lane.
+
+1046
+00:49:28,595 --> 00:49:33,595
+The landscape can get dystopian and it can get scary,
+
+1047
+00:49:35,730 --> 00:49:38,580
+but if we focus on what is affecting us
+
+1048
+00:49:38,580 --> 00:49:43,290
+and what we need to do to respond, that is helpful.
+
+1049
+00:49:43,290 --> 00:49:45,600
+You see something in the chronicles of higher ed
+
+1050
+00:49:45,600 --> 00:49:48,300
+that talks about gen AI and education.
+
+1051
+00:49:48,300 --> 00:49:51,360
+I'm in education, gen AI is affecting me, let me read that.
+
+1052
+00:49:51,360 --> 00:49:53,340
+You hear something on national public radio,
+
+1053
+00:49:53,340 --> 00:49:57,300
+you hear something wherever, this is very helpful.
+
+1054
+00:49:57,300 --> 00:50:00,090
+And to get people to understand that constant learning,
+
+1055
+00:50:00,090 --> 00:50:04,680
+that constant keeping up in your lane is very,
+
+1056
+00:50:04,680 --> 00:50:05,973
+very helpful.
+
+1057
+00:50:07,260 --> 00:50:08,760
+It's the librarian in me, right?
+
+1058
+00:50:08,760 --> 00:50:11,547
+Research and information is my jam, you know?
+
+1059
+00:50:13,082 --> 00:50:16,327
+But if I was AI literate in 2023
+
+1060
+00:50:17,479 --> 00:50:19,110
+and I did nothing between 2023 and now,
+
+1061
+00:50:19,110 --> 00:50:20,583
+I'm no longer AI literate.
+
+1062
+00:50:22,320 --> 00:50:24,690
+So keeping up with that
+
+1063
+00:50:24,690 --> 00:50:28,470
+and keeping that around is of the utmost importance
+
+1064
+00:50:28,470 --> 00:50:31,050
+and those are actions that can be done now.
+
+1065
+00:50:31,050 --> 00:50:32,490
+We can continue,
+
+1066
+00:50:32,490 --> 00:50:34,920
+once you've done a series of workshops,
+
+1067
+00:50:34,920 --> 00:50:37,650
+there's a series of people that did not get those workshops,
+
+1068
+00:50:37,650 --> 00:50:40,680
+so they need to be continued, and at levels.
+
+1069
+00:50:40,680 --> 00:50:43,737
+We have to support these sessions
+
+1070
+00:50:43,737 --> 00:50:47,040
+and really get this professional development to all levels
+
+1071
+00:50:47,040 --> 00:50:49,174
+as much as we possibly can.
+
+1072
+00:50:49,174 --> 00:50:52,424
+(audience applauding)
+
+1073
+00:50:54,810 --> 00:50:55,774
+- I agree with what you said.
+
+1074
+00:50:55,774 --> 00:51:00,000
+I think yes and you know, leaning into the community part
+
+1075
+00:51:00,000 --> 00:51:02,791
+of community college feels critically important
+
+1076
+00:51:02,791 --> 00:51:03,624
+in this moment.
+
+1077
+00:51:03,624 --> 00:51:07,470
+And sometimes we think our community is the four corners
+
+1078
+00:51:07,470 --> 00:51:08,430
+of our institution,
+
+1079
+00:51:08,430 --> 00:51:10,590
+and this is an important opportunity
+
+1080
+00:51:10,590 --> 00:51:12,700
+that if it is not our institutions
+
+1081
+00:51:13,710 --> 00:51:15,540
+that are getting out there
+
+1082
+00:51:15,540 --> 00:51:19,980
+and supporting the overall AI literacy capabilities
+
+1083
+00:51:19,980 --> 00:51:22,459
+of the communities we operate in,
+
+1084
+00:51:22,459 --> 00:51:24,600
+that is an extraordinary disservice.
+
+1085
+00:51:24,600 --> 00:51:26,760
+I think we have a unique responsibility
+
+1086
+00:51:26,760 --> 00:51:30,600
+and also a unique vantage point in which to do that.
+
+1087
+00:51:30,600 --> 00:51:34,170
+We are leaning very heavily into that space to be able
+
+1088
+00:51:34,170 --> 00:51:39,030
+to find more instances where we can provide,
+
+1089
+00:51:39,030 --> 00:51:40,860
+you know, content or learning support
+
+1090
+00:51:40,860 --> 00:51:42,750
+that can be self navigated,
+
+1091
+00:51:42,750 --> 00:51:45,000
+that can be a tool and a resource.
+
+1092
+00:51:45,000 --> 00:51:46,950
+I know this is a big priority
+
+1093
+00:51:46,950 --> 00:51:48,720
+for the chancellor under her vision
+
+1094
+00:51:48,720 --> 00:51:50,790
+and it's something we're excited to contribute to,
+
+1095
+00:51:50,790 --> 00:51:53,460
+but I think it really does take everyone in the room
+
+1096
+00:51:53,460 --> 00:51:56,460
+in the privileged position that we sit in to do that,
+
+1097
+00:51:56,460 --> 00:51:58,980
+because what is happening out there
+
+1098
+00:51:58,980 --> 00:52:00,660
+if left to its own devices
+
+1099
+00:52:00,660 --> 00:52:03,480
+and what is being imposed upon our community members
+
+1100
+00:52:03,480 --> 00:52:07,350
+is frightening and you know, careens us towards
+
+1101
+00:52:07,350 --> 00:52:08,730
+that dystopian state.
+
+1102
+00:52:08,730 --> 00:52:12,660
+And whether it's within K-12 public education
+
+1103
+00:52:12,660 --> 00:52:15,154
+or community college public education,
+
+1104
+00:52:15,154 --> 00:52:17,700
+we have an extraordinary opportunity
+
+1105
+00:52:17,700 --> 00:52:19,230
+to do something differently
+
+1106
+00:52:19,230 --> 00:52:20,880
+and to chart a course that's different
+
+1107
+00:52:20,880 --> 00:52:23,220
+for our communities to thrive
+
+1108
+00:52:23,220 --> 00:52:24,900
+given a lot of this is happening
+
+1109
+00:52:24,900 --> 00:52:27,870
+in such a wildly deregulated environment
+
+1110
+00:52:27,870 --> 00:52:30,390
+and in a way where there is not clarity
+
+1111
+00:52:30,390 --> 00:52:34,320
+or transparency around how these technologies come into play
+
+1112
+00:52:34,320 --> 00:52:37,140
+and how they interact and are used in our everyday lives.
+
+1113
+00:52:37,140 --> 00:52:40,830
+And so I just wanna emphasize,
+
+1114
+00:52:40,830 --> 00:52:43,860
+I don't wanna leave this conversation without taking
+
+1115
+00:52:43,860 --> 00:52:46,803
+that charge on, you know, as an entire system.
+
+1116
+00:52:48,942 --> 00:52:52,192
+(audience applauding)
+
+1117
+00:52:54,180 --> 00:52:58,553
+- I'll just add that I think a key skill that we need
+
+1118
+00:52:58,553 --> 00:53:02,520
+to make sure everyone develops is the ability
+
+1119
+00:53:02,520 --> 00:53:04,050
+to learn how to learn.
+
+1120
+00:53:04,050 --> 00:53:05,850
+So question for the audience:
+
+1121
+00:53:05,850 --> 00:53:08,310
+How do you think I've developed my expertise?
+
+1122
+00:53:08,310 --> 00:53:10,843
+And expertise, I hold loosely, agentic AI.
+
+1123
+00:53:12,495 --> 00:53:13,962
+What do you think?
+
+1124
+00:53:13,962 --> 00:53:15,369
+How have I learned that?
+
+1125
+00:53:15,369 --> 00:53:18,369
+(audience chatting)
+
+1126
+00:53:19,290 --> 00:53:21,103
+AI taught me.
+
+1127
+00:53:21,103 --> 00:53:22,020
+(audience laughing)
+
+1128
+00:53:22,020 --> 00:53:25,200
+I talked to AI, I spent a lot of days with Claude,
+
+1129
+00:53:25,200 --> 00:53:29,640
+my friend there, and just asking it questions
+
+1130
+00:53:29,640 --> 00:53:31,230
+like what is agentic AI?
+
+1131
+00:53:31,230 --> 00:53:32,310
+How does that even work?
+
+1132
+00:53:32,310 --> 00:53:34,073
+What do you mean it can call tools?
+
+1133
+00:53:34,073 --> 00:53:35,670
+What is a vector?
+
+1134
+00:53:35,670 --> 00:53:37,110
+What, a token?
+
+1135
+00:53:37,110 --> 00:53:38,580
+I have no idea what you're talking about.
+
+1136
+00:53:38,580 --> 00:53:40,770
+Break it down for me like I'm five.
+
+1137
+00:53:40,770 --> 00:53:43,713
+And I think that's what's powerful about AI is
+
+1138
+00:53:43,713 --> 00:53:46,380
+that it enables all of us to be able
+
+1139
+00:53:46,380 --> 00:53:48,480
+to meet ourselves where we're at.
+
+1140
+00:53:48,480 --> 00:53:51,570
+And then the key components are really critically thinking
+
+1141
+00:53:51,570 --> 00:53:54,240
+about the outputs, understanding how AI works
+
+1142
+00:53:54,240 --> 00:53:55,320
+as a probability machine.
+
+1143
+00:53:55,320 --> 00:53:56,760
+It's non-deterministic.
+
+1144
+00:53:56,760 --> 00:53:58,440
+How many times have you written an email
+
+1145
+00:53:58,440 --> 00:54:01,710
+or a draft of something you are like, "Hey ChatGPT,
+
+1146
+00:54:01,710 --> 00:54:03,363
+I really like this section,
+
+1147
+00:54:04,320 --> 00:54:06,450
+but the rest of this like just focus
+
+1148
+00:54:06,450 --> 00:54:08,517
+on revising that section
+
+1149
+00:54:08,517 --> 00:54:10,950
+and then just keep everything else the same."
+
+1150
+00:54:10,950 --> 00:54:12,050
+And then what happens?
+
+1151
+00:54:13,020 --> 00:54:14,470
+It rewrites whole damn thing.
+
+1152
+00:54:15,510 --> 00:54:17,130
+And that's because it's non-deterministic.
+
+1153
+00:54:17,130 --> 00:54:20,580
+It's using probabilities around what the next word should be
+
+1154
+00:54:20,580 --> 00:54:21,417
+and it's math, right?
+
+1155
+00:54:21,417 --> 00:54:23,850
+And so I think understanding that
+
+1156
+00:54:23,850 --> 00:54:26,880
+and then understanding that agentic AI is
+
+1157
+00:54:26,880 --> 00:54:28,860
+about pairing these large language models
+
+1158
+00:54:28,860 --> 00:54:31,171
+and the power that it has to be able
+
+1159
+00:54:31,171 --> 00:54:33,570
+to sort of like make these predictions about
+
+1160
+00:54:33,570 --> 00:54:35,250
+what likely goes together
+
+1161
+00:54:35,250 --> 00:54:38,100
+with tools that make it deterministic.
+
+1162
+00:54:38,100 --> 00:54:39,527
+So okay, you have student data,
+
+1163
+00:54:39,527 --> 00:54:42,750
+so I'm making maybe an assignment in my class.
+
+1164
+00:54:42,750 --> 00:54:44,700
+I'm really trying to evaluate.
+
+1165
+00:54:44,700 --> 00:54:46,500
+Maybe I create an assessment
+
+1166
+00:54:46,500 --> 00:54:50,640
+that is enabling itself to meet a student.
+
+1167
+00:54:50,640 --> 00:54:52,620
+Like maybe you need it to be done in Spanish.
+
+1168
+00:54:52,620 --> 00:54:54,510
+Maybe this needs to come down another level,
+
+1169
+00:54:54,510 --> 00:54:57,330
+or it needs to be giving you different kinds of examples.
+
+1170
+00:54:57,330 --> 00:55:00,210
+So the large language model enables that interaction
+
+1171
+00:55:00,210 --> 00:55:01,350
+with that student.
+
+1172
+00:55:01,350 --> 00:55:06,350
+The agentic part is maybe it is embedding certain tools
+
+1173
+00:55:07,200 --> 00:55:08,550
+that keep it consistent
+
+1174
+00:55:08,550 --> 00:55:10,800
+where it's like, oh, okay, it's working with a rubric.
+
+1175
+00:55:10,800 --> 00:55:12,660
+It's able to grade through a rubric
+
+1176
+00:55:12,660 --> 00:55:16,050
+because it's a calling, a tool, what's attached to your LMS.
+
+1177
+00:55:16,050 --> 00:55:18,164
+And so that's the power of that.
+
+1178
+00:55:18,164 --> 00:55:22,020
+And I think as you move forward, it's much more about
+
+1179
+00:55:22,020 --> 00:55:25,350
+how do you create conditions that enable people
+
+1180
+00:55:25,350 --> 00:55:27,210
+to develop the muscle around,
+
+1181
+00:55:27,210 --> 00:55:30,210
+I'm a lifelong learner. I will always need to learn.
+
+1182
+00:55:30,210 --> 00:55:32,160
+My favorite author, as I was just saying,
+
+1183
+00:55:32,160 --> 00:55:33,570
+has this concept of becoming.
+
+1184
+00:55:33,570 --> 00:55:36,089
+The tools themselves are always becoming.
+
+1185
+00:55:36,089 --> 00:55:40,890
+You were just saying, like if you stop, it was just a week.
+
+1186
+00:55:40,890 --> 00:55:44,280
+In the week, I feel like oh my god, I'm so behind, right?
+
+1187
+00:55:44,280 --> 00:55:48,960
+And so if you stop, you know, you lose., right?
+
+1188
+00:55:48,960 --> 00:55:52,260
+And so how do we enable ourselves to love learning,
+
+1189
+00:55:52,260 --> 00:55:54,930
+be curious, to be playful with it
+
+1190
+00:55:54,930 --> 00:55:56,940
+and to enable ourselves to use this tool.
+
+1191
+00:55:56,940 --> 00:55:59,430
+How do you encourage students or young people
+
+1192
+00:55:59,430 --> 00:56:01,890
+or people in general to develop that muscle?
+
+1193
+00:56:01,890 --> 00:56:03,510
+You've gotta be a lifelong learner
+
+1194
+00:56:03,510 --> 00:56:05,970
+and that will keep you afloat in
+
+1195
+00:56:05,970 --> 00:56:08,670
+what is a very precarious kind of world we're navigating.
+
+1196
+00:56:08,670 --> 00:56:12,780
+It will enable you to have a voice, enable you to say
+
+1197
+00:56:12,780 --> 00:56:14,070
+what you think this should be,
+
+1198
+00:56:14,070 --> 00:56:18,240
+to be at tables that you would otherwise not avail yourself
+
+1199
+00:56:18,240 --> 00:56:21,930
+or be present at if you don't take the time
+
+1200
+00:56:21,930 --> 00:56:23,724
+to be a self learner.
+
+1201
+00:56:23,724 --> 00:56:25,620
+And so I think even orienting our systems around that.
+
+1202
+00:56:25,620 --> 00:56:27,630
+Like how do you construct learning experiences,
+
+1203
+00:56:27,630 --> 00:56:31,470
+classroom experiences where we have to learn
+
+1204
+00:56:31,470 --> 00:56:33,480
+how to learn is essentially what it comes down to.
+
+1205
+00:56:33,480 --> 00:56:36,000
+It's a skill, it's a necessary one to, I think,
+
+1206
+00:56:36,000 --> 00:56:37,203
+survive in this future.
+
+1207
+00:56:40,649 --> 00:56:43,899
+(audience applauding)
+
+1208
+00:56:46,704 --> 00:56:48,057
+- So I'm a faculty
+
+1209
+00:56:48,057 --> 00:56:50,070
+and maybe I forget at the beginning,
+
+1210
+00:56:50,070 --> 00:56:52,530
+I'm the Folsom Lake College AI department chair.
+
+1211
+00:56:52,530 --> 00:56:57,270
+I always go to my dean with like maybe, you know, 20 plans
+
+1212
+00:56:57,270 --> 00:57:00,370
+for the three more semester.
+
+1213
+00:57:00,370 --> 00:57:03,307
+You know, when such faculty come to be,
+
+1214
+00:57:03,307 --> 00:57:05,070
+"Oh my god, she's here again."
+
+1215
+00:57:05,070 --> 00:57:08,713
+So I'm that person with a lot of class.
+
+1216
+00:57:08,713 --> 00:57:11,010
+So always I like to have that future look
+
+1217
+00:57:11,010 --> 00:57:13,470
+what will happen next, how we can prepare.
+
+1218
+00:57:13,470 --> 00:57:15,243
+So from your opinion,
+
+1219
+00:57:17,610 --> 00:57:21,183
+where we will see agentic AI in five years?
+
+1220
+00:57:22,620 --> 00:57:27,030
+- My hope is we'll see it,
+
+1221
+00:57:27,030 --> 00:57:30,270
+and there are ethical issues to this that we do need privacy
+
+1222
+00:57:30,270 --> 00:57:33,570
+and security issues that we need to be very concerned about.
+
+1223
+00:57:33,570 --> 00:57:36,030
+I see a system
+
+1224
+00:57:36,030 --> 00:57:39,240
+that can go into your student services records,
+
+1225
+00:57:39,240 --> 00:57:42,750
+see that a student has been availing themself
+
+1226
+00:57:42,750 --> 00:57:44,790
+of certain services.
+
+1227
+00:57:44,790 --> 00:57:49,290
+It can go into Canvas and show the last five essays
+
+1228
+00:57:49,290 --> 00:57:51,180
+and the fact that they've been doing less
+
+1229
+00:57:51,180 --> 00:57:53,230
+and less in each essay
+
+1230
+00:57:54,120 --> 00:57:58,410
+and can go into various aspects where you get the idea
+
+1231
+00:57:58,410 --> 00:58:03,060
+and can then tell the instructor, "Hey, you know,
+
+1232
+00:58:03,060 --> 00:58:04,830
+you're losing this student.
+
+1233
+00:58:04,830 --> 00:58:07,470
+This student might be dropping out
+
+1234
+00:58:07,470 --> 00:58:09,840
+and they're not getting this content area,
+
+1235
+00:58:09,840 --> 00:58:12,660
+so maybe you should go to this student
+
+1236
+00:58:12,660 --> 00:58:15,810
+and give them this kind of feedback about, you know,
+
+1237
+00:58:15,810 --> 00:58:18,060
+get them excited about that content
+
+1238
+00:58:18,060 --> 00:58:21,000
+and get them more excited about the class."
+
+1239
+00:58:21,000 --> 00:58:22,920
+They could also, for example,
+
+1240
+00:58:22,920 --> 00:58:27,540
+an instructor could see all of their students information
+
+1241
+00:58:27,540 --> 00:58:32,160
+and be able to tell that everybody's getting all the content
+
+1242
+00:58:32,160 --> 00:58:33,600
+except for this.
+
+1243
+00:58:33,600 --> 00:58:36,450
+Why? I'm suddenly able to see that.
+
+1244
+00:58:36,450 --> 00:58:38,730
+And then the agentic AI can help them
+
+1245
+00:58:38,730 --> 00:58:40,560
+create the lesson plans
+
+1246
+00:58:40,560 --> 00:58:43,817
+that can get them back on track with that
+
+1247
+00:58:43,817 --> 00:58:46,470
+and differentiate that instruction.
+
+1248
+00:58:46,470 --> 00:58:51,390
+So my athletes are not doing as well
+
+1249
+00:58:51,390 --> 00:58:53,610
+as the others also in that area,
+
+1250
+00:58:53,610 --> 00:58:55,200
+so how can I differentiate the instruction
+
+1251
+00:58:55,200 --> 00:58:56,640
+for those students?
+
+1252
+00:58:56,640 --> 00:58:59,010
+And it can help them create those lessons.
+
+1253
+00:58:59,010 --> 00:59:02,310
+So the things coming together to help us do the work
+
+1254
+00:59:02,310 --> 00:59:05,670
+that we want to do in a more productive manner.
+
+1255
+00:59:05,670 --> 00:59:09,870
+Get to the reason we we got to education in the first place.
+
+1256
+00:59:09,870 --> 00:59:12,000
+We can get back to that without having to go
+
+1257
+00:59:12,000 --> 00:59:14,480
+through every single solitary essay.
+
+1258
+00:59:14,480 --> 00:59:15,313
+No, no. How is it about that?
+
+1259
+00:59:15,313 --> 00:59:16,410
+You know, and this is of course only
+
+1260
+00:59:16,410 --> 00:59:17,940
+from the faculty perspective,
+
+1261
+00:59:17,940 --> 00:59:20,550
+but this is something that I would hope to see
+
+1262
+00:59:20,550 --> 00:59:21,930
+within to five years.
+
+1263
+00:59:21,930 --> 00:59:24,090
+And having this be normal,
+
+1264
+00:59:24,090 --> 00:59:26,880
+not something special, having this kind of thing
+
+1265
+00:59:26,880 --> 00:59:30,963
+be something that just helps us get better at what we do.
+
+1266
+00:59:32,400 --> 00:59:37,400
+- So I'll say like we're kind of there right now
+
+1267
+00:59:38,010 --> 00:59:41,340
+at the foundational stages of putting that into place.
+
+1268
+00:59:41,340 --> 00:59:44,337
+And I'll say two things about it.
+
+1269
+00:59:44,337 --> 00:59:47,030
+One is, you know, conceptually calling this
+
+1270
+00:59:47,030 --> 00:59:50,430
+like a Calbright, like a student learning engine.
+
+1271
+00:59:50,430 --> 00:59:53,670
+And the idea is how do you from an end-to-end experience
+
+1272
+00:59:53,670 --> 00:59:56,670
+connect all the dots of available understanding
+
+1273
+00:59:56,670 --> 00:59:59,250
+to get that 360 view of a learner.
+
+1274
+00:59:59,250 --> 01:00:03,030
+So it is important for our faculty to have access
+
+1275
+01:00:03,030 --> 01:00:05,951
+and understanding of what's happening in a student's life,
+
+1276
+01:00:05,951 --> 01:00:08,040
+just as it is important for our counseling staff
+
+1277
+01:00:08,040 --> 01:00:10,920
+and student support specialists to have that.
+
+1278
+01:00:10,920 --> 01:00:12,540
+And largely the lead from that
+
+1279
+01:00:12,540 --> 01:00:14,070
+comes from the learners themselves.
+
+1280
+01:00:14,070 --> 01:00:18,870
+So the reason that college was possible for them
+
+1281
+01:00:18,870 --> 01:00:21,420
+and the reason they chose to do it
+
+1282
+01:00:21,420 --> 01:00:23,129
+with us at Calbright
+
+1283
+01:00:23,129 --> 01:00:24,690
+and the responsibility that we have to that
+
+1284
+01:00:24,690 --> 01:00:27,420
+has to do with the fact that it was flexibly paced
+
+1285
+01:00:27,420 --> 01:00:29,280
+but it was fully supported.
+
+1286
+01:00:29,280 --> 01:00:31,800
+And so everything that we do in terms
+
+1287
+01:00:31,800 --> 01:00:34,680
+of empowering our faculty, our staff,
+
+1288
+01:00:34,680 --> 01:00:37,050
+whether it's counseling or student support specialists
+
+1289
+01:00:37,050 --> 01:00:40,350
+or IT support who are student facing,
+
+1290
+01:00:40,350 --> 01:00:43,200
+is about giving the proper amount of visibility
+
+1291
+01:00:43,200 --> 01:00:47,100
+to the things that will allow us to get ahead of proactively
+
+1292
+01:00:47,100 --> 01:00:48,690
+what our learners need.
+
+1293
+01:00:48,690 --> 01:00:50,970
+And so when I talk about the data architecture
+
+1294
+01:00:50,970 --> 01:00:53,160
+and infrastructure that's necessary
+
+1295
+01:00:53,160 --> 01:00:56,490
+to really leverage these tools in service
+
+1296
+01:00:56,490 --> 01:00:58,406
+of student success, right?
+
+1297
+01:00:58,406 --> 01:01:01,320
+In service of students' own goals, their own progression
+
+1298
+01:01:01,320 --> 01:01:03,033
+and stronger outcomes for them,
+
+1299
+01:01:04,350 --> 01:01:06,210
+those are the pieces that have to come together
+
+1300
+01:01:06,210 --> 01:01:08,190
+and we're kind of laying the foundation
+
+1301
+01:01:08,190 --> 01:01:11,820
+for those pieces right now within the technology side.
+
+1302
+01:01:11,820 --> 01:01:13,590
+It's a little bit different for us,
+
+1303
+01:01:13,590 --> 01:01:15,210
+largely because, you know,
+
+1304
+01:01:15,210 --> 01:01:19,413
+we've been built from the ground up to be digitally enabled.
+
+1305
+01:01:20,370 --> 01:01:22,753
+But I do think, you know, the more
+
+1306
+01:01:22,753 --> 01:01:26,070
+that institutions progress at unifying data
+
+1307
+01:01:26,070 --> 01:01:29,880
+across the institution, the faster we will get
+
+1308
+01:01:29,880 --> 01:01:31,380
+to the vision you're describing.
+
+1309
+01:01:31,380 --> 01:01:35,160
+It can be really powerful if we do it
+
+1310
+01:01:35,160 --> 01:01:37,963
+and move in ways that are intentional.
+
+1311
+01:01:39,380 --> 01:01:43,023
+- I was just gonna say that data is really power.
+
+1312
+01:01:44,973 --> 01:01:46,230
+Like the California Community College systems
+
+1313
+01:01:46,230 --> 01:01:51,230
+reflect like data and you kind of have to pick sides.
+
+1314
+01:01:51,330 --> 01:01:52,980
+I'm gonna end with that.
+
+1315
+01:01:52,980 --> 01:01:56,520
+Meaning, think about when you're using a tool
+
+1316
+01:01:56,520 --> 01:02:00,720
+when it comes to AI, whose interests are at play?
+
+1317
+01:02:00,720 --> 01:02:03,570
+I heard recently for example, like when you get something
+
+1318
+01:02:03,570 --> 01:02:06,513
+for free it's 'cause you're the product.
+
+1319
+01:02:08,610 --> 01:02:12,330
+That data is what enables these large language models to do
+
+1320
+01:02:12,330 --> 01:02:14,460
+what they do and that they are data hungry
+
+1321
+01:02:14,460 --> 01:02:16,050
+and they continue to consume.
+
+1322
+01:02:16,050 --> 01:02:17,880
+So there's power in being able to say,
+
+1323
+01:02:17,880 --> 01:02:21,870
+we're gonna hold our data in a protected way
+
+1324
+01:02:21,870 --> 01:02:25,169
+so that it's in service to our students
+
+1325
+01:02:25,169 --> 01:02:26,430
+and to these educational objectives
+
+1326
+01:02:26,430 --> 01:02:29,550
+versus other reasons why.
+
+1327
+01:02:29,550 --> 01:02:31,110
+Partnerships may be about,
+
+1328
+01:02:31,110 --> 01:02:33,500
+we really want to work with you in the K-12.
+
+1329
+01:02:33,500 --> 01:02:34,997
+So like Google, right?
+
+1330
+01:02:34,997 --> 01:02:36,870
+Google is in the K-12 system.
+
+1331
+01:02:36,870 --> 01:02:38,700
+Those are early brand users, right?
+
+1332
+01:02:38,700 --> 01:02:42,870
+We need to think critically about are there alignments
+
+1333
+01:02:42,870 --> 01:02:44,010
+in the kinds of partnerships
+
+1334
+01:02:44,010 --> 01:02:45,960
+or the tools we're using? - A hundred percent.
+
+1335
+01:02:45,960 --> 01:02:48,390
+- Because power is coming from that data.
+
+1336
+01:02:48,390 --> 01:02:53,010
+So that'll be my closing statement.
+
+1337
+01:02:53,010 --> 01:02:54,336
+Pick five.
+
+1338
+01:02:54,336 --> 01:02:57,586
+(audience applauding)
+
+1339
+01:02:59,250 --> 01:03:01,770
+- Thank you. I know which side I'm gonna take.
+
+1340
+01:03:01,770 --> 01:03:04,203
+I know, we're all the same side.
+
+1341
+01:03:05,106 --> 01:03:07,513
+(laughing) - Yes, I think so.
+
+1342
+01:03:07,513 --> 01:03:11,424
+So I think today we see our agentic AI is more
+
+1343
+01:03:11,424 --> 01:03:14,220
+than technical rule, it is a shifting paradigm,
+
+1344
+01:03:14,220 --> 01:03:17,190
+taking us from all the,
+
+1345
+01:03:17,190 --> 01:03:21,000
+I would say, usual simple AI tool that used to
+
+1346
+01:03:21,000 --> 01:03:25,380
+and provide more opportunities, more innovation,
+
+1347
+01:03:25,380 --> 01:03:28,080
+but also it'll bring some barriers,
+
+1348
+01:03:28,080 --> 01:03:30,030
+it'll bring some challenges.
+
+1349
+01:03:30,030 --> 01:03:34,140
+But I think we are ready to face all that
+
+1350
+01:03:34,140 --> 01:03:37,350
+and I think we are on time.
+
+1351
+01:03:37,350 --> 01:03:41,190
+And let me, on behalf of the Future Summit 2025,
+
+1352
+01:03:41,190 --> 01:03:43,134
+thank you to our panelists.
+
+1353
+01:03:43,134 --> 01:03:46,384
+(audience applauding)
+
+1354
+01:03:51,755 --> 01:03:52,899
+So I wanna stop here
+
+1355
+01:03:52,899 --> 01:03:54,990
+and as we are shaping our future,
+
+1356
+01:03:54,990 --> 01:03:58,530
+we will continue discussing, innovating,
+
+1357
+01:03:58,530 --> 01:04:00,450
+and meeting and working together.
+
+1358
+01:04:00,450 --> 01:04:02,009
+Thank you all.
+
+1359
+01:04:02,009 --> 01:04:05,259
+(audience applauding)

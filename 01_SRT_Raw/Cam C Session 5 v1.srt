@@ -1,0 +1,7019 @@
+1
+00:00:05,220 --> 00:00:08,010
+- Welcome to Anxiety Algorithms and Gen Z,
+
+2
+00:00:08,010 --> 00:00:09,060
+Generative AI
+
+3
+00:00:09,060 --> 00:00:10,890
+and student mental health.
+
+4
+00:00:10,890 --> 00:00:11,723
+We're so excited.
+
+5
+00:00:11,723 --> 00:00:12,589
+Yay.
+
+6
+00:00:12,589 --> 00:00:13,422
+- [Attendee] Woo.
+
+7
+00:00:13,422 --> 00:00:15,240
+(audience applauding)
+
+8
+00:00:15,240 --> 00:00:18,240
+- We're so excited to see you all.
+
+9
+00:00:18,240 --> 00:00:20,400
+I'm gonna do panelist bios.
+
+10
+00:00:20,400 --> 00:00:21,540
+I always take a lot of time
+
+11
+00:00:21,540 --> 00:00:22,980
+for bios when I moderate a panel
+
+12
+00:00:22,980 --> 00:00:25,590
+because why do we wanna hear from these experts?
+
+13
+00:00:25,590 --> 00:00:26,580
+What's their expertise?
+
+14
+00:00:26,580 --> 00:00:27,840
+What do they bring to the table,
+
+15
+00:00:27,840 --> 00:00:30,750
+that's worth taking a little time to discover.
+
+16
+00:00:30,750 --> 00:00:33,480
+So I'm gonna start with Dr. Xuan Zhao,
+
+17
+00:00:33,480 --> 00:00:35,010
+a national expert in the psychology
+
+18
+00:00:35,010 --> 00:00:36,510
+of social connection, wellbeing,
+
+19
+00:00:36,510 --> 00:00:38,610
+and human AI interaction.
+
+20
+00:00:38,610 --> 00:00:40,920
+She's a behavioral scientist at Stanford University
+
+21
+00:00:40,920 --> 00:00:43,500
+and the CEO and co-founder of Flourish Science,
+
+22
+00:00:43,500 --> 00:00:44,820
+a public benefit startup
+
+23
+00:00:44,820 --> 00:00:46,260
+translating behavioral science
+
+24
+00:00:46,260 --> 00:00:48,660
+into everyday tools for emotional wellness.
+
+25
+00:00:48,660 --> 00:00:50,670
+Her work has been featured in major news outlets
+
+26
+00:00:50,670 --> 00:00:52,470
+and under her leadership Flourish AI
+
+27
+00:00:52,470 --> 00:00:53,370
+has supported students
+
+28
+00:00:53,370 --> 00:00:55,830
+across 200 plus campuses.
+
+29
+00:00:55,830 --> 00:00:58,680
+Won the 2024 Stanford Ed Tech Award
+
+30
+00:00:58,680 --> 00:01:01,530
+and led the Nation's first Wellbeing AI study
+
+31
+00:01:01,530 --> 00:01:05,250
+of which Foothill College is a key partner.
+
+32
+00:01:05,250 --> 00:01:06,595
+Let's all welcome Dr. Zhao.
+
+33
+00:01:06,595 --> 00:01:10,140
+(audience applauding)
+
+34
+00:01:10,140 --> 00:01:11,760
+Next we have Alex Kraft.
+
+35
+00:01:11,760 --> 00:01:13,710
+Alex Kraft graduated summa laude
+
+36
+00:01:13,710 --> 00:01:14,670
+from Chapman University
+
+37
+00:01:14,670 --> 00:01:17,340
+in 2025 with a BA in psychology.
+
+38
+00:01:17,340 --> 00:01:20,070
+And as a member of the University honors program.
+
+39
+00:01:20,070 --> 00:01:23,130
+She has conducted research at Stanford UCSF
+
+40
+00:01:23,130 --> 00:01:25,650
+and Chapman on topics ranging from virtual reality
+
+41
+00:01:25,650 --> 00:01:28,350
+interventions to belonging and mental health.
+
+42
+00:01:28,350 --> 00:01:29,700
+In addition to her research,
+
+43
+00:01:29,700 --> 00:01:30,600
+Alex has experience
+
+44
+00:01:30,600 --> 00:01:32,790
+in crisis counseling and psychotherapy
+
+45
+00:01:32,790 --> 00:01:33,840
+and currently works
+
+46
+00:01:33,840 --> 00:01:36,300
+as a research assistant at Flourish Science supporting
+
+47
+00:01:36,300 --> 00:01:38,460
+studies utilizing their app-based tools
+
+48
+00:01:38,460 --> 00:01:39,720
+for emotional wellbeing.
+
+49
+00:01:39,720 --> 00:01:41,261
+Welcome Alex.
+
+50
+00:01:41,261 --> 00:01:44,130
+(audience applauding)
+
+51
+00:01:44,130 --> 00:01:46,050
+And then finally on the end here we have Gil.
+
+52
+00:01:46,050 --> 00:01:48,540
+Gil Perez is a full-time tenured personal counselor
+
+53
+00:01:48,540 --> 00:01:50,190
+at College of San Mateo.
+
+54
+00:01:50,190 --> 00:01:51,120
+As a faculty leader,
+
+55
+00:01:51,120 --> 00:01:52,380
+he has helped transform the mental
+
+56
+00:01:52,380 --> 00:01:53,970
+health model at his institution
+
+57
+00:01:53,970 --> 00:01:56,910
+and in the CCC system to ensure students have flexible
+
+58
+00:01:56,910 --> 00:01:58,350
+and broad mental health services
+
+59
+00:01:58,350 --> 00:01:59,370
+that meet the full range
+
+60
+00:01:59,370 --> 00:02:00,840
+of mental health needs.
+
+61
+00:02:00,840 --> 00:02:02,430
+He works with student support programs
+
+62
+00:02:02,430 --> 00:02:03,690
+and instructional programs
+
+63
+00:02:03,690 --> 00:02:05,460
+to deliver mental health programming
+
+64
+00:02:05,460 --> 00:02:06,840
+that are culturally responsive
+
+65
+00:02:06,840 --> 00:02:08,790
+and advance the educational mission, vision
+
+66
+00:02:08,790 --> 00:02:10,350
+and values of the college.
+
+67
+00:02:10,350 --> 00:02:12,510
+He provides direct mental health services to students,
+
+68
+00:02:12,510 --> 00:02:13,650
+consultation to faculty
+
+69
+00:02:13,650 --> 00:02:16,080
+and staff, serves as a clinical supervisor
+
+70
+00:02:16,080 --> 00:02:17,100
+and oversees the mental health
+
+71
+00:02:17,100 --> 00:02:18,630
+peer educator program,
+
+72
+00:02:18,630 --> 00:02:21,693
+as well as the chapter advisor for Active Minds.
+
+73
+00:02:22,620 --> 00:02:23,497
+Excellent.
+
+74
+00:02:23,497 --> 00:02:26,310
+(audience applauding)
+
+75
+00:02:26,310 --> 00:02:27,870
+I will be y'all's panel moderator today.
+
+76
+00:02:27,870 --> 00:02:28,980
+My name is Trudi Radtke,
+
+77
+00:02:28,980 --> 00:02:30,420
+I'm an instructional technologist
+
+78
+00:02:30,420 --> 00:02:31,710
+designer for Mort Park College.
+
+79
+00:02:31,710 --> 00:02:34,860
+I'm also an AI fellow at the Chancellor's office.
+
+80
+00:02:34,860 --> 00:02:37,290
+I'm conducting a lot of research in AI literacy
+
+81
+00:02:37,290 --> 00:02:39,390
+and my background is in primarily ed tech.
+
+82
+00:02:39,390 --> 00:02:41,160
+And then I also have a background in policy
+
+83
+00:02:41,160 --> 00:02:43,533
+and open access research and advocacy.
+
+84
+00:02:44,760 --> 00:02:47,160
+So without further ado, we're gonna get started.
+
+85
+00:02:48,210 --> 00:02:50,910
+Our first question is for Gil,
+
+86
+00:02:50,910 --> 00:02:53,580
+opening and framing of this conversation.
+
+87
+00:02:53,580 --> 00:02:55,950
+From your perspective on the CCC Mental Health
+
+88
+00:02:55,950 --> 00:02:56,880
+and Wellness board,
+
+89
+00:02:56,880 --> 00:02:58,620
+what new mental health trends are you
+
+90
+00:02:58,620 --> 00:03:01,020
+seeing among community college students?
+
+91
+00:03:01,020 --> 00:03:02,580
+How are these needs similar to
+
+92
+00:03:02,580 --> 00:03:05,553
+or different from those at four year institutions?
+
+93
+00:03:06,600 --> 00:03:08,440
+- I just wanna say good afternoon.
+
+94
+00:03:08,440 --> 00:03:10,500
+Good afternoon everyone.
+
+95
+00:03:10,500 --> 00:03:12,780
+I want to thank you all for choosing to be with us
+
+96
+00:03:12,780 --> 00:03:14,580
+for the panel today.
+
+97
+00:03:14,580 --> 00:03:18,420
+So I do want to start off with some statistics
+
+98
+00:03:18,420 --> 00:03:19,950
+to start us off.
+
+99
+00:03:19,950 --> 00:03:23,640
+These statistics are from NAMI and Active Minds.
+
+100
+00:03:23,640 --> 00:03:28,560
+50% of mental health conditions begin by age 14
+
+101
+00:03:28,560 --> 00:03:31,860
+and 75% begin by age 24.
+
+102
+00:03:31,860 --> 00:03:34,410
+So I want us to think about lived experiences,
+
+103
+00:03:34,410 --> 00:03:35,970
+cumulative experiences,
+
+104
+00:03:35,970 --> 00:03:37,260
+traumatic life events,
+
+105
+00:03:37,260 --> 00:03:40,110
+other experiences of our students that contribute
+
+106
+00:03:40,110 --> 00:03:44,280
+to anxiety, depression, and suicide ideation.
+
+107
+00:03:44,280 --> 00:03:45,840
+We know there are global events,
+
+108
+00:03:45,840 --> 00:03:47,370
+violence, climate change,
+
+109
+00:03:47,370 --> 00:03:50,220
+immigration, separation and deportation.
+
+110
+00:03:50,220 --> 00:03:52,500
+And by the time our students reach college,
+
+111
+00:03:52,500 --> 00:03:55,826
+they're also navigating an entirely new environment.
+
+112
+00:03:55,826 --> 00:03:58,530
+There's pressure to succeed and meet familial
+
+113
+00:03:58,530 --> 00:04:00,330
+and societal expectations,
+
+114
+00:04:00,330 --> 00:04:01,770
+be financially stable
+
+115
+00:04:01,770 --> 00:04:03,300
+and future focused.
+
+116
+00:04:03,300 --> 00:04:05,670
+And this can really exacerbate
+
+117
+00:04:05,670 --> 00:04:07,290
+isolation and loneliness
+
+118
+00:04:07,290 --> 00:04:11,190
+because of competition, comparisons with their peers,
+
+119
+00:04:11,190 --> 00:04:14,640
+very strenuous study schedules, sleep deprivation,
+
+120
+00:04:14,640 --> 00:04:18,450
+and not feeling like they have time for friends, family,
+
+121
+00:04:18,450 --> 00:04:20,790
+or making new friends.
+
+122
+00:04:20,790 --> 00:04:24,330
+And so from my work with Gen Z over the years,
+
+123
+00:04:24,330 --> 00:04:26,430
+I am seeing more of an openness
+
+124
+00:04:26,430 --> 00:04:28,200
+to talk about mental health.
+
+125
+00:04:28,200 --> 00:04:30,810
+And there are different platforms for them
+
+126
+00:04:30,810 --> 00:04:33,630
+to use their voice or share their story.
+
+127
+00:04:33,630 --> 00:04:35,520
+That includes social media.
+
+128
+00:04:35,520 --> 00:04:38,070
+We see podcasts, they're going live,
+
+129
+00:04:38,070 --> 00:04:39,630
+there's more peer-to-peer programming
+
+130
+00:04:39,630 --> 00:04:41,970
+that are happening on campus.
+
+131
+00:04:41,970 --> 00:04:43,470
+And at the same time, we know
+
+132
+00:04:43,470 --> 00:04:45,840
+that stigma is still pervasive.
+
+133
+00:04:45,840 --> 00:04:48,270
+So our colleges are uniquely positioned
+
+134
+00:04:48,270 --> 00:04:51,480
+to meet the mental health needs of today's students
+
+135
+00:04:51,480 --> 00:04:53,370
+by offering relevant support
+
+136
+00:04:53,370 --> 00:04:55,740
+and ensuring that we're broadening the options
+
+137
+00:04:55,740 --> 00:04:57,510
+for mental health care
+
+138
+00:04:57,510 --> 00:05:00,390
+that is inclusive of digital care
+
+139
+00:05:00,390 --> 00:05:02,790
+to support prevention, early intervention
+
+140
+00:05:02,790 --> 00:05:05,730
+and treatment of mental health issues for our students.
+
+141
+00:05:05,730 --> 00:05:07,530
+And I also want
+
+142
+00:05:07,530 --> 00:05:11,310
+to highlight loneliness is a significant issue
+
+143
+00:05:11,310 --> 00:05:15,000
+that we are also positioned to address on our campus.
+
+144
+00:05:15,000 --> 00:05:18,030
+The US surgeon General declared loneliness,
+
+145
+00:05:18,030 --> 00:05:21,480
+a public health epidemic comparing its health risk
+
+146
+00:05:21,480 --> 00:05:24,750
+to smoking 15 cigarettes a day.
+
+147
+00:05:24,750 --> 00:05:26,910
+If folks haven't heard that before.
+
+148
+00:05:26,910 --> 00:05:29,640
+And what I'm seeing in my practice,
+
+149
+00:05:29,640 --> 00:05:31,590
+I'm seeing Gen Z turn
+
+150
+00:05:31,590 --> 00:05:34,830
+to AI for connection and care.
+
+151
+00:05:34,830 --> 00:05:37,080
+It's so easy to go to ChatGPT
+
+152
+00:05:37,080 --> 00:05:39,180
+to validate their feelings,
+
+153
+00:05:39,180 --> 00:05:41,670
+empathize with their situation.
+
+154
+00:05:41,670 --> 00:05:44,460
+AI is there for them.
+
+155
+00:05:44,460 --> 00:05:47,970
+And I've heard students even call AI,
+
+156
+00:05:47,970 --> 00:05:50,730
+ChatGPT, their best friend. (chuckles)
+
+157
+00:05:50,730 --> 00:05:53,250
+So it becomes a form of companionship,
+
+158
+00:05:53,250 --> 00:05:55,770
+but we know AI is not a replacement
+
+159
+00:05:55,770 --> 00:05:57,633
+for real human connection.
+
+160
+00:05:59,700 --> 00:06:01,050
+- Fantastic, thank you Gil.
+
+161
+00:06:02,130 --> 00:06:04,410
+Our next question is for Xuan,
+
+162
+00:06:04,410 --> 00:06:05,730
+anxiety is at the heart
+
+163
+00:06:05,730 --> 00:06:07,890
+of this panel's title, recent bestsellers,
+
+164
+00:06:07,890 --> 00:06:09,900
+like "The Anxious Generation", have argued
+
+165
+00:06:09,900 --> 00:06:11,430
+that Gen Z is growing up
+
+166
+00:06:11,430 --> 00:06:13,830
+in uniquely stressful conditions.
+
+167
+00:06:13,830 --> 00:06:16,050
+Why do you think this generation is often described
+
+168
+00:06:16,050 --> 00:06:18,720
+as quote, the most anxious in the US
+
+169
+00:06:18,720 --> 00:06:21,360
+and most importantly for our audience listeners,
+
+170
+00:06:21,360 --> 00:06:24,693
+how does AI amplify or relieve that anxiety?
+
+171
+00:06:25,560 --> 00:06:26,850
+- Yeah.
+
+172
+00:06:26,850 --> 00:06:29,490
+It's really hard to be a young person nowadays.
+
+173
+00:06:29,490 --> 00:06:31,380
+I don't envy them at all.
+
+174
+00:06:31,380 --> 00:06:34,290
+In fact, there's a recent study, very interesting,
+
+175
+00:06:34,290 --> 00:06:35,940
+so the Happiness Report,
+
+176
+00:06:35,940 --> 00:06:39,060
+world Happiness report comes out every year
+
+177
+00:06:39,060 --> 00:06:42,360
+and used to be happiness used to be a U-shaped curve.
+
+178
+00:06:42,360 --> 00:06:43,830
+That is when you're young
+
+179
+00:06:43,830 --> 00:06:45,030
+or when you're old, you're happy.
+
+180
+00:06:45,030 --> 00:06:46,470
+And people in the middle sandwich
+
+181
+00:06:46,470 --> 00:06:48,750
+in the middle are the least happiest.
+
+182
+00:06:48,750 --> 00:06:52,530
+But now it's a linear increase
+
+183
+00:06:52,530 --> 00:06:55,170
+that is the older you are, the happier you are.
+
+184
+00:06:55,170 --> 00:06:59,040
+Young people are the least happiest now.
+
+185
+00:06:59,040 --> 00:07:01,440
+And speaking of anxiety,
+
+186
+00:07:01,440 --> 00:07:03,120
+that's also a big issue.
+
+187
+00:07:03,120 --> 00:07:04,860
+So 10 years ago depression
+
+188
+00:07:04,860 --> 00:07:06,000
+was the biggest mental health
+
+189
+00:07:06,000 --> 00:07:07,200
+challenge, but nowadays,
+
+190
+00:07:07,200 --> 00:07:11,100
+anxiety there's been across over a few years ago.
+
+191
+00:07:11,100 --> 00:07:13,657
+So who here have read this book,
+
+192
+00:07:13,657 --> 00:07:16,620
+"The Anxious Generation" by Jon Hyde?
+
+193
+00:07:16,620 --> 00:07:19,410
+We have at least two people, three, four, yes.
+
+194
+00:07:19,410 --> 00:07:22,890
+Highly recommend, very interesting book about
+
+195
+00:07:22,890 --> 00:07:26,220
+analyzing the anxiety problem our young people have.
+
+196
+00:07:26,220 --> 00:07:28,590
+Of course there are some scholarly debate about some
+
+197
+00:07:28,590 --> 00:07:30,690
+of the arguments here, but I think overall
+
+198
+00:07:33,090 --> 00:07:35,100
+my takeaways are one,
+
+199
+00:07:35,100 --> 00:07:36,270
+the reason why we are seeing
+
+200
+00:07:36,270 --> 00:07:37,830
+such an increase in anxieties
+
+201
+00:07:37,830 --> 00:07:40,380
+is because increase of screen time,
+
+202
+00:07:40,380 --> 00:07:42,540
+smartphone, social media
+
+203
+00:07:42,540 --> 00:07:46,200
+and combined with decrease of in-person time,
+
+204
+00:07:46,200 --> 00:07:48,570
+face-to-face time, free play.
+
+205
+00:07:48,570 --> 00:07:51,090
+So combined people actually social media
+
+206
+00:07:51,090 --> 00:07:55,680
+and tech screen, they contribute lots of issues.
+
+207
+00:07:55,680 --> 00:07:59,850
+So social comparison, loneliness, isolation,
+
+208
+00:07:59,850 --> 00:08:04,470
+and also anxiety by, you know, comparing
+
+209
+00:08:04,470 --> 00:08:06,090
+with the standard out there,
+
+210
+00:08:06,090 --> 00:08:07,920
+what you perceive to be the standard.
+
+211
+00:08:07,920 --> 00:08:10,380
+So that's why I think really
+
+212
+00:08:10,380 --> 00:08:12,300
+it's uniquely challenging now.
+
+213
+00:08:12,300 --> 00:08:13,920
+And I think now AI is coming.
+
+214
+00:08:13,920 --> 00:08:17,220
+AI is a really interesting tool.
+
+215
+00:08:17,220 --> 00:08:19,380
+It can actually have the opportunity
+
+216
+00:08:19,380 --> 00:08:22,170
+to amplify the challenges,
+
+217
+00:08:22,170 --> 00:08:23,670
+the problems we are seeing right now,
+
+218
+00:08:23,670 --> 00:08:26,070
+'cause AI can be even more addictive,
+
+219
+00:08:26,070 --> 00:08:27,570
+more personalized,
+
+220
+00:08:27,570 --> 00:08:29,820
+more echo chamber a very,
+
+221
+00:08:29,820 --> 00:08:31,480
+we know the AI can be very
+
+222
+00:08:33,180 --> 00:08:34,200
+affirming, right?
+
+223
+00:08:34,200 --> 00:08:36,420
+It can actually not challenging what you say
+
+224
+00:08:36,420 --> 00:08:38,460
+and that is one path.
+
+225
+00:08:38,460 --> 00:08:39,870
+But the other path is AI,
+
+226
+00:08:39,870 --> 00:08:41,550
+we can actually use it
+
+227
+00:08:41,550 --> 00:08:45,210
+to help students build coping strategies
+
+228
+00:08:45,210 --> 00:08:46,043
+that they don't get
+
+229
+00:08:46,043 --> 00:08:48,180
+to practice in using social media
+
+230
+00:08:48,180 --> 00:08:51,150
+or using their screen to nudge them to reach out
+
+231
+00:08:51,150 --> 00:08:53,130
+to other people, to help them
+
+232
+00:08:53,130 --> 00:08:55,950
+to set up reminder just in time when
+
+233
+00:08:55,950 --> 00:08:58,260
+their mind is going in spiraling.
+
+234
+00:08:58,260 --> 00:09:01,020
+So the choice is how are we going to design
+
+235
+00:09:01,020 --> 00:09:03,420
+these kind of technology and how schools
+
+236
+00:09:03,420 --> 00:09:07,107
+and other stakeholders are going to promote (indistinct),
+
+237
+00:09:08,550 --> 00:09:12,960
+you know, well intended scientifically grounded ways
+
+238
+00:09:12,960 --> 00:09:16,320
+to use AI rather than letting students wander onto,
+
+239
+00:09:16,320 --> 00:09:17,937
+you know, some harmful tools.
+
+240
+00:09:17,937 --> 00:09:19,620
+And that might seem fun,
+
+241
+00:09:19,620 --> 00:09:21,780
+but could be dangerous in the long run.
+
+242
+00:09:21,780 --> 00:09:26,070
+So I would say scientific grounding, ethical design,
+
+243
+00:09:26,070 --> 00:09:27,630
+and also clinical guidance.
+
+244
+00:09:27,630 --> 00:09:30,600
+Those are all really important things when we think about
+
+245
+00:09:30,600 --> 00:09:33,210
+building AI that can be useful for mental health
+
+246
+00:09:33,210 --> 00:09:34,650
+and even revert the trend
+
+247
+00:09:34,650 --> 00:09:36,930
+we are seeing with social media.
+
+248
+00:09:36,930 --> 00:09:37,763
+- Fantastic.
+
+249
+00:09:37,763 --> 00:09:38,760
+I really like that point, especially
+
+250
+00:09:38,760 --> 00:09:40,680
+that students are gonna use it.
+
+251
+00:09:40,680 --> 00:09:43,050
+So we might as well have an option for them
+
+252
+00:09:43,050 --> 00:09:45,990
+that is research based, that is scientific,
+
+253
+00:09:45,990 --> 00:09:49,050
+give them choices that are good choices versus just having
+
+254
+00:09:49,050 --> 00:09:50,160
+them run to the first thing,
+
+255
+00:09:50,160 --> 00:09:51,400
+which is generally ChatGPT.
+
+256
+00:09:51,400 --> 00:09:52,233
+- Yeah.
+
+257
+00:09:52,233 --> 00:09:53,940
+Can I just share two points?
+
+258
+00:09:53,940 --> 00:09:55,170
+Students already using it.
+
+259
+00:09:55,170 --> 00:09:59,490
+So in '24, 2024, the most common use case
+
+260
+00:09:59,490 --> 00:10:01,800
+for gen AI was idea generation.
+
+261
+00:10:01,800 --> 00:10:05,130
+But in 2025 it's therapy and companion.
+
+262
+00:10:05,130 --> 00:10:06,780
+So people are already using this.
+
+263
+00:10:06,780 --> 00:10:09,480
+It's the most common way people use it nowadays.
+
+264
+00:10:09,480 --> 00:10:12,240
+And for recently Common Sense Media,
+
+265
+00:10:12,240 --> 00:10:13,980
+they did a research
+
+266
+00:10:13,980 --> 00:10:16,200
+study on, in this case teens,
+
+267
+00:10:16,200 --> 00:10:17,250
+not college students,
+
+268
+00:10:17,250 --> 00:10:21,780
+but they found that 76% of teens have used AI companion.
+
+269
+00:10:21,780 --> 00:10:24,300
+Half of them say that they use it regularly.
+
+270
+00:10:24,300 --> 00:10:25,980
+So yes, they are already using it now.
+
+271
+00:10:25,980 --> 00:10:27,540
+I think teaching AI literacy,
+
+272
+00:10:27,540 --> 00:10:30,000
+what are good ways to use AI
+
+273
+00:10:30,000 --> 00:10:32,970
+for emotional, mental, wellbeing support,
+
+274
+00:10:32,970 --> 00:10:34,620
+what are some dangerous ways to use it?
+
+275
+00:10:34,620 --> 00:10:36,030
+That's really important.
+
+276
+00:10:36,030 --> 00:10:37,440
+- Absolutely, absolutely.
+
+277
+00:10:37,440 --> 00:10:38,510
+I think literacy is at the heart
+
+278
+00:10:38,510 --> 00:10:40,143
+of a lot of these conversations.
+
+279
+00:10:41,160 --> 00:10:43,800
+This question is for Alex.
+
+280
+00:10:43,800 --> 00:10:45,600
+As a student leader
+
+281
+00:10:45,600 --> 00:10:47,400
+and a student leader in peer support,
+
+282
+00:10:47,400 --> 00:10:49,200
+how do you see your peers relationships
+
+283
+00:10:49,200 --> 00:10:50,550
+with AI and mental health?
+
+284
+00:10:50,550 --> 00:10:52,230
+Is AI adding to their stress
+
+285
+00:10:52,230 --> 00:10:53,550
+or are students beginning
+
+286
+00:10:53,550 --> 00:10:56,100
+to use it as a tool for support?
+
+287
+00:10:56,100 --> 00:10:59,190
+- Yeah, so as you might expect, it's both
+
+288
+00:10:59,190 --> 00:11:00,960
+on the stressor side,
+
+289
+00:11:00,960 --> 00:11:03,210
+we're obviously seeing concerns over the job market,
+
+290
+00:11:03,210 --> 00:11:05,340
+which was already not too great for us.
+
+291
+00:11:05,340 --> 00:11:06,810
+I just graduated.
+
+292
+00:11:06,810 --> 00:11:07,800
+I am, you know,
+
+293
+00:11:07,800 --> 00:11:08,633
+working as a nanny.
+
+294
+00:11:08,633 --> 00:11:09,810
+So that says that.
+
+295
+00:11:09,810 --> 00:11:13,170
+But I think that for a lot of fields outside of, you know,
+
+296
+00:11:13,170 --> 00:11:15,000
+myself, I have friends in,
+
+297
+00:11:15,000 --> 00:11:16,200
+you know, computer science
+
+298
+00:11:16,200 --> 00:11:18,840
+or business and there's a lot of concern that a lot
+
+299
+00:11:18,840 --> 00:11:20,040
+of these entry level
+
+300
+00:11:20,040 --> 00:11:22,080
+job positions are gonna be replaced
+
+301
+00:11:22,080 --> 00:11:24,000
+by AI and we are already seeing it
+
+302
+00:11:24,000 --> 00:11:25,470
+and we're seeing that a lot
+
+303
+00:11:25,470 --> 00:11:27,720
+of these companies now want
+
+304
+00:11:27,720 --> 00:11:29,280
+their employees to be able
+
+305
+00:11:29,280 --> 00:11:32,647
+to use AI and have AI literacy to make sure that they,
+
+306
+00:11:32,647 --> 00:11:35,040
+you know, can be the most efficient workers
+
+307
+00:11:35,040 --> 00:11:36,810
+and that it wouldn't make more sense
+
+308
+00:11:36,810 --> 00:11:39,300
+to just replace them completely with AI.
+
+309
+00:11:39,300 --> 00:11:40,890
+So that's definitely a big area
+
+310
+00:11:40,890 --> 00:11:43,710
+that I'm seeing my peers struggling with.
+
+311
+00:11:43,710 --> 00:11:46,950
+And then also in terms of school, there's a lot
+
+312
+00:11:46,950 --> 00:11:50,280
+of talk obviously about using AI for classwork
+
+313
+00:11:50,280 --> 00:11:52,500
+and so it, there's an ethical struggle there
+
+314
+00:11:52,500 --> 00:11:54,540
+because you know, sometimes it's, yeah,
+
+315
+00:11:54,540 --> 00:11:56,520
+it's great for bouncing ideas off of
+
+316
+00:11:56,520 --> 00:11:58,950
+and it's great for you know, organizing stuff,
+
+317
+00:11:58,950 --> 00:12:00,450
+but then there's a question
+
+318
+00:12:00,450 --> 00:12:03,720
+of when does it become the AI doing your work for you
+
+319
+00:12:03,720 --> 00:12:04,800
+and how is that impacting
+
+320
+00:12:04,800 --> 00:12:06,120
+your critical thinking skills?
+
+321
+00:12:06,120 --> 00:12:08,790
+And you know, we're seeing that, you know,
+
+322
+00:12:08,790 --> 00:12:10,830
+some job fields are feeling
+
+323
+00:12:10,830 --> 00:12:12,600
+that the entry level individuals
+
+324
+00:12:12,600 --> 00:12:13,440
+they are getting aren't
+
+325
+00:12:13,440 --> 00:12:14,790
+as prepared as in the past.
+
+326
+00:12:14,790 --> 00:12:18,870
+And a reason for this is possibly because of AI use
+
+327
+00:12:18,870 --> 00:12:20,640
+and not having the same level
+
+328
+00:12:20,640 --> 00:12:22,500
+of critical thinking skills.
+
+329
+00:12:22,500 --> 00:12:23,520
+So there's that.
+
+330
+00:12:23,520 --> 00:12:26,100
+And then in terms of AI literacy,
+
+331
+00:12:26,100 --> 00:12:27,720
+people would think that Gen Z, you know,
+
+332
+00:12:27,720 --> 00:12:28,980
+has the best skills.
+
+333
+00:12:28,980 --> 00:12:31,530
+They know how to use AI, they know how to avoid
+
+334
+00:12:31,530 --> 00:12:33,990
+wrong answers, but in reality we're seeing
+
+335
+00:12:33,990 --> 00:12:38,340
+that even though Gen Z is quite dependent on it,
+
+336
+00:12:38,340 --> 00:12:39,450
+they're not able to catch
+
+337
+00:12:39,450 --> 00:12:40,530
+when it's doing something wrong
+
+338
+00:12:40,530 --> 00:12:41,970
+or giving a bad answer.
+
+339
+00:12:41,970 --> 00:12:44,043
+So that's definitely detrimental as well.
+
+340
+00:12:45,450 --> 00:12:47,190
+But on the positive side of things,
+
+341
+00:12:47,190 --> 00:12:48,450
+as kind of discussed AI
+
+342
+00:12:48,450 --> 00:12:50,400
+for mental health support has been really great.
+
+343
+00:12:50,400 --> 00:12:52,200
+I have a lot of friends who have, yeah,
+
+344
+00:12:52,200 --> 00:12:54,780
+as kind of discussed use ChatGPT
+
+345
+00:12:54,780 --> 00:12:57,150
+as their personal therapist as a friend.
+
+346
+00:12:57,150 --> 00:12:59,880
+And we're seeing that this is a great kind of way
+
+347
+00:12:59,880 --> 00:13:02,670
+for like entry level mental health help for people
+
+348
+00:13:02,670 --> 00:13:04,350
+who either can't afford therapy
+
+349
+00:13:04,350 --> 00:13:07,140
+or are a little hesitant to it.
+
+350
+00:13:07,140 --> 00:13:09,960
+So it's a low, you know, entry point
+
+351
+00:13:09,960 --> 00:13:11,700
+for mental health assistance,
+
+352
+00:13:11,700 --> 00:13:13,170
+which I think can definitely spur
+
+353
+00:13:13,170 --> 00:13:14,899
+a lot of change in terms
+
+354
+00:13:14,899 --> 00:13:17,340
+of pushing individuals
+
+355
+00:13:17,340 --> 00:13:20,670
+to seek out formal therapy eventually as well.
+
+356
+00:13:20,670 --> 00:13:21,960
+And you know, there's no stigma,
+
+357
+00:13:21,960 --> 00:13:24,260
+they're not worried about judgment, et cetera.
+
+358
+00:13:25,710 --> 00:13:29,220
+And yeah, I think that's kind of the two main things.
+
+359
+00:13:29,220 --> 00:13:30,180
+Yeah.
+
+360
+00:13:30,180 --> 00:13:31,200
+- That was really excellent,
+
+361
+00:13:31,200 --> 00:13:32,640
+Alex, I also really like that barrier
+
+362
+00:13:32,640 --> 00:13:36,330
+to entry point you made as being a hurdle to therapy
+
+363
+00:13:36,330 --> 00:13:37,920
+and how there is potential,
+
+364
+00:13:37,920 --> 00:13:38,880
+there is already potential
+
+365
+00:13:38,880 --> 00:13:41,220
+that AI is like a way to jump that hurdle.
+
+366
+00:13:41,220 --> 00:13:42,053
+Excellent.
+
+367
+00:13:43,110 --> 00:13:45,840
+This is for Gil, career anxiety is one
+
+368
+00:13:45,840 --> 00:13:47,850
+of Gen Z's biggest stressors, especially
+
+369
+00:13:47,850 --> 00:13:50,340
+with AI reshaping the future of work.
+
+370
+00:13:50,340 --> 00:13:52,500
+How is this showing up among students
+
+371
+00:13:52,500 --> 00:13:54,900
+and what can colleges do to help them navigate
+
+372
+00:13:54,900 --> 00:13:56,760
+that uncertainty?
+
+373
+00:13:56,760 --> 00:13:59,550
+- Yeah, so I'm definitely seeing career anxiety
+
+374
+00:13:59,550 --> 00:14:01,740
+as a stressor of our students, especially
+
+375
+00:14:01,740 --> 00:14:04,350
+with AI reshaping the future of our work.
+
+376
+00:14:04,350 --> 00:14:07,170
+I think there's a lot of uncertainty about
+
+377
+00:14:07,170 --> 00:14:10,320
+how AI will affect career choices
+
+378
+00:14:10,320 --> 00:14:12,120
+and decisions that our students make.
+
+379
+00:14:12,120 --> 00:14:16,110
+And I think what I'm seeing is that it is
+
+380
+00:14:16,110 --> 00:14:17,820
+influencing them in a way where they're trying
+
+381
+00:14:17,820 --> 00:14:19,470
+to see if there's a way to avoid it.
+
+382
+00:14:19,470 --> 00:14:22,350
+So they're choosing more hands-on careers,
+
+383
+00:14:22,350 --> 00:14:24,393
+healthcare, trade programs.
+
+384
+00:14:25,710 --> 00:14:28,020
+And what I'm also learning
+
+385
+00:14:28,020 --> 00:14:29,520
+through our future summit today
+
+386
+00:14:29,520 --> 00:14:31,380
+is that our, you know,
+
+387
+00:14:31,380 --> 00:14:35,250
+a lot of our entire workforce is being reshaped by AI.
+
+388
+00:14:35,250 --> 00:14:37,950
+So it's not something that they can necessarily avoid.
+
+389
+00:14:37,950 --> 00:14:40,860
+So these are things that if we're,
+
+390
+00:14:40,860 --> 00:14:43,380
+it's great if it's their intrinsic reason,
+
+391
+00:14:43,380 --> 00:14:45,480
+but if their decision making
+
+392
+00:14:45,480 --> 00:14:47,430
+is based on a perceived threat
+
+393
+00:14:47,430 --> 00:14:48,690
+of AI, that's definitely
+
+394
+00:14:48,690 --> 00:14:51,570
+worth exploring with our students.
+
+395
+00:14:51,570 --> 00:14:53,580
+I think also students already
+
+396
+00:14:53,580 --> 00:14:55,710
+outside of AI may struggle
+
+397
+00:14:55,710 --> 00:14:59,850
+with their sense of worth just as an individual.
+
+398
+00:14:59,850 --> 00:15:00,683
+And so the systems
+
+399
+00:15:00,683 --> 00:15:02,340
+that our students exist
+
+400
+00:15:02,340 --> 00:15:04,380
+in can make students feel like
+
+401
+00:15:04,380 --> 00:15:05,280
+they're not enough
+
+402
+00:15:05,280 --> 00:15:06,960
+or that they're not doing enough.
+
+403
+00:15:06,960 --> 00:15:09,810
+And so it's not uncommon for people
+
+404
+00:15:09,810 --> 00:15:12,390
+to tie their self-worth to their work.
+
+405
+00:15:12,390 --> 00:15:13,320
+Okay.
+
+406
+00:15:13,320 --> 00:15:15,510
+And so if they're hearing
+
+407
+00:15:15,510 --> 00:15:19,260
+that AI is taking over positions, there's this idea
+
+408
+00:15:19,260 --> 00:15:22,650
+that AI has more value than people
+
+409
+00:15:22,650 --> 00:15:26,010
+and that can create self-doubt, self-criticism,
+
+410
+00:15:26,010 --> 00:15:29,220
+it can worsen anxieties, leaving people
+
+411
+00:15:29,220 --> 00:15:31,353
+to really question their own value,
+
+412
+00:15:32,340 --> 00:15:35,550
+what's left for them if AI can already
+
+413
+00:15:35,550 --> 00:15:37,740
+do parts of their their job.
+
+414
+00:15:37,740 --> 00:15:41,250
+And so career anxiety is not just about worries
+
+415
+00:15:41,250 --> 00:15:43,860
+for stability and a good paying job,
+
+416
+00:15:43,860 --> 00:15:47,430
+it's also about their identity and purpose.
+
+417
+00:15:47,430 --> 00:15:52,080
+And so I think our California community colleges,
+
+418
+00:15:52,080 --> 00:15:55,050
+especially what I'm seeing throughout our summit,
+
+419
+00:15:55,050 --> 00:15:59,640
+you know, we really are leading our AI revolution,
+
+420
+00:15:59,640 --> 00:16:02,130
+creating new career narratives.
+
+421
+00:16:02,130 --> 00:16:04,290
+And so hearing what's happening in the workforce
+
+422
+00:16:04,290 --> 00:16:07,200
+development, I do feel hopeful
+
+423
+00:16:07,200 --> 00:16:10,890
+hearing our students are the ones building the future.
+
+424
+00:16:10,890 --> 00:16:12,930
+I also am hearing professors
+
+425
+00:16:12,930 --> 00:16:15,000
+and how they're integrating AI literacy
+
+426
+00:16:15,000 --> 00:16:16,680
+into their curriculum.
+
+427
+00:16:16,680 --> 00:16:20,250
+And so there are ways we can learn to use AI ethically
+
+428
+00:16:20,250 --> 00:16:22,410
+and work alongside it.
+
+429
+00:16:22,410 --> 00:16:23,610
+I heard great examples
+
+430
+00:16:23,610 --> 00:16:26,700
+of how professors are working with AI
+
+431
+00:16:26,700 --> 00:16:30,600
+by having students really show how they use AI ethically
+
+432
+00:16:30,600 --> 00:16:32,850
+and responsibly and not avoid it.
+
+433
+00:16:32,850 --> 00:16:36,120
+And so there are things like internships, career fairs,
+
+434
+00:16:36,120 --> 00:16:37,500
+workshops, guest speakers.
+
+435
+00:16:37,500 --> 00:16:40,020
+I think there's more opportunities we can utilize
+
+436
+00:16:40,020 --> 00:16:42,900
+to bring industry experts to discuss
+
+437
+00:16:42,900 --> 00:16:44,760
+how AI is shifting roles
+
+438
+00:16:44,760 --> 00:16:46,530
+and what skills are most needed,
+
+439
+00:16:46,530 --> 00:16:49,380
+what job options there are in the field,
+
+440
+00:16:49,380 --> 00:16:51,270
+and how we can still continue
+
+441
+00:16:51,270 --> 00:16:54,120
+to combine human creativity, critical thinking
+
+442
+00:16:54,120 --> 00:16:57,000
+with the efficiency of AI.
+
+443
+00:16:57,000 --> 00:17:00,420
+I think like, again, you're gonna hear this
+
+444
+00:17:00,420 --> 00:17:01,980
+more than once for me, but like AI
+
+445
+00:17:01,980 --> 00:17:04,050
+or not, I think our students,
+
+446
+00:17:04,050 --> 00:17:05,760
+because they're still learning, there's a lot
+
+447
+00:17:05,760 --> 00:17:07,950
+that they don't know about career fields
+
+448
+00:17:07,950 --> 00:17:09,540
+'cause they're not in them yet.
+
+449
+00:17:09,540 --> 00:17:12,570
+There's a lot that they don't know about it, right?
+
+450
+00:17:12,570 --> 00:17:13,800
+There's a lot of what they hear.
+
+451
+00:17:13,800 --> 00:17:18,210
+And so I do think it's important for them to, you know,
+
+452
+00:17:18,210 --> 00:17:20,970
+hear from the experts so that they can,
+
+453
+00:17:20,970 --> 00:17:22,080
+which can also support
+
+454
+00:17:22,080 --> 00:17:25,470
+some of that career anxiety around
+
+455
+00:17:25,470 --> 00:17:29,430
+how AI is reshaping the fields,
+
+456
+00:17:29,430 --> 00:17:30,600
+'cause again, they're,
+
+457
+00:17:30,600 --> 00:17:33,540
+the anxieties could promote them
+
+458
+00:17:33,540 --> 00:17:37,710
+to want to run away, (laughs), versus really address
+
+459
+00:17:37,710 --> 00:17:38,970
+what skills they need to know
+
+460
+00:17:38,970 --> 00:17:43,860
+to really compliment human work with AI.
+
+461
+00:17:43,860 --> 00:17:46,800
+I also think our educators need to continue to,
+
+462
+00:17:46,800 --> 00:17:48,510
+you know, model a growth mindset
+
+463
+00:17:48,510 --> 00:17:51,330
+by continuing our own professional development
+
+464
+00:17:51,330 --> 00:17:54,690
+and AI so that we are keeping current
+
+465
+00:17:54,690 --> 00:17:58,230
+with emerging technologies similar to making time
+
+466
+00:17:58,230 --> 00:18:02,130
+to this last couple days for our summit.
+
+467
+00:18:02,130 --> 00:18:03,870
+I'll quickly just give an example.
+
+468
+00:18:03,870 --> 00:18:05,280
+Like when COVID first hit,
+
+469
+00:18:05,280 --> 00:18:06,420
+there was a lot of fears
+
+470
+00:18:06,420 --> 00:18:09,690
+of going virtual for like our mental health services
+
+471
+00:18:09,690 --> 00:18:10,890
+in the CC system.
+
+472
+00:18:10,890 --> 00:18:13,800
+People were like there's no way we can do telehealth.
+
+473
+00:18:13,800 --> 00:18:16,350
+Like it was really only seen
+
+474
+00:18:16,350 --> 00:18:18,870
+as a model of in-person care
+
+475
+00:18:18,870 --> 00:18:21,450
+and we learned ethical telehealth use
+
+476
+00:18:21,450 --> 00:18:24,099
+and that really transformed our mental health model
+
+477
+00:18:24,099 --> 00:18:27,540
+and now it's a service we don't go without, right?
+
+478
+00:18:27,540 --> 00:18:30,000
+Like it's increased access for our students.
+
+479
+00:18:30,000 --> 00:18:32,520
+And I think this is something
+
+480
+00:18:32,520 --> 00:18:35,250
+we can also adapt to regarding AI.
+
+481
+00:18:35,250 --> 00:18:39,030
+And so I think our Gen Z students,
+
+482
+00:18:39,030 --> 00:18:39,863
+they have the right
+
+483
+00:18:39,863 --> 00:18:42,990
+to feel excited and nervous,
+
+484
+00:18:42,990 --> 00:18:44,400
+but I think we want them
+
+485
+00:18:44,400 --> 00:18:47,700
+to be able to see that there's room
+
+486
+00:18:47,700 --> 00:18:51,070
+for both and all, right, so they can
+
+487
+00:18:52,260 --> 00:18:55,020
+make room for their identity, their purpose
+
+488
+00:18:55,020 --> 00:18:58,293
+and technology can coexist with it.
+
+489
+00:18:59,640 --> 00:19:00,600
+- Fantastic Gil, thank you.
+
+490
+00:19:00,600 --> 00:19:02,430
+I also really like the perspective,
+
+491
+00:19:02,430 --> 00:19:04,951
+I'm hearing this a lot from the panelists,
+
+492
+00:19:04,951 --> 00:19:06,000
+like this access barrier,
+
+493
+00:19:06,000 --> 00:19:07,380
+like this barrier to entry.
+
+494
+00:19:07,380 --> 00:19:09,630
+If AI can remove that in terms
+
+495
+00:19:09,630 --> 00:19:11,640
+of getting mental health help,
+
+496
+00:19:11,640 --> 00:19:13,050
+I think that's incredible.
+
+497
+00:19:13,050 --> 00:19:14,970
+Whether, you know, we may have our doubts about it,
+
+498
+00:19:14,970 --> 00:19:18,120
+et cetera, but removing barriers to entry is what we,
+
+499
+00:19:18,120 --> 00:19:20,790
+especially I feel like community colleges do best.
+
+500
+00:19:20,790 --> 00:19:22,470
+So that's very interesting.
+
+501
+00:19:22,470 --> 00:19:24,750
+This next question is for Xuan,
+
+502
+00:19:24,750 --> 00:19:27,690
+Flourish is a purpose built research validated AI app
+
+503
+00:19:27,690 --> 00:19:29,040
+for student mental health.
+
+504
+00:19:29,040 --> 00:19:31,230
+Why AI and what opportunity
+
+505
+00:19:31,230 --> 00:19:32,790
+do you see AI play in promoting
+
+506
+00:19:32,790 --> 00:19:34,770
+student mental health?
+
+507
+00:19:34,770 --> 00:19:35,603
+- Awesome.
+
+508
+00:19:35,603 --> 00:19:37,170
+I'll continue on access.
+
+509
+00:19:37,170 --> 00:19:40,260
+So, well, one question is access for who, right?
+
+510
+00:19:40,260 --> 00:19:41,400
+Because in the past when we think
+
+511
+00:19:41,400 --> 00:19:43,350
+about therapy counseling,
+
+512
+00:19:43,350 --> 00:19:45,450
+usually students who are already struggling
+
+513
+00:19:45,450 --> 00:19:47,100
+and they may have been quietly
+
+514
+00:19:47,100 --> 00:19:48,600
+sitting with the challenges
+
+515
+00:19:48,600 --> 00:19:51,120
+for months and finally decide to reach out for help.
+
+516
+00:19:51,120 --> 00:19:53,610
+And we know how long students sit
+
+517
+00:19:53,610 --> 00:19:55,560
+with the challenges without asking for help.
+
+518
+00:19:55,560 --> 00:19:57,630
+So what's really cool about AI
+
+519
+00:19:57,630 --> 00:19:58,920
+and this is how we think
+
+520
+00:19:58,920 --> 00:20:00,000
+about mental health,
+
+521
+00:20:00,000 --> 00:20:03,120
+is that mental health is a continuum.
+
+522
+00:20:03,120 --> 00:20:05,820
+Like maybe 15% of people are in the red zone.
+
+523
+00:20:05,820 --> 00:20:09,540
+They are deeply in a concerning state,
+
+524
+00:20:09,540 --> 00:20:11,520
+maybe clinically depressed
+
+525
+00:20:11,520 --> 00:20:15,180
+or anxious, they need professional support.
+
+526
+00:20:15,180 --> 00:20:17,760
+But then there are, let's say 80%
+
+527
+00:20:17,760 --> 00:20:19,020
+of people in the yellow zone
+
+528
+00:20:19,020 --> 00:20:21,660
+or orange zone, maybe having
+
+529
+00:20:21,660 --> 00:20:24,570
+their fair share of rejections
+
+530
+00:20:24,570 --> 00:20:27,690
+or stress moments when they feel demotivated
+
+531
+00:20:27,690 --> 00:20:31,860
+or stressed out, they may have conflict
+
+532
+00:20:31,860 --> 00:20:35,250
+with their peers or their parents
+
+533
+00:20:35,250 --> 00:20:37,050
+or their colleagues.
+
+534
+00:20:37,050 --> 00:20:39,510
+And then they may also have
+
+535
+00:20:39,510 --> 00:20:42,840
+at night have racing thoughts, can't fall into sleep.
+
+536
+00:20:42,840 --> 00:20:45,930
+So they are not in the clinical side of things.
+
+537
+00:20:45,930 --> 00:20:48,660
+They may not seek out for mental health support.
+
+538
+00:20:48,660 --> 00:20:51,000
+Also because it can be expensive,
+
+539
+00:20:51,000 --> 00:20:52,650
+the waiting time can be long.
+
+540
+00:20:52,650 --> 00:20:55,410
+But with AI it can actually guide people
+
+541
+00:20:55,410 --> 00:20:57,180
+to learn coping strategies
+
+542
+00:20:57,180 --> 00:20:59,040
+and to make better sense
+
+543
+00:20:59,040 --> 00:21:00,030
+of what they are going through
+
+544
+00:21:00,030 --> 00:21:01,920
+and take actions to improve it,
+
+545
+00:21:01,920 --> 00:21:03,720
+to move towards the green zone.
+
+546
+00:21:03,720 --> 00:21:06,450
+So that's how we started thinking about AI.
+
+547
+00:21:06,450 --> 00:21:09,720
+So we founded Flourish with
+
+548
+00:21:09,720 --> 00:21:11,320
+another colleague from Stanford,
+
+549
+00:21:13,480 --> 00:21:15,060
+Department of Psychology.
+
+550
+00:21:15,060 --> 00:21:16,410
+And the way we think about
+
+551
+00:21:16,410 --> 00:21:18,690
+AI is not as AI therapist,
+
+552
+00:21:18,690 --> 00:21:21,123
+I think that's the wrong way to think about AI.
+
+553
+00:21:22,140 --> 00:21:23,850
+When whenever people say AI therapist,
+
+554
+00:21:23,850 --> 00:21:24,690
+I'm like, no, no, no.
+
+555
+00:21:24,690 --> 00:21:26,230
+At least that's not what we are building.
+
+556
+00:21:26,230 --> 00:21:28,380
+It's actually how we think about AI
+
+557
+00:21:28,380 --> 00:21:30,450
+as a recommendation engine.
+
+558
+00:21:30,450 --> 00:21:31,283
+Think about it.
+
+559
+00:21:31,283 --> 00:21:32,310
+So there has been decades
+
+560
+00:21:32,310 --> 00:21:34,440
+of research in psychology, social psychology,
+
+561
+00:21:34,440 --> 00:21:36,900
+positive psychology, a wide range
+
+562
+00:21:36,900 --> 00:21:40,260
+of literature about science-based actions you can do
+
+563
+00:21:40,260 --> 00:21:42,420
+to improve your mental health, your wellbeing,
+
+564
+00:21:42,420 --> 00:21:44,610
+your social relationship to better connect
+
+565
+00:21:44,610 --> 00:21:46,110
+with other people, find more motivation,
+
+566
+00:21:46,110 --> 00:21:49,800
+overcome procrastination, as not reaching people.
+
+567
+00:21:49,800 --> 00:21:51,600
+And oftentimes you have
+
+568
+00:21:51,600 --> 00:21:53,460
+to go through some lots of books
+
+569
+00:21:53,460 --> 00:21:55,170
+or listen to podcasts to find something
+
+570
+00:21:55,170 --> 00:21:56,760
+that's relevant for you.
+
+571
+00:21:56,760 --> 00:21:59,460
+But with AI you can ask AI a question about
+
+572
+00:21:59,460 --> 00:22:00,630
+what you're going through right now
+
+573
+00:22:00,630 --> 00:22:03,240
+and give you the most relevant knowledge and action.
+
+574
+00:22:03,240 --> 00:22:05,400
+So that is the power that we think about AI.
+
+575
+00:22:05,400 --> 00:22:07,620
+It surfaced the most relevant knowledge
+
+576
+00:22:07,620 --> 00:22:09,690
+and action at the right time.
+
+577
+00:22:09,690 --> 00:22:11,130
+So with that, we actually found
+
+578
+00:22:11,130 --> 00:22:11,963
+it Flourished towards
+
+579
+00:22:11,963 --> 00:22:14,880
+the end of 2022 when ChatGPT came out.
+
+580
+00:22:14,880 --> 00:22:17,370
+And that's how we have been approaching AI.
+
+581
+00:22:17,370 --> 00:22:20,310
+So when we work with schools, usually we emphasize
+
+582
+00:22:20,310 --> 00:22:22,887
+that this is mental health promotion, prevention
+
+583
+00:22:22,887 --> 00:22:24,690
+and early intervention.
+
+584
+00:22:24,690 --> 00:22:26,670
+So the deep work should be left
+
+585
+00:22:26,670 --> 00:22:29,040
+to psychologists and therapists.
+
+586
+00:22:29,040 --> 00:22:32,037
+But teaching coping strategies, helping students
+
+587
+00:22:32,037 --> 00:22:33,480
+to stop spiraling
+
+588
+00:22:33,480 --> 00:22:35,520
+and actually taking positive action,
+
+589
+00:22:35,520 --> 00:22:36,630
+checking with them,
+
+590
+00:22:36,630 --> 00:22:38,370
+build positive habits
+
+591
+00:22:38,370 --> 00:22:39,810
+and celebrate them for showing
+
+592
+00:22:39,810 --> 00:22:41,368
+up to all those good habits
+
+593
+00:22:41,368 --> 00:22:44,610
+that I think AI can play a very unique role.
+
+594
+00:22:44,610 --> 00:22:47,070
+And one last thing I want to emphasize is at Flourish we
+
+595
+00:22:47,070 --> 00:22:48,750
+call a what we are building,
+
+596
+00:22:48,750 --> 00:22:50,820
+the AI is the STAR framework.
+
+597
+00:22:50,820 --> 00:22:53,160
+So STAR stands for science-based.
+
+598
+00:22:53,160 --> 00:22:55,833
+It needs to be grounded in empirical research.
+
+599
+00:22:57,450 --> 00:22:59,130
+STAR, T is timely.
+
+600
+00:22:59,130 --> 00:23:01,530
+So what's the most relevant knowledge
+
+601
+00:23:01,530 --> 00:23:03,870
+and action and A is action.
+
+602
+00:23:03,870 --> 00:23:07,080
+So no matter how much you talk with AI,
+
+603
+00:23:07,080 --> 00:23:08,130
+if you don't take action
+
+604
+00:23:08,130 --> 00:23:10,560
+or maybe you read books, listen to podcasts.
+
+605
+00:23:10,560 --> 00:23:13,230
+If you don't take action, nothing's gonna change.
+
+606
+00:23:13,230 --> 00:23:15,450
+You can read all the books about self care
+
+607
+00:23:15,450 --> 00:23:17,880
+and still live, you know, still struggle
+
+608
+00:23:17,880 --> 00:23:19,230
+with your wellbeing,
+
+609
+00:23:19,230 --> 00:23:20,460
+have to take small actions
+
+610
+00:23:20,460 --> 00:23:22,050
+even when you are spiraling,
+
+611
+00:23:22,050 --> 00:23:24,900
+maybe just stop taking three deep breaths
+
+612
+00:23:24,900 --> 00:23:26,255
+or when you are, you know,
+
+613
+00:23:26,255 --> 00:23:27,960
+when you are struggling
+
+614
+00:23:27,960 --> 00:23:29,280
+to get out of the bed,
+
+615
+00:23:29,280 --> 00:23:31,260
+maybe just think about opening the window
+
+616
+00:23:31,260 --> 00:23:33,180
+and just get some fresh air.
+
+617
+00:23:33,180 --> 00:23:34,713
+So there are so many small things that can do
+
+618
+00:23:34,713 --> 00:23:36,780
+that can really change the trajectory.
+
+619
+00:23:36,780 --> 00:23:38,430
+So small actions, big impact.
+
+620
+00:23:38,430 --> 00:23:41,910
+So that's A, and finally, R is real life focused.
+
+621
+00:23:41,910 --> 00:23:43,650
+How can we nudge people to better connected
+
+622
+00:23:43,650 --> 00:23:45,450
+with their friends, their communities,
+
+623
+00:23:45,450 --> 00:23:47,340
+not just with AI?
+
+624
+00:23:47,340 --> 00:23:49,290
+So that is how we think about AI,
+
+625
+00:23:49,290 --> 00:23:50,123
+the unique role
+
+626
+00:23:50,123 --> 00:23:51,903
+that AI plays in this innovation.
+
+627
+00:23:53,190 --> 00:23:55,320
+- Fabulous, fabulous.
+
+628
+00:23:55,320 --> 00:23:57,720
+This next question is for Alex.
+
+629
+00:23:57,720 --> 00:24:00,000
+You have conducted an independent research project
+
+630
+00:24:00,000 --> 00:24:01,170
+on the Flourish app.
+
+631
+00:24:01,170 --> 00:24:03,210
+Can you tell us what you found in the study
+
+632
+00:24:03,210 --> 00:24:05,550
+and what you heard from your peers?
+
+633
+00:24:05,550 --> 00:24:07,890
+- Yeah, so I had the opportunity to work
+
+634
+00:24:07,890 --> 00:24:10,140
+with some Flourish pilot data with
+
+635
+00:24:10,140 --> 00:24:13,200
+around 500 students surveyed, basically
+
+636
+00:24:13,200 --> 00:24:15,150
+where we looked at the impacts
+
+637
+00:24:15,150 --> 00:24:17,970
+of Flourish use versus a control.
+
+638
+00:24:17,970 --> 00:24:21,150
+And one of the main outcomes we found was
+
+639
+00:24:21,150 --> 00:24:23,880
+that there was a significant increase in positive motion
+
+640
+00:24:23,880 --> 00:24:25,830
+or measured by positive effect,
+
+641
+00:24:25,830 --> 00:24:27,420
+which is basically
+
+642
+00:24:27,420 --> 00:24:30,360
+domains including calm, wellbeing, vigor.
+
+643
+00:24:30,360 --> 00:24:33,720
+And with this analysis, I thought, I wonder
+
+644
+00:24:33,720 --> 00:24:36,120
+what some moderators could be.
+
+645
+00:24:36,120 --> 00:24:37,890
+Moderators are basically things
+
+646
+00:24:37,890 --> 00:24:40,140
+that impact the significance,
+
+647
+00:24:40,140 --> 00:24:41,520
+the strength of the relationship.
+
+648
+00:24:41,520 --> 00:24:43,290
+And so in the fact
+
+649
+00:24:43,290 --> 00:24:45,210
+that this was a college student sample,
+
+650
+00:24:45,210 --> 00:24:47,850
+one thing that a lot of college students face is stress.
+
+651
+00:24:47,850 --> 00:24:50,400
+So I said, hey, we have stress measured,
+
+652
+00:24:50,400 --> 00:24:51,570
+we're taking baseline stress,
+
+653
+00:24:51,570 --> 00:24:52,770
+we're taking measures
+
+654
+00:24:52,770 --> 00:24:53,880
+of it throughout the study,
+
+655
+00:24:53,880 --> 00:24:56,910
+let's compare it to the end result.
+
+656
+00:24:56,910 --> 00:24:59,310
+And in this moderator analysis,
+
+657
+00:24:59,310 --> 00:25:00,720
+we did actually find
+
+658
+00:25:00,720 --> 00:25:03,330
+that stress was a significant moderator.
+
+659
+00:25:03,330 --> 00:25:04,590
+And what this basically meant
+
+660
+00:25:04,590 --> 00:25:06,420
+is that the individuals
+
+661
+00:25:06,420 --> 00:25:10,290
+who used Flourish that had a greater baseline stress,
+
+662
+00:25:10,290 --> 00:25:11,970
+they had greater improvements
+
+663
+00:25:11,970 --> 00:25:13,590
+in their positive effect over
+
+664
+00:25:13,590 --> 00:25:15,840
+this six week study period.
+
+665
+00:25:15,840 --> 00:25:17,490
+And I think this type
+
+666
+00:25:17,490 --> 00:25:18,750
+of data is really interesting
+
+667
+00:25:18,750 --> 00:25:19,583
+when you think about
+
+668
+00:25:19,583 --> 00:25:21,690
+who these positive psychology tools
+
+669
+00:25:21,690 --> 00:25:23,760
+are the most useful for.
+
+670
+00:25:23,760 --> 00:25:25,740
+And in talking to my peers, I had a couple friends
+
+671
+00:25:25,740 --> 00:25:27,240
+who actually partook in the study
+
+672
+00:25:27,240 --> 00:25:29,580
+because it was done partially at my university.
+
+673
+00:25:29,580 --> 00:25:31,050
+So that was cool.
+
+674
+00:25:31,050 --> 00:25:31,980
+But it was interesting
+
+675
+00:25:31,980 --> 00:25:35,010
+because the ones who I think had higher stress
+
+676
+00:25:35,010 --> 00:25:37,170
+in their lives, who did feel they benefited
+
+677
+00:25:37,170 --> 00:25:39,150
+the most Flourish,
+
+678
+00:25:39,150 --> 00:25:43,050
+almost acted as a way to, you know,
+
+679
+00:25:43,050 --> 00:25:44,550
+line out their life in a way
+
+680
+00:25:44,550 --> 00:25:45,540
+that made it easier for them
+
+681
+00:25:45,540 --> 00:25:47,325
+to handle everything, to evaluate what needed
+
+682
+00:25:47,325 --> 00:25:49,710
+to be focused on, their schoolwork,
+
+683
+00:25:49,710 --> 00:25:51,750
+their social life, their relationships.
+
+684
+00:25:51,750 --> 00:25:53,670
+And then the individuals who, you know,
+
+685
+00:25:53,670 --> 00:25:55,680
+felt like they handled their stress pretty well.
+
+686
+00:25:55,680 --> 00:25:56,820
+The ones who felt like
+
+687
+00:25:56,820 --> 00:25:59,220
+they didn't really need a wellness app to help,
+
+688
+00:25:59,220 --> 00:26:01,920
+but you know, they were put in the experiment group,
+
+689
+00:26:01,920 --> 00:26:03,180
+they didn't feel it was as useful,
+
+690
+00:26:03,180 --> 00:26:04,170
+but it was still useful,
+
+691
+00:26:04,170 --> 00:26:07,590
+'cause we did see that there was generally a significant,
+
+692
+00:26:07,590 --> 00:26:09,510
+you know, increase in positive effect over time.
+
+693
+00:26:09,510 --> 00:26:10,830
+So just looking at
+
+694
+00:26:10,830 --> 00:26:12,930
+that I think is really important when it comes
+
+695
+00:26:12,930 --> 00:26:14,430
+to developing these apps as well
+
+696
+00:26:14,430 --> 00:26:16,770
+and catering them to the individuals
+
+697
+00:26:16,770 --> 00:26:17,850
+that do need them the most,
+
+698
+00:26:17,850 --> 00:26:19,860
+such as high stress college students.
+
+699
+00:26:19,860 --> 00:26:20,853
+So yeah.
+
+700
+00:26:23,160 --> 00:26:23,993
+- Fantastic.
+
+701
+00:26:23,993 --> 00:26:24,826
+Thank you Alex.
+
+702
+00:26:26,790 --> 00:26:28,710
+All right, we're gonna move on to a real world
+
+703
+00:26:28,710 --> 00:26:30,120
+implementation question,
+
+704
+00:26:30,120 --> 00:26:31,020
+but before we do,
+
+705
+00:26:31,020 --> 00:26:32,760
+I'm just gonna say a little aside.
+
+706
+00:26:32,760 --> 00:26:34,740
+So I would say I'm a bit of a curmudgeon
+
+707
+00:26:34,740 --> 00:26:39,120
+when it comes to AI and mental wellness.
+
+708
+00:26:39,120 --> 00:26:40,290
+I think that I've definitely,
+
+709
+00:26:40,290 --> 00:26:41,123
+I'm clinically depressed
+
+710
+00:26:41,123 --> 00:26:42,480
+so I fall on that 15%
+
+711
+00:26:42,480 --> 00:26:44,790
+and I've been using the Flourish app
+
+712
+00:26:44,790 --> 00:26:48,600
+for about the past two weeks in preparation.
+
+713
+00:26:48,600 --> 00:26:50,280
+for this panel, I did not know that.
+
+714
+00:26:50,280 --> 00:26:53,340
+And I will say that I was really encouraged
+
+715
+00:26:53,340 --> 00:26:55,860
+because as Xuan mentioned,
+
+716
+00:26:55,860 --> 00:26:58,710
+the first point in STAR being science-backed,
+
+717
+00:26:58,710 --> 00:27:00,330
+there are mental health applications out there
+
+718
+00:27:00,330 --> 00:27:02,310
+that run on AI that aren't science-based,
+
+719
+00:27:02,310 --> 00:27:03,143
+they're not built
+
+720
+00:27:03,143 --> 00:27:04,590
+by researchers, et cetera, et cetera.
+
+721
+00:27:04,590 --> 00:27:07,230
+And I think that it's important to note the importance
+
+722
+00:27:07,230 --> 00:27:09,180
+of having people who know what they're doing,
+
+723
+00:27:09,180 --> 00:27:10,260
+develop these types of things.
+
+724
+00:27:10,260 --> 00:27:11,820
+We see that a lot in AI literacy,
+
+725
+00:27:11,820 --> 00:27:14,070
+not using it isn't a really good option,
+
+726
+00:27:14,070 --> 00:27:15,300
+students are gonna use it.
+
+727
+00:27:15,300 --> 00:27:16,500
+So directing them to tools
+
+728
+00:27:16,500 --> 00:27:18,300
+that are gonna be research-based
+
+729
+00:27:18,300 --> 00:27:19,590
+and science-based as a researcher,
+
+730
+00:27:19,590 --> 00:27:20,633
+I really appreciate that.
+
+731
+00:27:20,633 --> 00:27:23,070
+And the other couple of points about prevention
+
+732
+00:27:23,070 --> 00:27:25,350
+and intervention, like catching them where they're at.
+
+733
+00:27:25,350 --> 00:27:28,110
+I mean I found it to be quite frankly, really useful.
+
+734
+00:27:28,110 --> 00:27:29,400
+I mean I was really not motivated
+
+735
+00:27:29,400 --> 00:27:30,600
+to work out the last week,
+
+736
+00:27:30,600 --> 00:27:31,830
+but Flourish was like,
+
+737
+00:27:31,830 --> 00:27:34,050
+what if we reframed this positively
+
+738
+00:27:34,050 --> 00:27:36,330
+and what if instead of putting
+
+739
+00:27:36,330 --> 00:27:37,290
+all this pressure on yourself
+
+740
+00:27:37,290 --> 00:27:38,123
+to do an hour workout,
+
+741
+00:27:38,123 --> 00:27:39,660
+you just like did it felt good
+
+742
+00:27:39,660 --> 00:27:41,190
+and moved your body a little bit?
+
+743
+00:27:41,190 --> 00:27:42,999
+And it helped, it did because it just,
+
+744
+00:27:42,999 --> 00:27:44,370
+it was like a quick
+
+745
+00:27:44,370 --> 00:27:46,830
+reframe when I needed it.
+
+746
+00:27:46,830 --> 00:27:49,080
+So I like the point that like we still have
+
+747
+00:27:49,080 --> 00:27:50,970
+those groups that they're gonna need
+
+748
+00:27:50,970 --> 00:27:52,110
+professional counseling, right?
+
+749
+00:27:52,110 --> 00:27:54,180
+Like this is not a replacement to that,
+
+750
+00:27:54,180 --> 00:27:56,400
+but I like that Flourish doesn't position
+
+751
+00:27:56,400 --> 00:28:00,330
+or posit itself as that, it's an intervention app.
+
+752
+00:28:00,330 --> 00:28:02,010
+And yeah, I really am as a curmudgeon,
+
+753
+00:28:02,010 --> 00:28:03,330
+I really enjoyed it.
+
+754
+00:28:03,330 --> 00:28:05,430
+So I just wanted to have that aside really quick.
+
+755
+00:28:05,430 --> 00:28:06,450
+Alright, so this is our real
+
+756
+00:28:06,450 --> 00:28:08,160
+world implementation question.
+
+757
+00:28:08,160 --> 00:28:09,720
+This is for Xuan.
+
+758
+00:28:09,720 --> 00:28:11,700
+You've partnered with colleges like Foothill.
+
+759
+00:28:11,700 --> 00:28:12,555
+In fact, we've received
+
+760
+00:28:12,555 --> 00:28:14,790
+a testimonial from Alexis Donato,
+
+761
+00:28:14,790 --> 00:28:16,590
+department chair of the health center.
+
+762
+00:28:16,590 --> 00:28:17,730
+She's in a mandatory training
+
+763
+00:28:17,730 --> 00:28:19,020
+and wasn't able to be here today.
+
+764
+00:28:19,020 --> 00:28:21,270
+She was supposed to be on the panel,
+
+765
+00:28:21,270 --> 00:28:23,520
+but she provided a two page letter of support for this.
+
+766
+00:28:23,520 --> 00:28:25,560
+And here's a paragraph that I found intriguing,
+
+767
+00:28:25,560 --> 00:28:28,057
+which I'm gonna read to you all now.
+
+768
+00:28:28,057 --> 00:28:30,030
+"In our ongoing search for evidence-based,
+
+769
+00:28:30,030 --> 00:28:31,710
+scalable and cost-effective tools
+
+770
+00:28:31,710 --> 00:28:33,360
+to enhance student mental wellbeing,
+
+771
+00:28:33,360 --> 00:28:34,350
+Flourish has stood out
+
+772
+00:28:34,350 --> 00:28:36,060
+as a best in-class solution.
+
+773
+00:28:36,060 --> 00:28:37,920
+While we have explored various digital mental health
+
+774
+00:28:37,920 --> 00:28:39,450
+platforms, Flourish is one of the few
+
+775
+00:28:39,450 --> 00:28:41,370
+that seamlessly integrates behavioral science,
+
+776
+00:28:41,370 --> 00:28:43,200
+emotion regulation strategies
+
+777
+00:28:43,200 --> 00:28:45,990
+and proactive digital engagement into a platform
+
+778
+00:28:45,990 --> 00:28:47,430
+that feels accessible and affirming
+
+779
+00:28:47,430 --> 00:28:49,200
+to community college students.
+
+780
+00:28:49,200 --> 00:28:51,990
+The app is not just a repository of tools," that is true,
+
+781
+00:28:51,990 --> 00:28:54,000
+I've used it, "It's a self-learning companion
+
+782
+00:28:54,000 --> 00:28:55,320
+that meets students where they're at
+
+783
+00:28:55,320 --> 00:28:57,270
+and supports them in building healthier habits,
+
+784
+00:28:57,270 --> 00:29:00,030
+managing stress and cultivating resilience.
+
+785
+00:29:00,030 --> 00:29:01,230
+With its AI powered companion,
+
+786
+00:29:01,230 --> 00:29:02,550
+Sunny Flourish brings warmth
+
+787
+00:29:02,550 --> 00:29:04,710
+and encouragement to a process of mental health support,
+
+788
+00:29:04,710 --> 00:29:06,630
+something that is especially critical for students
+
+789
+00:29:06,630 --> 00:29:08,310
+who may not feel comfortable
+
+790
+00:29:08,310 --> 00:29:10,050
+accessing traditional services
+
+791
+00:29:10,050 --> 00:29:13,137
+or who are underserved by the existing systems."
+
+792
+00:29:13,980 --> 00:29:16,860
+So with that note in mind, Xuan,
+
+793
+00:29:16,860 --> 00:29:19,050
+what have you learned from those collaborations
+
+794
+00:29:19,050 --> 00:29:20,430
+and about what makes digital
+
+795
+00:29:20,430 --> 00:29:21,300
+mental health intervention
+
+796
+00:29:21,300 --> 00:29:24,810
+succeed or fail on campuses?
+
+797
+00:29:24,810 --> 00:29:25,643
+- Thank you.
+
+798
+00:29:25,643 --> 00:29:26,613
+I'm blushing right now.
+
+799
+00:29:27,630 --> 00:29:29,430
+I think the, what really gives
+
+800
+00:29:29,430 --> 00:29:31,500
+me a sense of meaning is
+
+801
+00:29:31,500 --> 00:29:33,630
+to hear when people are benefiting
+
+802
+00:29:33,630 --> 00:29:35,820
+from what we have built.
+
+803
+00:29:35,820 --> 00:29:38,830
+It's not a easy path, definitely no.t
+
+804
+00:29:40,174 --> 00:29:42,450
+Building startup, building a product
+
+805
+00:29:42,450 --> 00:29:44,850
+and trying to figure out how to promote it.
+
+806
+00:29:44,850 --> 00:29:46,230
+It's all new things
+
+807
+00:29:46,230 --> 00:29:47,610
+I've been learning over the years
+
+808
+00:29:47,610 --> 00:29:50,250
+and I'm so grateful for our campus partners
+
+809
+00:29:50,250 --> 00:29:52,200
+for supporting us such as Foothill.
+
+810
+00:29:52,200 --> 00:29:54,900
+They are the very first campus partner,
+
+811
+00:29:54,900 --> 00:29:57,360
+now we've reached over 200 campuses
+
+812
+00:29:57,360 --> 00:30:00,570
+and we have official school-wide collaborations,
+
+813
+00:30:00,570 --> 00:30:02,550
+partnerships with almost 10 different
+
+814
+00:30:02,550 --> 00:30:03,900
+universities and colleges.
+
+815
+00:30:03,900 --> 00:30:05,998
+Foothill remains to have
+
+816
+00:30:05,998 --> 00:30:08,010
+a very special place in my heart
+
+817
+00:30:08,010 --> 00:30:11,280
+because they were the first one to jump on board.
+
+818
+00:30:11,280 --> 00:30:14,580
+I think what we have learned,
+
+819
+00:30:14,580 --> 00:30:18,120
+one is the product has to be really engaging.
+
+820
+00:30:18,120 --> 00:30:20,490
+The reason why Foothill decided to go with us is
+
+821
+00:30:20,490 --> 00:30:23,370
+because they had a mental health app before
+
+822
+00:30:23,370 --> 00:30:25,710
+and students were not engaging with it
+
+823
+00:30:25,710 --> 00:30:30,570
+and it felt very corporate like, so it feels,
+
+824
+00:30:30,570 --> 00:30:33,393
+it doesn't vibe with Gen Z.
+
+825
+00:30:33,393 --> 00:30:36,900
+So when they brought Flourish they gave this
+
+826
+00:30:36,900 --> 00:30:39,660
+to students and students tested out, oh by the way,
+
+827
+00:30:39,660 --> 00:30:40,920
+if you can also try it out,
+
+828
+00:30:40,920 --> 00:30:42,360
+it's just on the App Store
+
+829
+00:30:42,360 --> 00:30:44,490
+or Google Play, you can search Flourish,
+
+830
+00:30:44,490 --> 00:30:46,143
+you'll see how cute it is.
+
+831
+00:30:47,490 --> 00:30:49,170
+We're shamelessly cute.
+
+832
+00:30:49,170 --> 00:30:52,020
+So this Sunny, also this is Sunny,
+
+833
+00:30:52,020 --> 00:30:53,760
+this little sun character.
+
+834
+00:30:53,760 --> 00:30:57,540
+So we chose the sun as this metaphor, the companion
+
+835
+00:30:57,540 --> 00:30:59,370
+because we are both like sun
+
+836
+00:30:59,370 --> 00:31:01,257
+giving warmth to other people
+
+837
+00:31:01,257 --> 00:31:02,820
+and we also like plants
+
+838
+00:31:02,820 --> 00:31:04,470
+receiving the warmth from other
+
+839
+00:31:04,470 --> 00:31:05,580
+people as we grow.
+
+840
+00:31:05,580 --> 00:31:08,010
+So we really like this sun character
+
+841
+00:31:08,010 --> 00:31:12,180
+and we have really waved this whole metaphor
+
+842
+00:31:12,180 --> 00:31:14,460
+into this entire app and also
+
+843
+00:31:14,460 --> 00:31:17,070
+have so many engaging animations,
+
+844
+00:31:17,070 --> 00:31:21,990
+badges, you know, progress tracker, habit building,
+
+845
+00:31:21,990 --> 00:31:25,170
+you know, so all of those is to create this sense
+
+846
+00:31:25,170 --> 00:31:29,340
+that wellbeing is not something so heavy
+
+847
+00:31:29,340 --> 00:31:32,430
+and so sad when you know,
+
+848
+00:31:32,430 --> 00:31:34,949
+it's the turning this deficit
+
+849
+00:31:34,949 --> 00:31:36,930
+based model narrative about
+
+850
+00:31:36,930 --> 00:31:39,510
+mental health around to mental wellness, right?
+
+851
+00:31:39,510 --> 00:31:42,930
+So a strengths based approach, public health approach.
+
+852
+00:31:42,930 --> 00:31:44,340
+So that's how I think
+
+853
+00:31:44,340 --> 00:31:46,500
+that really helps Flourish stand out.
+
+854
+00:31:46,500 --> 00:31:48,393
+And this is similar,
+
+855
+00:31:49,290 --> 00:31:51,690
+we have heard similar stories from other campuses.
+
+856
+00:31:51,690 --> 00:31:54,300
+So for example, Villanova University,
+
+857
+00:31:54,300 --> 00:31:55,650
+they on the east coast, they have a really
+
+858
+00:31:55,650 --> 00:31:56,760
+strong sport team.
+
+859
+00:31:56,760 --> 00:31:57,930
+Do we have alumni there?
+
+860
+00:31:57,930 --> 00:31:58,980
+- [Attendee] My daughter.
+
+861
+00:31:58,980 --> 00:32:01,890
+- Your daughter, a Villanova parent.
+
+862
+00:32:01,890 --> 00:32:03,150
+Yes, awesome, awesome.
+
+863
+00:32:03,150 --> 00:32:04,680
+So Villanova chose Flourish
+
+864
+00:32:04,680 --> 00:32:06,990
+because you are using another mental health app
+
+865
+00:32:06,990 --> 00:32:07,920
+for the past two years
+
+866
+00:32:07,920 --> 00:32:10,800
+and the utilization was low
+
+867
+00:32:10,800 --> 00:32:13,080
+and then they decided to run a pilot.
+
+868
+00:32:13,080 --> 00:32:16,380
+So actually they had 50 students committed
+
+869
+00:32:16,380 --> 00:32:17,820
+to running the pilot with them.
+
+870
+00:32:17,820 --> 00:32:20,040
+And then they give students three different apps
+
+871
+00:32:20,040 --> 00:32:21,300
+that they've narrowed down.
+
+872
+00:32:21,300 --> 00:32:23,970
+Two of them are AI mental health and another one
+
+873
+00:32:23,970 --> 00:32:26,850
+or AI wellbeing like, so just want
+
+874
+00:32:26,850 --> 00:32:29,310
+to make sure it's not therapy.
+
+875
+00:32:29,310 --> 00:32:31,020
+So two AI wellbeing
+
+876
+00:32:31,020 --> 00:32:33,750
+and the other one is their current app.
+
+877
+00:32:33,750 --> 00:32:37,500
+And they gave students, try them for four weeks
+
+878
+00:32:37,500 --> 00:32:40,110
+and ask students which they liked better,
+
+879
+00:32:40,110 --> 00:32:41,520
+would recommend to the school.
+
+880
+00:32:41,520 --> 00:32:45,240
+It turns out 76% of the students chose Flourish
+
+881
+00:32:45,240 --> 00:32:48,240
+and 18% chose the other AI app
+
+882
+00:32:48,240 --> 00:32:50,400
+and 4% chose their current app.
+
+883
+00:32:50,400 --> 00:32:52,470
+So it was a no brainer for them to switch.
+
+884
+00:32:52,470 --> 00:32:53,880
+And that's the kind of, you know,
+
+885
+00:32:53,880 --> 00:32:56,130
+stories we've been hearing in the field
+
+886
+00:32:56,130 --> 00:32:59,940
+that students, schools nowadays are getting much
+
+887
+00:32:59,940 --> 00:33:01,170
+more sophisticated.
+
+888
+00:33:01,170 --> 00:33:02,250
+They listen to students,
+
+889
+00:33:02,250 --> 00:33:03,510
+they let students try it
+
+890
+00:33:03,510 --> 00:33:05,280
+rather than the school look at some
+
+891
+00:33:05,280 --> 00:33:07,710
+products and fall in love with a sales pitch.
+
+892
+00:33:07,710 --> 00:33:10,170
+I'm like, that sounds pretty amazing for my students.
+
+893
+00:33:10,170 --> 00:33:13,260
+So I think that has been our strategy.
+
+894
+00:33:13,260 --> 00:33:17,820
+Another one I would say is truly a campus partnership.
+
+895
+00:33:17,820 --> 00:33:18,677
+And when we think about partnership,
+
+896
+00:33:18,677 --> 00:33:20,970
+we are not just talking about counseling center
+
+897
+00:33:20,970 --> 00:33:22,770
+or mental health promotion office,
+
+898
+00:33:22,770 --> 00:33:24,300
+we work with res life
+
+899
+00:33:24,300 --> 00:33:27,300
+with athletics department, with faculty.
+
+900
+00:33:27,300 --> 00:33:29,820
+We even created this Flourish challenge.
+
+901
+00:33:29,820 --> 00:33:33,180
+So basically faculty member that we have a plug
+
+902
+00:33:33,180 --> 00:33:36,133
+and play slide deck, if they encourage students
+
+903
+00:33:36,133 --> 00:33:39,510
+to use the Flourish app to practice wellbeing exercises
+
+904
+00:33:39,510 --> 00:33:43,110
+for 14 days, students get extra credit in their class,
+
+905
+00:33:43,110 --> 00:33:44,850
+incredibly motivating.
+
+906
+00:33:44,850 --> 00:33:46,050
+And the students oftentimes,
+
+907
+00:33:46,050 --> 00:33:48,930
+and they even sometimes the professors ask 'em
+
+908
+00:33:48,930 --> 00:33:50,610
+to write a little reflection essay about
+
+909
+00:33:50,610 --> 00:33:52,830
+what they've learned about their wellbeing.
+
+910
+00:33:52,830 --> 00:33:55,500
+And oftentimes it was so say something like,
+
+911
+00:33:55,500 --> 00:33:58,410
+oh I was initially very skeptical about this app
+
+912
+00:33:58,410 --> 00:33:59,383
+and then I started using it.
+
+913
+00:33:59,383 --> 00:34:01,380
+I actually used very helpful
+
+914
+00:34:01,380 --> 00:34:03,690
+and now I've learned how to breathe better
+
+915
+00:34:03,690 --> 00:34:06,810
+and how I can actually use Pomodoro timer.
+
+916
+00:34:06,810 --> 00:34:10,080
+So to you know, so all the time management,
+
+917
+00:34:10,080 --> 00:34:11,310
+someone even wrote something like,
+
+918
+00:34:11,310 --> 00:34:12,510
+oh I think I may actually
+
+919
+00:34:12,510 --> 00:34:14,040
+fail this class if I didn't learn
+
+920
+00:34:14,040 --> 00:34:17,070
+how to manage my anxiety before test.
+
+921
+00:34:17,070 --> 00:34:18,210
+So all of these are,
+
+922
+00:34:18,210 --> 00:34:20,100
+I would say just think about think out
+
+923
+00:34:20,100 --> 00:34:22,980
+of the box, not just mental health counseling center,
+
+924
+00:34:22,980 --> 00:34:24,300
+but also how can you partner
+
+925
+00:34:24,300 --> 00:34:26,070
+with different stakeholders
+
+926
+00:34:26,070 --> 00:34:27,720
+on the student affairs side,
+
+927
+00:34:27,720 --> 00:34:30,660
+on the academic affairs side to really make sure
+
+928
+00:34:30,660 --> 00:34:33,180
+that we meet students where they are.
+
+929
+00:34:33,180 --> 00:34:34,013
+- Fantastic.
+
+930
+00:34:34,013 --> 00:34:35,010
+- Oh, can I add one last thing?
+
+931
+00:34:35,010 --> 00:34:35,843
+- Yeah, go ahead.
+
+932
+00:34:35,843 --> 00:34:39,300
+- Okay, so Gil, you can speak to this,
+
+933
+00:34:39,300 --> 00:34:40,950
+it's not just the app
+
+934
+00:34:40,950 --> 00:34:45,270
+but also how to show up as physical things.
+
+935
+00:34:45,270 --> 00:34:48,270
+So for example, we have created the mood map
+
+936
+00:34:48,270 --> 00:34:49,260
+and then schools,
+
+937
+00:34:49,260 --> 00:34:51,810
+they love it's RAs like they line up
+
+938
+00:34:51,810 --> 00:34:53,580
+to get a mood map for their dorm.
+
+939
+00:34:53,580 --> 00:34:54,660
+So basically mood map is,
+
+940
+00:34:54,660 --> 00:34:57,660
+you can pin your mood on a map
+
+941
+00:34:57,660 --> 00:34:59,550
+and then other people can also pin their mood.
+
+942
+00:34:59,550 --> 00:35:01,890
+So it's a way to anonymously connect with each other
+
+943
+00:35:01,890 --> 00:35:03,450
+and see how the building
+
+944
+00:35:03,450 --> 00:35:05,550
+or how the classroom is feeling
+
+945
+00:35:05,550 --> 00:35:07,890
+and the pins, the Sunny,
+
+946
+00:35:07,890 --> 00:35:09,630
+like the stickers obviously.
+
+947
+00:35:09,630 --> 00:35:12,450
+But recently we even created like students
+
+948
+00:35:12,450 --> 00:35:13,770
+struggle with time management.
+
+949
+00:35:13,770 --> 00:35:16,470
+So we created daily planner with,
+
+950
+00:35:16,470 --> 00:35:17,880
+you know, three priorities
+
+951
+00:35:17,880 --> 00:35:20,070
+and then make a splash.
+
+952
+00:35:20,070 --> 00:35:21,540
+And then this is three good things.
+
+953
+00:35:21,540 --> 00:35:24,150
+This is one of the most classic positive
+
+954
+00:35:24,150 --> 00:35:25,050
+psychology exercise.
+
+955
+00:35:25,050 --> 00:35:27,150
+It's really simple but powerful.
+
+956
+00:35:27,150 --> 00:35:28,710
+It's write down three things,
+
+957
+00:35:28,710 --> 00:35:32,040
+big or small that put a smile on your face today.
+
+958
+00:35:32,040 --> 00:35:32,910
+If we had more time,
+
+959
+00:35:32,910 --> 00:35:34,080
+I would definitely encourage you
+
+960
+00:35:34,080 --> 00:35:35,895
+to all do this and tell each
+
+961
+00:35:35,895 --> 00:35:38,340
+other actually writing it down
+
+962
+00:35:38,340 --> 00:35:40,590
+is one part and then how to share this
+
+963
+00:35:40,590 --> 00:35:41,970
+and positivity, resonance,
+
+964
+00:35:41,970 --> 00:35:43,260
+that's another huge part.
+
+965
+00:35:43,260 --> 00:35:45,360
+So we even created like notepads.
+
+966
+00:35:45,360 --> 00:35:47,940
+So bringing these two mental health promotion events,
+
+967
+00:35:47,940 --> 00:35:51,240
+tabling events and really stand out students feel
+
+968
+00:35:51,240 --> 00:35:53,010
+that mental health is not just,
+
+969
+00:35:53,010 --> 00:35:54,210
+you know, counseling, therapy,
+
+970
+00:35:54,210 --> 00:35:56,280
+something I think of as an afterthought,
+
+971
+00:35:56,280 --> 00:35:59,193
+but now things I can do in my daily life.
+
+972
+00:36:00,150 --> 00:36:01,443
+- Fantastic, thank you.
+
+973
+00:36:02,760 --> 00:36:05,910
+This next question was directed at me for this panel
+
+974
+00:36:05,910 --> 00:36:09,120
+and it's from your work across the CCC system.
+
+975
+00:36:09,120 --> 00:36:10,500
+What lessons or practices
+
+976
+00:36:10,500 --> 00:36:11,880
+do you think are most critical
+
+977
+00:36:11,880 --> 00:36:14,130
+to scale statewide or nationally?
+
+978
+00:36:14,130 --> 00:36:15,360
+So I'll bring it back to the point
+
+979
+00:36:15,360 --> 00:36:16,650
+of mental health specifically,
+
+980
+00:36:16,650 --> 00:36:18,930
+which is what we're talking about today.
+
+981
+00:36:18,930 --> 00:36:20,100
+I think you'll get really
+
+982
+00:36:20,100 --> 00:36:21,480
+sick of hearing this by the end
+
+983
+00:36:21,480 --> 00:36:23,100
+of this talk and most talks here,
+
+984
+00:36:23,100 --> 00:36:25,950
+but it really is coming down to AI literacy.
+
+985
+00:36:25,950 --> 00:36:27,930
+I just was in a law enforcement panel talking about
+
+986
+00:36:27,930 --> 00:36:29,610
+how they're using AI and law enforcement,
+
+987
+00:36:29,610 --> 00:36:31,710
+which I have misgivings about,
+
+988
+00:36:31,710 --> 00:36:34,890
+but I understand why they're going that direction.
+
+989
+00:36:34,890 --> 00:36:36,690
+And something they talked a lot about was not just
+
+990
+00:36:36,690 --> 00:36:39,930
+implementing it but training the people on how
+
+991
+00:36:39,930 --> 00:36:41,790
+to use it critically
+
+992
+00:36:41,790 --> 00:36:43,740
+that are gonna be using it in law enforcement.
+
+993
+00:36:43,740 --> 00:36:45,840
+That is such an important point.
+
+994
+00:36:45,840 --> 00:36:49,200
+We need to start scaling AI literacy
+
+995
+00:36:49,200 --> 00:36:50,760
+on the college campuses nationally.
+
+996
+00:36:50,760 --> 00:36:52,140
+I'd like, you know, internationally,
+
+997
+00:36:52,140 --> 00:36:52,973
+et cetera, et cetera.
+
+998
+00:36:52,973 --> 00:36:54,120
+That's something we're trying really hard to do
+
+999
+00:36:54,120 --> 00:36:55,170
+with the AI fellows program
+
+1000
+00:36:55,170 --> 00:36:56,820
+at the state chancellor's office.
+
+1001
+00:36:57,870 --> 00:37:00,300
+But in regards to mental health, it's the same,
+
+1002
+00:37:00,300 --> 00:37:02,040
+literacy pieces apply, students need
+
+1003
+00:37:02,040 --> 00:37:04,950
+to know the four main pillars, which are technical.
+
+1004
+00:37:04,950 --> 00:37:06,150
+How does AI work?
+
+1005
+00:37:06,150 --> 00:37:08,040
+Like fundamentally practical,
+
+1006
+00:37:08,040 --> 00:37:09,690
+what tool is the best tool to use?
+
+1007
+00:37:09,690 --> 00:37:11,040
+There's lots of AI tools.
+
+1008
+00:37:11,040 --> 00:37:13,620
+Evaluative, how do I evaluate the things AI gives me?
+
+1009
+00:37:13,620 --> 00:37:15,810
+And then ethical, what are the ethical considerations
+
+1010
+00:37:15,810 --> 00:37:17,040
+of using AI tools.
+
+1011
+00:37:17,040 --> 00:37:18,660
+And for mental health?
+
+1012
+00:37:18,660 --> 00:37:20,820
+I think the practical pillar is really important
+
+1013
+00:37:20,820 --> 00:37:22,290
+because students are using it
+
+1014
+00:37:22,290 --> 00:37:25,260
+and right now they are primarily using ChatGPT.
+
+1015
+00:37:25,260 --> 00:37:26,550
+And we're gonna get to a couple
+
+1016
+00:37:26,550 --> 00:37:28,230
+questions a little bit later
+
+1017
+00:37:28,230 --> 00:37:29,220
+that highlight why
+
+1018
+00:37:29,220 --> 00:37:33,840
+that's not a really good use case for ChatGPT.
+
+1019
+00:37:33,840 --> 00:37:34,710
+So teaching students
+
+1020
+00:37:34,710 --> 00:37:36,210
+that they have options, teaching them
+
+1021
+00:37:36,210 --> 00:37:38,280
+that there's different places they can go to use AI,
+
+1022
+00:37:38,280 --> 00:37:40,110
+there's not all AI is created equal,
+
+1023
+00:37:40,110 --> 00:37:41,160
+there's better AI.
+
+1024
+00:37:41,160 --> 00:37:42,360
+And then I wanted to make
+
+1025
+00:37:42,360 --> 00:37:44,350
+a point piggybacking off what
+
+1026
+00:37:45,450 --> 00:37:48,600
+Xuan said about talking about mental health
+
+1027
+00:37:48,600 --> 00:37:50,460
+and kind of baking it into our lives
+
+1028
+00:37:50,460 --> 00:37:51,960
+and not treating it as a separate thing
+
+1029
+00:37:51,960 --> 00:37:54,483
+that like happens in the counseling center.
+
+1030
+00:37:55,650 --> 00:37:57,330
+My dean, every time we,
+
+1031
+00:37:57,330 --> 00:37:58,200
+she comes into the office
+
+1032
+00:37:58,200 --> 00:38:00,150
+and she goes, okay everyone gimme your number.
+
+1033
+00:38:00,150 --> 00:38:01,770
+And she's been doing this for about a year
+
+1034
+00:38:01,770 --> 00:38:03,930
+and the number is a one to 10 scale
+
+1035
+00:38:03,930 --> 00:38:05,130
+and there's a thing on the wall
+
+1036
+00:38:05,130 --> 00:38:06,270
+that I highlights, like,
+
+1037
+00:38:06,270 --> 00:38:07,590
+here's what a one means,
+
+1038
+00:38:07,590 --> 00:38:09,480
+I'm not well, I'm not doing good.
+
+1039
+00:38:09,480 --> 00:38:10,350
+Here's what a two is,
+
+1040
+00:38:10,350 --> 00:38:11,520
+here's what a three is, here's four.
+
+1041
+00:38:11,520 --> 00:38:13,020
+No one's forced to participate,
+
+1042
+00:38:13,020 --> 00:38:13,940
+but this is just something my dean does
+
+1043
+00:38:13,940 --> 00:38:15,180
+to kind of get a check like,
+
+1044
+00:38:15,180 --> 00:38:16,050
+how are you guys doing?
+
+1045
+00:38:16,050 --> 00:38:16,920
+What do you need?
+
+1046
+00:38:16,920 --> 00:38:17,760
+Someone came in, they were like,
+
+1047
+00:38:17,760 --> 00:38:19,210
+I'm a one, she said, go home,
+
+1048
+00:38:20,310 --> 00:38:21,330
+you need a break.
+
+1049
+00:38:21,330 --> 00:38:22,530
+And it's helpful
+
+1050
+00:38:22,530 --> 00:38:25,560
+because it kind of destigmatizes this approach
+
+1051
+00:38:25,560 --> 00:38:28,410
+to mental health because we're all struggling with it,
+
+1052
+00:38:28,410 --> 00:38:31,680
+but it's like we have to be struggling really bad
+
+1053
+00:38:31,680 --> 00:38:33,450
+before there are resources.
+
+1054
+00:38:33,450 --> 00:38:34,740
+And that's why I think students are turning
+
+1055
+00:38:34,740 --> 00:38:35,820
+to things like AI because
+
+1056
+00:38:35,820 --> 00:38:37,320
+they're just struggling kind of in a,
+
+1057
+00:38:37,320 --> 00:38:39,750
+they're just kind of all right here constantly
+
+1058
+00:38:39,750 --> 00:38:41,910
+and they're looking for resources
+
+1059
+00:38:41,910 --> 00:38:42,990
+but it's hard for them to make
+
+1060
+00:38:42,990 --> 00:38:46,170
+that big jump to like the formal resources
+
+1061
+00:38:46,170 --> 00:38:48,090
+that seem a little a little bit more intimidating.
+
+1062
+00:38:48,090 --> 00:38:50,880
+So, literacy, they are gonna use it.
+
+1063
+00:38:50,880 --> 00:38:52,980
+Let's tell them that they have options
+
+1064
+00:38:52,980 --> 00:38:56,193
+and maybe why ChatGPT isn't the best one.
+
+1065
+00:38:57,450 --> 00:38:59,790
+Alright, AI risks and responsibility.
+
+1066
+00:38:59,790 --> 00:39:01,230
+This is for all of the panelists
+
+1067
+00:39:01,230 --> 00:39:03,480
+and this question's a bit long but worth reading.
+
+1068
+00:39:03,480 --> 00:39:04,830
+So I'm gonna read this one.
+
+1069
+00:39:05,940 --> 00:39:07,050
+Recent headlines have raised
+
+1070
+00:39:07,050 --> 00:39:10,380
+alarms about using GenAI products for mental health,
+
+1071
+00:39:10,380 --> 00:39:12,390
+including lawsuits from parents
+
+1072
+00:39:12,390 --> 00:39:13,620
+claiming that ChatGPT
+
+1073
+00:39:13,620 --> 00:39:16,290
+and Character AI contributed to suicide.
+
+1074
+00:39:16,290 --> 00:39:17,400
+A Harvard study showing
+
+1075
+00:39:17,400 --> 00:39:18,900
+that many AI companions engage
+
+1076
+00:39:18,900 --> 00:39:20,280
+in emotional manipulation
+
+1077
+00:39:20,280 --> 00:39:23,160
+and growing reports of AI psychosis
+
+1078
+00:39:23,160 --> 00:39:25,110
+where overly sycophantic chatbots
+
+1079
+00:39:25,110 --> 00:39:27,060
+fail to challenge users.
+
+1080
+00:39:27,060 --> 00:39:28,650
+Given these real risks,
+
+1081
+00:39:28,650 --> 00:39:30,480
+what responsibility do colleges have
+
+1082
+00:39:30,480 --> 00:39:32,430
+to teach AI literacy for mental health,
+
+1083
+00:39:32,430 --> 00:39:35,190
+helping students understand both the potential
+
+1084
+00:39:35,190 --> 00:39:37,143
+and the dangers of turning
+
+1085
+00:39:37,143 --> 00:39:38,883
+to generative AI?
+
+1086
+00:39:42,360 --> 00:39:43,193
+Go ahead Gil.
+
+1087
+00:39:43,193 --> 00:39:45,570
+- Okay, I'll start.
+
+1088
+00:39:45,570 --> 00:39:49,080
+So first I'll mention just that our,
+
+1089
+00:39:49,080 --> 00:39:50,400
+these AI systems,
+
+1090
+00:39:50,400 --> 00:39:54,510
+we know they offer interpretations of our moods,
+
+1091
+00:39:54,510 --> 00:39:57,150
+our thoughts, our intentions.
+
+1092
+00:39:57,150 --> 00:39:58,500
+They can, earlier I mentioned,
+
+1093
+00:39:58,500 --> 00:40:01,290
+they can offer emotional support
+
+1094
+00:40:01,290 --> 00:40:03,930
+by comforting validating our emotions.
+
+1095
+00:40:03,930 --> 00:40:07,960
+They can walk users even through difficult situations
+
+1096
+00:40:09,120 --> 00:40:12,810
+and they also reflect the emotional tone
+
+1097
+00:40:12,810 --> 00:40:15,750
+of a user's message, responding
+
+1098
+00:40:15,750 --> 00:40:18,120
+with possibly happier messages
+
+1099
+00:40:18,120 --> 00:40:19,380
+when users are happy
+
+1100
+00:40:19,380 --> 00:40:22,110
+or with sadder ones when users are sad.
+
+1101
+00:40:22,110 --> 00:40:23,130
+I think what comes up
+
+1102
+00:40:23,130 --> 00:40:26,190
+for me as a therapist is this more
+
+1103
+00:40:26,190 --> 00:40:29,280
+of this deeper question of how much
+
+1104
+00:40:29,280 --> 00:40:33,720
+of our inner world is being outsourced.
+
+1105
+00:40:33,720 --> 00:40:36,960
+And so AI then becomes a tool that we use
+
+1106
+00:40:36,960 --> 00:40:39,210
+to understand ourselves.
+
+1107
+00:40:39,210 --> 00:40:43,710
+And so I see so often students use ChatGPT
+
+1108
+00:40:43,710 --> 00:40:45,630
+to tell them about themselves.
+
+1109
+00:40:45,630 --> 00:40:49,470
+And it's not just ChatGPT, think astrology,
+
+1110
+00:40:49,470 --> 00:40:52,980
+think tarot, right?
+
+1111
+00:40:52,980 --> 00:40:54,750
+They constantly wanna find meaning
+
+1112
+00:40:54,750 --> 00:40:56,400
+and understanding through very,
+
+1113
+00:40:56,400 --> 00:40:59,010
+these are all valid avenues
+
+1114
+00:40:59,010 --> 00:41:04,010
+to explore, have self inspection, self-discovery,
+
+1115
+00:41:06,270 --> 00:41:09,570
+but there also needs to be room for contradictions.
+
+1116
+00:41:09,570 --> 00:41:10,403
+Okay?
+
+1117
+00:41:10,403 --> 00:41:14,160
+And so instead some users may accept summaries
+
+1118
+00:41:14,160 --> 00:41:17,610
+as accurate or insightful accounts of who they are
+
+1119
+00:41:17,610 --> 00:41:19,260
+or what they should do.
+
+1120
+00:41:19,260 --> 00:41:22,170
+And so yes, there is this part of AI literacy
+
+1121
+00:41:22,170 --> 00:41:24,270
+of helping our students understand
+
+1122
+00:41:24,270 --> 00:41:26,490
+that AI may display emotions
+
+1123
+00:41:26,490 --> 00:41:28,470
+or responses that may not fit
+
+1124
+00:41:28,470 --> 00:41:32,760
+the true emotion of what they're experiencing.
+
+1125
+00:41:32,760 --> 00:41:34,260
+So there's this part of educating
+
+1126
+00:41:34,260 --> 00:41:36,600
+students about the role of AI,
+
+1127
+00:41:36,600 --> 00:41:39,150
+what it's for, what it's not for.
+
+1128
+00:41:39,150 --> 00:41:43,140
+I think app developers also need to implement features
+
+1129
+00:41:43,140 --> 00:41:46,860
+that make room for personal interpretations of data,
+
+1130
+00:41:46,860 --> 00:41:49,530
+including counter arguments of recommendations
+
+1131
+00:41:49,530 --> 00:41:51,930
+that AI might provide.
+
+1132
+00:41:51,930 --> 00:41:53,580
+So yes, there are safeguards
+
+1133
+00:41:53,580 --> 00:41:54,930
+that are critical that need
+
+1134
+00:41:54,930 --> 00:41:56,260
+to be put in place
+
+1135
+00:41:57,570 --> 00:42:01,860
+and I also don't want us as people to,
+
+1136
+00:42:01,860 --> 00:42:03,180
+and faculty, staff
+
+1137
+00:42:03,180 --> 00:42:05,850
+and administrators to forget our responsibility
+
+1138
+00:42:05,850 --> 00:42:08,340
+at the ground level to foster community
+
+1139
+00:42:08,340 --> 00:42:10,770
+and connection so that students also turn
+
+1140
+00:42:10,770 --> 00:42:13,410
+to us for support
+
+1141
+00:42:13,410 --> 00:42:17,130
+and not only feel like they can go to ChatGPT
+
+1142
+00:42:17,130 --> 00:42:18,750
+for emotional support.
+
+1143
+00:42:18,750 --> 00:42:20,640
+Again, these are different access points.
+
+1144
+00:42:20,640 --> 00:42:23,400
+I'm not saying don't tell them not to use it,
+
+1145
+00:42:23,400 --> 00:42:25,920
+but there's a reason they're turning to it.
+
+1146
+00:42:25,920 --> 00:42:30,540
+So I think we also have to think about the community
+
+1147
+00:42:30,540 --> 00:42:32,190
+that we're building at the ground level,
+
+1148
+00:42:32,190 --> 00:42:34,230
+both in and out of the classroom.
+
+1149
+00:42:34,230 --> 00:42:39,090
+And that urges all of us to continue to do our work.
+
+1150
+00:42:39,090 --> 00:42:41,190
+So when we become faculty, staff
+
+1151
+00:42:41,190 --> 00:42:42,150
+and administrators,
+
+1152
+00:42:42,150 --> 00:42:45,150
+we're not immune to our past experiences
+
+1153
+00:42:45,150 --> 00:42:48,090
+that have conditioned or shaped us
+
+1154
+00:42:48,090 --> 00:42:51,450
+and our beliefs about mental health, right?
+
+1155
+00:42:51,450 --> 00:42:53,850
+For example, if you are socialized
+
+1156
+00:42:53,850 --> 00:42:58,470
+or conditioned to see emotions as a sign of weakness,
+
+1157
+00:42:58,470 --> 00:42:59,520
+that does not go away
+
+1158
+00:42:59,520 --> 00:43:02,940
+because you're now a leader in higher ed.
+
+1159
+00:43:02,940 --> 00:43:04,620
+So I just want us to think about
+
+1160
+00:43:04,620 --> 00:43:07,410
+what we're possibly modeling subconsciously,
+
+1161
+00:43:07,410 --> 00:43:08,490
+how does that ripple in
+
+1162
+00:43:08,490 --> 00:43:11,490
+and out of the classroom environment.
+
+1163
+00:43:11,490 --> 00:43:15,000
+And then I wanna mention something
+
+1164
+00:43:15,000 --> 00:43:16,890
+that you mentioned also,
+
+1165
+00:43:16,890 --> 00:43:18,900
+like in the classroom, how the professor was
+
+1166
+00:43:18,900 --> 00:43:20,040
+supporting that student.
+
+1167
+00:43:20,040 --> 00:43:21,540
+They sort of did like a test
+
+1168
+00:43:21,540 --> 00:43:23,190
+of like what is your emotions
+
+1169
+00:43:23,190 --> 00:43:25,200
+and name it and provided that support.
+
+1170
+00:43:25,200 --> 00:43:27,240
+So again, mental health doesn't have
+
+1171
+00:43:27,240 --> 00:43:29,340
+to be the therapist's problem.
+
+1172
+00:43:29,340 --> 00:43:30,540
+If we hear mental health,
+
+1173
+00:43:30,540 --> 00:43:31,560
+sometimes we might feel like
+
+1174
+00:43:31,560 --> 00:43:34,740
+let me refer this student over to counseling.
+
+1175
+00:43:34,740 --> 00:43:35,573
+That might not even be
+
+1176
+00:43:35,573 --> 00:43:36,990
+the first step the student wants
+
+1177
+00:43:36,990 --> 00:43:39,150
+to take first of all.
+
+1178
+00:43:39,150 --> 00:43:41,310
+But in your role, right,
+
+1179
+00:43:41,310 --> 00:43:43,050
+like as a faculty for example,
+
+1180
+00:43:43,050 --> 00:43:46,290
+you can support their mental health with things
+
+1181
+00:43:46,290 --> 00:43:48,000
+that are in your control.
+
+1182
+00:43:48,000 --> 00:43:50,250
+Let them take a day off from class,
+
+1183
+00:43:50,250 --> 00:43:53,130
+give them extra time on an assignment, et cetera.
+
+1184
+00:43:53,130 --> 00:43:55,650
+Those are things that students come to us
+
+1185
+00:43:55,650 --> 00:43:59,310
+and then we end up supporting their advocacy skills
+
+1186
+00:43:59,310 --> 00:44:01,050
+to ensure that they're able
+
+1187
+00:44:01,050 --> 00:44:02,940
+to then advocate for their needs
+
+1188
+00:44:02,940 --> 00:44:04,620
+with their professors.
+
+1189
+00:44:04,620 --> 00:44:08,220
+So, and connecting also
+
+1190
+00:44:08,220 --> 00:44:10,350
+to like the Flourish app,
+
+1191
+00:44:10,350 --> 00:44:11,430
+another way I want you all
+
+1192
+00:44:11,430 --> 00:44:12,840
+to see it is that there's
+
+1193
+00:44:12,840 --> 00:44:14,970
+like a continuum of care, right?
+
+1194
+00:44:14,970 --> 00:44:17,580
+So there's prevention,
+
+1195
+00:44:17,580 --> 00:44:18,990
+there's early intervention,
+
+1196
+00:44:18,990 --> 00:44:21,270
+there's treatment and there's referral.
+
+1197
+00:44:21,270 --> 00:44:23,850
+So therapy is not the default.
+
+1198
+00:44:23,850 --> 00:44:25,110
+It could be a first step,
+
+1199
+00:44:25,110 --> 00:44:27,030
+but it's not always a first step.
+
+1200
+00:44:27,030 --> 00:44:29,580
+There's stigma, there's access issues,
+
+1201
+00:44:29,580 --> 00:44:31,860
+there's barriers, there's reasons why
+
+1202
+00:44:31,860 --> 00:44:34,470
+that might not be the first step for folks.
+
+1203
+00:44:34,470 --> 00:44:37,890
+And so we do need options for support
+
+1204
+00:44:37,890 --> 00:44:40,140
+and I think we can all,
+
+1205
+00:44:40,140 --> 00:44:41,160
+I think even with like
+
+1206
+00:44:41,160 --> 00:44:42,570
+through professional development
+
+1207
+00:44:42,570 --> 00:44:45,360
+and other avenues gain, you know,
+
+1208
+00:44:45,360 --> 00:44:47,340
+more skills around how
+
+1209
+00:44:47,340 --> 00:44:50,550
+to support our students' mental health
+
+1210
+00:44:50,550 --> 00:44:52,740
+with our expertise in mind
+
+1211
+00:44:52,740 --> 00:44:54,590
+and the roles that we're engaging in.
+
+1212
+00:44:56,010 --> 00:44:57,300
+- I have something quick to add.
+
+1213
+00:44:57,300 --> 00:44:58,753
+Oh or unless you wanna go.
+
+1214
+00:44:59,712 --> 00:45:01,710
+Oh yeah, okay.
+
+1215
+00:45:01,710 --> 00:45:04,380
+- Well Gil painted a very optimistic picture.
+
+1216
+00:45:04,380 --> 00:45:06,720
+So I want to get to the risks a bit more
+
+1217
+00:45:06,720 --> 00:45:08,460
+because that's something we think about day in,
+
+1218
+00:45:08,460 --> 00:45:10,470
+day out, I'll share
+
+1219
+00:45:10,470 --> 00:45:11,910
+what I think we are doing well
+
+1220
+00:45:11,910 --> 00:45:14,070
+and what I think we struggle with.
+
+1221
+00:45:14,070 --> 00:45:16,890
+So the risk is real, the suicide cases,
+
+1222
+00:45:16,890 --> 00:45:19,800
+AI psychosis now in lots of headlines.
+
+1223
+00:45:19,800 --> 00:45:24,800
+So what we've been doing much better than many other
+
+1224
+00:45:24,930 --> 00:45:26,670
+products, including ChatGPT,
+
+1225
+00:45:26,670 --> 00:45:31,080
+is that we have stronger clinical safety guardrail
+
+1226
+00:45:31,080 --> 00:45:34,140
+and features more tailored for mental health support.
+
+1227
+00:45:34,140 --> 00:45:35,880
+So I'll give two examples.
+
+1228
+00:45:35,880 --> 00:45:40,320
+One is most of the apps when you disclose
+
+1229
+00:45:40,320 --> 00:45:41,970
+suicidal ideation, right?
+
+1230
+00:45:41,970 --> 00:45:43,290
+Which is surprisingly common.
+
+1231
+00:45:43,290 --> 00:45:44,130
+Sometimes even I say,
+
+1232
+00:45:44,130 --> 00:45:46,380
+ugh, I just wish, you know,
+
+1233
+00:45:46,380 --> 00:45:48,030
+I don't have to wake up tomorrow.
+
+1234
+00:45:48,030 --> 00:45:49,920
+And then you know, the AI could detect
+
+1235
+00:45:49,920 --> 00:45:51,240
+that as suicidal ideation,
+
+1236
+00:45:51,240 --> 00:45:52,800
+but it's, I mean sometimes
+
+1237
+00:45:52,800 --> 00:45:56,280
+people are just really unhappy.
+
+1238
+00:45:56,280 --> 00:45:59,970
+So right now what AI does is just tell you, hey,
+
+1239
+00:45:59,970 --> 00:46:02,970
+there's number 988, call this number.
+
+1240
+00:46:02,970 --> 00:46:06,611
+But the problem is probably 1%
+
+1241
+00:46:06,611 --> 00:46:09,540
+of people will actually call that number.
+
+1242
+00:46:09,540 --> 00:46:10,950
+Most people won't actually do it.
+
+1243
+00:46:10,950 --> 00:46:12,300
+So how can you do better than that?
+
+1244
+00:46:12,300 --> 00:46:14,220
+So what we have done of a couple of things,
+
+1245
+00:46:14,220 --> 00:46:15,870
+one is when we work with schools,
+
+1246
+00:46:15,870 --> 00:46:18,900
+we actually incorporate school counseling center
+
+1247
+00:46:18,900 --> 00:46:21,030
+and other resources into the app
+
+1248
+00:46:21,030 --> 00:46:23,280
+and recommend these are some other resources,
+
+1249
+00:46:23,280 --> 00:46:24,870
+local resources you can reach out to.
+
+1250
+00:46:24,870 --> 00:46:26,700
+And this is what you can say when you reach
+
+1251
+00:46:26,700 --> 00:46:28,710
+out to ask for help.
+
+1252
+00:46:28,710 --> 00:46:31,500
+And another one is a feature called safety planning.
+
+1253
+00:46:31,500 --> 00:46:34,560
+This is a very well established practice in suicide
+
+1254
+00:46:34,560 --> 00:46:37,950
+prevention is that when you know,
+
+1255
+00:46:37,950 --> 00:46:40,470
+that someone may struggle with actually depression,
+
+1256
+00:46:40,470 --> 00:46:41,580
+then safety planning
+
+1257
+00:46:41,580 --> 00:46:43,260
+and say what are your happy thoughts?
+
+1258
+00:46:43,260 --> 00:46:44,940
+What are some safe people?
+
+1259
+00:46:44,940 --> 00:46:46,320
+What are some safe places?
+
+1260
+00:46:46,320 --> 00:46:48,990
+What are some effective coping strategies for you?
+
+1261
+00:46:48,990 --> 00:46:52,410
+So our AI will actually collect that information
+
+1262
+00:46:52,410 --> 00:46:55,140
+and next time when you experience similar situation,
+
+1263
+00:46:55,140 --> 00:46:57,090
+we'll actually use something
+
+1264
+00:46:57,090 --> 00:46:59,720
+that you've shared in your safety plan to remind you
+
+1265
+00:46:59,720 --> 00:47:01,410
+of the safe people you have
+
+1266
+00:47:01,410 --> 00:47:03,240
+to the safe places you can go to.
+
+1267
+00:47:03,240 --> 00:47:05,670
+So it's not just call 988.
+
+1268
+00:47:05,670 --> 00:47:07,380
+So to my best knowledge,
+
+1269
+00:47:07,380 --> 00:47:09,330
+no other AI products do this yet,
+
+1270
+00:47:09,330 --> 00:47:10,830
+but I'm surprised because it's such
+
+1271
+00:47:10,830 --> 00:47:13,170
+a common practice in counseling.
+
+1272
+00:47:13,170 --> 00:47:14,580
+I think it's the therapy,
+
+1273
+00:47:14,580 --> 00:47:15,660
+that kind of supervision
+
+1274
+00:47:15,660 --> 00:47:18,990
+that we get from our advisors that really helps.
+
+1275
+00:47:18,990 --> 00:47:22,230
+And on top of that we also have a review system,
+
+1276
+00:47:22,230 --> 00:47:25,080
+we are developing a human in the loop review system.
+
+1277
+00:47:25,080 --> 00:47:28,966
+So for the cases that are high risk, all the go
+
+1278
+00:47:28,966 --> 00:47:32,280
+through a AI mental health evaluator.
+
+1279
+00:47:32,280 --> 00:47:36,060
+So if there are risks, then we grade them, no, we,
+
+1280
+00:47:36,060 --> 00:47:38,790
+the AI automatically grade them into low, medium,
+
+1281
+00:47:38,790 --> 00:47:40,740
+and high for the high risks.
+
+1282
+00:47:40,740 --> 00:47:43,060
+Then we have human reviewers
+
+1283
+00:47:45,043 --> 00:47:47,880
+trained professionals to look at them to make sure
+
+1284
+00:47:47,880 --> 00:47:50,040
+that the AI is handling it as well.
+
+1285
+00:47:50,040 --> 00:47:53,730
+And also even escalate to our clinical psychologist.
+
+1286
+00:47:53,730 --> 00:47:56,160
+So what we have been exploring for the next step
+
+1287
+00:47:56,160 --> 00:47:58,890
+is how we can actually, maybe even
+
+1288
+00:47:58,890 --> 00:48:00,960
+for the clinical psychologist to provide a note
+
+1289
+00:48:00,960 --> 00:48:03,660
+to this person in crisis state,
+
+1290
+00:48:03,660 --> 00:48:05,490
+like what they can,
+
+1291
+00:48:05,490 --> 00:48:06,690
+you know, really should do,
+
+1292
+00:48:06,690 --> 00:48:09,073
+'cause oftentimes AI tell them you should seek
+
+1293
+00:48:09,073 --> 00:48:12,090
+a professional or seek professional support,
+
+1294
+00:48:12,090 --> 00:48:14,970
+but they may not follow if we can find ways.
+
+1295
+00:48:14,970 --> 00:48:17,730
+So this is on the very kind of cutting edge
+
+1296
+00:48:17,730 --> 00:48:21,623
+of product design development is how can we
+
+1297
+00:48:21,623 --> 00:48:25,410
+strike the right balance between safety and privacy,
+
+1298
+00:48:25,410 --> 00:48:28,080
+that, you know, the conversation that go
+
+1299
+00:48:28,080 --> 00:48:29,760
+through mental health monitor system,
+
+1300
+00:48:29,760 --> 00:48:31,050
+they are all de-identified.
+
+1301
+00:48:31,050 --> 00:48:33,900
+There's no identifier, no place, no names,
+
+1302
+00:48:33,900 --> 00:48:36,600
+but still, you know, how can you ensure
+
+1303
+00:48:36,600 --> 00:48:38,550
+that if there is someone who is going
+
+1304
+00:48:38,550 --> 00:48:39,690
+through a critical condition,
+
+1305
+00:48:39,690 --> 00:48:41,280
+how can you actually
+
+1306
+00:48:41,280 --> 00:48:43,200
+do something more to let them know
+
+1307
+00:48:43,200 --> 00:48:45,450
+that they have options, right?
+
+1308
+00:48:45,450 --> 00:48:47,880
+So those are I think, conversations
+
+1309
+00:48:47,880 --> 00:48:49,110
+that we are having inside.
+
+1310
+00:48:49,110 --> 00:48:51,360
+And I recently launched a blog post called "AI
+
+1311
+00:48:51,360 --> 00:48:52,980
+Mental Health Dilemmas".
+
+1312
+00:48:52,980 --> 00:48:54,120
+So a lots of folks
+
+1313
+00:48:54,120 --> 00:48:55,650
+in the industry has been subscribing
+
+1314
+00:48:55,650 --> 00:48:58,110
+to this blog post, blog series.
+
+1315
+00:48:58,110 --> 00:48:59,640
+So now have real pressure to actually write it
+
+1316
+00:48:59,640 --> 00:49:01,260
+'cause I just announced it
+
+1317
+00:49:01,260 --> 00:49:04,020
+and then lots of people are subscribed.
+
+1318
+00:49:04,020 --> 00:49:05,970
+So these are the things like day in,
+
+1319
+00:49:05,970 --> 00:49:07,380
+day out in the trenches,
+
+1320
+00:49:07,380 --> 00:49:09,510
+like for example, AI psychosis,
+
+1321
+00:49:09,510 --> 00:49:10,343
+how does it happen?
+
+1322
+00:49:10,343 --> 00:49:12,660
+What kind of language actually make people
+
+1323
+00:49:12,660 --> 00:49:14,040
+become more delusional?
+
+1324
+00:49:14,040 --> 00:49:15,450
+So those are the kind of things
+
+1325
+00:49:15,450 --> 00:49:17,280
+that we consider in our daily life.
+
+1326
+00:49:17,280 --> 00:49:19,200
+So that's what I would say
+
+1327
+00:49:19,200 --> 00:49:20,760
+we are doing relatively well.
+
+1328
+00:49:20,760 --> 00:49:22,380
+What we are not doing very well,
+
+1329
+00:49:22,380 --> 00:49:24,330
+which is you've been highlighting a few times,
+
+1330
+00:49:24,330 --> 00:49:25,770
+is AI literacy.
+
+1331
+00:49:25,770 --> 00:49:28,390
+We haven't gone outside to tell people why
+
+1332
+00:49:29,280 --> 00:49:33,630
+you should be careful with choosing AI products.
+
+1333
+00:49:33,630 --> 00:49:35,130
+So I definitely know
+
+1334
+00:49:35,130 --> 00:49:36,390
+after this conversation I'm thinking
+
+1335
+00:49:36,390 --> 00:49:37,290
+about whether we should
+
+1336
+00:49:37,290 --> 00:49:38,430
+have some webinars
+
+1337
+00:49:38,430 --> 00:49:41,310
+with students for parents, for educators
+
+1338
+00:49:41,310 --> 00:49:42,690
+to talk a little bit about,
+
+1339
+00:49:42,690 --> 00:49:44,370
+you know, different types
+
+1340
+00:49:44,370 --> 00:49:46,560
+of AI products, AI companions,
+
+1341
+00:49:46,560 --> 00:49:49,140
+general AI assistant,
+
+1342
+00:49:49,140 --> 00:49:53,160
+more purpose-built AI agent, how they are different
+
+1343
+00:49:53,160 --> 00:49:54,540
+and what kind of support
+
+1344
+00:49:54,540 --> 00:49:59,370
+and clinical safety is behind it, so.
+
+1345
+00:49:59,370 --> 00:50:00,570
+Pass it.
+
+1346
+00:50:00,570 --> 00:50:01,440
+- I'll be very quick
+
+1347
+00:50:01,440 --> 00:50:03,420
+so we can get onto the next questions
+
+1348
+00:50:03,420 --> 00:50:04,770
+with enough time.
+
+1349
+00:50:04,770 --> 00:50:07,020
+Just like a personal anecdote
+
+1350
+00:50:07,020 --> 00:50:09,240
+with things like people using AI
+
+1351
+00:50:09,240 --> 00:50:10,200
+that isn't really meant
+
+1352
+00:50:10,200 --> 00:50:11,340
+for mental health support
+
+1353
+00:50:11,340 --> 00:50:14,460
+and getting, you know, answers that might lead
+
+1354
+00:50:14,460 --> 00:50:16,380
+to something like becoming more suicidal
+
+1355
+00:50:16,380 --> 00:50:18,660
+or just not feeling supported.
+
+1356
+00:50:18,660 --> 00:50:20,820
+Like I think with AI literacy,
+
+1357
+00:50:20,820 --> 00:50:21,900
+it's super important
+
+1358
+00:50:21,900 --> 00:50:23,520
+that not only obviously
+
+1359
+00:50:23,520 --> 00:50:24,840
+technology like Flourish is made
+
+1360
+00:50:24,840 --> 00:50:27,120
+where it's able to, you know,
+
+1361
+00:50:27,120 --> 00:50:28,140
+take into account some
+
+1362
+00:50:28,140 --> 00:50:29,850
+of your coping mechanisms and you know,
+
+1363
+00:50:29,850 --> 00:50:33,750
+guide you to them rather than just saying call 988.
+
+1364
+00:50:33,750 --> 00:50:36,840
+But also that people know how to cater AI
+
+1365
+00:50:36,840 --> 00:50:38,310
+to give useful feedback.
+
+1366
+00:50:38,310 --> 00:50:40,050
+So I have a friend who has
+
+1367
+00:50:40,050 --> 00:50:43,440
+like basically told ChatGPT you know, play devil's advocate.
+
+1368
+00:50:43,440 --> 00:50:44,880
+Like don't just tell me I'm right,
+
+1369
+00:50:44,880 --> 00:50:46,050
+don't just tell me
+
+1370
+00:50:46,050 --> 00:50:47,580
+that I am, you know,
+
+1371
+00:50:47,580 --> 00:50:49,620
+I am actually justified in doing this
+
+1372
+00:50:49,620 --> 00:50:52,980
+because a lot of AI systems are coded in a way
+
+1373
+00:50:52,980 --> 00:50:54,660
+where they're supposed to appease you,
+
+1374
+00:50:54,660 --> 00:50:55,800
+they wanna be friendly.
+
+1375
+00:50:55,800 --> 00:50:57,030
+And a lot of times, you know,
+
+1376
+00:50:57,030 --> 00:50:59,370
+you could basically justify doing something really bad
+
+1377
+00:50:59,370 --> 00:51:01,080
+to someone be like, but I was right
+
+1378
+00:51:01,080 --> 00:51:02,580
+because I felt this way, right?
+
+1379
+00:51:02,580 --> 00:51:06,030
+And AI will sometimes agree you are, but you're not.
+
+1380
+00:51:06,030 --> 00:51:07,770
+If you asked any human being, they'd be like, no,
+
+1381
+00:51:07,770 --> 00:51:09,660
+that wasn't good actually, and here's why.
+
+1382
+00:51:09,660 --> 00:51:11,010
+So we have really biased
+
+1383
+00:51:11,010 --> 00:51:12,840
+lenses obviously in our own
+
+1384
+00:51:12,840 --> 00:51:14,730
+and everyone does when we do something bad.
+
+1385
+00:51:14,730 --> 00:51:16,560
+And a big risk is
+
+1386
+00:51:16,560 --> 00:51:18,750
+that when we are feeding that to AI,
+
+1387
+00:51:18,750 --> 00:51:21,030
+it can't tell if you're being truthful
+
+1388
+00:51:21,030 --> 00:51:22,770
+or if you have a biased lens of yourself.
+
+1389
+00:51:22,770 --> 00:51:25,260
+So I think yeah, like things like Flourish
+
+1390
+00:51:25,260 --> 00:51:27,690
+and that type of development is really important
+
+1391
+00:51:27,690 --> 00:51:28,980
+to see for future AI.
+
+1392
+00:51:28,980 --> 00:51:31,773
+So it's, you know, useful rather than risky.
+
+1393
+00:51:33,150 --> 00:51:35,670
+- Really, really, really good anecdote, Alex,
+
+1394
+00:51:35,670 --> 00:51:38,670
+because it's like in the term echo chamber comes
+
+1395
+00:51:38,670 --> 00:51:39,930
+to mind and the only
+
+1396
+00:51:39,930 --> 00:51:41,640
+way we're gonna avoid an echo chamber,
+
+1397
+00:51:41,640 --> 00:51:43,320
+all AI is an echo chamber
+
+1398
+00:51:43,320 --> 00:51:46,110
+unless it is specifically designed not
+
+1399
+00:51:46,110 --> 00:51:47,280
+to be an echo chamber.
+
+1400
+00:51:47,280 --> 00:51:50,130
+That has to be like a decision made
+
+1401
+00:51:50,130 --> 00:51:54,000
+by the developers in the initial creation of the product.
+
+1402
+00:51:54,000 --> 00:51:54,990
+Excellent anecdote.
+
+1403
+00:51:54,990 --> 00:51:56,880
+So for time, we are gonna skip right
+
+1404
+00:51:56,880 --> 00:51:58,560
+to the final question here,
+
+1405
+00:51:58,560 --> 00:51:59,700
+and I'm gonna ask you all
+
+1406
+00:51:59,700 --> 00:52:01,110
+to be brief, not just for time,
+
+1407
+00:52:01,110 --> 00:52:03,390
+but because I really am curious from all
+
+1408
+00:52:03,390 --> 00:52:06,120
+of your different areas of expertise, what a really,
+
+1409
+00:52:06,120 --> 00:52:07,440
+what your really succinct
+
+1410
+00:52:07,440 --> 00:52:09,180
+answer to this final question.
+
+1411
+00:52:09,180 --> 00:52:10,500
+If this is the last thing
+
+1412
+00:52:10,500 --> 00:52:12,450
+you got to say on this panel,
+
+1413
+00:52:12,450 --> 00:52:14,940
+which is if you could leave one key message for educators
+
+1414
+00:52:14,940 --> 00:52:16,710
+and policy makers about supporting
+
+1415
+00:52:16,710 --> 00:52:19,110
+Gen Z mental health in the age of AI,
+
+1416
+00:52:19,110 --> 00:52:20,560
+what would that one thing be?
+
+1417
+00:52:24,750 --> 00:52:25,800
+- Yeah, I think when it comes
+
+1418
+00:52:25,800 --> 00:52:28,229
+to developing mental health support policies
+
+1419
+00:52:28,229 --> 00:52:30,810
+and programs, I think it's really
+
+1420
+00:52:30,810 --> 00:52:32,070
+important that the voices
+
+1421
+00:52:32,070 --> 00:52:34,620
+of those with lived experiences
+
+1422
+00:52:34,620 --> 00:52:36,270
+have a seat at the table
+
+1423
+00:52:36,270 --> 00:52:38,820
+and are part of the decision making.
+
+1424
+00:52:38,820 --> 00:52:41,250
+There's a saying in harm reduction,
+
+1425
+00:52:41,250 --> 00:52:44,160
+they say nothing about us without us.
+
+1426
+00:52:44,160 --> 00:52:46,380
+So anything that we design
+
+1427
+00:52:46,380 --> 00:52:48,510
+or make for our students,
+
+1428
+00:52:48,510 --> 00:52:50,490
+we need to build with 'em.
+
+1429
+00:52:50,490 --> 00:52:52,620
+And I'm really excited that they're part
+
+1430
+00:52:52,620 --> 00:52:54,330
+of the AI revolution,
+
+1431
+00:52:54,330 --> 00:52:56,760
+especially hearing more about like workforce
+
+1432
+00:52:56,760 --> 00:53:00,540
+development and internships for students.
+
+1433
+00:53:00,540 --> 00:53:03,360
+I'm continuing to see that our students are part
+
+1434
+00:53:03,360 --> 00:53:07,140
+of the solution and are part of our future.
+
+1435
+00:53:07,140 --> 00:53:11,340
+And then also I want us to continue to learn from AI
+
+1436
+00:53:11,340 --> 00:53:15,180
+because people, our students are turning to AI
+
+1437
+00:53:15,180 --> 00:53:17,100
+because we desire connection,
+
+1438
+00:53:17,100 --> 00:53:19,083
+meaning, and care,
+
+1439
+00:53:20,160 --> 00:53:22,590
+but we also know AI, you know,
+
+1440
+00:53:22,590 --> 00:53:24,480
+can't really love us back.
+
+1441
+00:53:24,480 --> 00:53:28,230
+They can't substitute that real human connection.
+
+1442
+00:53:28,230 --> 00:53:29,190
+So I want us to think
+
+1443
+00:53:29,190 --> 00:53:32,790
+about how we can train our educators,
+
+1444
+00:53:32,790 --> 00:53:34,530
+you know, not just in instruction,
+
+1445
+00:53:34,530 --> 00:53:36,960
+but in connection, compassion,
+
+1446
+00:53:36,960 --> 00:53:38,850
+and collective wellbeing.
+
+1447
+00:53:38,850 --> 00:53:40,050
+Because this work isn't meant
+
+1448
+00:53:40,050 --> 00:53:42,450
+to just be transactional.
+
+1449
+00:53:42,450 --> 00:53:43,530
+So I want us to think
+
+1450
+00:53:43,530 --> 00:53:45,600
+about how we can also measure strength
+
+1451
+00:53:45,600 --> 00:53:46,770
+of relationships
+
+1452
+00:53:46,770 --> 00:53:49,830
+and not just comprehension of course material
+
+1453
+00:53:49,830 --> 00:53:53,580
+that of course is tied to our student learning outcomes.
+
+1454
+00:53:53,580 --> 00:53:56,730
+So I really invite our faculty, staff
+
+1455
+00:53:56,730 --> 00:54:00,000
+and administrators to consider how we can foster
+
+1456
+00:54:00,000 --> 00:54:02,430
+genuine human connection in
+
+1457
+00:54:02,430 --> 00:54:05,193
+and out of the classroom to support student success.
+
+1458
+00:54:06,600 --> 00:54:11,430
+- So my short answer would be meet students
+
+1459
+00:54:11,430 --> 00:54:15,450
+where they are, not every student need therapy,
+
+1460
+00:54:15,450 --> 00:54:20,010
+but every student need to learn skills to regulate stress,
+
+1461
+00:54:20,010 --> 00:54:21,450
+to regulate emotion,
+
+1462
+00:54:21,450 --> 00:54:23,340
+to better connect with each other,
+
+1463
+00:54:23,340 --> 00:54:26,010
+to cope with difficult life events.
+
+1464
+00:54:26,010 --> 00:54:27,840
+So really think about
+
+1465
+00:54:27,840 --> 00:54:30,750
+how AI could play a role there, I would say.
+
+1466
+00:54:30,750 --> 00:54:34,110
+And also to nudge people to take small actions,
+
+1467
+00:54:34,110 --> 00:54:35,160
+not just talk,
+
+1468
+00:54:35,160 --> 00:54:36,690
+but actually move them
+
+1469
+00:54:36,690 --> 00:54:39,513
+to take actions will actually create positive change.
+
+1470
+00:54:41,130 --> 00:54:41,963
+- Yeah.
+
+1471
+00:54:41,963 --> 00:54:43,320
+And well they very well address
+
+1472
+00:54:43,320 --> 00:54:44,760
+the mental health side of things,
+
+1473
+00:54:44,760 --> 00:54:47,430
+for the educators, people who are having
+
+1474
+00:54:47,430 --> 00:54:51,150
+to navigate the world of teaching and AI
+
+1475
+00:54:51,150 --> 00:54:54,120
+and how they need to change their teaching.
+
+1476
+00:54:54,120 --> 00:54:55,860
+I think it's so important
+
+1477
+00:54:55,860 --> 00:54:57,420
+that there's willingness
+
+1478
+00:54:57,420 --> 00:54:59,610
+for teachers and you know,
+
+1479
+00:54:59,610 --> 00:55:02,280
+just schools overall to change
+
+1480
+00:55:02,280 --> 00:55:05,130
+how they're training kids for entering the job market.
+
+1481
+00:55:05,130 --> 00:55:08,190
+I think making sure that the skills
+
+1482
+00:55:08,190 --> 00:55:09,240
+that are being taught are not
+
+1483
+00:55:09,240 --> 00:55:10,650
+the ones that AI can do.
+
+1484
+00:55:10,650 --> 00:55:12,090
+They don't just need to learn data entry,
+
+1485
+00:55:12,090 --> 00:55:14,040
+they don't just need to learn how to run code.
+
+1486
+00:55:14,040 --> 00:55:16,290
+They need to learn how to use critical thinking
+
+1487
+00:55:16,290 --> 00:55:18,720
+and work as a team and work with mentors
+
+1488
+00:55:18,720 --> 00:55:19,950
+and do the human things
+
+1489
+00:55:19,950 --> 00:55:22,170
+that make an individual valuable in the job field.
+
+1490
+00:55:22,170 --> 00:55:24,480
+So being an educator that is capable
+
+1491
+00:55:24,480 --> 00:55:27,150
+of properly training their students to do that,
+
+1492
+00:55:27,150 --> 00:55:29,943
+I think is incredibly important in the coming years.
+
+1493
+00:55:31,530 --> 00:55:32,460
+- Fabulous.
+
+1494
+00:55:32,460 --> 00:55:33,900
+Thank you all so much.
+
+1495
+00:55:33,900 --> 00:55:34,758
+And in the final thing.
+
+1496
+00:55:34,758 --> 00:55:37,925
+(audience applauding)
+
+1497
+00:55:39,750 --> 00:55:40,583
+Fantastic.
+
+1498
+00:55:40,583 --> 00:55:41,520
+I was also gonna say give y'all,
+
+1499
+00:55:41,520 --> 00:55:42,390
+give yourself a hand
+
+1500
+00:55:42,390 --> 00:55:43,740
+because you care, right?
+
+1501
+00:55:43,740 --> 00:55:44,640
+You showed up,
+
+1502
+00:55:44,640 --> 00:55:45,540
+(audience applauding)
+
+1503
+00:55:45,540 --> 00:55:46,373
+you're doing the work,
+
+1504
+00:55:46,373 --> 00:55:48,660
+which is the important part.
+
+1505
+00:55:48,660 --> 00:55:50,550
+We do have a few minutes for questions.
+
+1506
+00:55:50,550 --> 00:55:51,630
+If anyone had any questions,
+
+1507
+00:55:51,630 --> 00:55:52,863
+I'll run a mic to you.
+
+1508
+00:55:53,760 --> 00:55:54,900
+And I know we have a break right
+
+1509
+00:55:54,900 --> 00:55:56,730
+after this, so we are happy to stay back.
+
+1510
+00:55:56,730 --> 00:55:58,320
+I think all the panelists are willing
+
+1511
+00:55:58,320 --> 00:55:59,220
+to stay like an extra five,
+
+1512
+00:55:59,220 --> 00:56:00,690
+10 minutes if we go a little over.
+
+1513
+00:56:00,690 --> 00:56:01,523
+That's up to you guys.
+
+1514
+00:56:01,523 --> 00:56:02,673
+Are there any questions?
+
+1515
+00:56:03,900 --> 00:56:04,733
+Yes.
+
+1516
+00:56:04,733 --> 00:56:05,566
+I saw this hand go up first,
+
+1517
+00:56:05,566 --> 00:56:07,140
+so I'm gonna run you a mic.
+
+1518
+00:56:07,140 --> 00:56:07,973
+- [Attendee] I'm loud.
+
+1519
+00:56:07,973 --> 00:56:08,806
+You're loud, okay.
+
+1520
+00:56:08,806 --> 00:56:10,213
+Go pop off, queen go.
+
+1521
+00:56:11,973 --> 00:56:13,770
+- [Attendee] So I have really enjoyed this panel.
+
+1522
+00:56:13,770 --> 00:56:15,060
+Thank you guys.
+
+1523
+00:56:15,060 --> 00:56:18,960
+My question is, so I work at a nonprofit,
+
+1524
+00:56:18,960 --> 00:56:19,920
+we're trying to understand
+
+1525
+00:56:19,920 --> 00:56:23,575
+how are young people like thinking about AI (indistinct)
+
+1526
+00:56:23,575 --> 00:56:24,408
+about their running career.
+
+1527
+00:56:24,408 --> 00:56:25,564
+And a really big thing I've been seeing,
+
+1528
+00:56:25,564 --> 00:56:28,110
+and I was just reading an article about it yesterday,
+
+1529
+00:56:28,110 --> 00:56:31,320
+is a lot of Gen Z's reporting is really intense,
+
+1530
+00:56:31,320 --> 00:56:32,970
+almost existential anxiety
+
+1531
+00:56:32,970 --> 00:56:35,790
+in fear because of AI's presence.
+
+1532
+00:56:35,790 --> 00:56:38,730
+So this feeling of like, what is the value
+
+1533
+00:56:38,730 --> 00:56:40,620
+of my, you know, all of that.
+
+1534
+00:56:40,620 --> 00:56:43,587
+And I'm also Gen Z, so I'm pulling too.
+
+1535
+00:56:43,587 --> 00:56:45,270
+And so my question is,
+
+1536
+00:56:45,270 --> 00:56:47,910
+when we're thinking about interventions with AI
+
+1537
+00:56:47,910 --> 00:56:49,470
+that can be positive
+
+1538
+00:56:49,470 --> 00:56:51,630
+on young people's mental wellbeing,
+
+1539
+00:56:51,630 --> 00:56:53,957
+how do you guys think about kind of negotiating that
+
+1540
+00:56:53,957 --> 00:56:57,600
+and to like alongside the potential that AI
+
+1541
+00:56:57,600 --> 00:56:59,650
+as a whole might also just be something
+
+1542
+00:56:59,650 --> 00:57:01,350
+(indistinct) really anxious about?
+
+1543
+00:57:07,075 --> 00:57:09,150
+- Well, my quick reaction
+
+1544
+00:57:09,150 --> 00:57:11,490
+is they are both really anxious
+
+1545
+00:57:11,490 --> 00:57:14,520
+about AI and using AI tools a lot.
+
+1546
+00:57:14,520 --> 00:57:16,920
+So I think in this very specific case,
+
+1547
+00:57:16,920 --> 00:57:20,520
+we emphasize that it's interesting sometimes
+
+1548
+00:57:20,520 --> 00:57:21,660
+when we promote the Flourish app,
+
+1549
+00:57:21,660 --> 00:57:23,400
+we don't even talk about the AI
+
+1550
+00:57:23,400 --> 00:57:24,600
+because there are several reasons,
+
+1551
+00:57:24,600 --> 00:57:25,589
+not just the AI,
+
+1552
+00:57:25,589 --> 00:57:28,050
+the anxiety that just comes with the word,
+
+1553
+00:57:28,050 --> 00:57:30,150
+but also some people feel that,
+
+1554
+00:57:30,150 --> 00:57:33,600
+and I totally agree that AI is to not
+
+1555
+00:57:33,600 --> 00:57:35,160
+to replace human relationship.
+
+1556
+00:57:35,160 --> 00:57:36,000
+And that's oftentimes
+
+1557
+00:57:36,000 --> 00:57:37,263
+because they don't know how we do it.
+
+1558
+00:57:37,263 --> 00:57:38,190
+Like Flourish app,
+
+1559
+00:57:38,190 --> 00:57:39,720
+we actually encourage you to reach out
+
+1560
+00:57:39,720 --> 00:57:41,520
+to other friends, give compliments,
+
+1561
+00:57:41,520 --> 00:57:43,170
+express, gratitude, all that.
+
+1562
+00:57:43,170 --> 00:57:44,700
+So what we have been doing
+
+1563
+00:57:44,700 --> 00:57:47,010
+is to tell students these are,
+
+1564
+00:57:47,010 --> 00:57:50,130
+this is your safe private space to heal,
+
+1565
+00:57:50,130 --> 00:57:51,810
+to learn and to grow.
+
+1566
+00:57:51,810 --> 00:57:53,310
+And that's for some people
+
+1567
+00:57:53,310 --> 00:57:55,200
+that the word space really matters.
+
+1568
+00:57:55,200 --> 00:57:57,600
+It's like I get this personal space AI
+
+1569
+00:57:57,600 --> 00:57:59,400
+or not, that's not really important.
+
+1570
+00:57:59,400 --> 00:58:00,840
+But the important thing is
+
+1571
+00:58:00,840 --> 00:58:03,124
+I have a place to reflect.
+
+1572
+00:58:03,124 --> 00:58:05,070
+So that's how we've been trying to,
+
+1573
+00:58:05,070 --> 00:58:06,900
+at least when from the mental health
+
+1574
+00:58:06,900 --> 00:58:10,173
+promotion aspect, try to go around that challenge.
+
+1575
+00:58:14,856 --> 00:58:15,689
+- There was another hand.
+
+1576
+00:58:15,689 --> 00:58:17,013
+- Yeah, there was another hand.
+
+1577
+00:58:17,013 --> 00:58:18,284
+- Yeah.
+
+1578
+00:58:18,284 --> 00:58:23,284
+- [Attendee] So I have two questions, one is (indistinct).
+
+1579
+00:58:42,880 --> 00:58:46,047
+(attendee chattering)
+
+1580
+00:58:51,180 --> 00:58:52,110
+- I love it.
+
+1581
+00:58:52,110 --> 00:58:54,840
+I'll answer the second question and then the first one.
+
+1582
+00:58:54,840 --> 00:58:56,520
+The second one is absolutely faculty.
+
+1583
+00:58:56,520 --> 00:58:58,200
+So faculty wellbeing is so important
+
+1584
+00:58:58,200 --> 00:58:59,850
+'cause it impacts student wellbeing,
+
+1585
+00:58:59,850 --> 00:59:01,981
+how faculty show up in the classroom.
+
+1586
+00:59:01,981 --> 00:59:03,390
+(attendee chattering)
+
+1587
+00:59:03,390 --> 00:59:07,890
+Faculty wellbeing is really important. (laughs)
+
+1588
+00:59:07,890 --> 00:59:10,680
+It's how leaders show up.
+
+1589
+00:59:10,680 --> 00:59:12,090
+They impacts people.
+
+1590
+00:59:12,090 --> 00:59:13,410
+This is called ripple effect.
+
+1591
+00:59:13,410 --> 00:59:15,030
+Actually, the person
+
+1592
+00:59:15,030 --> 00:59:17,670
+with higher power actually has a greater impact
+
+1593
+00:59:17,670 --> 00:59:19,170
+on the people around them.
+
+1594
+00:59:19,170 --> 00:59:20,400
+So teachers for sure.
+
+1595
+00:59:20,400 --> 00:59:21,390
+Faculty for sure.
+
+1596
+00:59:21,390 --> 00:59:24,360
+So it's interesting for Foothill College
+
+1597
+00:59:24,360 --> 00:59:26,550
+and also some other community colleges who work
+
+1598
+00:59:26,550 --> 00:59:28,140
+with us Flourish is available
+
+1599
+00:59:28,140 --> 00:59:30,900
+to the entire campus, not just students.
+
+1600
+00:59:30,900 --> 00:59:31,733
+And it's interesting
+
+1601
+00:59:31,733 --> 00:59:34,110
+'cause in their pilot they also invited,
+
+1602
+00:59:34,110 --> 00:59:36,690
+well staff in this case to try the Flourish app
+
+1603
+00:59:36,690 --> 00:59:40,310
+for student it was 76% or 78%
+
+1604
+00:59:40,310 --> 00:59:44,940
+or 76 for Villanova University among students for,
+
+1605
+00:59:44,940 --> 00:59:48,300
+but for staff it was 100% preferred Flourish.
+
+1606
+00:59:48,300 --> 00:59:50,400
+So they actually use it quite a bit.
+
+1607
+00:59:50,400 --> 00:59:54,000
+And we, another school, fun fact,
+
+1608
+00:59:54,000 --> 00:59:55,110
+they decided to engage
+
+1609
+00:59:55,110 --> 00:59:59,130
+with Flourish because their president
+
+1610
+00:59:59,130 --> 01:00:01,557
+heard about the Flourish app and has been using it.
+
+1611
+01:00:01,557 --> 01:00:03,570
+And so has been bugging the dean of students.
+
+1612
+01:00:03,570 --> 01:00:06,300
+Like, what about bring this app to our school?
+
+1613
+01:00:06,300 --> 01:00:09,210
+So yes, that's the answer, like,
+
+1614
+01:00:09,210 --> 01:00:10,770
+long answer to this question.
+
+1615
+01:00:10,770 --> 01:00:13,740
+So yes, staff and faculty.
+
+1616
+01:00:13,740 --> 01:00:15,190
+Thank you for bringing it up.
+
+1617
+01:00:16,890 --> 01:00:19,380
+The question about data privacy, so for us,
+
+1618
+01:00:19,380 --> 01:00:20,700
+I can share what we have.
+
+1619
+01:00:20,700 --> 01:00:22,770
+So end-to-end encryption.
+
+1620
+01:00:22,770 --> 01:00:26,340
+So data encryption, we have HIPA compliance
+
+1621
+01:00:26,340 --> 01:00:27,813
+and GDPR compliance,
+
+1622
+01:00:27,813 --> 01:00:29,910
+we have role-based access control.
+
+1623
+01:00:29,910 --> 01:00:34,200
+So for example, the conversation, the chat, yes,
+
+1624
+01:00:34,200 --> 01:00:36,180
+there are humans who can access it,
+
+1625
+01:00:36,180 --> 01:00:38,820
+but the humans are all authorized
+
+1626
+01:00:38,820 --> 01:00:40,800
+and they have training.
+
+1627
+01:00:40,800 --> 01:00:43,800
+So, and also that must access through VPN.
+
+1628
+01:00:43,800 --> 01:00:45,420
+So the train, for example,
+
+1629
+01:00:45,420 --> 01:00:49,950
+psychologists can access de-identified chat history
+
+1630
+01:00:49,950 --> 01:00:53,190
+to monitor the chat behavior to make sure
+
+1631
+01:00:53,190 --> 01:00:55,770
+that Sunny is behaving as intended
+
+1632
+01:00:55,770 --> 01:00:58,800
+and providing feedback to improve the product.
+
+1633
+01:00:58,800 --> 01:01:01,320
+I'm skeptical of the company who say,
+
+1634
+01:01:01,320 --> 01:01:02,790
+we never look at your data.
+
+1635
+01:01:02,790 --> 01:01:04,110
+I'm like, how do you even know
+
+1636
+01:01:04,110 --> 01:01:05,430
+if your chatbot is doing
+
+1637
+01:01:05,430 --> 01:01:07,080
+well if you never look at the data.
+
+1638
+01:01:07,080 --> 01:01:10,380
+But there should be multiple layers of protection
+
+1639
+01:01:10,380 --> 01:01:13,080
+to make sure that we don't know who this person is.
+
+1640
+01:01:13,080 --> 01:01:13,999
+And we just here
+
+1641
+01:01:13,999 --> 01:01:16,830
+to evaluate whether the chatbot is providing
+
+1642
+01:01:16,830 --> 01:01:19,260
+the good response support.
+
+1643
+01:01:19,260 --> 01:01:21,540
+So that, and then one dilemma
+
+1644
+01:01:21,540 --> 01:01:22,950
+that I'll write up in one
+
+1645
+01:01:22,950 --> 01:01:26,130
+of the blog posts is safety and privacy.
+
+1646
+01:01:26,130 --> 01:01:30,240
+When do you actually sacrifice
+
+1647
+01:01:30,240 --> 01:01:31,800
+privacy for safety?
+
+1648
+01:01:31,800 --> 01:01:35,820
+So in this case, the common practice is if
+
+1649
+01:01:35,820 --> 01:01:37,740
+that person has not just suicidal
+
+1650
+01:01:37,740 --> 01:01:39,060
+ideation, that doesn't count.
+
+1651
+01:01:39,060 --> 01:01:42,030
+It has to be actual eminent risk.
+
+1652
+01:01:42,030 --> 01:01:44,400
+That person has the intent, has the means,
+
+1653
+01:01:44,400 --> 01:01:46,920
+has the, you know, the plan.
+
+1654
+01:01:46,920 --> 01:01:48,960
+And then at that point it is you have
+
+1655
+01:01:48,960 --> 01:01:51,780
+to report this case whether it's self harm
+
+1656
+01:01:51,780 --> 01:01:54,480
+or harming other person, other people.
+
+1657
+01:01:54,480 --> 01:01:56,280
+So that's where safety has
+
+1658
+01:01:56,280 --> 01:01:58,770
+to be prioritized.
+
+1659
+01:01:58,770 --> 01:02:01,560
+With that said, we haven't reached that case yet.
+
+1660
+01:02:01,560 --> 01:02:03,330
+So we're still building up like
+
+1661
+01:02:03,330 --> 01:02:05,490
+what are we gonna, eventually, what happens,
+
+1662
+01:02:05,490 --> 01:02:08,040
+so it's still building the pipeline to make sure
+
+1663
+01:02:08,040 --> 01:02:09,483
+that we protect for that.
+
+1664
+01:02:10,950 --> 01:02:11,783
+- And just-
+
+1665
+01:02:11,783 --> 01:02:13,170
+- And then also just really quick to figure out who
+
+1666
+01:02:13,170 --> 01:02:17,340
+that data goes to if they're an imminent threat to self
+
+1667
+01:02:17,340 --> 01:02:19,980
+or others, you know, counselors,
+
+1668
+01:02:19,980 --> 01:02:22,050
+were not available 24/7.
+
+1669
+01:02:22,050 --> 01:02:23,730
+We work during business hours.
+
+1670
+01:02:23,730 --> 01:02:25,890
+And so if there's a student who's an imminent threat
+
+1671
+01:02:25,890 --> 01:02:30,890
+to self or others at like 9:00 PM 2:00 AM we,
+
+1672
+01:02:31,080 --> 01:02:32,670
+that data can't come to us
+
+1673
+01:02:32,670 --> 01:02:33,900
+'cause we won't be able to get to
+
+1674
+01:02:33,900 --> 01:02:35,340
+it until we we get to it.
+
+1675
+01:02:35,340 --> 01:02:38,070
+So I think there is this,
+
+1676
+01:02:38,070 --> 01:02:39,930
+that's why it requires a partnership
+
+1677
+01:02:39,930 --> 01:02:41,520
+between the campus partners
+
+1678
+01:02:41,520 --> 01:02:45,000
+and, you know, the app that we're partnering with,
+
+1679
+01:02:45,000 --> 01:02:47,820
+'cause we, yeah, we need to balance privacy
+
+1680
+01:02:47,820 --> 01:02:49,290
+and student safety.
+
+1681
+01:02:49,290 --> 01:02:51,210
+And I think that's something
+
+1682
+01:02:51,210 --> 01:02:53,220
+that apps are still figuring out.
+
+1683
+01:02:53,220 --> 01:02:54,780
+There's a lot of apps that reach out
+
+1684
+01:02:54,780 --> 01:02:57,990
+to like our mental health counseling department.
+
+1685
+01:02:57,990 --> 01:03:00,510
+And when we pose these questions, it's,
+
+1686
+01:03:00,510 --> 01:03:02,580
+I realize there's oftentimes
+
+1687
+01:03:02,580 --> 01:03:04,290
+they haven't even thought
+
+1688
+01:03:04,290 --> 01:03:06,240
+about these questions.
+
+1689
+01:03:06,240 --> 01:03:09,330
+And so I think it's important that, yeah,
+
+1690
+01:03:09,330 --> 01:03:11,190
+mental health professionals
+
+1691
+01:03:11,190 --> 01:03:13,800
+are part of the design process.
+
+1692
+01:03:13,800 --> 01:03:16,200
+I think that piece is really important.
+
+1693
+01:03:16,200 --> 01:03:20,124
+I think developers there are good
+
+1694
+01:03:20,124 --> 01:03:23,640
+intentions and I think there are also blind spots
+
+1695
+01:03:23,640 --> 01:03:25,740
+and that's why we have to incorporate more
+
+1696
+01:03:25,740 --> 01:03:29,313
+of a multidisciplinary team to ensure that,
+
+1697
+01:03:30,190 --> 01:03:32,010
+it's doing what it's supposed to,
+
+1698
+01:03:32,010 --> 01:03:34,773
+what it's meant for, for users.
+
+1699
+01:03:36,030 --> 01:03:37,830
+- And then just to add really quick
+
+1700
+01:03:37,830 --> 01:03:38,663
+a combination of those,
+
+1701
+01:03:38,663 --> 01:03:40,440
+'cause I feel like these questions are actually related.
+
+1702
+01:03:40,440 --> 01:03:41,640
+The first two questions that were asked,
+
+1703
+01:03:41,640 --> 01:03:42,870
+it's like this general anxiety
+
+1704
+01:03:42,870 --> 01:03:44,460
+and then also bringing faculty into it.
+
+1705
+01:03:44,460 --> 01:03:46,650
+We always separate everyone into buckets,
+
+1706
+01:03:46,650 --> 01:03:48,420
+faculty, admin, da, da, da.
+
+1707
+01:03:48,420 --> 01:03:50,670
+But these AI fears aren't separated.
+
+1708
+01:03:50,670 --> 01:03:52,410
+We all have the same ones,
+
+1709
+01:03:52,410 --> 01:03:54,150
+like pretty fundamentally.
+
+1710
+01:03:54,150 --> 01:03:55,860
+So two, I feel like the fears
+
+1711
+01:03:55,860 --> 01:03:56,910
+I hear from not only faculty
+
+1712
+01:03:56,910 --> 01:03:59,190
+and students is economic.
+
+1713
+01:03:59,190 --> 01:04:00,510
+Is this gonna replace me?
+
+1714
+01:04:00,510 --> 01:04:02,430
+And then the second one is like just a fear
+
+1715
+01:04:02,430 --> 01:04:05,493
+of it in general, like terminator-esque type fears.
+
+1716
+01:04:06,360 --> 01:04:08,190
+And so I'll say something, my president,
+
+1717
+01:04:08,190 --> 01:04:09,640
+my college says all the time,
+
+1718
+01:04:10,908 --> 01:04:12,540
+AI will not replace you.
+
+1719
+01:04:12,540 --> 01:04:14,313
+Someone with AI skills might.
+
+1720
+01:04:16,620 --> 01:04:17,670
+That's the truth.
+
+1721
+01:04:17,670 --> 01:04:18,810
+That's the bottom line.
+
+1722
+01:04:18,810 --> 01:04:19,650
+AI won't replace you.
+
+1723
+01:04:19,650 --> 01:04:20,880
+Someone with AI skills might.
+
+1724
+01:04:20,880 --> 01:04:23,850
+So learning how to tread this like careful balance
+
+1725
+01:04:23,850 --> 01:04:26,760
+of leveling up our AI skills, not avoiding it,
+
+1726
+01:04:26,760 --> 01:04:29,280
+but also being critical of it.
+
+1727
+01:04:29,280 --> 01:04:31,470
+Understanding what we need to have to evaluate it.
+
+1728
+01:04:31,470 --> 01:04:33,767
+And also taking stock of our wellbeing around AI,
+
+1729
+01:04:33,767 --> 01:04:35,880
+'cause this is really anxiety inducing.
+
+1730
+01:04:35,880 --> 01:04:36,930
+I mean that's why we're having this panel.
+
+1731
+01:04:36,930 --> 01:04:38,310
+People are scared and yes,
+
+1732
+01:04:38,310 --> 01:04:39,660
+we're using AI to help alleviate,
+
+1733
+01:04:39,660 --> 01:04:41,640
+but now it's like turtles all the way down.
+
+1734
+01:04:41,640 --> 01:04:42,473
+So I get it.
+
+1735
+01:04:42,473 --> 01:04:44,580
+This is a complicated problem.
+
+1736
+01:04:44,580 --> 01:04:46,320
+So I think continuing to have those conversations
+
+1737
+01:04:46,320 --> 01:04:49,260
+and not to beat a dead horse, but it's literacy.
+
+1738
+01:04:49,260 --> 01:04:50,093
+What is this?
+
+1739
+01:04:50,093 --> 01:04:50,926
+How does it actually work?
+
+1740
+01:04:50,926 --> 01:04:51,759
+How do I deploy it
+
+1741
+01:04:51,759 --> 01:04:52,710
+and how do I make sure I'm economically
+
+1742
+01:04:52,710 --> 01:04:55,260
+viable while also being able to sleep at night?
+
+1743
+01:04:55,260 --> 01:04:58,020
+Because there's ethical considerations with AI.
+
+1744
+01:04:58,020 --> 01:04:59,640
+Knowledge is power.
+
+1745
+01:04:59,640 --> 01:05:00,690
+Power is agency.
+
+1746
+01:05:00,690 --> 01:05:01,920
+We have to be empowered
+
+1747
+01:05:01,920 --> 01:05:03,870
+to make our own choices critically.
+
+1748
+01:05:03,870 --> 01:05:05,010
+So these are fantastic questions.
+
+1749
+01:05:05,010 --> 01:05:06,510
+I think we have time for one or two more.
+
+1750
+01:05:06,510 --> 01:05:08,013
+Any other questions?
+
+1751
+01:05:10,770 --> 01:05:12,941
+You guys are geniuses.
+
+1752
+01:05:12,941 --> 01:05:14,065
+(audience applauding)
+
+1753
+01:05:14,065 --> 01:05:15,880
+Thank you.
+
+1754
+01:05:15,880 --> 01:05:17,109
+- Thank you.
+
+1755
+01:05:17,109 --> 01:05:18,059
+- Thank you. - Oh.

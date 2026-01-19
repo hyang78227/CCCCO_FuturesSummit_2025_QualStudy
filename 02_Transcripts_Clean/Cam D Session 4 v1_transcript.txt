@@ -1,0 +1,371 @@
+**Moderator (Anu Khanna):** Hi. Good morning everybody. Welcome. How are you doing? Did you go to the morning session? How are you feeling after that author? Huh?
+
+**Audience Member:** Depressed.
+
+**Moderator (Anu Khanna):** Depressed? Well, you have to get a sense of, you know, the rah-rah and all the good with some of the "Let's think about it." So don't be too depressed, but you have to have a balance with everything. So we wanted to make sure that, you know, we're supposed to be thought-provokers and we're supposed to be thinkers. And so whatever we teach our students, we're teaching ourselves to.
+
+I wanna welcome everybody here today for day two of the Future Summit, and the start of our breakout sessions.
+
+I'm here with these lovely people, which I'll introduce in just a moment. And my name is Anu Khanna, I'm with Foothill-De Anza Community College District and also with the Digital Center. And this is Ryan Matteson with the Cal Poly Digital Transformation Hub. We have our student Christopher King, and they'll introduce themselves more as we start the panel. Sharon Liang from Cal Poly, Devani from Cal Poly, River Covey, who's also one of our students, talk about himself in just a second when we get to them. And Nick Osterbur from AWS and Cal Poly.
+
+I love this crowd. We all need encouragement, right? So we are here today to talk about what we call challenge accepted.
+
+I had the opportunity earlier this summer to join all these wonderful people at Cal Poly for a week long summer intensive AI summer camp that was really set up for students to be able to gain some real life skills, and problem solving, and finding ways in which to create some AI driven solutions to problems that higher ed institutions, the community colleges and CSUs submitted to the Digital Transformation hub to say, hey, we have a pain point, we have a problem. Can you help us? And so we are here to talk about what that was like and what our students learned, and how we might scale and replicate that going forward. It was a fantastic experience, and we wanna make sure that you can see what's possible when we teach our students skills, let them be creatively challenged, give them some technical skills and what comes together and what happens. So with that, I'm going to pass it on to my panel as I ask them questions to tell you the story of what happened at Summer Camp.
+
+Nick, I'm gonna start with you. What's the history behind this AI summer camp and how did it come to be and how was AWS involved?
+
+**Nick:** Yeah, thank you for that. Oh, is it working? Here, have this one. Okay. Test. Got it. Okay. Thank you.
+
+Okay, so before I go totally into that answer, I want to kind of maybe queue up like how we got here, the program that I work in, and then what the Cal Poly DxHub is.
+
+So I work for Amazon Web Services, I'm a digital innovation expert.
+
+I came from the Cal Poly side some seven plus years ago when the Digital Transformation Hub was first established.
+
+And I work in a broader program at AWS called the Cloud Innovation Center. There's a number of cloud innovation centers. There's one at ASU, there's one now at the University of Pittsburgh, and then a sister institute up in British Columbia that focuses on healthcare.
+
+And our program is really about how can we empower students and work with public sector organizations to create open source solutions that ideally are gonna start to solve problems at scale.
+
+As you can imagine, we're very AI focused these days, that isn't, you know, our focus is really about being, you know, rabid trying to solve the business or the mission problem that a public sector institution brings to us. And then working with students to pull that off. So with that, I wanna maybe ask Ryan to explain like, what is the Cal Poly Digital Transformation Hub from the university view? And then maybe we can start to unpack kind of how that summer camp idea came around.
+
+**Ryan:** Yeah, yeah. So why do we have a DxHub at Cal Poly? There's many good things that come from it, but for part of us for, hello, hello. Hello, hello, hello. Good. Great. Thank you.
+
+At Cal Poly, we are about building new and innovative things, and we also had a time about seven, eight years ago when we did not have capacity to do new innovative things.
+
+And so the DxHub for Cal Poly is a pilot light, a kernel of innovation. We are a small and lightweight and very focused team. We are three full-time employees to AWS and one Cal Poly, myself. And then what really is the magic is bringing together the right problems from our passionate public sector customers and a team of students. And as they speak, you'll kind of understand more what their role has been.
+
+So at the DxHub every day we are all working side by side. This is the kind of partnership where we are all rolling up our sleeves and working on real things. And for us, the summer camp was out of a need to scale. We were always looking for ways to take what we were doing and share it. We are very open source focused. Everything we build, we share the source code. We would like as many organizations as possible to get value from our work.
+
+And so, as we worked more and more with AI over the last couple years, we saw dramatic in opportunity, we can open up the playing field so everybody can build solutions. It's not just for computer science folks anymore. And that has been a fantastic process for us to discover and unpack. And so for us, what summer camp came out of is, take what we do every day in our day jobs and make it available to community college students in a week long intensive in-person program.
+
+**Nick:** And so it kind of started back in February. My team was having an offsite and a planning meeting in San Luis Obispo. And my manager and the leader of our program kind of threw out this challenge, like how can we do a broader scale of what we're doing all day every day at the Kick Program, right? And at the DxHub.
+
+And so I don't know how the lightning went off, but it did. And I was like, what about like a summer camp where we basically try to compress what we do at the DxHub and then offer that to as many students as we possibly can in a very intensive, kind of in real life human to human sort of format.
+
+I also teach in the master's in business program, specifically generative AI to kind of like quasi technical students as well.
+
+And so, you know, it was relatively easy to take what we do all day every day at the DxHub along with the curriculum from that class, and then start to kind of package that up and then down and compress that into an event like the summer camp.
+
+And so we, you know, we originally did this for the CSU, so it started with the CSU specifically and the CSU, I don't know if folks may or may not know that the CSU and the governor's office kind of did this big announcement about really kind of fine tuning student experiences to really harness AI to be that kinda workforce to the future. And so this idea really kind of, you know, intentionally strategically mapped to that as well.
+
+And, you know, to be like totally candid, like we were making all of this up as we went along. So started as an idea in February, started holding our first, you know, got the, you know, the resource committed. Got started doing kind of first formal planning meetings in March and then just kind of just making it up as we went effectively. So apologies for being a little sloppy, 'cause it totally was, it was agile and it was almost like an innovation experiment in its own right.
+
+**Ryan:** Yeah. And if we could like pull that thread a little more. This is how we work. And so we talk about a culture of innovation and I've, previously, I was deputy CIO, I was information security officer, so I know rigorous frameworks and processes, but we're about doing responsible things, but doing it creatively, quickly and focusing just on the pieces that are really valuable to our customers. And so I would say, this is how we do all of our projects by design and then we mature them over time. We do an experiment and we see what works.
+
+**Nick:** Yeah, yeah. And this was an experiment to be totally clear. It seems to be a very successful experiment, which we're excited about. So we'll see what that looks like moving forward.
+
+So we did the CSU thing and basically it was a, the start of it was, let's mock up some, you know, submission forms and a flyer both for the student participants as well as for these kind of real world challenge sponsors. We've got some in in the crowd here. Thank you for showing up and thank you for sponsoring real world problems. So back to that theme, like at the DxHub, in the Kick Program, it's all about students doing the learn by doing thing and actually tackling like real world problems that are meaningful and impactful if solved, just to be totally clear.
+
+So we did this kind of joint campaign. We had folks with lots of relationships, kind of reaching out to all the different lines of business throughout the CSU to find those problems.
+
+We also did, and then on kind of similarly on the participant side and thank you for all the folks that helped there. We also did some pretty hardcore grassroots effort, Devani and Sharon, thank you so much for your effort. I'm like, hey, can you create a campaign where we're like grassroots emailing every student club and every student officer on, you know, at all these different campuses? And I think that worked out quite well. And then we just started seeing the student interest just start rolling in and we ended up with close to 900 in about three weeks.
+
+So the demand signal was like, so clearly there. We vibe coded this fun little dashboard and we were seeing these numbers come in in real time. We're like, well, somebody just went out and activated Fresno, look at all these numbers come in, right? Somebody just activated Pomona, look at all these numbers come in.
+
+And then at that point it was kinda like, well there's probably one moment in time. There's like this window, this passing window. At least this is my gut instinct where this demand is so real, right here, right now. And, you know, it baked, it was a good assumption. I think that if it was that popular and in demand for the CSU is probably equally, if not more popular for the community college system. And you know, we had some internal discussions, like we've gotta extend this opportunity to the community college system and the name of, you know, equitable access and all those good things by design.
+
+And so, you know, one thing led to another, we had some great data to back up, this kind of secondary commitment and now all of a sudden we're doing two summer camps back to back weeks, which was a lot. And then I started pushing for K12 and I think Ryan was about to-
+
+**Ryan:** Had enough.
+
+**Nick:** Yeah. Yeah. I had to pump the brakes.
+
+So anyway, within about three weeks we had, I think 1300-ish community college applications. Still very kind of grassroots and thanks again to some of the top cover and getting the word out, kind of to chancellors and digital center level as well. And so then now we had this big problem like, how do we figure out how we're gonna execute on this and, you know, give the right folks the opportunity to show up. And I dunno if you want to lean into that one at all.
+
+**Ryan:** Well, I mean we have a very repeatable recipe for how we do things day to day and month to month in our day jobs. And, but there's a big challenge in how do we scale that, and compress it and keep the most important elements and also, you know, honor the principles, which are rule number one, it needs to be fun. It's not competitive, it's not team A, versus team B, everybody is supporting each other. People need to learn a lot still. It's learning outcomes that we care about and ultimately solving a real problem that's a special part of the recipe. So those three things and how do we compress that all down? And so we know how to do these things, but we had to adjust and tune a lot every single day leading up to that camp.
+
+**Moderator (Anu Khanna):** And I'll just jump in and say, it really was grassroots in a very quick kind of, let's get to, you know, let's get these students in. To get to 1300 applicants, there was a need and there was an interest and it was, we just emailed the contacts that we had. We emailed, you know, VPIs at different colleges because we said, can you talk to your instructors and see if anybody will just send this out and say, are your students interested? Because we didn't wanna just target computer science majors, it wasn't just for certain types of majors, it was for any student who might be interested in that. And so to get very quickly 1300 plus applications, yeah, there's an interest and students wanted to do this. And so I think that's amazing to do that just when you're trying to do it grassroots and by, you know, who do you know and let's see if we can push this out and get people to apply.
+
+**Nick:** Thank you. And so we laid out some basic tenets. Ryan was kind of starting to allude to them like, we gotta have fun, rule number one, gotta have fun.
+
+It's gotta be in real life, like human to human. There's no better time than right now in my opinion at least to be like all down in the trenches, you know, kind of trauma bonding if you will.
+
+**Ryan:** I have never felt more optimistic this year in those two weeks. Yeah.
+
+**Nick:** Yeah. It's gotta be an authentic experience that everybody cares about, right? And wants to take away and start to like plant the seeds for building and growing a broader longer term community. So like community, community, community, community. That was a big part of the theme.
+
+And I hope you'll kind of like met some people that you're gonna know for the rest of your life. Sounds like maybe that's starting to happen a little bit, which is exciting.
+
+And you know, and all those other great things we talk about, learn by doing real world problems. Teamwork, we really kind of harped a lot on the durable kind of soft skills, not just the hardcore technical and, you know, the equity by design. Like, I'm kind of still ratioing, I think like half of the students that showed up were probably computer science or software. I think a quarter, I'm just guessing a quarter was probably in the STEM realm and then a quarter was just totally non-technical entirely. So bringing all of that together, you know, in one room for a full week was really interesting and exciting.
+
+**Moderator (Anu Khanna):** And how many people did you bring into the room that week?
+
+**Nick:** What did we end up with? 80.
+
+**Ryan:** About 80 plus. Yeah.
+
+**Nick:** Yeah. So I think-
+
+**Ryan:** A hundred students were from that 1300 applications. It was called down to a hundred invitations were made.
+
+**Ryan:** And there was an intentional effort to try to get a wide range of majors and experiences, and you know, whether they, if they indicated they were first year, or second year, or third year community college students. And we also tried to get a mix across the community colleges, districts and colleges. So we had, with the a hundred invitations, we had 43 colleges represented.
+
+**Nick:** And I think the, my observation was the age range in the community college was 18 to 55 or 60 maybe, some folks with just really, really interesting and diverse backgrounds. So hopefully that was a part of the fun that happened there.
+
+So to answer a second part of the question and then I'll roll into Mike here. The AWS side, the Cal Poly side, we put students up on campus housing at Poly Canyon Village. I think the walks were a little too far and burdensome every single day, but I don't know, it's probably also good for your mental health.
+
+And so funding for that, the resource around that, the resource around meals, the programming, obviously kind of the curriculum, the mentors like we've got here showed up. And then our DxHub mentors. So our DxHub team was just like full all in. It's knocked us out for like a month by the way. So it was very resource intensive and kind of mapping this back to the original challenge that my manager had thrown out there, like how do we do this at a broader scale?
+
+You know, I think we started with, we've got resource to conduct this experiment, let's see how it can be done right. Let's pull those lessons learned and then let's figure out how to kind of distribute that resource burden sharing a little bit. And so lots to talk about I think in the future about where this could go, but okay. Does that cover?
+
+**Moderator (Anu Khanna):** Yeah, I think so. Does anybody have any questions right now about the program as otherwise I'm gonna transition to the students and let's hear about their experiences.
+
+We'll try to leave time at the end for questions too. Okay, Christopher, I'm gonna start with you. What happened when they got to summer camp is they were put into teams and they were given challenge statements, which were some of the collected challenges and problems that we collected from a lot of the community college leaders that we knew. And we had put out requests and said, does your institution have a pain point? Is there a problem that might be benefited from with some kind of AI driven solution? If so, give us a challenge statement and we're gonna have the students work on that. So the students were put into teams and then it was their charge to work on that solution. Starting, you know, starting on Monday afternoon, I guess you got together Monday, you were given some technical skills and get going and Friday they were gonna pitch and present their solution. And so Christopher, I'm gonna start with you. What challenge did your team work on and can you tell us about your project and what you tried to solve and how you did that?
+
+**Christopher:** Yeah, so what we worked on was a project assigned by the Foothill-De Anza Community College District. And basically what our application or platform aimed to do was to connect students with learning differences or disabilities with tutors that are suitable to teach based on the needs of that student. And it's something new, right? And we harness the power of AI. Basically how the experience goes is that, a student will fill in an application form, the AI will go through every single field that the student with a learning difference entered and it will then match it to a tutor. And it's really sick because, yeah, it's-
+
+**Moderator (Anu Khanna):** You don't need to apologize. Your generation.
+
+**Christopher:** Yeah, no, it's really sick because we use this concept called retrieval-augmented generation. So basically it's not just the AI working, it's retrieving context from a vast, like, knowledge base. And AWS helped us with this through workshops and yeah, that's basically what our platform did.
+
+**Moderator (Anu Khanna):** Well one of the things we talked about why. One of the things we talked about when you were in your team was I had the opportunity to go spend the week with them and be a mentor and walk around and work with some of the teams and talk to them. One of the things we talked about was, okay, you have a problem which is, these students have learning disabilities, okay? They need to be matched up and they're not always going to be able to be meeting with a virtual tutor because a tutor might not be available. What if they're studying in the middle of the night. But a regular chatbot may not be able to accommodate based on their learning difference or learning disability. How did you address that?
+
+**Christopher:** Yeah, so that's a really great question. Basically, so right, if you schedule a tutor, it's gonna take some time for them to come back to you and, you know, help you with your homework or your exam, right? So what we did was we integrated a chatbot into an app, our platform, where while the student is waiting for their next appointment with their tutor, you get to chat with a chatbot and that chatbot has context of what the student needs are. So for example, if you're, you know, you have ADHD or you have some sort of reading impairment, it'll try to adjust through those context and give an appropriate response that's tailored to the student's needs.
+
+And we also integrated this in our UI. So for example, you know, if you're dyslexic, we implemented a feature where you click a button and there's a dyslexic friendly view where the fonts get weighted down at the bottom. And you know what's really cool about this project is that, most of it was powered by AI. So those like UI changes, those are mostly guided by AI.
+
+**Moderator (Anu Khanna):** What was the most surprising thing that you discovered while you were working on this project and with your team?
+
+**Christopher:** Yeah, so the most surprising thing that I learned through this project was that, building the MVP and building production level projects are different. So when we are in the summer camp, we're mostly doing this thing called vibe coding, where the code is basically, you know, assisted, as AI assists us to write code. 'Cause again, not all people in the team are technical and you know, what's really cool about the time we're in is that you could just code in natural language, like English and that comes with side effects. Like it can be hard for, like this type of code to be in production.
+
+So I guess that's surprising that, you know, if you're building an MVP, sure it works, but if you put it in production it might not work, right? There's like multiple edge cases that you don't know what's gonna happen. And I guess a recommendation I could give is that, if you're integrating AI tools and educational infrastructure, there's a lot of studies that needs to be done in order to make sure everything goes smoothly and the platform doesn't break. 'Cause there's a lot of things that can go wrong with AI, like, you know, like there's railroad features, rail guards, and there's also like ethical concerns too. So yeah, that's my insight.
+
+**Nick:** Can I ask a quick question? Who was your team's mentor?
+
+**Christopher:** Oh yeah, so our team's mentor is Sharon. She's like the most helpful person ever. Well, yeah. And she helped us like through like 12:00 AM, like I was like, you you need to get a raise after this.
+
+**Moderator (Anu Khanna):** She did. She got a raise. Oh nice.
+
+**Christopher:** That's good because she, like, she was working till 12:00 AM with us and like we were really thankful.
+
+**Nick:** We gonna ask her.
+
+**Moderator (Anu Khanna):** Sharon, so I'll turn it to you for a moment then. Since you mentored this team, what was it like to be a mentor and what are some of the dynamics that you saw with the team members and especially because it was such a diverse group in the team, what did you observe?
+
+**Sharon:** Yeah, so yeah, I had the pleasure mentoring Christopher and his team and within that team it consisted of, like so many diverse backgrounds. We had Christopher who was like younger, who just started off at CC and then we had some members who were coming back to CC to learn more about computer science. We had a juror, someone who was a PM, a product manager and then we also had someone who was more business focused. So it was really inspiring to see all these different perspectives come together, work together to build a solution in such a short amount of time and seeing these different perspectives work together to build a more inclusive solution because you have, you know, people who are more technical like Christopher who is like who has a CS background and then you have other people who are more business focused or even like Lasha who was a juror trying to learn more about AI. So it was really inspiring to see all of that come together.
+
+**Moderator (Anu Khanna):** Great, thank you. River, I'll come to you. What project did your team work on and what was your experience like, and how did you solve this problem that was given in your challenge statement?
+
+**River:** Yeah, of course. So my name's River. I was at Saddleback Community College in Orange County. I recently transferred to San Jose State University, still studying civil engineering.
+
+And the project that we were working on was a shipping project. We received procurement data of different ways that Cal Poly slow ships things in and out. And our goal was to use AI to optimize their shipping methods.
+
+The way we were able to do that was really cool to be able to be involved with, because AWS gave us access to tools that I wouldn't have access to unless I was involved in a camp like that because some of them have credits, some of them cost money and so we didn't have to think about that stuff, which was awesome.
+
+And so I worked alongside and in some capacities as like a project manager because as a civil engineer with computer science background, I felt I could relate to like people with business backgrounds, people with, I think there was a engineering systems or something like that, background, communication background. And so I was able to give them specific goals that they could work on and then I was able to use AI as Christopher mentioned, vibe coding allowed those less technical people to provide code and it allowed us more technical folk like the CS students and engineering students to integrate those less technical deliverables with like the more technical backend. And that wouldn't have been possible without AI and those specific AWS tools that we had access to.
+
+And the way I solved the problem with my team was essentially building a chatbot where you could interact with the shipping data. We also gave access to, I called it like Expedia for shipping because we had an API call which pretty much reached out to like FedEx, UPS, postal service and got their prices and like the price per dimension for shipping something to somewhere. And so instead of having to go to like FedEx and type all that in, and then go to UPS and type all that in, you're able to go to like the freight lease shipping hub, which my project developed and you could see all the different, like shipping price options, then you can interact with them with a chatbot to be like, oh, I want it to come as fast as possible, or I want it to be as cheap as possible, and it would actually be able to interact with you.
+
+And then we're also able to use machine learning tools to go through that procurement data and analyze where potential savings could be made. One of the ways we found that is that, we found they had shipped from one supplier six separate times. And so if they had just shipped one time, they could have saved X amount of money. And so I think we projected 15 to 25,000 in potential shipping savings which could go back into like student funding and different groups and organizations. And so all this was possible with AWS and AI tools that really like, increased our efficiency and increased our like potential. Like the potential that we had compared to if we didn't have access to these tools is remarkable.
+
+**Moderator (Anu Khanna):** When your team was trying to decide their solution, did cost savings or cost savings and kind of capacity for workflow, did that? what kind of conversations did you have around that to come, you know?
+
+**River:** Yeah, definitely as far as when building the project or for like, the like, deliverable because when developing a project do you want to understand like, oh, are my API calls gonna be costing money every time, I like call them. But then you also wanna be considering like, how can this project help the business save money? And so I think thinking about it from both ends, like who's asking for it and who's giving it out in both ends, you can like apply saving methods and stuff like that.
+
+**Moderator (Anu Khanna):** Yeah, I asked that because we could see as we were walking around that it wasn't always, the conversations weren't always around the technical skills, but there were lots of conversations about what does it mean, where's the value, who's being helped and how are they being helped? And I think that's a lot of the conversations that we've been having since yesterday here, that the technology is a technology but what are we actually using it for? How are we applying that and where is that actually helping us as humans and how are we part of that? And so it was really interesting to see the students engaging in those conversations. You know, there were flip charts all around the room and you know, they're brainstorming and talking and so they're doing some of the work that we are doing too. And in these conversations they just did in an intensive week long experience. Devani you are also a mentor for one of the teams, so I'll ask you what was it like to be a mentor and what dynamics did you observe and how did you help the teams move forward?
+
+**Devani:** Yeah, so I was also one of the mentors for the team and honestly it was such a rewarding experience for me because I got to share everything that I have learned working as a software developer for the DxHub with my team and all the students. And I saw everyone grow so much in terms, not only in terms of technical skills, but also as a person through the week. So that was really inspiring for me.
+
+And like it was mentioned before, we had so many students come in from different backgrounds with different technical levels, different skills, and I was able to work with teams to like bring out the best in them and really use the skillset that they provided to build a real tangible solution in just a week. So honestly working with them, I also really got a unique experience as a student because usually I'm the one who is working on these projects, but this time I got to be on the other side of the, like on the other side helping students, guiding them through their projects. So I think I also learned so much as a developer myself and yeah, it was an amazing experience overall.
+
+**Moderator (Anu Khanna):** Ryan or Nick, what was some takeaways and surprises in terms of what you observed as you were helping mentors and students work on these projects?
+
+**Nick:** Okay, I'll start. So first off, I think the chief feedback that we got from the DxHub team after it was all over was, you didn't tell us what this was actually gonna be like at all.
+
+And so like I think what we saw was, I would argue that a lot of our team members are introverts by nature maybe, right?
+
+And then all of a sudden this script flip happened and you don't know until you know, until you experience what it's like to all of a sudden, 'cause like Ryan and I are, and our colleague Darren are always, are constantly like, mentoring you, all right? And now all of a sudden you have to jump in that role. And I think it was like, it even totally surprised me, like when that second week was over you could just like hear the big gasp of relief.
+
+And so I think that was probably the most interesting thing and I'm super looking forward to hearing like, did that experience, you know, help you all as mentors and teachers. 'Cause all of a sudden you guys were doing breakouts, right? And you were like literally teaching a specific concept to all and let alone just like hunkering down with a specific team and just doing, you know, the mentorship piece. So I think that was probably the biggest surprise for me. I just don't think I would have understood really what that was gonna mean.
+
+**Ryan:** Yeah. And I think also if we reflect back at the start of the week, Christopher, like Monday morning we start handing teams projects and they're very clear about the time they have. And some of these projects have very large ill-defined scopes by design, we chose them very carefully. And we had a strong sense it would be possible to do some good work on them. I was surprised by how much work was done. It was remarkable. You used that word before of between the vibe coding, but really between the connectivity of the members of the team. I think that's what allowed it to happen.
+
+And of course it's a high intensity supported environment, but there is a dynamic on being on a team, it's hard. It takes a lot of extra effort and to do that all within a week. And so what I guess surprised me most was, the community college students within five minutes you were connecting with each other. You had maybe less in common in terms of your skills, your experience, your location, but you made those bridges immediately.
+
+And so, I mean Cal State University employee, we had a great first week. The second week I think was even better in ways we tuned some things, but also a lot of it was just that connectivity and that willingness to reach out from all of the participants and to support each other, to explore together and to honor rule number one of having fun.
+
+**Nick:** That's true. And it also just felt real, like, it was not sanitized. It felt like a real community was coming together in real time, somewhat spontaneously.
+
+**Moderator (Anu Khanna):** Chancellor Christian yesterday talked about the vision 2030 and what we hope for, you know, the two million students that we have in the community college system and how we can train and retrain and upskill our students. And again, emphasize it's not just about technical skills, but also the durable skills. And so you touched on that a little bit in terms of the teamwork, but I'll ask the students, you know, Christopher or River, you can both take a turn at this.
+
+As the week progressed, you were definitely applying some of the technical skills that you were learning and you know, there were breakout sessions in between of how do you vibe code and how do you, what were some of the other ones or other sessions?
+
+**Christopher:** RAG.
+
+**Moderator (Anu Khanna):** RAG, yeah. I was trying to learn and keep up too, but it was really hard. But, and you know, we talked about how to present and pitch. As the week started to get to the point of, we have to pitch on Friday, what was that like in terms of what you did in your teams and how did you prepare for that? Because that's beyond technical skills, now you're getting into some of your durable skills like problem solving, presentation, communication, teamwork. So can you talk about a little bit about your experience and how you all came together to pitch at the end? You wanna start River?
+
+**River:** Yeah, I'd love to start. I think one of the special things about this program was the fact that we were on campus for five days, like 24 hours a day just hanging out, talking about AI with other students that can resonate as far as being community college students.
+
+And yeah, one of like the best parts about that, is like I have so many friends, I have four friends at SJSU now. I have a group chat of like five people. I talked to them today, I got like exciting news and I sent it to them and we all encourage each other and stuff. And so just developing those relationships with the, like friends from San Francisco, to San Diego, and Long Beach, and everywhere has been really cool.
+
+And then just like being able to, sorry, I kind of lost track of what I was saying. Do you wanna take over Christopher?
+
+**Christopher:** Yeah, yeah. So I guess like you were asking about, like the presentation, right? Leading up to the presentation.
+
+**Moderator (Anu Khanna):** Oh yeah. How you came together as you were leading up the, you have to present your solution and you gotta come together.
+
+**Christopher:** Definitely. Yeah, yeah, yeah. So, between these like, you know, technical building stuff, we had like some really cool events like the Duck Hunt event. The the Duck Hunt event, which is basically where the Cal Poly DxHub team programmed the chatbot and they hide like mini ducks around campus and it has an NFC chip in it where if you put your phone next to it, it's gonna pull up a chatbot and you're supposed to prompt inject it for the chatbot to give you a clue. So it's really like awesome. I've never seen-
+
+**Nick:** Sophisticated treasure.
+
+**Christopher:** Exactly. Like it was really cool. 'Cause number one, I got my steps in, Cal Poly is like really big campus. Number two, I got to like know my team better. And number three, I got to know, like the whole like culture of this because the clues are like designed to like, designed specifically with like, hints of Cal Poly culture. So like they're mentioning like, oh students hang out here, so like we get to like experience what, you know, a four year university is like in a sense. And you know, that team building leading up to the presentation definitely made my team's chemistry much stronger. And you know, that prepares us for moments where, even if we're not ready, we have that chemistry say, oh yeah, you take over this, I take over that. You know, like we don't need, like we don't need to tell them to step up, they step up, 'cause you know, we have, we know each other basically. So that's what should I get at.
+
+**River:** So finish my last thought and to expand upon what he said, they really did put so much effort into like community building. One of my favorite parts was they had like, a gumball machine, but it had little 3D printed trophies that incentivized like hard work. And one of my favorite things was like, identifying someone that was working hard and going up and recognizing their hard work. And I made like so many good friends just from that small action of them, like feeling recognized. And then towards the end of the week people were like, giving me these little trinkets and stuff. And so I felt, like, that made me wanna work hard. And when people get recognized for working hard, that helps them as well. And so towards the end of the week there was these different community building engagements and stuff like that that we did that really like helped us, like get through to that finish line and like give our best each day essentially.
+
+**Nick:** I think I saw in the Discord that people were doing like human pyramids on the beach and like falling off.
+
+**Christopher:** Did you go there? So basically how it all started was the pizza night. So how this all started was, so how the AI camp actually started was a bowling night, a social like gathering, right? To get to know each other and basically like a group of people, like bundled up in one table and be like, oh yeah, yeah, yeah, you go to this college, I go to this college. You know, like trying to exchange contacts and stuff like that. You know, LinkedIn connections. Then after that we became closer and closer friends, even though we are in separate teams by the way. And you know, they went to beaches, we played Uno at like 12:00 AM even though we're not supposed to, we're supposed to be working on our project.
+
+And if I'm not mistaken right now, we have a group chat where they're planning to do a skydiving trip, so.
+
+**Moderator (Anu Khanna):** The Discord server was quite active all day, all night. I didn't know how to turn off my notifications and I was hearing ding ding, ding, ding, for a little while, the first two nights.
+
+**Christopher:** If I'm not mistaken, we were doing truth or dares and like yeah, the Discord got pretty active. So, but we made like really strong connections through those, like, fun time that's not technical.
+
+**Moderator (Anu Khanna):** Yeah. I think for us as community college leaders, what I saw in what was happening in the Discord and in the immersive experiences, students want community and connection. And it's often hard when we have students at our campuses who are, you know, and these were our students, they're commuter students, they're coming in and out and what we did is we gave them this week long immersive experience where they could be connected, but I don't, and it's not the end. They're gonna stay connected. But it is a lesson in thinking about what are we doing and how do we continue for our other students to create that community and that engagement, and give them a place because they want it and they're thriving in it. Sometimes it's weird in the wild, wild west in that Discord, but you know, but they want it. And so I think it's another way for us to think about what are we doing for our students? How are we creating community? And giving them these opportunities to build the connections that I think will help them in their career and moving forward. And so, you know, I appreciate you talking about that community building aspect. Was that intentional when you were all the community building when you talked about, you know, designing this program?
+
+**Nick:** 100%. Yeah. I mean, that's the major goal. Yeah.
+
+**Moderator (Anu Khanna):** Mentors, did you also participate in the community building? And what was community building like for you and the other group of mentors that you were with?
+
+**Sharon:** I think for us, like we also went to these social events and I think even as mentors we really bonded a lot. Even just like putting the camp together. Like Christopher mentioned that we had the AI scavenger hunt that three students from the DxHub team, they worked on it really hard and we also had like dry runs that we did around the campus. So the whole team, we put like ducks around just to see like everything is working well. And I think just that whole process was also like a really good bonding experience for us. We had like a much more stronger community after the camp. And the two weeks together, we were there from nine to five and then we had some social events that we wanted to go to after the whole camp. And yeah, I think it was like a really good experience for us too.
+
+**Nick:** Just real quick, I think we also made all of our DxHub student mentors decide who the individual award winners were gonna be and also gauge the actual winning teams and stuff, so.
+
+**Moderator (Anu Khanna):** Because it the work, can you explain a little bit about the award after they presented on Friday and gave their solutions? What happened?
+
+**Nick:** So it wasn't, there's like no money on the line, right? It was really about-
+
+**River:** Bragging rights.
+
+**Nick:** it was bragging rights. Did your team understand the AI concepts you were applying? Were you laser focused on customer need and actually solving that real business problem among a litany of other things. And we had individual words which mapped to the gumball machine with all the little trinkets in it or whatever. So like bias for action, a little lightning bolt or big lightning bolt for whoever won that one event and simplify. Some of these are like Amazon leadership principles as well.
+
+The builder trophy, which was a giant Lego person with a nice bejeweled stash. It was ultimately a nice touch. So there were a number of these awards and then one camper would get the individual awards and then there was first, second, third for the teams themselves. Did we have some awards at this table? What'd you win?
+
+**River:** I won the AI safety and ethics award and that was for being considerate of what the customer was looking for, as well as how we can safeguard them against loss and hopefully get them more savings.
+
+**Moderator (Anu Khanna):** And then you won an award too, right?
+
+**Christopher:** The Invent and Simplify award.
+
+**Nick:** Invent and simplify. Yeah. Yeah, that's the twisty light bulb, right?
+
+**Christopher:** Yeah, so the award was really cool, 'cause like he could twist it and stuff.
+
+**Nick:** And then, sorry, I didn't mean to cut you off Sharon. I think maybe, sorry.
+
+**Sharon:** What, were you gonna say something?
+
+**Nick:** For the mentor? Yeah.
+
+**Moderator (Anu Khanna):** Oh, for the mentors. Go ahead.
+
+**Sharon:** Yeah. Oh yeah. Okay. I can also speak on that. I think, yeah, throughout this camp the mentors definitely got a lot closer, because usually during regular, like development hours, we're usually grouped into smaller developer groups where we don't get the opportunity to really speak with, like as many developers because you're just in your group developing for that project. But through the summer camp, we were able to talk to everyone more and discuss like different approaches and like to the different solutions and it was a great way to, yeah, collaborate just through the mentors themselves as well.
+
+**Moderator (Anu Khanna):** So I know we talked about all the great things and the positive things. It wasn't all perfect, right, Christopher and River. And can you tell me what some of the challenges were or that you either experienced or Nick or Ryan that you observed?
+
+**River:** I'll go first. 'Cause those are life changing too. I don't think anything was like, pull your hair out, stressful, challenging. I think all the challenges were like constructive. There were moments in time where I was like, am I gonna be able to submit a project that is worth anything? Like am I wasting everyone's time by telling them to do all these things? So there's a lot of second guessing myself and kind of like imposter syndrome as far as like, wow, everyone around here is so talented and so good at what they do. Like am I really one of these kids as well?
+
+And so I think getting over that was one of the challenges for me. And the way that I got through that, was just like those community building engagements when I started interacting with like the mentors or like the faculty, or like the fellow students, I did really felt like I belonged there. And towards the end of it I was like thinking like, wow, everyone really did get selected, like for a reason. 'Cause I tried to talk to everyone at the camp, like I'm kind of antisocial, so I pushed myself to be more social and so I'm walking around talking to everyone and each person had just such a unique, interesting story. I'm sure they all have their own unique challenges, but we did like come together to like overcome those challenges. So I think that was really cool.
+
+**Christopher:** Yeah, yeah. I definitely agree with that. And also I guess a more technical challenge for, well, I think for most of the teams are like, I feel like the data that the California Community College system has is really, I mean the data is there, right? I think building systems around these data could be difficult because, you know, it's not like smooth Lego bricks that connect with each other, right? Like the data could be all sorts of different sizes and shapes. So I guess a technical challenge was, building a system that's compatible with an MVP, but then having that mindset that, you know, this could potentially scale and the data could get even more messier and more complicated. And I guess that's also like generally how AI works. Like it's really challenging to work with data that's garbage, right? So garbage in, garbage out. If it's not good, then it's probably not gonna be good in production.
+
+**Moderator (Anu Khanna):** Christopher, you learned in one week a lesson that all of us in system have experience, which is we have incompatible systems often in our institutions, across our institutions, across our district, so. Good luck. Yes, they did experience that.
+
+**Nick:** Just on the first off, you know, thank you all for like dealing with last minute agenda changes or a lack of data or specificity. Ryan kind of alluded to, we don't expect that we know the answer or the right solution and that's a part of the process. We did like, I don't know, 15 discovery sessions in two weeks leading up to the camp, this recording, you know, the pain points, basically interviewing the business experts, like what are your pain points? What are the data sets that we could get access to? What would really good look like? Right? And then all that got packaged up and passed in and some teams didn't have as much as other teams. There were some teams that literally had to create synthetic data out of nowhere and go, lots of teams were scraping data off the web.
+
+So thank you for like embracing that ambiguity and just kind of rolling with it. I think one of my biggest observations was, I think we lost two teams. It's the community college, right?
+
+**Ryan:** We had to adjust significantly.
+
+**Nick:** Yeah, so we team rebalancing. It's almost like a little mini HR function would have like a well thought out one would've been incredibly easy. We we did it on offline and I think we did it more or less successfully, but like team dynamics and participation and just like the chemistry and stuff, some teams really clearly clicked and some teams totally struggled and we had to kind of lean in and figure that out a little bit. And by the way, I feel like I heard from all the mentors that they also kind of had imposter syndrome at the same time. So I think that's kind of interesting.
+
+**Ryan:** Yeah, yeah. And it's a summer camp and it was intensive by design. And so we tried to communicate consistently every hour like, we are here to support you. Let us know what you need. And they did. And we got calls at two in the morning and we got to go to Costco and buy towels because there weren't enough. And like that part of the experience was amazing to me. I mean, Nick and I are both fathers, we both have daughters that someday will be community college or CSU or other students.
+
+But the mentors really stepped up and like, it was such a great supportive environment and that that was our hope, that was our dream. We did everything we could to craft that. But pretty much just standing back and watching you all step into that, you were naturals. I mean, I was so amazed. I wanna give our mentors around applause.
+
+**Moderator (Anu Khanna):** I wanna give all of you a round of applause because what you've put together, what you put together really is what we're trying to do as you know, when Chancellor Christian and all of our presidents and chancellors talk about how are we preparing students, how are we getting them workforce ready? How are we helping them find purpose-driven career and personal outcomes? How are we helping them reach that? And so this really, this experience I think set out to do that and we're hoping to be able to replicate and scale. And then as we kind of close us out, we have a highlight video that we just wanna show you, so you get to see all the things they talked about and what it was like to be in that room that week.
+
+**Student:** Hartnell College is our client. If we were challenged to develop an AI power career exploration tool that helps undecided community college students discover appropriate majors.
+
+**Student:** We created Allen Live Access named after De Anza and Foothills, which is our customer.
+
+**Alex (Chatbot):** Hi there, this is Alex from the Allen Live Disability Services tutoring center from the De Anza and Foothill College District. I'm here to help you schedule a tutoring appointment that's perfectly tailored to your needs. May I start by getting your name?
+
+**Christopher:** Yeah, my name is Christopher.
+
+**Alex (Chatbot):** Thank you so much Christopher, it's great to meet you. I'll make sure we get you the. Great to meet you Christopher. Now I'll be your student ID number, so I can access your profile.
+
+**Christopher:** So let's try and do it on AI. What's your student ID? Do I really have to give you my student ID?
+
+**Alex (Chatbot):** That's a great question Christopher and I completely understand your hesitation. We ask for your student ID just to make sure we're looking at the right profile and can provide you with the best support possible. Your information is always kept private and only used to help you get the services you need. If you're comfortable, could you please share your student ID with me?
+
+**Christopher:** All right, I gotta go because there's no more time.
+
+**Student:** We are trying to support small businesses in California.
+
+**Student:** So yeah, this is our main dashboard.
+
+**Student:** In addition to our chatbot, we produce a demo with Amazon's new Nova Sonic model.
+
+**Student:** I want SAT score, do I need to be eligible for calculus?
+
+**Alex (Chatbot):** Hey there. To be eligible for calculus at Cal Poly, you need an SAT math score of 620 or above.
+
+**Alex (Chatbot):** Alternatively, you can also call-
+
+**Student:** All right, that's enough information. Thank you.
+
+**Student:** You're welcome.
+
+**Student:** Can that matching feature, I think that's really cool. And that also help on the other end in terms of like, those who are going to be reading and awarding scholarships. Do you see that as kind of a connection?
+
+**Student:** Definitely, yeah. That could definitely be implemented in the backwards or the foundation themselves of working in.
+
+**Student:** And what you wanna make sure is that the money and the tuition that you are putting into university is being used practically and is not being spent carelessly honestly without, you know, consideration for what it's going into.
+
+**Student:** Well said.
+
+**Student:** And that's what we're trying to target the students who need that additional support to figure out their career paths, majors, and any potential certificate they'd like to pursue.
+
+**Student:** We'd also like to target the academic advisors and counselors at Centers Junior College.
+
+**Student:** Two big changes, required trainings have right there and the training assistant right there.
+
+**Student:** So the experience is just made for the experience to be more tailored to the learning.
+
+**Student:** We are lucky, if you take anything from PDF forms to training manuals, to payroll schedules, and explains the information that you are looking for in a concise and easy to understand conversational manner.
+
+**Student:** Debate over who gets prizes.
+
+**Student:** Intense debate.
+
+**Student:** Award goes to River.
+
+**Student:** River.
+
+**Moderator (Anu Khanna):** Thank you to all of you for joining us today. Thank you again, panelists. As you can see, we really try to give an experience here through this partnership for how we can train our and be make workforce ready, for students for tomorrow if there's any questions? Yeah, we're, go ahead.
+
+**Audience Question:** I'd love to ask just real quick question. Students and the mentors, knowing what you know now and having had experiences, is there one gnarly challenge that you wanna tackle or you want someone to tackle with AI?
+
+**River:** I really want to be able to communicate with Canvas in like a better way. I think that workflow could be improved.
+
+I'm actually doing a hackathon where I'm trying to integrate Google Gemini Notion and Canvas. So you could essentially just talk to Google Gemini and have it tell you your Canvas solution. So I think stuff that can help students succeed academically would have like a two-pronged approach, 'cause it would have such a positive impact on students in the future. But then building those tools are a challenge within themselves.
+
+**Christopher:** I really wanna mention, if there's one thing that I want community colleges, the California Community College system to focus on is, standardizing the data.
+
+**Moderator (Anu Khanna):** You'll have to come work for us in the future.
+
+**Christopher:** Yeah. I spent, like, days looking at like data that's like, not like, it's like really outdated and it's really hard to deal with, you know, like, you know the CID super numbering system assist, how it's not compatible. How it's not compatible with CVC, that's another SaaS. It's like really hard to connect these. Like the data is there, right? But it's so disconnected and disjointed that, you know, why not standardize this?
+
+**Ryan:** Yes. Yes.
+
+**Moderator (Anu Khanna):** And you had a question back there.
+
+**Audience Question:** For the students in emerging protocol frameworks, do you see your self in as technical as you want.
+
+**River:** I'm attending an event tomorrow with the host is Dom Sagolla, he was one of the early Twitter members and he's developing a platform called Gray Whale AI. And I think that should be really interesting. I don't know too much about it, 'cause it's proprietary, but essentially he's saying it's gonna use a thousand times less data and Bill Tai is a venture capitalist who is funding the event and there's some pretty impressive sponsors and stuff. So I think keeping an eye on that space and a agentic AI, just that entire realm is probably where like the AI feature is going, in my opinion.
+
+**Christopher:** One thing that I would like to see is definitely MCP servers. It's really popular. It's taking the LLM agentic AI scene by storm. It's became like the, the standard and the norm. And I feel like all these educational focused SaaS, like Ellucian, Canvas, Instructure, Cengage, should all adapt MCP as a standard so that, you know, LLM tools that could be built by the future, CC AI camp students wouldn't have to go through documents of AI pages, but just give this, you know, MCP server documentation to an LLM and it's gonna be integrated with context engineering built into it, right? So I guess that's one thing I wanna see.
+
+**Moderator (Anu Khanna):** Okay. Thank you very much for joining us. Lunch is next and it's going to be in the exhibit hall, in the Futurist Hub, so, and then there's.

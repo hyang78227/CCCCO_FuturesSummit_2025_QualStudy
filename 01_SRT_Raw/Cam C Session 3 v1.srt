@@ -1,0 +1,4863 @@
+1
+00:00:05,520 --> 00:00:08,280
+- Now, so before our talk I was more entertaining.
+
+2
+00:00:08,280 --> 00:00:09,260
+Now (laughs) our...
+
+3
+00:00:10,620 --> 00:00:13,800
+We will do another formal introduction.
+
+4
+00:00:13,800 --> 00:00:16,320
+And this time we have some videos,
+
+5
+00:00:16,320 --> 00:00:19,560
+because this panel will be for talking
+
+6
+00:00:19,560 --> 00:00:22,830
+about more like spatial AI,
+
+7
+00:00:22,830 --> 00:00:26,610
+which is aligned with all the experts sitting here
+
+8
+00:00:26,610 --> 00:00:27,780
+along with me.
+
+9
+00:00:27,780 --> 00:00:29,040
+So yeah, hi.
+
+10
+00:00:29,040 --> 00:00:30,330
+My name is Dominic Uru.
+
+11
+00:00:30,330 --> 00:00:34,560
+Yeah, finally formally introduce our panel.
+
+12
+00:00:34,560 --> 00:00:36,360
+I'm currently working for,
+
+13
+00:00:36,360 --> 00:00:39,510
+as an Asian professor for Kenyatta College.
+
+14
+00:00:39,510 --> 00:00:41,910
+Also serve as AI fellows,
+
+15
+00:00:41,910 --> 00:00:46,620
+one of the AI fellows at chancellor's office.
+
+16
+00:00:46,620 --> 00:00:50,670
+So, yeah, I wanna share with you
+
+17
+00:00:50,670 --> 00:00:52,710
+the things that I've been working on.
+
+18
+00:00:52,710 --> 00:00:54,840
+Just like what Hila mentioned before,
+
+19
+00:00:54,840 --> 00:00:59,370
+I'm helping some professors turning their curriculums
+
+20
+00:00:59,370 --> 00:01:01,170
+into XR.
+
+21
+00:01:01,170 --> 00:01:05,853
+So, we can start with this video trailer very quick.
+
+22
+00:01:07,260 --> 00:01:08,523
+How can I do this?
+
+23
+00:01:15,030 --> 00:01:16,083
+How can I play it?
+
+24
+00:01:17,220 --> 00:01:20,430
+- [Speaker] Imagine a world where stories come alive.
+
+25
+00:01:20,430 --> 00:01:23,340
+In a world where distractions are endless,
+
+26
+00:01:23,340 --> 00:01:25,620
+reading is a chore.
+
+27
+00:01:25,620 --> 00:01:27,240
+Meet LitStage,
+
+28
+00:01:27,240 --> 00:01:30,843
+a mixed reality game that brings literature to life.
+
+29
+00:01:31,989 --> 00:01:32,822
+(bright music)
+
+30
+00:01:32,822 --> 00:01:35,550
+Dive into the story, play the literary piece,
+
+31
+00:01:35,550 --> 00:01:37,983
+and learn through interactive experiences.
+
+32
+00:01:39,570 --> 00:01:41,880
+Explore the world of "Moby Dick,"
+
+33
+00:01:41,880 --> 00:01:43,680
+learn the whaling industry,
+
+34
+00:01:43,680 --> 00:01:46,443
+and uncover the spirit of the story.
+
+35
+00:01:47,370 --> 00:01:49,230
+With more games coming soon,
+
+36
+00:01:49,230 --> 00:01:52,620
+our goal is to put all of literature into fun,
+
+37
+00:01:52,620 --> 00:01:55,231
+engaging experiences.
+
+38
+00:01:55,231 --> 00:01:57,510
+(bright music)
+
+39
+00:01:57,510 --> 00:01:59,610
+And with our desktop version,
+
+40
+00:01:59,610 --> 00:02:02,100
+educators can add their personal touch
+
+41
+00:02:02,100 --> 00:02:04,773
+to make learning even more engaging.
+
+42
+00:02:05,760 --> 00:02:09,873
+Join the journey, learn more at litstage.ai.
+
+43
+00:02:10,816 --> 00:02:13,357
+(bright music)
+
+44
+00:02:13,357 --> 00:02:15,693
+LitStage, where stories come alive.
+
+45
+00:02:19,170 --> 00:02:20,400
+- [Speaker] I paid for my own college,
+
+46
+00:02:20,400 --> 00:02:22,860
+so I knew I'd have to start accumulating
+
+47
+00:02:22,860 --> 00:02:25,230
+a lot of money paying student loans, paying rent.
+
+48
+00:02:25,230 --> 00:02:26,970
+There wasn't much leftover.
+
+49
+00:02:26,970 --> 00:02:29,200
+Every month, I put whatever I could have-
+
+50
+00:02:29,200 --> 00:02:30,033
+- You don't have to learn this.
+
+51
+00:02:30,033 --> 00:02:32,760
+Yeah, so this is more like a literature part.
+
+52
+00:02:32,760 --> 00:02:35,760
+And the other one is the reason one that we did
+
+53
+00:02:35,760 --> 00:02:39,813
+for Professor Par, who is also one of the AI fellow.
+
+54
+00:02:41,400 --> 00:02:42,600
+We turned her curriculum
+
+55
+00:02:44,130 --> 00:02:48,200
+into a VR game experience with the...
+
+56
+00:02:49,350 --> 00:02:51,513
+Yeah, how can I even do this?
+
+57
+00:02:52,387 --> 00:02:53,629
+- [Speaker] Space bar.
+
+58
+00:02:53,629 --> 00:02:54,462
+- Space bar?
+
+59
+00:02:54,462 --> 00:02:55,769
+Oh, okay.
+
+60
+00:02:55,769 --> 00:02:56,613
+Oh, thank you.
+
+61
+00:02:57,570 --> 00:02:59,640
+(light music)
+
+62
+00:02:59,640 --> 00:03:03,960
+Yeah, so at the beginning we have a tutorial.
+
+63
+00:03:03,960 --> 00:03:08,960
+Yeah, and then Professor Par wants to create kind
+
+64
+00:03:09,180 --> 00:03:11,700
+of like a chat bot, local chat bot,
+
+65
+00:03:11,700 --> 00:03:13,740
+like a play lab, but in VR.
+
+66
+00:03:13,740 --> 00:03:15,780
+So, we create that for her.
+
+67
+00:03:15,780 --> 00:03:19,410
+And also she wants to let students to create hypothesis
+
+68
+00:03:19,410 --> 00:03:22,710
+and also grow pee plants.
+
+69
+00:03:22,710 --> 00:03:27,710
+And with compound X, mysterious substance in Amazon jungle.
+
+70
+00:03:28,770 --> 00:03:33,300
+And there's a female ferry to emphasize the AI,
+
+71
+00:03:33,300 --> 00:03:35,100
+aligned with vision 2030.
+
+72
+00:03:35,100 --> 00:03:36,900
+That's the most important thing.
+
+73
+00:03:36,900 --> 00:03:40,950
+So yeah, so we are doing more hands on for students getting.
+
+74
+00:03:40,950 --> 00:03:42,990
+And this is like the chat bot
+
+75
+00:03:42,990 --> 00:03:45,363
+for students who practice hypothesis.
+
+76
+00:03:46,250 --> 00:03:47,843
+Yeah.
+
+77
+00:03:47,843 --> 00:03:49,343
+Are using ChatGPT.
+
+78
+00:03:51,211 --> 00:03:52,592
+Yeah, OpenAI.
+
+79
+00:03:52,592 --> 00:03:54,510
+Yeah, so yeah, this is possible.
+
+80
+00:03:54,510 --> 00:03:55,680
+Yeah, okay.
+
+81
+00:03:55,680 --> 00:03:58,320
+So, this is what we've been doing.
+
+82
+00:03:58,320 --> 00:04:01,140
+And if you are very interested in working with us
+
+83
+00:04:01,140 --> 00:04:04,800
+to turn your curriculum into VR or immersive experience,
+
+84
+00:04:04,800 --> 00:04:08,670
+feel free to contact me.
+
+85
+00:04:08,670 --> 00:04:12,180
+And then next one will be Inga.
+
+86
+00:04:15,150 --> 00:04:20,150
+Do you wanna talk about your strip section?
+
+87
+00:04:21,271 --> 00:04:23,040
+- That video was more like just to...
+
+88
+00:04:23,040 --> 00:04:24,450
+Should we start from introductions,
+
+89
+00:04:24,450 --> 00:04:26,910
+or you just want to play the videos now?
+
+90
+00:04:26,910 --> 00:04:30,960
+- Do you wanna introduce again, and so I play it?
+
+91
+00:04:30,960 --> 00:04:31,830
+Yeah, more formal.
+
+92
+00:04:31,830 --> 00:04:33,161
+Yeah.
+
+93
+00:04:33,161 --> 00:04:34,410
+- Let's start with me.
+
+94
+00:04:34,410 --> 00:04:35,550
+So, hello everyone.
+
+95
+00:04:35,550 --> 00:04:39,270
+I'm Inga, I'm founder and CEO of ShapesXR.
+
+96
+00:04:39,270 --> 00:04:40,980
+Computer scientist by education.
+
+97
+00:04:40,980 --> 00:04:45,930
+Worked in big corporate companies for almost 15 years,
+
+98
+00:04:45,930 --> 00:04:50,130
+and started this VR company almost eight years ago.
+
+99
+00:04:50,130 --> 00:04:55,130
+And basically the mission behind ShapesXR is to make design,
+
+100
+00:04:56,910 --> 00:05:01,320
+collaboration, and prototyping as simple as possible.
+
+101
+00:05:01,320 --> 00:05:03,690
+You don't need to have any 3D scales,
+
+102
+00:05:03,690 --> 00:05:05,940
+you don't need to know how to code.
+
+103
+00:05:05,940 --> 00:05:09,420
+And inspired by the fact that understanding the scale
+
+104
+00:05:09,420 --> 00:05:14,100
+and 3D in VR is so much easier than on a flat screen.
+
+105
+00:05:14,100 --> 00:05:16,410
+So right now, the video that is playing,
+
+106
+00:05:16,410 --> 00:05:18,213
+it's not about that much ShapesXR,
+
+107
+00:05:18,213 --> 00:05:21,690
+it's just one example of the college
+
+108
+00:05:21,690 --> 00:05:24,810
+in the state of Washington that was using Shapes for,
+
+109
+00:05:24,810 --> 00:05:28,950
+and encourage students to just be creative, collaborate,
+
+110
+00:05:28,950 --> 00:05:33,950
+and talk about our biology in VR, in a shared space.
+
+111
+00:05:34,470 --> 00:05:36,750
+All of them can be in the same shared space,
+
+112
+00:05:36,750 --> 00:05:39,750
+and they can really interact with models,
+
+113
+00:05:39,750 --> 00:05:42,390
+and they can build fully interactive
+
+114
+00:05:42,390 --> 00:05:46,320
+and animated presentations and prototypes.
+
+115
+00:05:46,320 --> 00:05:51,320
+So, even though Shapes was built to enable content
+
+116
+00:05:51,840 --> 00:05:56,130
+for wearables, meaning VR headsets, AR glasses,
+
+117
+00:05:56,130 --> 00:05:57,393
+and stuff like that,
+
+118
+00:05:58,560 --> 00:06:01,620
+we see some incredible traction with universities,
+
+119
+00:06:01,620 --> 00:06:03,720
+community colleges, and high school.
+
+120
+00:06:03,720 --> 00:06:05,460
+By the way, I have no idea how the budgets
+
+121
+00:06:05,460 --> 00:06:06,360
+are being distributed.
+
+122
+00:06:06,360 --> 00:06:09,570
+Because sometimes you come to Stanford Design School
+
+123
+00:06:09,570 --> 00:06:11,370
+and no one have a headset.
+
+124
+00:06:11,370 --> 00:06:16,370
+And then some really unknown high school from the East coast
+
+125
+00:06:16,830 --> 00:06:21,690
+is reaching out and mentioning that they got 50 Meta Quests.
+
+126
+00:06:21,690 --> 00:06:25,950
+And they do want to introduce XR to the curricular,
+
+127
+00:06:25,950 --> 00:06:28,710
+make students becoming very creative
+
+128
+00:06:28,710 --> 00:06:32,370
+and push them from pure content consumption to creation.
+
+129
+00:06:32,370 --> 00:06:33,960
+Because when they created something,
+
+130
+00:06:33,960 --> 00:06:36,576
+they're eager to experience that,
+
+131
+00:06:36,576 --> 00:06:38,880
+they are eager to present that to others,
+
+132
+00:06:38,880 --> 00:06:40,500
+and this is how they learn.
+
+133
+00:06:40,500 --> 00:06:43,560
+And there are lots of research showing that,
+
+134
+00:06:43,560 --> 00:06:47,820
+understanding a lot of subject that are about 3D things.
+
+135
+00:06:47,820 --> 00:06:50,520
+It's about, our world is spatial, right?
+
+136
+00:06:50,520 --> 00:06:55,350
+Spatial connections is super, super powerful.
+
+137
+00:06:55,350 --> 00:06:56,790
+But I probably stop here,
+
+138
+00:06:56,790 --> 00:06:59,924
+so it was probably too long introduction.
+
+139
+00:06:59,924 --> 00:07:00,757
+Yeah, I want others to speak.
+
+140
+00:07:00,757 --> 00:07:01,920
+- No worries.
+
+141
+00:07:01,920 --> 00:07:04,653
+Yeah, ShapesXR is an amazing tool.
+
+142
+00:07:05,655 --> 00:07:07,620
+A few years ago, right?
+
+143
+00:07:07,620 --> 00:07:11,283
+X-Reality Pro, if you saw the previous videos,
+
+144
+00:07:12,810 --> 00:07:15,420
+we work with ShapesXR and create a hacker zone.
+
+145
+00:07:15,420 --> 00:07:20,420
+And we had around a hundred people sign up.
+
+146
+00:07:20,520 --> 00:07:24,600
+Yeah, and we, at the end, we deliver seven group projects,
+
+147
+00:07:24,600 --> 00:07:27,120
+and those are super amazing.
+
+148
+00:07:27,120 --> 00:07:31,230
+Yeah, so definitely go to ShapesXR website and take a look.
+
+149
+00:07:31,230 --> 00:07:34,740
+And you have education plan, right, for educators?
+
+150
+00:07:34,740 --> 00:07:38,760
+Yeah, can you tell us a educator plan?
+
+151
+00:07:38,760 --> 00:07:43,760
+- I mean, we do believe that it's really help you
+
+152
+00:07:45,870 --> 00:07:48,750
+to engage students in entirely new way.
+
+153
+00:07:48,750 --> 00:07:52,380
+We also love to see how comfortable teachers are
+
+154
+00:07:52,380 --> 00:07:53,430
+to use the platform,
+
+155
+00:07:53,430 --> 00:07:56,100
+again, because it's so accessible and easy.
+
+156
+00:07:56,100 --> 00:07:58,740
+And we have people who help you, onboard you.
+
+157
+00:07:58,740 --> 00:08:00,270
+We have lessons plan.
+
+158
+00:08:00,270 --> 00:08:02,280
+So you can just request a lesson plan,
+
+159
+00:08:02,280 --> 00:08:05,520
+and then you have your entire semester educational plan.
+
+160
+00:08:05,520 --> 00:08:07,860
+We build that because sometimes it's so hard
+
+161
+00:08:07,860 --> 00:08:10,170
+to introduce something new to the college.
+
+162
+00:08:10,170 --> 00:08:11,670
+You have to build the program,
+
+163
+00:08:11,670 --> 00:08:14,220
+you have to build the entire set
+
+164
+00:08:14,220 --> 00:08:15,900
+of slides and presentations.
+
+165
+00:08:15,900 --> 00:08:16,830
+So, we did that.
+
+166
+00:08:16,830 --> 00:08:21,300
+And yeah, we tried to support schools to introduce XR.
+
+167
+00:08:21,300 --> 00:08:24,960
+We helped communicate that to budget owners.
+
+168
+00:08:24,960 --> 00:08:27,180
+If you need hardware, if you don't need hardware,
+
+169
+00:08:27,180 --> 00:08:29,970
+we give advice what hardware is better today.
+
+170
+00:08:29,970 --> 00:08:31,470
+And a lot of case studies,
+
+171
+00:08:31,470 --> 00:08:34,200
+a lot of case studies with high schools, with colleges,
+
+172
+00:08:34,200 --> 00:08:35,520
+with universities,
+
+173
+00:08:35,520 --> 00:08:38,010
+with some measurable return of investment.
+
+174
+00:08:38,010 --> 00:08:42,900
+And I see that universities try to be competitive.
+
+175
+00:08:42,900 --> 00:08:45,510
+And my daughter is a senior,
+
+176
+00:08:45,510 --> 00:08:48,150
+a 12th grade student at Palo Alta High School.
+
+177
+00:08:48,150 --> 00:08:51,540
+And every week we get a lot of promotions
+
+178
+00:08:51,540 --> 00:08:52,920
+from different universities.
+
+179
+00:08:52,920 --> 00:08:56,280
+And I see so many times when they advertise headsets
+
+180
+00:08:56,280 --> 00:08:58,710
+on their promotional brochure.
+
+181
+00:08:58,710 --> 00:09:01,650
+So, it means that universities want to stand out,
+
+182
+00:09:01,650 --> 00:09:03,600
+to be innovative, to show that we are teaching
+
+183
+00:09:03,600 --> 00:09:05,910
+you the professions of the future,
+
+184
+00:09:05,910 --> 00:09:07,290
+we are teaching you the skills
+
+185
+00:09:07,290 --> 00:09:09,480
+that will be in demand five years from now.
+
+186
+00:09:09,480 --> 00:09:11,160
+And I really strongly believe
+
+187
+00:09:11,160 --> 00:09:16,160
+that you have to teach students spatial thinking,
+
+188
+00:09:16,170 --> 00:09:17,003
+building content,
+
+189
+00:09:17,003 --> 00:09:20,970
+experience content in this new competing platform.
+
+190
+00:09:20,970 --> 00:09:23,220
+Because I strongly believe that the flat screen
+
+191
+00:09:23,220 --> 00:09:24,660
+is an incredible computing platform,
+
+192
+00:09:24,660 --> 00:09:26,970
+but the future of computing is spatial.
+
+193
+00:09:26,970 --> 00:09:29,130
+So, that's why I really encourage you at least
+
+194
+00:09:29,130 --> 00:09:33,543
+to start exploring that and start immersing yourself
+
+195
+00:09:36,360 --> 00:09:37,530
+into this new medium.
+
+196
+00:09:37,530 --> 00:09:41,400
+And then there are so many startups like our company,
+
+197
+00:09:41,400 --> 00:09:43,650
+and we have other beautiful,
+
+198
+00:09:43,650 --> 00:09:48,650
+great tools that are very collaborative and we want to help.
+
+199
+00:09:49,020 --> 00:09:50,640
+And we talk to every school,
+
+200
+00:09:50,640 --> 00:09:55,053
+every university that wants to start teaching XR.
+
+201
+00:09:55,920 --> 00:09:56,850
+- Cool, yeah.
+
+202
+00:09:56,850 --> 00:10:00,600
+So, next one will be Ken.
+
+203
+00:10:00,600 --> 00:10:03,690
+Can you give us a little bit intro of who you are,
+
+204
+00:10:03,690 --> 00:10:06,873
+what do you do, and what inspired you to be here today?
+
+205
+00:10:07,800 --> 00:10:11,459
+- Well, you asked me, that's what inspired me, but.
+
+206
+00:10:11,459 --> 00:10:12,390
+(panelists laugh)
+
+207
+00:10:12,390 --> 00:10:13,830
+Hi, my name is Ken Kubota.
+
+208
+00:10:13,830 --> 00:10:18,693
+I am a serial entrepreneur myself.
+
+209
+00:10:19,560 --> 00:10:22,110
+I started my career at Microsoft,
+
+210
+00:10:22,110 --> 00:10:23,520
+worked there for seven years.
+
+211
+00:10:23,520 --> 00:10:26,520
+Then I worked directly with the CEO of Intel
+
+212
+00:10:26,520 --> 00:10:28,230
+for over 10 years.
+
+213
+00:10:28,230 --> 00:10:29,760
+Andy Grove.
+
+214
+00:10:29,760 --> 00:10:33,300
+And one of the things that is drilled into me
+
+215
+00:10:33,300 --> 00:10:36,840
+by working for him was he was very, very passionate
+
+216
+00:10:36,840 --> 00:10:41,840
+about providing young students, young adults a safety net.
+
+217
+00:10:42,450 --> 00:10:45,360
+For those who are obviously headed for college,
+
+218
+00:10:45,360 --> 00:10:47,520
+absolutely provide that path.
+
+219
+00:10:47,520 --> 00:10:50,220
+But what's really missing in this country
+
+220
+00:10:50,220 --> 00:10:51,960
+is vocational training.
+
+221
+00:10:51,960 --> 00:10:56,830
+To where many talented people never realize their talents
+
+222
+00:10:57,934 --> 00:10:59,850
+and their ability to provide a society
+
+223
+00:10:59,850 --> 00:11:02,340
+because of our lack of vocational training.
+
+224
+00:11:02,340 --> 00:11:05,340
+And this is where the junior college system
+
+225
+00:11:05,340 --> 00:11:07,770
+is really, really important.
+
+226
+00:11:07,770 --> 00:11:08,973
+So, with that said,
+
+227
+00:11:11,040 --> 00:11:14,580
+my career has been filled with creating innovations
+
+228
+00:11:14,580 --> 00:11:15,870
+in digital health.
+
+229
+00:11:15,870 --> 00:11:20,130
+From developing the first at home device
+
+230
+00:11:20,130 --> 00:11:22,920
+for Parkinson's disease patients,
+
+231
+00:11:22,920 --> 00:11:25,593
+direct to brain drug delivery platform.
+
+232
+00:11:27,090 --> 00:11:30,090
+Five years ago I developed a phone bot
+
+233
+00:11:30,090 --> 00:11:33,540
+that answered the phone at Houston Methodist
+
+234
+00:11:33,540 --> 00:11:34,923
+and New York Presbyterian,
+
+235
+00:11:36,008 --> 00:11:39,180
+some of the largest hospitals in our country,
+
+236
+00:11:39,180 --> 00:11:41,010
+to triage COVID patients
+
+237
+00:11:41,010 --> 00:11:43,500
+when they called at 02:30 in the morning.
+
+238
+00:11:43,500 --> 00:11:47,190
+And that bot would either direct patients
+
+239
+00:11:47,190 --> 00:11:52,190
+to a telehealth session, or to a COVID testing center,
+
+240
+00:11:53,670 --> 00:11:57,660
+or direct them and connect them directly to the CDC
+
+241
+00:11:57,660 --> 00:11:58,863
+for more information.
+
+242
+00:11:59,910 --> 00:12:02,730
+It was a drastic time,
+
+243
+00:12:02,730 --> 00:12:05,370
+and the bot was able to triage 50 million patients
+
+244
+00:12:05,370 --> 00:12:10,053
+during that time in 2020, 2021.
+
+245
+00:12:11,730 --> 00:12:15,780
+And now, I'm the chief product officer
+
+246
+00:12:15,780 --> 00:12:19,470
+at a company called IDS Infotech.
+
+247
+00:12:19,470 --> 00:12:24,463
+And we're using AI and 3D rendering
+
+248
+00:12:25,470 --> 00:12:28,320
+to automate revenue cycle management.
+
+249
+00:12:28,320 --> 00:12:31,293
+That is the billing process in healthcare.
+
+250
+00:12:32,280 --> 00:12:36,600
+Really putting it to the insurance companies to pay up.
+
+251
+00:12:36,600 --> 00:12:41,600
+And also in the supply chain of surgical supplies, which is,
+
+252
+00:12:43,140 --> 00:12:47,793
+represents $20 billion of waste in our healthcare system.
+
+253
+00:12:49,050 --> 00:12:52,920
+And so, when I look at the bigger picture
+
+254
+00:12:52,920 --> 00:12:57,920
+of what everyone here is doing in the realm of AI and XR,
+
+255
+00:13:01,020 --> 00:13:03,663
+I think it's really, really super important.
+
+256
+00:13:04,650 --> 00:13:09,360
+From a practical sense, I'm also a father of two teenagers.
+
+257
+00:13:09,360 --> 00:13:13,950
+And my son, he's 15, he's in his sophomore year.
+
+258
+00:13:13,950 --> 00:13:17,943
+And on occasion I'll hesitantly ask, how's it going,
+
+259
+00:13:20,657 --> 00:13:21,510
+and how school's going.
+
+260
+00:13:21,510 --> 00:13:26,510
+And (chuckles) he'd make the perfect terrorist hostage
+
+261
+00:13:28,140 --> 00:13:31,530
+because you're not gonna get any information out of him.
+
+262
+00:13:31,530 --> 00:13:34,560
+He's the expert at one word answers.
+
+263
+00:13:34,560 --> 00:13:35,393
+Ah, how's school?
+
+264
+00:13:35,393 --> 00:13:37,020
+"Good."
+
+265
+00:13:37,020 --> 00:13:37,853
+What's interesting?
+
+266
+00:13:37,853 --> 00:13:38,686
+"Nothing."
+
+267
+00:13:39,838 --> 00:13:40,867
+What do you mean nothing?
+
+268
+00:13:40,867 --> 00:13:42,150
+"It's all boring."
+
+269
+00:13:42,150 --> 00:13:44,073
+Okay, what are you studying?
+
+270
+00:13:45,577 --> 00:13:48,090
+"Ming dynasty in history."
+
+271
+00:13:48,090 --> 00:13:51,060
+And I go, "Ming dynasty, holy cow."
+
+272
+00:13:51,060 --> 00:13:53,550
+The Ming dynasty was responsible for finishing off
+
+273
+00:13:53,550 --> 00:13:57,360
+the Great Wall of China and the forbidden city.
+
+274
+00:13:57,360 --> 00:14:01,170
+And to him, it's just words off of a page.
+
+275
+00:14:01,170 --> 00:14:04,920
+And things, factoids he just has to remember.
+
+276
+00:14:04,920 --> 00:14:07,020
+And it was the same for me,
+
+277
+00:14:07,020 --> 00:14:10,050
+until 20 years later, I got to take a business trip
+
+278
+00:14:10,050 --> 00:14:11,640
+to Beijing.
+
+279
+00:14:11,640 --> 00:14:13,920
+And see the Great Wall of China
+
+280
+00:14:13,920 --> 00:14:16,023
+and the forbidden city myself.
+
+281
+00:14:17,293 --> 00:14:18,960
+And then it came back to me like,
+
+282
+00:14:18,960 --> 00:14:21,003
+oh, this is what we're talking about.
+
+283
+00:14:22,050 --> 00:14:24,810
+The Great Wall of China is the only human edifice
+
+284
+00:14:24,810 --> 00:14:26,880
+that's visible from space.
+
+285
+00:14:26,880 --> 00:14:28,680
+And I saw it for myself,
+
+286
+00:14:28,680 --> 00:14:32,640
+standing on top of it just going into infinity.
+
+287
+00:14:32,640 --> 00:14:37,640
+And it's that visceral experience that I got,
+
+288
+00:14:38,820 --> 00:14:42,330
+that is not present in the classroom,
+
+289
+00:14:42,330 --> 00:14:45,843
+that could bring, that XR could bring to life.
+
+290
+00:14:46,950 --> 00:14:51,060
+It's really about bringing that visceral experience
+
+291
+00:14:51,060 --> 00:14:55,890
+to students to emphasize the significance
+
+292
+00:14:55,890 --> 00:15:00,303
+of what they're reading or being taught in front of them.
+
+293
+00:15:01,410 --> 00:15:06,410
+And in a way that is highly scalable, very cheap,
+
+294
+00:15:11,114 --> 00:15:14,430
+in relationship to actually going to these places.
+
+295
+00:15:14,430 --> 00:15:16,980
+And I really believe
+
+296
+00:15:16,980 --> 00:15:21,510
+that when we talk about invisible technology,
+
+297
+00:15:21,510 --> 00:15:22,743
+you think about,
+
+298
+00:15:24,330 --> 00:15:27,000
+if you watch an episode of "Friends"
+
+299
+00:15:27,000 --> 00:15:29,487
+or you watch a episode of "Psych,"
+
+300
+00:15:30,870 --> 00:15:34,000
+you realize, wow, there's not much difference between
+
+301
+00:15:35,490 --> 00:15:40,490
+the actors who did the series 20 years ago versus today.
+
+302
+00:15:41,460 --> 00:15:43,710
+There's virtually, I mean, you couldn't tell.
+
+303
+00:15:45,240 --> 00:15:46,410
+Other than the fact that every once in a while
+
+304
+00:15:46,410 --> 00:15:49,560
+they may they pull up a flip phone.
+
+305
+00:15:49,560 --> 00:15:53,370
+That's the really only visible difference.
+
+306
+00:15:53,370 --> 00:15:58,370
+And our lives today is vastly, vastly different
+
+307
+00:15:59,430 --> 00:16:02,853
+from our lives 20 years ago.
+
+308
+00:16:03,930 --> 00:16:08,043
+And it's going to become more and more that way.
+
+309
+00:16:09,030 --> 00:16:12,270
+To the extent that as the technology fades
+
+310
+00:16:12,270 --> 00:16:14,610
+into the background and becomes more powerful,
+
+311
+00:16:14,610 --> 00:16:19,610
+at the same time our values are gonna become more apparent.
+
+312
+00:16:23,100 --> 00:16:28,100
+Even amplified, as we all are experiencing right now.
+
+313
+00:16:31,857 --> 00:16:36,030
+And so, really, if I would say,
+
+314
+00:16:36,030 --> 00:16:41,030
+is that empathy and storytelling is the operating system
+
+315
+00:16:44,430 --> 00:16:47,643
+for which the machines could never replicate.
+
+316
+00:16:48,480 --> 00:16:52,653
+And this is what we need to bestow to our students now.
+
+317
+00:16:53,580 --> 00:16:54,513
+It's inevitable.
+
+318
+00:16:56,040 --> 00:16:56,873
+Right?
+
+319
+00:16:57,810 --> 00:17:01,053
+With more and more of this information at our fingertips,
+
+320
+00:17:02,010 --> 00:17:07,010
+3D is definitely going to be an inevitability.
+
+321
+00:17:08,340 --> 00:17:09,750
+And really,
+
+322
+00:17:09,750 --> 00:17:13,350
+if there's anything I'd like you to walk away with,
+
+323
+00:17:13,350 --> 00:17:14,700
+it's how to think about it.
+
+324
+00:17:17,400 --> 00:17:18,450
+- Okay, yeah.
+
+325
+00:17:18,450 --> 00:17:22,650
+So, another speaker.
+
+326
+00:17:22,650 --> 00:17:25,380
+- While passing the microphone, and I mean-
+
+327
+00:17:25,380 --> 00:17:27,210
+- Yeah, only that one works.
+
+328
+00:17:27,210 --> 00:17:30,720
+- Just a quick note on what Ken just mentioned.
+
+329
+00:17:30,720 --> 00:17:34,260
+Even though I do wish every students see
+
+330
+00:17:34,260 --> 00:17:37,050
+the Great Wall of China with their own eyes,
+
+331
+00:17:37,050 --> 00:17:39,300
+because it's still possible, right?
+
+332
+00:17:39,300 --> 00:17:42,360
+There's lots of things that just can't be seen, right?
+
+333
+00:17:42,360 --> 00:17:44,970
+And when I was part of the back to school night
+
+334
+00:17:44,970 --> 00:17:47,370
+and the professor for my daughter in high school,
+
+335
+00:17:47,370 --> 00:17:51,480
+he showed a little bit piece of the actual lesson
+
+336
+00:17:51,480 --> 00:17:52,350
+that he's teaching.
+
+337
+00:17:52,350 --> 00:17:55,230
+And he was explaining, imagine the stars are so small,
+
+338
+00:17:55,230 --> 00:17:56,820
+and this coin, imagine.
+
+339
+00:17:56,820 --> 00:18:00,030
+So, you have to imagine a lot just listening to him.
+
+340
+00:18:00,030 --> 00:18:02,220
+But imagine that you have a headset,
+
+341
+00:18:02,220 --> 00:18:03,870
+and then you explored actual scale.
+
+342
+00:18:03,870 --> 00:18:05,550
+Okay, so these are the planets.
+
+343
+00:18:05,550 --> 00:18:06,900
+And stars are also planets,
+
+344
+00:18:06,900 --> 00:18:08,790
+but they're this big and this is that big,
+
+345
+00:18:08,790 --> 00:18:10,440
+this is the distances.
+
+346
+00:18:10,440 --> 00:18:12,960
+This is something that's so much easier to understand,
+
+347
+00:18:12,960 --> 00:18:14,790
+and there are so many subjects at school
+
+348
+00:18:14,790 --> 00:18:17,220
+and that at community colleges that we teach
+
+349
+00:18:17,220 --> 00:18:18,630
+that is impossible to see.
+
+350
+00:18:18,630 --> 00:18:19,830
+Or it's too expensive.
+
+351
+00:18:19,830 --> 00:18:22,140
+Even the field trip to a nuclear plant
+
+352
+00:18:22,140 --> 00:18:23,400
+is close to impossible.
+
+353
+00:18:23,400 --> 00:18:25,800
+But if you have a digital twin of the nuclear plant
+
+354
+00:18:25,800 --> 00:18:27,060
+that you can explore,
+
+355
+00:18:27,060 --> 00:18:31,320
+it might engage students who picked nuclear physics to study
+
+356
+00:18:31,320 --> 00:18:33,240
+so much more engaged and understand.
+
+357
+00:18:33,240 --> 00:18:36,063
+So, it'll be just so much easier to teach that.
+
+358
+00:18:36,930 --> 00:18:39,123
+But now, the microphone goes to Jason.
+
+359
+00:18:41,276 --> 00:18:43,253
+- Before I do my intro, lemme just comment a little bit.
+
+360
+00:18:45,420 --> 00:18:47,340
+I'll start with the why,
+
+361
+00:18:47,340 --> 00:18:48,660
+and then I'll come back to who I am.
+
+362
+00:18:48,660 --> 00:18:51,510
+Which is to your point, Ken,
+
+363
+00:18:51,510 --> 00:18:56,250
+what is it about an AI that is different than a human
+
+364
+00:18:56,250 --> 00:18:57,360
+and humans are different than AI
+
+365
+00:18:57,360 --> 00:18:58,800
+that will never ever change?
+
+366
+00:18:58,800 --> 00:19:01,560
+And to me, the answer is experience.
+
+367
+00:19:01,560 --> 00:19:05,040
+We will always experience that awe and wonder,
+
+368
+00:19:05,040 --> 00:19:09,300
+and have that human experience.
+
+369
+00:19:09,300 --> 00:19:11,670
+Our interaction, our human touch as well
+
+370
+00:19:11,670 --> 00:19:14,970
+that's in a collaborative classroom is way better
+
+371
+00:19:14,970 --> 00:19:16,230
+than online in my opinion.
+
+372
+00:19:16,230 --> 00:19:19,350
+But if experience is the goal,
+
+373
+00:19:19,350 --> 00:19:23,940
+then with XR, with 3D, with augmented reality,
+
+374
+00:19:23,940 --> 00:19:27,990
+we can see and understand and build mental models
+
+375
+00:19:27,990 --> 00:19:30,030
+that are very different than hearing a bunch of,
+
+376
+00:19:30,030 --> 00:19:30,990
+reading a bunch of texts
+
+377
+00:19:30,990 --> 00:19:34,140
+or even hearing texts coming out of an OpenAI.
+
+378
+00:19:34,140 --> 00:19:36,420
+Even when it generates an image or a video,
+
+379
+00:19:36,420 --> 00:19:41,340
+it's still not giving us that deep, full human experience
+
+380
+00:19:41,340 --> 00:19:46,080
+that a binaural visualization floating in front of you does.
+
+381
+00:19:46,080 --> 00:19:49,530
+So, that's the why spatial computing, I think is interesting
+
+382
+00:19:49,530 --> 00:19:53,850
+and why it's so much more than just AI on its own,
+
+383
+00:19:53,850 --> 00:19:56,160
+and so much more impactful.
+
+384
+00:19:56,160 --> 00:19:56,993
+- Cool.
+
+385
+00:19:56,993 --> 00:19:58,920
+So yeah, Jason.
+
+386
+00:19:58,920 --> 00:20:02,280
+Jason is also doing a lot of very cool.
+
+387
+00:20:02,280 --> 00:20:03,180
+A long time ago,
+
+388
+00:20:03,180 --> 00:20:06,547
+I remember first time when I met Jason was in AWE,
+
+389
+00:20:07,440 --> 00:20:08,460
+is here.
+
+390
+00:20:08,460 --> 00:20:10,830
+And Jason was demonstrate,
+
+391
+00:20:10,830 --> 00:20:13,953
+using HoloLens to show Charlie Fink, right?
+
+392
+00:20:15,120 --> 00:20:18,210
+How amazing that you can visualize the data.
+
+393
+00:20:18,210 --> 00:20:23,210
+So, Jason today brought the new toy, XREAL.
+
+394
+00:20:23,610 --> 00:20:26,850
+Yeah, so yeah, we are going to play
+
+395
+00:20:26,850 --> 00:20:31,850
+some interesting experiment that Flow Immersive is,
+
+396
+00:20:31,950 --> 00:20:34,320
+or heavy.
+
+397
+00:20:34,320 --> 00:20:36,750
+- So, not an experiment, this is live.
+
+398
+00:20:36,750 --> 00:20:39,720
+This is the company that I've founded,
+
+399
+00:20:39,720 --> 00:20:41,220
+it's called Flow Immersive.
+
+400
+00:20:41,220 --> 00:20:43,080
+We've been working on this for nine years
+
+401
+00:20:43,080 --> 00:20:45,180
+with half dozen engineers.
+
+402
+00:20:45,180 --> 00:20:49,200
+And my one statement I say is,
+
+403
+00:20:49,200 --> 00:20:51,870
+what does it feel like to float your data
+
+404
+00:20:51,870 --> 00:20:53,670
+over the conference room table,
+
+405
+00:20:53,670 --> 00:20:56,580
+and all be able to stand around and interact with it
+
+406
+00:20:56,580 --> 00:20:58,380
+and have a great conversation,
+
+407
+00:20:58,380 --> 00:21:02,040
+have the best data conversation you've ever seen?
+
+408
+00:21:02,040 --> 00:21:05,580
+And that really is what a PowerPoint should be.
+
+409
+00:21:05,580 --> 00:21:07,410
+It should be a conversation starter.
+
+410
+00:21:07,410 --> 00:21:10,860
+It should be a human multi-user interaction,
+
+411
+00:21:10,860 --> 00:21:13,950
+where people can answer their questions, and dive,
+
+412
+00:21:13,950 --> 00:21:16,350
+and build these great mental models.
+
+413
+00:21:16,350 --> 00:21:18,360
+So, I firmly believe that this is the way we will
+
+414
+00:21:18,360 --> 00:21:20,970
+all experience our data, our financial data.
+
+415
+00:21:20,970 --> 00:21:25,200
+Students can understand impacts of climate. (chuckles)
+
+416
+00:21:25,200 --> 00:21:26,140
+Or however else.
+
+417
+00:21:26,140 --> 00:21:28,890
+And I have some examples of high school students doing
+
+418
+00:21:28,890 --> 00:21:30,033
+that around the world.
+
+419
+00:21:31,213 --> 00:21:32,046
+And then in addition,
+
+420
+00:21:32,046 --> 00:21:35,010
+you really wanna have a sense of mastering control
+
+421
+00:21:35,010 --> 00:21:37,980
+over this data, over your environment.
+
+422
+00:21:37,980 --> 00:21:39,060
+Think about Iron Man,
+
+423
+00:21:39,060 --> 00:21:42,750
+he can ask Jarvis to build him a new element.
+
+424
+00:21:42,750 --> 00:21:44,810
+Well, in this case with AI...
+
+425
+00:21:45,930 --> 00:21:46,763
+You can stop it,
+
+426
+00:21:46,763 --> 00:21:48,736
+it's going on to some other random video there.
+
+427
+00:21:48,736 --> 00:21:50,153
+- Oh, okay, okay.
+
+428
+00:21:51,720 --> 00:21:56,700
+- Use an AI to just speak to your data.
+
+429
+00:21:56,700 --> 00:21:59,460
+And the most common thing is it will write the Python code
+
+430
+00:21:59,460 --> 00:22:03,420
+that reprocess the dataset and throws it back into 3D space.
+
+431
+00:22:03,420 --> 00:22:04,770
+It's very agentic.
+
+432
+00:22:04,770 --> 00:22:06,540
+You can ask it to do five things at once,
+
+433
+00:22:06,540 --> 00:22:08,760
+and it'll just go through them all and figure it out.
+
+434
+00:22:08,760 --> 00:22:10,680
+And it can be very simple.
+
+435
+00:22:10,680 --> 00:22:13,230
+Filter to show me the most performing stock.
+
+436
+00:22:13,230 --> 00:22:15,360
+Or it can be very complex.
+
+437
+00:22:15,360 --> 00:22:16,980
+Run a random forest regression
+
+438
+00:22:16,980 --> 00:22:21,210
+on this pharmaceutical dataset to figure out
+
+439
+00:22:21,210 --> 00:22:24,510
+the impact different columns are having
+
+440
+00:22:24,510 --> 00:22:29,310
+on time to eye-opening after anesthesiology kind of dataset,
+
+441
+00:22:29,310 --> 00:22:32,820
+after see people wake up after surgery and in time.
+
+442
+00:22:32,820 --> 00:22:37,820
+So, our overall purpose and why I'm here is,
+
+443
+00:22:40,560 --> 00:22:42,810
+I am actually really obsessed with education.
+
+444
+00:22:42,810 --> 00:22:44,910
+I took two years outta my high tech career
+
+445
+00:22:44,910 --> 00:22:48,480
+and started a K-eight charter Montessori school.
+
+446
+00:22:48,480 --> 00:22:51,597
+It opened with 120 students and lasted for 15 years,
+
+447
+00:22:51,597 --> 00:22:53,580
+and COVID killed it.
+
+448
+00:22:53,580 --> 00:22:54,660
+If I had still been there,
+
+449
+00:22:54,660 --> 00:22:56,340
+I'd probably could've been able to keep it alive.
+
+450
+00:22:56,340 --> 00:22:59,193
+But with Montessori,
+
+451
+00:23:01,140 --> 00:23:03,030
+the thing that really appealed to me
+
+452
+00:23:03,030 --> 00:23:06,420
+is this sensorial experience.
+
+453
+00:23:06,420 --> 00:23:11,420
+You take the, a cube of maybe 10 by 10,
+
+454
+00:23:12,270 --> 00:23:14,160
+think of 10 by 10 little cubes next to each other.
+
+455
+00:23:14,160 --> 00:23:16,530
+Take this cube,
+
+456
+00:23:16,530 --> 00:23:19,920
+and you turn it over and feel it and experience it,
+
+457
+00:23:19,920 --> 00:23:21,540
+and suddenly you have a totally different experience
+
+458
+00:23:21,540 --> 00:23:25,110
+of what it means to cube something or a cube root.
+
+459
+00:23:25,110 --> 00:23:28,680
+Now, oh it's a cube root is exactly what relationship
+
+460
+00:23:28,680 --> 00:23:29,850
+to this cube.
+
+461
+00:23:29,850 --> 00:23:32,790
+And it works all the way up to algebra, these manipulatives.
+
+462
+00:23:32,790 --> 00:23:35,160
+Even the kindergartners were used to,
+
+463
+00:23:35,160 --> 00:23:38,970
+like the sandpaper letters where they trace out the letters,
+
+464
+00:23:38,970 --> 00:23:43,110
+and that experience, yes it's sensorial,
+
+465
+00:23:43,110 --> 00:23:45,720
+but it also activates your 3D brain
+
+466
+00:23:45,720 --> 00:23:47,640
+in a really wonderful way.
+
+467
+00:23:47,640 --> 00:23:49,770
+And we have 3D brains, believe it or not.
+
+468
+00:23:49,770 --> 00:23:51,540
+We've forgotten about it with all these flat screens,
+
+469
+00:23:51,540 --> 00:23:53,580
+and even books, and even cave walls.
+
+470
+00:23:53,580 --> 00:23:56,100
+But we build our mental models
+
+471
+00:23:56,100 --> 00:23:57,843
+to understand the world in 3D.
+
+472
+00:23:58,770 --> 00:24:00,180
+Think about a mammal
+
+473
+00:24:00,180 --> 00:24:02,550
+like a rat finding its way through a maze.
+
+474
+00:24:02,550 --> 00:24:06,270
+It knows where, how to get around because it's so innate
+
+475
+00:24:06,270 --> 00:24:08,070
+into the way our brains work.
+
+476
+00:24:08,070 --> 00:24:10,800
+And when you build this kind of,
+
+477
+00:24:10,800 --> 00:24:13,380
+when you have this kind of visualization,
+
+478
+00:24:13,380 --> 00:24:15,060
+it goes through your hippocampus.
+
+479
+00:24:15,060 --> 00:24:17,700
+We can go into brain science forever, I love this stuff.
+
+480
+00:24:17,700 --> 00:24:19,470
+I'm not an expert, but I love this stuff.
+
+481
+00:24:19,470 --> 00:24:20,820
+It goes through your hippocampus
+
+482
+00:24:20,820 --> 00:24:22,980
+and goes into your longer term memory.
+
+483
+00:24:22,980 --> 00:24:26,520
+So, I have showed people things in glasses and in headsets,
+
+484
+00:24:26,520 --> 00:24:29,100
+and years later come back and I've asked them,
+
+485
+00:24:29,100 --> 00:24:30,510
+do you remember what you saw?
+
+486
+00:24:30,510 --> 00:24:33,420
+And they can describe it to me in detail.
+
+487
+00:24:33,420 --> 00:24:36,273
+That will never happen with a PowerPoint deck.
+
+488
+00:24:37,440 --> 00:24:39,900
+PowerPoint violates the way your brain works,
+
+489
+00:24:39,900 --> 00:24:41,490
+all these things disappearing.
+
+490
+00:24:41,490 --> 00:24:43,530
+Every time you go to a new slide,
+
+491
+00:24:43,530 --> 00:24:45,060
+your brain doesn't know how to organize it.
+
+492
+00:24:45,060 --> 00:24:47,710
+So, using this kind of tool
+
+493
+00:24:48,690 --> 00:24:52,230
+to enhance both the way we use AI,
+
+494
+00:24:52,230 --> 00:24:54,750
+but also to enhance really building those good mental models
+
+495
+00:24:54,750 --> 00:24:57,600
+for students, I think is really exciting.
+
+496
+00:24:57,600 --> 00:24:58,433
+- And just,
+
+497
+00:24:58,433 --> 00:25:01,110
+I have some research data on what you just mentioned.
+
+498
+00:25:01,110 --> 00:25:05,730
+So, one of our users, Imperial College London in UK,
+
+499
+00:25:05,730 --> 00:25:06,690
+they did a research.
+
+500
+00:25:06,690 --> 00:25:10,350
+So, they ask students if you have to compare 2D and 3D,
+
+501
+00:25:10,350 --> 00:25:12,150
+what do you think is more complicated?
+
+502
+00:25:12,150 --> 00:25:15,150
+And like, oh 2D is so much easier than 3D.
+
+503
+00:25:15,150 --> 00:25:19,230
+So, as soon as they think 3D, they think about complexity,
+
+504
+00:25:19,230 --> 00:25:23,100
+they think about very high entrance level.
+
+505
+00:25:23,100 --> 00:25:26,520
+And so, the reason for that is that even though,
+
+506
+00:25:26,520 --> 00:25:29,670
+again, as Jason just said, our brain is 3D,
+
+507
+00:25:29,670 --> 00:25:31,890
+what is more important the world is 3D.
+
+508
+00:25:31,890 --> 00:25:33,960
+Everything is 3D and spatial.
+
+509
+00:25:33,960 --> 00:25:35,550
+Why 2D is easier?
+
+510
+00:25:35,550 --> 00:25:39,030
+Because they think immediately about 3D tools
+
+511
+00:25:39,030 --> 00:25:41,010
+on a flat 2D screen.
+
+512
+00:25:41,010 --> 00:25:42,240
+Which literally sucks.
+
+513
+00:25:42,240 --> 00:25:44,370
+Because if you think of Blender, or Maya,
+
+514
+00:25:44,370 --> 00:25:47,610
+or even game engines, Unity, Unreal, whatever,
+
+515
+00:25:47,610 --> 00:25:50,730
+they are 3D tools but on a flat screen tool.
+
+516
+00:25:50,730 --> 00:25:53,790
+And then this technology is so visible.
+
+517
+00:25:53,790 --> 00:25:55,410
+I mean, it's not invisible at all
+
+518
+00:25:55,410 --> 00:25:58,110
+because it's very heavy UI.
+
+519
+00:25:58,110 --> 00:26:00,930
+And it's like that's why a lot of students
+
+520
+00:26:00,930 --> 00:26:02,520
+during that survey they mentioned,
+
+521
+00:26:02,520 --> 00:26:05,550
+no, we go 2D design career.
+
+522
+00:26:05,550 --> 00:26:09,720
+But then 2D design career is limited to web app design.
+
+523
+00:26:09,720 --> 00:26:12,690
+Because how can you redesign the world.
+
+524
+00:26:12,690 --> 00:26:16,443
+Oh, you have to learn very complex 3D tools
+
+525
+00:26:16,443 --> 00:26:18,450
+with a very, very steep learning curve
+
+526
+00:26:18,450 --> 00:26:22,650
+that a lot of creative people never actually choose.
+
+527
+00:26:22,650 --> 00:26:26,190
+And that's why I was also shocked when,
+
+528
+00:26:26,190 --> 00:26:28,110
+then Chanel was mentioning
+
+529
+00:26:28,110 --> 00:26:30,900
+that they're still hiring fashion designers
+
+530
+00:26:30,900 --> 00:26:33,000
+who just use a pen and a paper.
+
+531
+00:26:33,000 --> 00:26:37,320
+They're never using 3D flat screen tools,
+
+532
+00:26:37,320 --> 00:26:38,700
+but 2D tools is not enough.
+
+533
+00:26:38,700 --> 00:26:40,680
+So, that's why they're still drawing
+
+534
+00:26:40,680 --> 00:26:43,260
+everything on just a piece of paper.
+
+535
+00:26:43,260 --> 00:26:48,260
+So, XR and virtual reality headset making this interaction
+
+536
+00:26:48,300 --> 00:26:50,040
+with 3D truly invisible,
+
+537
+00:26:50,040 --> 00:26:52,110
+because this is just like you in real world.
+
+538
+00:26:52,110 --> 00:26:54,240
+If you want to grab a chair and move it,
+
+539
+00:26:54,240 --> 00:26:55,980
+you just grab a chair and move it.
+
+540
+00:26:55,980 --> 00:27:00,093
+You don't have to say click, select a chair, then move.
+
+541
+00:27:01,239 --> 00:27:02,370
+It's not about clicking QI,
+
+542
+00:27:02,370 --> 00:27:04,800
+you just literally behave like you do.
+
+543
+00:27:04,800 --> 00:27:08,940
+It's very behavioral, very experiential type of thinking
+
+544
+00:27:08,940 --> 00:27:10,800
+and designing and building.
+
+545
+00:27:10,800 --> 00:27:13,590
+And that's why it's so unfair when a lot of students,
+
+546
+00:27:13,590 --> 00:27:15,240
+they don't go for 3D career
+
+547
+00:27:15,240 --> 00:27:17,940
+even though we do believe that 3D is gonna outpace 2D.
+
+548
+00:27:17,940 --> 00:27:21,630
+Because again, the world is 3D, everything is 3D.
+
+549
+00:27:21,630 --> 00:27:24,990
+Because they immediately think about all the complexity
+
+550
+00:27:24,990 --> 00:27:28,500
+of the UI user interfaces of the 3D things
+
+551
+00:27:28,500 --> 00:27:29,730
+on a flat study screen.
+
+552
+00:27:29,730 --> 00:27:31,893
+So, that's why I really want this,
+
+553
+00:27:33,612 --> 00:27:34,620
+to see how this is changing.
+
+554
+00:27:34,620 --> 00:27:38,280
+And 3D immersive tools help to understand
+
+555
+00:27:38,280 --> 00:27:40,620
+that 3D can be very accessible.
+
+556
+00:27:40,620 --> 00:27:45,240
+What is more important, it's a next level of collaboration.
+
+557
+00:27:45,240 --> 00:27:48,570
+Because it's not like you see a mouse of someone
+
+558
+00:27:48,570 --> 00:27:49,860
+on the same screen.
+
+559
+00:27:49,860 --> 00:27:52,560
+You actually see a person or an avatar,
+
+560
+00:27:52,560 --> 00:27:54,960
+like digital representation of the person.
+
+561
+00:27:54,960 --> 00:27:57,360
+It's a very high sense of presence,
+
+562
+00:27:57,360 --> 00:28:00,570
+which really encourage them to collaborate.
+
+563
+00:28:00,570 --> 00:28:02,910
+And another research, and I stop then,
+
+564
+00:28:02,910 --> 00:28:05,130
+was actually done by Stanford.
+
+565
+00:28:05,130 --> 00:28:09,540
+They were saying that the most talkative and vocal students
+
+566
+00:28:09,540 --> 00:28:13,470
+in the classroom, in VR,
+
+567
+00:28:13,470 --> 00:28:15,060
+people who never say a word,
+
+568
+00:28:15,060 --> 00:28:18,570
+who seems to be like not engaged in the conversation,
+
+569
+00:28:18,570 --> 00:28:20,250
+when they're behind the avatar
+
+570
+00:28:20,250 --> 00:28:22,410
+and when they are given all those tools,
+
+571
+00:28:22,410 --> 00:28:26,010
+they become so creative and so opinionated.
+
+572
+00:28:26,010 --> 00:28:28,740
+And that's also helped them to unlock the potential
+
+573
+00:28:28,740 --> 00:28:31,860
+of those student that usually when we just see each other
+
+574
+00:28:31,860 --> 00:28:34,680
+are not engaging that much into conversation.
+
+575
+00:28:34,680 --> 00:28:35,913
+Yeah, so.
+
+576
+00:28:37,320 --> 00:28:39,480
+- The technology becoming invisible
+
+577
+00:28:39,480 --> 00:28:43,230
+because it's the way humans brains and hands work.
+
+578
+00:28:43,230 --> 00:28:44,409
+- Yeah, yeah.
+
+579
+00:28:44,409 --> 00:28:45,757
+- So, it becomes invisible.
+
+580
+00:28:45,757 --> 00:28:46,590
+- Yeah.
+
+581
+00:28:46,590 --> 00:28:49,260
+So, that's why we...
+
+582
+00:28:49,260 --> 00:28:52,200
+I know our topic is called behind the scenes,
+
+583
+00:28:52,200 --> 00:28:54,150
+the rise of invisible tech.
+
+584
+00:28:54,150 --> 00:28:59,150
+Through spatial, through XR, through our brand wiring,
+
+585
+00:28:59,850 --> 00:29:03,840
+all the UI start become dissolved,
+
+586
+00:29:03,840 --> 00:29:08,430
+and AI really helps us to, yeah, automate.
+
+587
+00:29:08,430 --> 00:29:10,830
+Like Orimba said that,
+
+588
+00:29:10,830 --> 00:29:15,830
+AWE founder said that XR is the interface of AI.
+
+589
+00:29:18,872 --> 00:29:23,130
+So, whatever you wanna visualize in AI, right, that's XR.
+
+590
+00:29:23,130 --> 00:29:26,760
+So, that's why we brought up the spatial AI.
+
+591
+00:29:26,760 --> 00:29:30,420
+Okay, so I think we are at the time,
+
+592
+00:29:30,420 --> 00:29:34,020
+and all our speakers are pretty much talk a lot
+
+593
+00:29:34,020 --> 00:29:39,020
+about spatial AI and also how it apply education.
+
+594
+00:29:40,350 --> 00:29:43,320
+Now, we can go to our Q&A session.
+
+595
+00:29:43,320 --> 00:29:46,980
+I know a lot of you might have a lot of questions.
+
+596
+00:29:46,980 --> 00:29:47,883
+So, yeah.
+
+597
+00:29:49,459 --> 00:29:50,847
+- [Speaker] Hi, thank you.
+
+598
+00:29:50,847 --> 00:29:52,905
+Because I'm coming to the same thing as you,
+
+599
+00:29:52,905 --> 00:29:56,322
+about how spatial education could enhance
+
+600
+00:29:57,219 --> 00:29:58,837
+my classroom curriculum.
+
+601
+00:29:58,837 --> 00:30:00,707
+This a personal question.
+
+602
+00:30:00,707 --> 00:30:04,786
+I am planning on building a lecture segment
+
+603
+00:30:04,786 --> 00:30:06,586
+in my fall semester,
+
+604
+00:30:06,586 --> 00:30:10,276
+which I look forward to show (indistinct)
+
+605
+00:30:10,276 --> 00:30:12,905
+for the entire district.
+
+606
+00:30:12,905 --> 00:30:14,697
+So, my students are going to expand
+
+607
+00:30:14,697 --> 00:30:16,966
+on different forms of energy.
+
+608
+00:30:16,966 --> 00:30:21,966
+And I learned about (indistinct)
+
+609
+00:30:22,919 --> 00:30:25,439
+so, I'm busy (indistinct)
+
+610
+00:30:25,439 --> 00:30:27,936
+Would you partner with me
+
+611
+00:30:27,936 --> 00:30:31,353
+to make it a spatial presentation product
+
+612
+00:30:33,058 --> 00:30:36,690
+that we can show at the (indistinct)
+
+613
+00:30:36,690 --> 00:30:38,430
+- I say a hundred percent yes.
+
+614
+00:30:38,430 --> 00:30:42,630
+And by the way, it was the World Bank
+
+615
+00:30:42,630 --> 00:30:45,690
+that they were doing similar kind of project.
+
+616
+00:30:45,690 --> 00:30:49,350
+Communicating the climate change and stuff.
+
+617
+00:30:49,350 --> 00:30:50,970
+And doing that spatially,
+
+618
+00:30:50,970 --> 00:30:54,240
+they had so much better understanding
+
+619
+00:30:54,240 --> 00:30:58,320
+and they were able to finally push for some decisions
+
+620
+00:30:58,320 --> 00:30:59,153
+to be made.
+
+621
+00:30:59,153 --> 00:31:01,950
+Because when you just look at slides and data,
+
+622
+00:31:01,950 --> 00:31:03,330
+you just look at slides and data.
+
+623
+00:31:03,330 --> 00:31:05,730
+But when you experience the problem,
+
+624
+00:31:05,730 --> 00:31:07,920
+that's when actually empathy comes,
+
+625
+00:31:07,920 --> 00:31:10,680
+when people understand the problem.
+
+626
+00:31:10,680 --> 00:31:13,500
+But Jason, you were eager to reply,
+
+627
+00:31:13,500 --> 00:31:15,120
+answer this question, right?
+
+628
+00:31:15,120 --> 00:31:18,210
+- Yeah, we've done a number of climate related projects
+
+629
+00:31:18,210 --> 00:31:20,910
+with climate data for the World Bank and the UN.
+
+630
+00:31:20,910 --> 00:31:23,370
+And even had the pleasure of being part
+
+631
+00:31:23,370 --> 00:31:26,280
+of the UN general assembly two years in a row.
+
+632
+00:31:26,280 --> 00:31:30,693
+So, seeing the data on climate,
+
+633
+00:31:32,490 --> 00:31:35,100
+people say it's depressing. (laughs)
+
+634
+00:31:35,100 --> 00:31:38,550
+But when you have data sets like that,
+
+635
+00:31:38,550 --> 00:31:42,540
+that are really exchanging extremely fast,
+
+636
+00:31:42,540 --> 00:31:43,770
+it is very dramatic.
+
+637
+00:31:43,770 --> 00:31:46,500
+And we do have a school in China,
+
+638
+00:31:46,500 --> 00:31:49,260
+the International School of Xingjiang.
+
+639
+00:31:49,260 --> 00:31:51,600
+It's an international baccalaureate school.
+
+640
+00:31:51,600 --> 00:31:52,440
+And they have had
+
+641
+00:31:52,440 --> 00:31:57,120
+their students build climate presentations,
+
+642
+00:31:58,740 --> 00:32:01,650
+multi-step flows, we call our things flows.
+
+643
+00:32:01,650 --> 00:32:04,110
+The company was Flow Immersive if I didn't mention that.
+
+644
+00:32:04,110 --> 00:32:06,630
+And those presentations,
+
+645
+00:32:06,630 --> 00:32:08,910
+they start with a global view
+
+646
+00:32:08,910 --> 00:32:10,950
+and then they bring it to what's actually happening
+
+647
+00:32:10,950 --> 00:32:13,950
+in their city or their community.
+
+648
+00:32:13,950 --> 00:32:17,730
+And then put together either what we call avatar stories,
+
+649
+00:32:17,730 --> 00:32:21,030
+they record themselves presenting, or they create a video.
+
+650
+00:32:21,030 --> 00:32:25,680
+And very engaging process for students to make it real
+
+651
+00:32:25,680 --> 00:32:28,143
+and feel like they can communicate to the world.
+
+652
+00:32:30,632 --> 00:32:34,465
+(speaker speaks indistinctly)
+
+653
+00:32:36,180 --> 00:32:37,395
+- Yeah.
+
+654
+00:32:37,395 --> 00:32:38,610
+Hila, can you help?
+
+655
+00:32:38,610 --> 00:32:39,570
+Yeah, cool, awesome.
+
+656
+00:32:39,570 --> 00:32:40,403
+Thank you.
+
+657
+00:32:41,340 --> 00:32:42,990
+- [Hila] I would like to mention something
+
+658
+00:32:42,990 --> 00:32:44,877
+that many people here may not be aware of,
+
+659
+00:32:44,877 --> 00:32:46,860
+but something that I have observed
+
+660
+00:32:46,860 --> 00:32:49,740
+with kind of being a spatial evangelist going around
+
+661
+00:32:49,740 --> 00:32:52,490
+and showing people like, please, please check this out.
+
+662
+00:32:53,430 --> 00:32:56,760
+Something that I did not expect that I have seen
+
+663
+00:32:56,760 --> 00:33:00,870
+in all of this is that scientists tend to be the people
+
+664
+00:33:00,870 --> 00:33:02,850
+that are the most vulnerable.
+
+665
+00:33:02,850 --> 00:33:04,800
+Because in the arts it's like,
+
+666
+00:33:04,800 --> 00:33:07,140
+yeah, we visualize stuff all the time.
+
+667
+00:33:07,140 --> 00:33:08,760
+It's not that big a deal.
+
+668
+00:33:08,760 --> 00:33:10,500
+But when you get a scientist
+
+669
+00:33:10,500 --> 00:33:13,590
+who has all of these abstract ideas
+
+670
+00:33:13,590 --> 00:33:18,590
+but not a lot of spatial thinking in a visual format,
+
+671
+00:33:18,870 --> 00:33:20,913
+when you show it to them visually,
+
+672
+00:33:21,990 --> 00:33:24,750
+every single one of them has turned into a small child.
+
+673
+00:33:24,750 --> 00:33:28,890
+And it's so wonderful to watch that enthusiasm
+
+674
+00:33:28,890 --> 00:33:30,810
+and that connection,
+
+675
+00:33:30,810 --> 00:33:34,500
+because it's something that they've been so focused on data,
+
+676
+00:33:34,500 --> 00:33:37,264
+they've been so focused on numbers
+
+677
+00:33:37,264 --> 00:33:38,880
+that they haven't even realized
+
+678
+00:33:38,880 --> 00:33:41,910
+there's this whole world of visualization out there as well.
+
+679
+00:33:41,910 --> 00:33:43,710
+- I mean, a hundred percent.
+
+680
+00:33:43,710 --> 00:33:47,940
+And as we say in VR, I mean it's so hard to explain VR.
+
+681
+00:33:47,940 --> 00:33:49,950
+And by VR, I mean any variable,
+
+682
+00:33:49,950 --> 00:33:52,590
+when it's spatial and augmented.
+
+683
+00:33:52,590 --> 00:33:56,700
+That you can forever say that the pizza is so delicious,
+
+684
+00:33:56,700 --> 00:33:59,310
+but until you try this pizza, you don't believe that.
+
+685
+00:33:59,310 --> 00:34:03,120
+But one exact example that you can always win an argument
+
+686
+00:34:03,120 --> 00:34:05,280
+if you communicate that spatially.
+
+687
+00:34:05,280 --> 00:34:06,840
+There was a student,
+
+688
+00:34:06,840 --> 00:34:08,910
+I don't remember the name of the university,
+
+689
+00:34:08,910 --> 00:34:11,580
+and his sister had the lupus disease.
+
+690
+00:34:11,580 --> 00:34:13,560
+And he had his vision to just,
+
+691
+00:34:13,560 --> 00:34:15,030
+okay, there should be some research,
+
+692
+00:34:15,030 --> 00:34:17,220
+but because there is not that much going on.
+
+693
+00:34:17,220 --> 00:34:19,440
+And he built a PowerPoint presentation,
+
+694
+00:34:19,440 --> 00:34:22,200
+he was pitching at every forum but nothing was happening.
+
+695
+00:34:22,200 --> 00:34:27,030
+And then he built a, actually a 3D spatial presentation
+
+696
+00:34:27,030 --> 00:34:31,680
+of how much suffering people with lupus have and stuff.
+
+697
+00:34:31,680 --> 00:34:35,040
+And then he presented it to Johnson and Johnson & Johnson.
+
+698
+00:34:35,040 --> 00:34:37,770
+And Johnson & Johnson then decided to give him funding.
+
+699
+00:34:37,770 --> 00:34:38,940
+He started his company.
+
+700
+00:34:38,940 --> 00:34:41,250
+So, it's all about winning an argument
+
+701
+00:34:41,250 --> 00:34:43,770
+because you can really explain something that is so hard,
+
+702
+00:34:43,770 --> 00:34:45,480
+just like, okay, even if you watch that.
+
+703
+00:34:45,480 --> 00:34:47,610
+But when you are inside, and you're immersed,
+
+704
+00:34:47,610 --> 00:34:51,540
+and you kind of transform to be part of that thing.
+
+705
+00:34:51,540 --> 00:34:53,223
+Same with climate change.
+
+706
+00:34:54,131 --> 00:34:57,330
+And that's very, very powerful and absolutely about science.
+
+707
+00:34:57,330 --> 00:34:59,470
+In science it's so hard to explain things
+
+708
+00:35:01,230 --> 00:35:04,740
+for students to understand, and to make them engaged.
+
+709
+00:35:04,740 --> 00:35:08,013
+And in VR, it's just so much more straightforward.
+
+710
+00:35:10,140 --> 00:35:12,090
+I mean, I have the privilege sitting in the middle,
+
+711
+00:35:12,090 --> 00:35:14,010
+I have more access to this microphone.
+
+712
+00:35:14,010 --> 00:35:15,483
+I read a story about that.
+
+713
+00:35:16,320 --> 00:35:18,090
+I mean, I don't know, I can keep moving it.
+
+714
+00:35:18,090 --> 00:35:23,090
+- I will say, I have a very powerful anecdote about data.
+
+715
+00:35:25,020 --> 00:35:28,110
+I was served as a director of data science
+
+716
+00:35:28,110 --> 00:35:30,810
+at the Michael J. Fox Foundation.
+
+717
+00:35:30,810 --> 00:35:34,020
+And I was responsible for the data
+
+718
+00:35:34,020 --> 00:35:36,630
+on the largest observational study
+
+719
+00:35:36,630 --> 00:35:38,940
+on Parkinson's disease patients.
+
+720
+00:35:38,940 --> 00:35:40,920
+1500 patients,
+
+721
+00:35:40,920 --> 00:35:45,920
+where we track their blood samples, urine samples,
+
+722
+00:35:47,550 --> 00:35:52,550
+spinal tap fluid, cerebral spinal fluid, MRIs and a physical
+
+723
+00:35:53,880 --> 00:35:57,870
+on a quarterly basis for eight years.
+
+724
+00:35:57,870 --> 00:36:02,400
+And I was also responsible for normalizing
+
+725
+00:36:02,400 --> 00:36:06,540
+all the other historical seminal clinical trials
+
+726
+00:36:06,540 --> 00:36:09,570
+on Parkinson's disease to this data.
+
+727
+00:36:09,570 --> 00:36:12,723
+And then I collaborated with a professor from Stanford,
+
+728
+00:36:13,920 --> 00:36:16,980
+who created this startup called Ayasdi.
+
+729
+00:36:16,980 --> 00:36:21,980
+And his startup would take data and make it visual,
+
+730
+00:36:22,830 --> 00:36:27,453
+and create a network, 3D network diagrams of them.
+
+731
+00:36:28,320 --> 00:36:33,180
+And he said, "Why don't you give it a try?"
+
+732
+00:36:33,180 --> 00:36:36,210
+So, I worked with him, we developed this 3D model
+
+733
+00:36:36,210 --> 00:36:40,230
+of all the genes associated with different symptoms
+
+734
+00:36:40,230 --> 00:36:41,193
+of the disease.
+
+735
+00:36:42,150 --> 00:36:44,850
+And there was an outlier.
+
+736
+00:36:44,850 --> 00:36:47,910
+This one gene that stuck out,
+
+737
+00:36:47,910 --> 00:36:50,400
+way out on the side of this 3D model.
+
+738
+00:36:50,400 --> 00:36:52,450
+We just were like, what the heck is that?
+
+739
+00:36:53,670 --> 00:36:57,690
+And it turned out to be this gene,
+
+740
+00:36:57,690 --> 00:36:59,130
+according to the model,
+
+741
+00:36:59,130 --> 00:37:02,163
+that was associated with cognitive decline.
+
+742
+00:37:04,890 --> 00:37:07,890
+And it only took a week to do.
+
+743
+00:37:07,890 --> 00:37:12,890
+So, I showed it to all my PhD peers at the foundation.
+
+744
+00:37:13,020 --> 00:37:14,670
+They were like, "Oh yeah, whatever."
+
+745
+00:37:14,670 --> 00:37:16,140
+They just dismissed it.
+
+746
+00:37:16,140 --> 00:37:17,403
+A year later,
+
+747
+00:37:18,600 --> 00:37:22,980
+both from Stanford and Mount Sinai published papers
+
+748
+00:37:22,980 --> 00:37:25,920
+on the fact that this gene
+
+749
+00:37:25,920 --> 00:37:30,920
+that came up on our three dimensional data representation
+
+750
+00:37:32,160 --> 00:37:35,610
+was indeed associated with cognitive decline
+
+751
+00:37:35,610 --> 00:37:38,640
+across Parkinson's disease and Alzheimer's.
+
+752
+00:37:38,640 --> 00:37:40,023
+It's called EPO4.
+
+753
+00:37:41,430 --> 00:37:44,440
+So, from that day on, anytime I found something
+
+754
+00:37:46,543 --> 00:37:48,090
+in the dataset through 3D model,
+
+755
+00:37:48,090 --> 00:37:49,683
+people would now pay attention.
+
+756
+00:37:50,820 --> 00:37:55,820
+But it's just this amazing, amazing way
+
+757
+00:37:56,130 --> 00:37:58,650
+to take a look at outliers
+
+758
+00:37:58,650 --> 00:38:03,650
+that you cannot see through air bars on a Gantt chart.
+
+759
+00:38:06,330 --> 00:38:08,040
+So, that's what I would have to share with you.
+
+760
+00:38:08,040 --> 00:38:13,040
+It's you can spot things that could be just revolutionary
+
+761
+00:38:14,700 --> 00:38:17,850
+if you just could pay attention
+
+762
+00:38:17,850 --> 00:38:20,160
+to the outliers in your data.
+
+763
+00:38:20,160 --> 00:38:21,210
+Don't throw them out.
+
+764
+00:38:23,100 --> 00:38:24,281
+- Cool.
+
+765
+00:38:24,281 --> 00:38:25,114
+Any questions?
+
+766
+00:38:25,114 --> 00:38:26,203
+Please.
+
+767
+00:38:26,203 --> 00:38:27,291
+- [Speaker] I have a question about this.
+
+768
+00:38:27,291 --> 00:38:29,672
+Part of this barrier, I think first of all
+
+769
+00:38:29,672 --> 00:38:33,211
+(speaker speaks indistinctly)
+
+770
+00:38:33,211 --> 00:38:36,628
+So, the cell but you don't have the cell.
+
+771
+00:38:37,771 --> 00:38:40,501
+But the barriers to adoption are,
+
+772
+00:38:40,501 --> 00:38:43,980
+one, there's not a lot of great content left.
+
+773
+00:38:43,980 --> 00:38:46,410
+And two, the content that's out there
+
+774
+00:38:46,410 --> 00:38:48,450
+is not hardware agnostic.
+
+775
+00:38:48,450 --> 00:38:52,680
+So, we were all buying pole lenses five or 10 years ago.
+
+776
+00:38:52,680 --> 00:38:53,513
+And guess what?
+
+777
+00:38:53,513 --> 00:38:57,418
+And now, we're all like, oh is it gonna MediQuest,
+
+778
+00:38:57,418 --> 00:38:58,632
+is it gonna be Oculus,
+
+779
+00:38:58,632 --> 00:39:02,190
+is it gonna be your new compact product?
+
+780
+00:39:02,190 --> 00:39:05,093
+And it's frustrating and it makes it hard for us to adopt.
+
+781
+00:39:06,552 --> 00:39:08,760
+So, where are we going in terms of development
+
+782
+00:39:08,760 --> 00:39:10,463
+of high level immersatory concepts?
+
+783
+00:39:11,621 --> 00:39:13,650
+And two, are we going the direction
+
+784
+00:39:13,650 --> 00:39:15,990
+of something that is more hardware agnostic
+
+785
+00:39:15,990 --> 00:39:18,051
+or at least coming down to a type of world
+
+786
+00:39:18,051 --> 00:39:20,781
+of being hardware manufacturers?
+
+787
+00:39:20,781 --> 00:39:24,723
+(speaker speaks indistinctly)
+
+788
+00:39:24,723 --> 00:39:26,580
+- I can start, and then Jason.
+
+789
+00:39:26,580 --> 00:39:28,290
+I'm sorry, this is just the the flow.
+
+790
+00:39:28,290 --> 00:39:29,760
+So, you're absolutely right.
+
+791
+00:39:29,760 --> 00:39:30,930
+So, that's a huge barrier,
+
+792
+00:39:30,930 --> 00:39:32,940
+especially when you invest in hardware,
+
+793
+00:39:32,940 --> 00:39:35,130
+Magic Leap or HoloLens, and they discontinue.
+
+794
+00:39:35,130 --> 00:39:38,250
+It's just too expensive and waste of your energy and time.
+
+795
+00:39:38,250 --> 00:39:39,600
+And unfortunately you're right,
+
+796
+00:39:39,600 --> 00:39:42,300
+because it's a lot of independent software vendors
+
+797
+00:39:42,300 --> 00:39:45,540
+that are building products for high schools and colleges.
+
+798
+00:39:45,540 --> 00:39:48,300
+And they're all kind of can be just one platform,
+
+799
+00:39:48,300 --> 00:39:49,133
+just support.
+
+800
+00:39:49,133 --> 00:39:50,640
+Because it's also super expensive for them
+
+801
+00:39:50,640 --> 00:39:52,263
+to be cross-platform, right?
+
+802
+00:39:53,460 --> 00:39:56,070
+Now, with Android XR, as you mentioned,
+
+803
+00:39:56,070 --> 00:39:57,870
+upcoming headset Moohan,
+
+804
+00:39:57,870 --> 00:40:00,450
+it's just the start of the new era I would say.
+
+805
+00:40:00,450 --> 00:40:03,540
+Because I mean they have nine devices in the pipeline,
+
+806
+00:40:03,540 --> 00:40:05,610
+but the good news it's still Android XR,
+
+807
+00:40:05,610 --> 00:40:09,750
+which makes us developers build once and deploy everywhere.
+
+808
+00:40:09,750 --> 00:40:11,970
+So, we are the launch app for Moohan
+
+809
+00:40:11,970 --> 00:40:14,520
+that is coming on October, that's probably confidential,
+
+810
+00:40:14,520 --> 00:40:15,720
+that is coming soon.
+
+811
+00:40:15,720 --> 00:40:17,970
+And then like the next generation
+
+812
+00:40:17,970 --> 00:40:20,190
+of this class is coming next year.
+
+813
+00:40:20,190 --> 00:40:21,990
+And then for us it'll be not one click
+
+814
+00:40:21,990 --> 00:40:23,940
+but close to one click to deploy.
+
+815
+00:40:23,940 --> 00:40:28,590
+I also believe that definitely Quest and Meta
+
+816
+00:40:28,590 --> 00:40:31,920
+is a good solution for education just because of the cost.
+
+817
+00:40:31,920 --> 00:40:33,090
+It's so cheap,
+
+818
+00:40:33,090 --> 00:40:36,450
+and they even give this device management system
+
+819
+00:40:36,450 --> 00:40:39,000
+I believe for free or super, super cheap.
+
+820
+00:40:39,000 --> 00:40:39,833
+Probably not.
+
+821
+00:40:39,833 --> 00:40:41,197
+But they were,
+
+822
+00:40:41,197 --> 00:40:44,010
+like some universities were moving from other MDM systems
+
+823
+00:40:44,010 --> 00:40:46,803
+to Meta Horizon, Enterprise, whatever.
+
+824
+00:40:47,700 --> 00:40:52,650
+It's just like incomparably accessible pricing wise.
+
+825
+00:40:52,650 --> 00:40:55,140
+Talking about Shapes, we are cross platforms
+
+826
+00:40:55,140 --> 00:40:57,240
+so it doesn't matter if you have a Picker device,
+
+827
+00:40:57,240 --> 00:41:00,690
+you have Quest, you have upcoming Samsung headset,
+
+828
+00:41:00,690 --> 00:41:03,990
+even Magic Leap if you still have them via cross platform,
+
+829
+00:41:03,990 --> 00:41:07,170
+meaning that you can have different devices
+
+830
+00:41:07,170 --> 00:41:10,170
+but you still can all join the same shared space.
+
+831
+00:41:10,170 --> 00:41:12,390
+And you as a teacher for example, we do have that.
+
+832
+00:41:12,390 --> 00:41:13,980
+Actually it's real example.
+
+833
+00:41:13,980 --> 00:41:16,830
+We have a professor who is so passionate about XR,
+
+834
+00:41:16,830 --> 00:41:19,920
+but he just can't wear a headset for more than 20 minutes.
+
+835
+00:41:19,920 --> 00:41:22,590
+That's happens to people, even comfortable headset.
+
+836
+00:41:22,590 --> 00:41:25,920
+So, you can join via web browser, but you still are,
+
+837
+00:41:25,920 --> 00:41:29,220
+it's like truly real time cross-platform collaboration.
+
+838
+00:41:29,220 --> 00:41:30,090
+And I hear you.
+
+839
+00:41:30,090 --> 00:41:33,060
+Even though it's very expensive for us to support that.
+
+840
+00:41:33,060 --> 00:41:35,040
+Not just that you can use us from Picker,
+
+841
+00:41:35,040 --> 00:41:37,860
+but that you can be all on different devices
+
+842
+00:41:37,860 --> 00:41:41,550
+and still meet in a shared space and build together.
+
+843
+00:41:41,550 --> 00:41:45,330
+So, to have absolutely unified cross platform, we go for it.
+
+844
+00:41:45,330 --> 00:41:46,620
+Exactly because we,
+
+845
+00:41:46,620 --> 00:41:49,200
+all the time we see that university has Picker devices
+
+846
+00:41:49,200 --> 00:41:50,730
+because there were some grant program
+
+847
+00:41:50,730 --> 00:41:52,260
+and they receive them for free.
+
+848
+00:41:52,260 --> 00:41:53,670
+And then they have Meta devices.
+
+849
+00:41:53,670 --> 00:41:55,380
+And then there was like,
+
+850
+00:41:55,380 --> 00:42:00,380
+now Samsung probably is gonna be a very sophisticated
+
+851
+00:42:00,720 --> 00:42:01,553
+productivity hazard.
+
+852
+00:42:01,553 --> 00:42:03,180
+It's just very comfortable.
+
+853
+00:42:03,180 --> 00:42:04,620
+It doesn't sit on your face,
+
+854
+00:42:04,620 --> 00:42:06,090
+and it's like the resolution
+
+855
+00:42:06,090 --> 00:42:07,890
+is much better than on Quest Three.
+
+856
+00:42:07,890 --> 00:42:10,290
+But it's not that great like Apple Vision Pro,
+
+857
+00:42:10,290 --> 00:42:12,540
+but Apple Vision Pro is probably not affordable
+
+858
+00:42:12,540 --> 00:42:13,373
+by university.
+
+859
+00:42:13,373 --> 00:42:14,206
+Too expensive,
+
+860
+00:42:14,206 --> 00:42:17,400
+and we don't expect it to become significantly cheaper.
+
+861
+00:42:17,400 --> 00:42:19,440
+So, if just you need a recommendation,
+
+862
+00:42:19,440 --> 00:42:20,940
+I would still go for Quest,
+
+863
+00:42:20,940 --> 00:42:23,430
+it the best quality for pricing.
+
+864
+00:42:23,430 --> 00:42:26,160
+It's just so cheap.
+
+865
+00:42:26,160 --> 00:42:29,943
+And upcoming Meta Connect is next week, so Quest Four.
+
+866
+00:42:31,410 --> 00:42:33,360
+Anyway, so that's incredible.
+
+867
+00:42:33,360 --> 00:42:35,760
+I know that Picker is very popular in Europe,
+
+868
+00:42:35,760 --> 00:42:38,010
+so we see in UK and European countries
+
+869
+00:42:38,010 --> 00:42:39,720
+a lot of Picker devices.
+
+870
+00:42:39,720 --> 00:42:41,070
+Coming to mixed reality,
+
+871
+00:42:41,070 --> 00:42:43,200
+if you're building for the real world,
+
+872
+00:42:43,200 --> 00:42:45,363
+I would still go for Quest.
+
+873
+00:42:45,363 --> 00:42:47,550
+It's just much better mixed reality
+
+874
+00:42:47,550 --> 00:42:49,260
+because it's about depth, machine learning,
+
+875
+00:42:49,260 --> 00:42:53,523
+understanding it's just more advanced from that perspective.
+
+876
+00:42:54,420 --> 00:42:59,420
+Even though we work with both Picker and Meta device,
+
+877
+00:42:59,430 --> 00:43:03,030
+just mixed reality is better how they render.
+
+878
+00:43:03,030 --> 00:43:06,570
+And yeah, so, but I understand your pain.
+
+879
+00:43:06,570 --> 00:43:08,160
+I mean, even though we are keep talking about
+
+880
+00:43:08,160 --> 00:43:11,190
+interoperability for universities and for everyone,
+
+881
+00:43:11,190 --> 00:43:12,840
+we are far from that.
+
+882
+00:43:12,840 --> 00:43:14,040
+We are really far from that.
+
+883
+00:43:14,040 --> 00:43:17,190
+And that's why we also can say there is no destruction in VR
+
+884
+00:43:17,190 --> 00:43:19,740
+because students can't really easily go from one app
+
+885
+00:43:19,740 --> 00:43:20,850
+to another app.
+
+886
+00:43:20,850 --> 00:43:24,510
+They can't open the browser in a headset and go play chess
+
+887
+00:43:24,510 --> 00:43:26,940
+or even something, poker VR.
+
+888
+00:43:26,940 --> 00:43:28,890
+Right, so that's good news,
+
+889
+00:43:28,890 --> 00:43:31,050
+but it's gonna change with Android XR.
+
+890
+00:43:31,050 --> 00:43:33,990
+I think the whole thing that it's very similar
+
+891
+00:43:33,990 --> 00:43:35,190
+to how you use computers.
+
+892
+00:43:35,190 --> 00:43:38,820
+So, it's upgrading system that combines different apps,
+
+893
+00:43:38,820 --> 00:43:40,920
+and you can easily switch between them.
+
+894
+00:43:40,920 --> 00:43:44,100
+But we just have the first device coming Q4.
+
+895
+00:43:44,100 --> 00:43:45,633
+So yeah.
+
+896
+00:43:46,470 --> 00:43:50,946
+- [Hila] And if I may chime in on the content question.
+
+897
+00:43:50,946 --> 00:43:54,270
+The California chancellor's office has been very supportive
+
+898
+00:43:54,270 --> 00:43:56,910
+of us finding ways to empower people
+
+899
+00:43:56,910 --> 00:43:59,520
+to create their own virtual headsets.
+
+900
+00:43:59,520 --> 00:44:01,230
+That's one of the things that shapes XR,
+
+901
+00:44:01,230 --> 00:44:03,030
+is really excellent about.
+
+902
+00:44:03,030 --> 00:44:05,670
+But we literally teach students to build these things
+
+903
+00:44:05,670 --> 00:44:07,890
+with video game design.
+
+904
+00:44:07,890 --> 00:44:12,775
+And there is such a need in education for this content
+
+905
+00:44:12,775 --> 00:44:15,840
+and for this content to be open educational resources
+
+906
+00:44:15,840 --> 00:44:17,910
+so that every college everywhere
+
+907
+00:44:17,910 --> 00:44:20,790
+in California will have free access to it,
+
+908
+00:44:20,790 --> 00:44:23,010
+as well as free access to the ability
+
+909
+00:44:23,010 --> 00:44:25,200
+to build content for themselves.
+
+910
+00:44:25,200 --> 00:44:27,090
+And that's one of the initiatives
+
+911
+00:44:27,090 --> 00:44:29,730
+that hasn't quite fully the cause,
+
+912
+00:44:29,730 --> 00:44:33,261
+but is very much aligned with the vision 2030
+
+913
+00:44:33,261 --> 00:44:35,010
+in terms of empowering people
+
+914
+00:44:35,010 --> 00:44:37,260
+to be able to create the content.
+
+915
+00:44:37,260 --> 00:44:40,740
+Because that's the only way we're gonna get enough content
+
+916
+00:44:40,740 --> 00:44:45,600
+for everybody to be able to, to be equal from this.
+
+917
+00:44:45,600 --> 00:44:47,499
+Because equity is such a big part of it.
+
+918
+00:44:47,499 --> 00:44:48,920
+It shouldn't just be...
+
+919
+00:44:48,920 --> 00:44:50,940
+We were able to get an Apple Vision Pro.
+
+920
+00:44:50,940 --> 00:44:54,392
+How many colleges have access to an Apple Vision Pro?
+
+921
+00:44:54,392 --> 00:44:55,410
+We need to be able to make sure
+
+922
+00:44:55,410 --> 00:44:57,880
+that every college have access.
+
+923
+00:44:59,117 --> 00:45:01,410
+- So, in terms of content creation,
+
+924
+00:45:01,410 --> 00:45:04,230
+I think AI is gonna be a huge help across the board.
+
+925
+00:45:04,230 --> 00:45:07,410
+ShapesXR is all about personal content creation.
+
+926
+00:45:07,410 --> 00:45:10,980
+And at Flow Immersive it's a no-code authoring tool
+
+927
+00:45:10,980 --> 00:45:12,450
+to enable anybody to create content.
+
+928
+00:45:12,450 --> 00:45:14,490
+And the teachers who are using it build
+
+929
+00:45:14,490 --> 00:45:16,950
+their own curriculum, upload their own data set,
+
+930
+00:45:16,950 --> 00:45:18,450
+and work with it.
+
+931
+00:45:18,450 --> 00:45:20,133
+In terms of accessibility.
+
+932
+00:45:21,300 --> 00:45:23,220
+So I, this is in XREAL.
+
+933
+00:45:23,220 --> 00:45:24,053
+It's not my company,
+
+934
+00:45:24,053 --> 00:45:26,790
+my company does the software for the data visualization.
+
+935
+00:45:26,790 --> 00:45:30,780
+But I would argue that this is very accessible compared
+
+936
+00:45:30,780 --> 00:45:32,220
+to a larger headset.
+
+937
+00:45:32,220 --> 00:45:34,350
+I can see all of you very clearly.
+
+938
+00:45:34,350 --> 00:45:36,750
+It's a little bit of sunglass material.
+
+939
+00:45:36,750 --> 00:45:38,580
+In the future they're gonna be even more clear
+
+940
+00:45:38,580 --> 00:45:40,200
+and all day every day.
+
+941
+00:45:40,200 --> 00:45:43,530
+And glasses are just,
+
+942
+00:45:43,530 --> 00:45:47,130
+it's a hard technology that we're comfortable having on,
+
+943
+00:45:47,130 --> 00:45:49,560
+having within an inch of our eyeballs.
+
+944
+00:45:49,560 --> 00:45:52,590
+And that's not true of a big headset.
+
+945
+00:45:52,590 --> 00:45:55,260
+A big headset kind of feels inhumane compared
+
+946
+00:45:55,260 --> 00:45:56,760
+to a pair of glasses.
+
+947
+00:45:56,760 --> 00:45:59,700
+So, as these start to hit the market,
+
+948
+00:45:59,700 --> 00:46:04,020
+and I would predict there's gonna be a half dozen of these
+
+949
+00:46:04,020 --> 00:46:05,400
+in the next six months,
+
+950
+00:46:05,400 --> 00:46:08,040
+and maybe a dozen in the next 12 months.
+
+951
+00:46:08,040 --> 00:46:10,530
+Chinese companies are all over this.
+
+952
+00:46:10,530 --> 00:46:13,020
+As well as we have huge announcements
+
+953
+00:46:13,020 --> 00:46:15,333
+and examples from Meta.
+
+954
+00:46:16,380 --> 00:46:17,310
+Apple's not announcing,
+
+955
+00:46:17,310 --> 00:46:18,540
+but we know that they're working on it.
+
+956
+00:46:18,540 --> 00:46:20,160
+Tim Cook has certainly talked about it.
+
+957
+00:46:20,160 --> 00:46:22,863
+Qualcomm, Samsung, Google.
+
+958
+00:46:23,880 --> 00:46:26,550
+Six of the biggest corporations in the world
+
+959
+00:46:26,550 --> 00:46:30,210
+are spending billions to bring this to a way
+
+960
+00:46:30,210 --> 00:46:31,560
+that would be much more accessible.
+
+961
+00:46:31,560 --> 00:46:34,680
+And I think feels like a huge sea change in my business,
+
+962
+00:46:34,680 --> 00:46:36,903
+a huge sea change from the big headsets.
+
+963
+00:46:38,190 --> 00:46:39,458
+- Yeah.
+
+964
+00:46:39,458 --> 00:46:42,750
+And also for this stage that I'm faculty founder,
+
+965
+00:46:42,750 --> 00:46:46,830
+me and two of my students, one of is a Kenyatta student,
+
+966
+00:46:46,830 --> 00:46:49,560
+the other one is my design lab student.
+
+967
+00:46:49,560 --> 00:46:53,400
+Three of us, we are building for faculties.
+
+968
+00:46:53,400 --> 00:46:55,980
+And also we, I'm learning React,
+
+969
+00:46:55,980 --> 00:46:59,580
+so I'm learning how to set up a AI authoring tools.
+
+970
+00:46:59,580 --> 00:47:03,210
+So yeah, so I can show you the demo.
+
+971
+00:47:03,210 --> 00:47:04,350
+So, if you're interested,
+
+972
+00:47:04,350 --> 00:47:07,770
+right now we are working with Professor Par
+
+973
+00:47:07,770 --> 00:47:11,580
+to turn her biology v biology curriculum
+
+974
+00:47:11,580 --> 00:47:13,830
+into a VR experience.
+
+975
+00:47:13,830 --> 00:47:18,210
+And later on, we will have another two project which is AI,
+
+976
+00:47:18,210 --> 00:47:19,980
+how to learn AI in VR.
+
+977
+00:47:19,980 --> 00:47:22,020
+The other one is engineering.
+
+978
+00:47:22,020 --> 00:47:25,290
+Yeah, so yeah, if you're interested we can talk,
+
+979
+00:47:25,290 --> 00:47:29,040
+and then I can show you AI authoring tools.
+
+980
+00:47:29,040 --> 00:47:29,940
+Yeah.
+
+981
+00:47:29,940 --> 00:47:31,830
+Cool, any other questions?
+
+982
+00:47:31,830 --> 00:47:33,057
+- [Speaker] I'll also mention that anybody
+
+983
+00:47:33,057 --> 00:47:35,550
+who wants to try this, there's enough.
+
+984
+00:47:35,550 --> 00:47:38,100
+There's a few enough people in here that in a few minutes
+
+985
+00:47:38,100 --> 00:47:39,660
+we could just make sure that everyone sees
+
+986
+00:47:39,660 --> 00:47:40,950
+what it looks like.
+
+987
+00:47:40,950 --> 00:47:43,367
+So, find me after this.
+
+988
+00:47:43,367 --> 00:47:46,410
+- And by the way, Meta Connect is next week.
+
+989
+00:47:46,410 --> 00:47:49,080
+Rumor has said that, yeah,
+
+990
+00:47:49,080 --> 00:47:52,053
+Robin, Inga, Jason, are you going?
+
+991
+00:47:53,610 --> 00:47:55,576
+- Yeah, I'm double booked.
+
+992
+00:47:55,576 --> 00:47:56,550
+- Double booked.
+
+993
+00:47:56,550 --> 00:47:57,383
+Too busy.
+
+994
+00:47:57,383 --> 00:48:01,830
+Yeah, a lot of us we will go to Meta Connect.
+
+995
+00:48:01,830 --> 00:48:04,857
+Rumor has said that they are going to release SDK
+
+996
+00:48:04,857 --> 00:48:06,150
+for RayBan.
+
+997
+00:48:06,150 --> 00:48:07,083
+Is that true?
+
+998
+00:48:08,955 --> 00:48:09,933
+- Rumors.
+
+999
+00:48:09,933 --> 00:48:11,984
+- Rumors. (chuckles)
+
+1000
+00:48:11,984 --> 00:48:12,817
+Yeah, rumors has said.
+
+1001
+00:48:12,817 --> 00:48:14,250
+So, I'm very excited,
+
+1002
+00:48:14,250 --> 00:48:19,230
+'cause imagine if we can have a lightweight and affordable.
+
+1003
+00:48:19,230 --> 00:48:23,220
+I mean, it's $300, it's still a little bit expensive.
+
+1004
+00:48:23,220 --> 00:48:27,450
+But to compare with the Apple Vision Pro, yeah.
+
+1005
+00:48:27,450 --> 00:48:32,450
+So, I think this, 'cause if they can release the SDK,
+
+1006
+00:48:33,180 --> 00:48:34,740
+more people can develop.
+
+1007
+00:48:34,740 --> 00:48:35,700
+Yeah, okay, cool.
+
+1008
+00:48:35,700 --> 00:48:37,050
+Any other questions?
+
+1009
+00:48:37,050 --> 00:48:39,341
+- Official request from Asians.
+
+1010
+00:48:39,341 --> 00:48:44,341
+I have the Meta and the Raybans, and this does not go.
+
+1011
+00:48:44,659 --> 00:48:48,091
+- Oh, you need to go to Amazon and buy the nose.
+
+1012
+00:48:48,091 --> 00:48:48,924
+- [Speaker] I bought the pack.
+
+1013
+00:48:48,924 --> 00:48:51,180
+- Oh yeah, that's the same question for me.
+
+1014
+00:48:51,180 --> 00:48:53,820
+Asian girl, we have a very small nose.
+
+1015
+00:48:53,820 --> 00:48:55,670
+They are not designed for Asian girl.
+
+1016
+00:48:56,850 --> 00:48:58,670
+- [Speaker] Get like the nose pack that goes in,
+
+1017
+00:48:58,670 --> 00:49:02,550
+so that one can have (indistinct)
+
+1018
+00:49:02,550 --> 00:49:06,450
+- Just want to make sure that RayBan are smart glasses.
+
+1019
+00:49:06,450 --> 00:49:11,373
+Not really like AR glasses, but anyway still cool.
+
+1020
+00:49:12,923 --> 00:49:14,762
+- But their upcoming one-
+
+1021
+00:49:14,762 --> 00:49:15,643
+- The line will be for all.
+
+1022
+00:49:15,643 --> 00:49:16,476
+- The line eventually.
+
+1023
+00:49:16,476 --> 00:49:18,150
+Just so people don't go and buy it expecting
+
+1024
+00:49:18,150 --> 00:49:20,670
+that they do sick stuff, AR glasses.
+
+1025
+00:49:20,670 --> 00:49:22,073
+They're not.
+
+1026
+00:49:22,073 --> 00:49:22,906
+Just cool.
+
+1027
+00:49:22,906 --> 00:49:24,123
+(Jason speaks indistinctly)
+
+1028
+00:49:24,123 --> 00:49:24,956
+- 2026.
+
+1029
+00:49:24,956 --> 00:49:25,789
+- Yeah.
+
+1030
+00:49:25,789 --> 00:49:28,920
+(speaker speaks indistinctly)
+
+1031
+00:49:28,920 --> 00:49:31,020
+- Cool, any other questions?
+
+1032
+00:49:31,020 --> 00:49:31,853
+Please.
+
+1033
+00:49:31,853 --> 00:49:34,110
+- [Speaker] Curious from the panelists.
+
+1034
+00:49:34,110 --> 00:49:36,150
+What's the coolest education content
+
+1035
+00:49:36,150 --> 00:49:38,520
+that you guys have seen recently?
+
+1036
+00:49:38,520 --> 00:49:40,510
+That just blew you away.
+
+1037
+00:49:40,510 --> 00:49:41,862
+Because you see a lot,
+
+1038
+00:49:41,862 --> 00:49:43,800
+you talked about a number of examples
+
+1039
+00:49:43,800 --> 00:49:45,320
+of things that you've done.
+
+1040
+00:49:45,320 --> 00:49:46,713
+So, what's on the horizon?
+
+1041
+00:49:46,713 --> 00:49:48,330
+That wow, when they nail that
+
+1042
+00:49:48,330 --> 00:49:52,200
+and it's also universally available,
+
+1043
+00:49:52,200 --> 00:49:53,547
+it'll transform education.
+
+1044
+00:49:54,990 --> 00:49:57,053
+- That's a beautiful, great question.
+
+1045
+00:49:57,053 --> 00:49:59,850
+I mean, my answer is that I have not seen anything
+
+1046
+00:49:59,850 --> 00:50:01,440
+that blew my mind away.
+
+1047
+00:50:01,440 --> 00:50:04,230
+But also because I'm in this industry for so long
+
+1048
+00:50:04,230 --> 00:50:08,520
+that I just still believe we can do much better.
+
+1049
+00:50:08,520 --> 00:50:11,370
+I know that Prisms, the company that is doing modules
+
+1050
+00:50:11,370 --> 00:50:13,500
+for mathematics is just doing great
+
+1051
+00:50:13,500 --> 00:50:15,180
+from revenue perspective.
+
+1052
+00:50:15,180 --> 00:50:17,970
+Which tells me that probably the content is good enough.
+
+1053
+00:50:17,970 --> 00:50:20,553
+But it's for high schools, I think right now.
+
+1054
+00:50:21,724 --> 00:50:22,803
+About maths.
+
+1055
+00:50:24,240 --> 00:50:28,770
+Then anything related to presentation, communication skills,
+
+1056
+00:50:28,770 --> 00:50:31,465
+and stuff like that, like body swaps.
+
+1057
+00:50:31,465 --> 00:50:33,090
+And they're giving this product away for free,
+
+1058
+00:50:33,090 --> 00:50:34,980
+so they are doing some.
+
+1059
+00:50:34,980 --> 00:50:36,420
+But again, it's avatars
+
+1060
+00:50:36,420 --> 00:50:40,740
+and probably AI enabled communication skills,
+
+1061
+00:50:40,740 --> 00:50:44,760
+when students can really upgrade how they present,
+
+1062
+00:50:44,760 --> 00:50:47,160
+how the ideas and stuff like that.
+
+1063
+00:50:47,160 --> 00:50:50,580
+I mean, from 115 universities using ShapesXR,
+
+1064
+00:50:50,580 --> 00:50:55,580
+they all build their own lessons, their own content.
+
+1065
+00:50:56,580 --> 00:50:59,370
+And something that really blew my mind away
+
+1066
+00:50:59,370 --> 00:51:01,380
+is Nebraska University Medical Center.
+
+1067
+00:51:01,380 --> 00:51:03,420
+So, the students under the semester project,
+
+1068
+00:51:03,420 --> 00:51:06,300
+they actually helped to plan the actual hospital,
+
+1069
+00:51:06,300 --> 00:51:09,660
+and surgeon room, and usability of that one.
+
+1070
+00:51:09,660 --> 00:51:11,670
+And now it's a commercial project.
+
+1071
+00:51:11,670 --> 00:51:15,390
+So, but coming to that, I'm probably not exposed that much.
+
+1072
+00:51:15,390 --> 00:51:19,440
+I know that just, yeah, Prisms and body swaps.
+
+1073
+00:51:19,440 --> 00:51:20,970
+Anything else?
+
+1074
+00:51:20,970 --> 00:51:23,190
+- Anything that's really taking advantage of AI
+
+1075
+00:51:23,190 --> 00:51:26,490
+to give students creative ability
+
+1076
+00:51:26,490 --> 00:51:28,230
+and a sense of mastering control
+
+1077
+00:51:28,230 --> 00:51:30,513
+is what I'm excited about at the moment.
+
+1078
+00:51:31,590 --> 00:51:34,470
+- Yeah, as far as I know, I know "VRChat."
+
+1079
+00:51:34,470 --> 00:51:37,380
+I know "VRChat" for you guys might be,
+
+1080
+00:51:37,380 --> 00:51:39,930
+oh that's like a kind of like for kids
+
+1081
+00:51:39,930 --> 00:51:42,750
+or for teenagers to hang out.
+
+1082
+00:51:42,750 --> 00:51:47,750
+But I would say that the immersiveness and openness is very,
+
+1083
+00:51:47,910 --> 00:51:48,960
+very creative.
+
+1084
+00:51:48,960 --> 00:51:53,550
+And I know a lot of teachers, or a lot of live performers,
+
+1085
+00:51:53,550 --> 00:51:56,973
+they put their work on "VRChat."
+
+1086
+00:51:58,290 --> 00:52:01,080
+And it's considered to be the metaverse,
+
+1087
+00:52:01,080 --> 00:52:04,260
+even though Meta is trying to take that name.
+
+1088
+00:52:04,260 --> 00:52:06,990
+But the actual one is "VRChat."
+
+1089
+00:52:06,990 --> 00:52:10,470
+And I can tell you how immersive it is.
+
+1090
+00:52:10,470 --> 00:52:13,440
+One time I was hanging around in "VRChat,"
+
+1091
+00:52:13,440 --> 00:52:16,680
+and I went to a room and I need to pick my character,
+
+1092
+00:52:16,680 --> 00:52:21,180
+and I pick a tiny chicken in the desert of like,
+
+1093
+00:52:21,180 --> 00:52:22,410
+it's very, very interesting.
+
+1094
+00:52:22,410 --> 00:52:25,140
+And I was jumping and I saw everything was oversized.
+
+1095
+00:52:25,140 --> 00:52:25,973
+It's fun.
+
+1096
+00:52:25,973 --> 00:52:30,630
+Suddenly there's a giant Godzilla shows up and look at me,
+
+1097
+00:52:30,630 --> 00:52:33,030
+and grab me into the hand.
+
+1098
+00:52:33,030 --> 00:52:36,090
+And look at me and trying to snap me.
+
+1099
+00:52:36,090 --> 00:52:37,290
+And I was so scared.
+
+1100
+00:52:37,290 --> 00:52:40,560
+And I keep telling myself it's fake, it's fake.
+
+1101
+00:52:40,560 --> 00:52:42,750
+I'm not afraid, it's "VRChat."
+
+1102
+00:52:42,750 --> 00:52:45,120
+But it is just so real, so scared,
+
+1103
+00:52:45,120 --> 00:52:47,250
+I feel my life being threatened.
+
+1104
+00:52:47,250 --> 00:52:50,010
+So, I immediately take off my headset.
+
+1105
+00:52:50,010 --> 00:52:53,580
+And I was still scared and scared of returning a room.
+
+1106
+00:52:53,580 --> 00:52:58,580
+I think "VRChat" really, it allows people to build stuff.
+
+1107
+00:52:58,890 --> 00:53:03,495
+'Cause I actually purchased there a creator program,
+
+1108
+00:53:03,495 --> 00:53:07,380
+a $9 dollar and then per month.
+
+1109
+00:53:07,380 --> 00:53:11,280
+And then you get access to all their creator tools.
+
+1110
+00:53:11,280 --> 00:53:12,180
+They used Udon.
+
+1111
+00:53:12,180 --> 00:53:16,260
+Like a year ago or two years ago, they used a Unity Udon.
+
+1112
+00:53:16,260 --> 00:53:18,330
+I mean, I happened to know how to do that.
+
+1113
+00:53:18,330 --> 00:53:22,650
+So, I create a room very quickly within one day,
+
+1114
+00:53:22,650 --> 00:53:25,050
+and put all the interesting...
+
+1115
+00:53:25,050 --> 00:53:26,100
+It's just Unity,
+
+1116
+00:53:26,100 --> 00:53:31,100
+so I make a very interesting presentation room,
+
+1117
+00:53:31,530 --> 00:53:33,780
+or a bar or something.
+
+1118
+00:53:33,780 --> 00:53:38,780
+So, I think if, yeah, I mean "VRChat" is-
+
+1119
+00:53:39,056 --> 00:53:40,230
+- I just noticed that "VRChat" for some reason
+
+1120
+00:53:40,230 --> 00:53:41,910
+is blocked in many universities.
+
+1121
+00:53:41,910 --> 00:53:43,770
+They don't have access to that one.
+
+1122
+00:53:43,770 --> 00:53:44,850
+Just if you can't find it,
+
+1123
+00:53:44,850 --> 00:53:47,070
+probably you have to talk to your IT department
+
+1124
+00:53:47,070 --> 00:53:48,900
+because it's very gaming, it's not secure.
+
+1125
+00:53:48,900 --> 00:53:51,627
+Lots of adult people around that can offend students.
+
+1126
+00:53:51,627 --> 00:53:52,710
+- It's like Discord.
+
+1127
+00:53:52,710 --> 00:53:53,760
+- That can offend the students,
+
+1128
+00:53:53,760 --> 00:53:56,520
+because it's thousands of people around.
+
+1129
+00:53:56,520 --> 00:53:58,290
+But if you have, so that's to check.
+
+1130
+00:53:58,290 --> 00:54:01,230
+And I actually recall another tool, Zoe Immersive.
+
+1131
+00:54:01,230 --> 00:54:04,260
+If you are into building games, interactive games.
+
+1132
+00:54:04,260 --> 00:54:08,793
+So that's also, that is going after education.
+
+1133
+00:54:10,110 --> 00:54:12,150
+So yeah.
+
+1134
+00:54:12,150 --> 00:54:14,760
+- Yeah, and I think like Engage XR,
+
+1135
+00:54:14,760 --> 00:54:19,760
+if you wanna be very, very business like, hanging out,
+
+1136
+00:54:19,950 --> 00:54:24,950
+or like a professional hanging out, or like a lecturing,
+
+1137
+00:54:25,230 --> 00:54:30,230
+I went to Engage XR for some XR woman events
+
+1138
+00:54:30,930 --> 00:54:33,960
+and educators in VR events.
+
+1139
+00:54:33,960 --> 00:54:37,743
+I think they create a lot of interesting, engaging,
+
+1140
+00:54:38,840 --> 00:54:40,380
+a virtual presentation there.
+
+1141
+00:54:40,380 --> 00:54:43,620
+And yeah, I think it's very, very interesting
+
+1142
+00:54:43,620 --> 00:54:47,460
+to present and meet people in virtual world.
+
+1143
+00:54:47,460 --> 00:54:49,050
+Yeah, I mean,
+
+1144
+00:54:49,050 --> 00:54:53,850
+I think all the advanced tools are pretty much,
+
+1145
+00:54:53,850 --> 00:54:57,840
+right now I know we are, I remember people ask me,
+
+1146
+00:54:57,840 --> 00:55:00,930
+oh what's the best practice for XR?
+
+1147
+00:55:00,930 --> 00:55:03,690
+And I said that if the headset is not defined yet,
+
+1148
+00:55:03,690 --> 00:55:05,790
+'cause right now we know there will be
+
+1149
+00:55:05,790 --> 00:55:08,130
+some lightweight glass showing up.
+
+1150
+00:55:08,130 --> 00:55:11,070
+If the device is not being defined,
+
+1151
+00:55:11,070 --> 00:55:15,090
+and the software is living on top of the device,
+
+1152
+00:55:15,090 --> 00:55:19,050
+and the UX UI is living on top of the software, right?
+
+1153
+00:55:19,050 --> 00:55:23,760
+So, right now this is moving very fast.
+
+1154
+00:55:23,760 --> 00:55:26,700
+So, I think it's still evolving.
+
+1155
+00:55:26,700 --> 00:55:28,770
+So yeah, we can see more.
+
+1156
+00:55:28,770 --> 00:55:31,020
+For example, like Orion.
+
+1157
+00:55:31,020 --> 00:55:34,740
+We saw Orion you can pretty much use a AI.
+
+1158
+00:55:34,740 --> 00:55:38,460
+So for example, like the demo is that you wear Orion
+
+1159
+00:55:38,460 --> 00:55:39,720
+and you look around.
+
+1160
+00:55:39,720 --> 00:55:41,820
+And there are a lot of food,
+
+1161
+00:55:41,820 --> 00:55:45,690
+and there will be a lot of nutrition show
+
+1162
+00:55:45,690 --> 00:55:47,880
+up using computer vision.
+
+1163
+00:55:47,880 --> 00:55:50,820
+So, I think technology is there,
+
+1164
+00:55:50,820 --> 00:55:54,150
+it depends on how educators to pull everything together
+
+1165
+00:55:54,150 --> 00:55:55,230
+and make your-
+
+1166
+00:55:55,230 --> 00:55:57,330
+- Let's be honest, Orion is five years from now.
+
+1167
+00:55:57,330 --> 00:56:00,056
+It's not available today, so.
+
+1168
+00:56:00,056 --> 00:56:02,430
+But technology is available today,
+
+1169
+00:56:02,430 --> 00:56:05,847
+just like, yeah, not Orion.
+
+1170
+00:56:05,847 --> 00:56:06,680
+- Not Orion.
+
+1171
+00:56:06,680 --> 00:56:08,550
+Yeah, I mean XREAL, right?
+
+1172
+00:56:08,550 --> 00:56:10,533
+XREAL considered to be.
+
+1173
+00:56:11,910 --> 00:56:12,743
+- Today's one.
+
+1174
+00:56:12,743 --> 00:56:14,659
+- The difference is this is not designed
+
+1175
+00:56:14,659 --> 00:56:16,770
+to be an all day everywhere, all day wearable.
+
+1176
+00:56:16,770 --> 00:56:19,260
+Where Orion and this next generation,
+
+1177
+00:56:19,260 --> 00:56:20,940
+I think it's about two years out, not five,
+
+1178
+00:56:20,940 --> 00:56:22,243
+but there will be all day-
+
+1179
+00:56:22,243 --> 00:56:25,650
+- Even worse, the city of Meta is five years from now.
+
+1180
+00:56:25,650 --> 00:56:27,540
+I mean, I hope it comes sooner.
+
+1181
+00:56:27,540 --> 00:56:29,940
+- Meta is not the fastest company on the planet.
+
+1182
+00:56:31,140 --> 00:56:31,973
+- No.
+
+1183
+00:56:31,973 --> 00:56:33,185
+Yeah, Orion is from-
+
+1184
+00:56:33,185 --> 00:56:34,018
+- [Hila] But also,
+
+1185
+00:56:34,018 --> 00:56:34,851
+the great thing is there will be many steps,
+
+1186
+00:56:34,851 --> 00:56:36,745
+like the Apple Vision Pro. - A hundred percent.
+
+1187
+00:56:36,745 --> 00:56:38,457
+- [Hila] Which is the first of its sort.
+
+1188
+00:56:38,457 --> 00:56:40,527
+It was too expensive, too big, too heavy.
+
+1189
+00:56:40,527 --> 00:56:42,360
+But it was the first step,
+
+1190
+00:56:42,360 --> 00:56:44,010
+and there will be more iterations,
+
+1191
+00:56:44,010 --> 00:56:46,980
+and these iterations will come faster and faster.
+
+1192
+00:56:46,980 --> 00:56:50,880
+- So, having some sort of thing that you can translate
+
+1193
+00:56:50,880 --> 00:56:54,675
+across all of these different devices is really important.
+
+1194
+00:56:54,675 --> 00:56:55,890
+- Yeah.
+
+1195
+00:56:55,890 --> 00:56:56,723
+- Cool.
+
+1196
+00:56:56,723 --> 00:56:57,556
+Any other questions?
+
+1197
+00:56:59,880 --> 00:57:01,080
+- Come on up and try it.
+
+1198
+00:57:01,980 --> 00:57:03,990
+- And if I want you to take anything with you,
+
+1199
+00:57:03,990 --> 00:57:06,330
+so I mean inspire your students,
+
+1200
+00:57:06,330 --> 00:57:08,130
+3D is not complicated anymore.
+
+1201
+00:57:08,130 --> 00:57:13,130
+3D in a spatial device, and this device exists today.
+
+1202
+00:57:13,740 --> 00:57:16,743
+And they're as cheap as $300, $500.
+
+1203
+00:57:16,743 --> 00:57:17,820
+It's possible.
+
+1204
+00:57:17,820 --> 00:57:20,820
+And 3D can be so much more accessible than even 2D.
+
+1205
+00:57:20,820 --> 00:57:23,400
+But definitely 3D is much more powerful
+
+1206
+00:57:23,400 --> 00:57:25,050
+for any real world related,
+
+1207
+00:57:25,050 --> 00:57:29,070
+or anything from entertainment gaming,
+
+1208
+00:57:29,070 --> 00:57:34,070
+or any industry design and stuff like that.
+
+1209
+00:57:34,200 --> 00:57:35,703
+So, yeah.
+
+1210
+00:57:36,660 --> 00:57:37,493
+- Cool, yeah.
+
+1211
+00:57:37,493 --> 00:57:40,020
+Thank you so much for joining our panel.
+
+1212
+00:57:40,020 --> 00:57:42,780
+If you have any questions, feel free to go forward,
+
+1213
+00:57:42,780 --> 00:57:44,280
+and we will answer your question.
+
+1214
+00:57:44,280 --> 00:57:45,420
+Thank you so much.
+
+1215
+00:57:45,420 --> 00:57:46,253
+- Thank you.
+
+1216
+00:57:47,229 --> 00:57:51,562
+(Jason and Inga speak indistinctly)

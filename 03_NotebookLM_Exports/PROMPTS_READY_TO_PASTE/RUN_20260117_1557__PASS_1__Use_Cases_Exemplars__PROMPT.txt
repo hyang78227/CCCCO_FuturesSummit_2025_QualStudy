@@ -1,0 +1,16 @@
+Identify use cases and exemplars described in the session transcripts.
+
+For each use case identified, provide:
+- Use case title
+- Who is using AI (role)
+- Context and purpose
+- Benefits or outcomes described
+- Risks or constraints mentioned (if any)
+- Session_ID and speaker role
+- Supporting quotes
+
+Then identify which use cases function as exemplars and explain why (clarity, specificity, replicability, or impact).
+
+Do not invent details or infer beyond transcript evidence.
+
+Return the output as a numbered list (1., 2., 3., ...). One finding per number.

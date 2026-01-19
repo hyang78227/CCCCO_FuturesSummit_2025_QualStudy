@@ -1,0 +1,63 @@
+Moderator: All right, I think we have a few people walking in now. But thank you so much for joining this afternoon, particularly after lunch. We know there are a lot of panels happening, but we're excited to welcome you to our Pathways with Purpose panel.
+
+My name is Kirsten Lundgren. I am the director of Post-Secondary and Workforce Initiatives at the Kapor Foundation. We're located just up the road in Oakland, California, but all of our work is really centered around building inclusive tech ecosystems in California and nationally. And we thought we would bring together some of our favorite university partners for this conversation. So they'll be introducing themselves shortly, but to have a conversation that we feel is urgent around the need for a talent-based form of students and learners and workers that are interested and dedicated to building technology, especially around AI, that serves our communities and everyone in them.
+
+So particularly at the Kapor Foundation, we are tracking every day how AI is quickly reshaping, particularly entry level roles and skill sets. And while there's legitimate concern around some skills displacement, we firmly believe that there's amazing opportunity for new skills and new roles, especially around AI ethics, audit, auditing, engineering skill, at the intersection of responsible design, and that this is going to be increasingly critical in a world in which regulation and guidelines, guardrails, for new technologies are up in the air.
+
+So without further ado, and we'd love to, we'll have half an hour of just commentary with our panelists and then we'll open it up for conversation with you all. We'd love to have this just be as interactive as possible after a long day of other events. But without further ado, I'll ask our esteemed panelists to introduce themselves. If you could start with who you are, what you do, what your role is, maybe just a bit about how you, yourself, have entered into responsible pathway work professionally.
+
+Meredith Lee: I go first?
+
+Moderator: Yeah.
+
+Meredith Lee: Sure. Hi everyone. Can you hear me?
+
+Moderator: Yeah.
+
+Meredith Lee: Excellent. My name is Meredith Lee. I am the head of strategic partnerships and chief technical advisor to the dean at UC Berkeley's New College of Computing, Data Science and Society. I have practiced to be able to say that in one breath. It's a very long title, but every word is important.
+
+And I think really on a day-to-day scale of things, what gets me excited about my role is that I have the opportunity to really ask some of the long range questions. Some of these have been echoed on stage throughout the last couple of days at this summit. But for instance, what can we design and build together? Often for us at Berkeley, it's together with other institutions. We love working with the Chancellor's Office of the California Community Colleges, across UC's, CSUs, which are represented here today, and with civil society organizations, philanthropic partners, state government. Basically, I think as head of strategic partnerships, I get to partner with basically anybody, which is super exciting. I get to ask the questions like, how will that actually work? What are the key ingredients and what might success look like short term and long term?
+
+It covers research, education, and public service. So it's a really broad mandate and I think one of the things that I've really appreciated is that, because we are a new college, the first in 50 or so years on campus, there is this sort of vibe of possibility. So much like we've heard from the students on stage, love the AI skit, by the way. You should watch that recording if you weren't there in person. There is this beauty to trying to co-create together.
+
+Why I got interested in PIT, Public Interest Technology. Well, I remember when it was called civic tech and I am trained personally as an engineer. I went into public service in DC during the Obama administration, having not done any policy whatsoever. I had to pull aside a faculty member who taught science policy and ask him, what do you teach in your classes? And can I get a little, you know, bootcamp before I head over to the other side of the country? And I think for me, even though I love technologies like from a device scale of things, I like to know, how is that built from an atomic level and so forth. For me, it always started and ended with humans. And so when the public interest technology sort of movement and field came along, I immediately identified with it because I'd been working in that space for a really long time. And I think a lot of the questions we'll get into today are about this moment where the landscape for public interest tech looks different than it did a couple of years ago, and how might we inspire our students to find their own pathways to feel supported in having this huge, amazing scale of impact, in a slightly different landscape than, you know, a few years ago.
+
+Moderator: Oh, you might wanna try this one.
+
+Yingjie Liu: I can try this one. Okay. Hello.
+
+Moderator: There's always a mic situation.
+
+Yingjie Liu: I know, I know. All of a sudden I have so many choices. Hello everyone. My name's Yingjie Liu. I'm the director of Digital Learning Strategies at San Jose State University. So I lead faculty and student initiatives related to AI.
+
+At same time, I also run as a PI for state fund and as a funded AI related initiatives and also serve as AI advisory committee for our campus. So that's covered the, our policy and strategies to engage the whole campus. So across all those initiatives and responsibilities, it also helped me to see the connections from innovation, connect to the teaching, to the learning, to the equity, to the public sector. So all across.
+
+So it's very interesting time right now with AI actually help us to build all the connections, connect all the dots. I think that's lead to the question, what drives me is really, right now, even though a lot of initiatives we are running related to AI is to cultivate folks to understand what is the AI, how to use it in a effective and meaningful way. But at the same time, I think it really position us to shape it in the way to serve our community. And also I like to summarize it kind of like AI shouldn't, AI won't define the future for our students, but our students will and should define the future of AI. So that's something our whole campus is trying very hard to work towards. So glad to be here.
+
+Moderator: Yes, and Yingjie also, could you say this too a little bit about your background too, because I think it's interesting, both you and Meredith. Have these like technical backgrounds and then you went into this public interest.
+
+Yingjie Liu: Oh, okay. Yeah, yeah. Thanks. So my background, I have a bachelor master degree in computer science and then the PhD in cognition instruction and the learning technologies. So slowly you can see my path is like how to actually bring technology meaningfully into the teaching and learning category. At the same time, my interest always try to be the magnet, the translator, the bridge either between the faculty to students or between our campus to other sectors. So I think it's very important for me at this time, especially with AI going on how to demystify it to make sure everybody on track at same time. Really bring AI for for good collectively. Thank you, yeah.
+
+Moderator: Okay, is this working? Yes, great.
+
+Jess Peake: Thank you Kirsten for the invitation to be here on this panel and I'm really excited to talk to you about these subjects. So my name is Jess Peake. I'm on the faculty at UCLA law school where I run our International and Comparative Law Program.
+
+And I come from this from a totally different angle than my co-panelists. I'm an international lawyer by training. I've focused on human rights, war crimes and genocide throughout my career. I've worked for the UN and other organizations and I've been on the faculty at UCLA for about 12 years. And in the past five or so years, I really became interested in the intersection between technology, human rights, and accountability. And so I've been focusing my research on that intersection and I launched a digital investigations lab at UCLA and co-founded the University of California Digital Investigations Network through which we partner with civil society organizations to use open source information tech tools and platforms for documentation and accountability for international law violations.
+
+And so I'm really a public interest lawyer at heart and have kind of come to technology through that work. And through this work, over the past five years, I've met so many students that are really interested in using technology for good, interested in using technology for good in law. But I came to realize that this field was really under explored, particularly in the legal academic setting and we're really not doing a good job of showing our students how they can enter into these fields. And that's what really got me interested in this area. And I'm now a senior of research fellow with the Center for Resilience and Digital Justice, which is Safiya Noble's Center at UCLA. And maybe you heard her give the morning keynote. And so she and I have been thinking through some of these issues and working in partnership with the Public Interest Technology University network over the past year or so, in doing a study to look at how students and young professionals are really thinking about public interest technology careers and what that means to them.
+
+Moderator: That is a perfect segue, because I would love to actually dive deeper and have you share, and I'm happy, do you wanna do the slides?
+
+Jess Peake: I'm gonna try and juggle.
+
+Moderator: Okay, perfect. That is so impressive. So Jess is gonna share some slides about her research called Expansive Vision for Pit Careers that she's been doing at UCLA, but would love to better understand what students are signaling in terms of their interest in picked careers, what organizations they're seeking to contribute to, what are some of the opportunities and challenges that they're facing along the way.
+
+Jess Peake: Sure, absolutely. So as I mentioned, for the past year or so, I've been a senior research fellow at the Center for Resilience and Digital Justice. And along with the Public Interest Technology University network, we've been working on a qualitative research project to look at how students and young professionals view public interest technology careers. And I'm just gonna put a few slides up here so you can see some of the data as we go through this.
+
+So during the survey we asked students which of the following currently affect whether or not you pursue public interest technology jobs. Right? And so the data is pretty interesting, and of course, everyone's worried about money. We all understand that and probably as educators can't do too much about that. But I think community colleges and universities can do something about a lot of the barriers that relate to the perception that these career paths are invisible or there's a lack of resources for support or there's a lack of mentoring and networking opportunities. And so we together can help fill those gaps through partnerships with industry, with civil society, and with government, to provide students with more visible pathways and on-ramps to these careers.
+
+And so this research will eventually result in a report. So you know, stay tuned for that. But we make a bunch of recommendations to these five different constituencies, funders, educational institutions, civil society, government and industry. And I'll just highlight a few of the recommendations that we have for educational institutions.
+
+So one thing that we can all collaborate on, which would be a relatively easy lift, I think, is launching public interest technology focused jobs boards, career fairs, and employment partnerships. That's, I think, you know, something, that can be a collective effort together.
+
+I think our students really struggle with translating their educational experience into concrete skills. And so we really need to equip them with ways to think about that and be able to track the skills they're developing throughout their college or university experience. I think in the law school, or in law schools, we have a clinical education model and I think that's something that could really be co-opt

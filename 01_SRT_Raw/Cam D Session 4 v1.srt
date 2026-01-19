@@ -1,0 +1,5791 @@
+1
+00:00:09,000 --> 00:00:10,530
+- Hi. Good morning everybody.
+
+2
+00:00:10,530 --> 00:00:12,990
+Welcome. How are you doing?
+
+3
+00:00:12,990 --> 00:00:16,440
+Did you go to the morning session?
+
+4
+00:00:16,440 --> 00:00:19,260
+How are you feeling after that author?
+
+5
+00:00:19,260 --> 00:00:20,900
+Huh?
+
+6
+00:00:20,900 --> 00:00:21,733
+- Depressed. - Depressed?
+
+7
+00:00:21,733 --> 00:00:24,840
+Well, you have to get a sense of, you know,
+
+8
+00:00:24,840 --> 00:00:26,820
+the rah-rah and all the good
+
+9
+00:00:26,820 --> 00:00:30,360
+with some of the "Let's think about it."
+
+10
+00:00:30,360 --> 00:00:32,490
+So don't be too depressed,
+
+11
+00:00:32,490 --> 00:00:35,640
+but you have to have a balance with everything.
+
+12
+00:00:35,640 --> 00:00:37,380
+So we wanted to make sure that, you know,
+
+13
+00:00:37,380 --> 00:00:39,600
+we're supposed to be thought-provokers
+
+14
+00:00:39,600 --> 00:00:41,400
+and we're supposed to be thinkers.
+
+15
+00:00:41,400 --> 00:00:43,740
+And so whatever we teach our students,
+
+16
+00:00:43,740 --> 00:00:45,723
+we're teaching ourselves to.
+
+17
+00:00:46,590 --> 00:00:48,960
+I wanna welcome everybody here today
+
+18
+00:00:48,960 --> 00:00:50,610
+for day two of the Future Summit,
+
+19
+00:00:50,610 --> 00:00:52,920
+and the start of our breakout sessions.
+
+20
+00:00:52,920 --> 00:00:55,590
+I'm here with these lovely people,
+
+21
+00:00:55,590 --> 00:00:58,320
+which I'll introduce in just a moment.
+
+22
+00:00:58,320 --> 00:00:59,910
+And my name is Anu Khanna,
+
+23
+00:00:59,910 --> 00:01:02,220
+I'm with Foothill-De Anza Community College District
+
+24
+00:01:02,220 --> 00:01:04,800
+and also with the Digital Center.
+
+25
+00:01:04,800 --> 00:01:06,750
+And this is Ryan Matteson
+
+26
+00:01:06,750 --> 00:01:09,570
+with the Cal Poly Digital Transformation Hub.
+
+27
+00:01:09,570 --> 00:01:11,880
+We have our student Christopher King,
+
+28
+00:01:11,880 --> 00:01:15,120
+and they'll introduce themselves more as we start the panel.
+
+29
+00:01:15,120 --> 00:01:17,580
+Sharon Liang from Cal Poly,
+
+30
+00:01:17,580 --> 00:01:19,530
+Devani (indistinct) from Cal Poly,
+
+31
+00:01:19,530 --> 00:01:21,930
+River Covey, who's also one of our students,
+
+32
+00:01:21,930 --> 00:01:24,210
+talk about himself in just a second
+
+33
+00:01:24,210 --> 00:01:25,170
+when we get to them.
+
+34
+00:01:25,170 --> 00:01:29,193
+And Nick Osterbur from AWS and Cal Poly.
+
+35
+00:01:31,704 --> 00:01:33,996
+Oh. (laughs)
+
+36
+00:01:33,996 --> 00:01:36,679
+(audience applauding)
+
+37
+00:01:36,679 --> 00:01:37,512
+- I love this crowd.
+
+38
+00:01:37,512 --> 00:01:38,345
+- We'll give multiple round.
+
+39
+00:01:38,345 --> 00:01:39,990
+We all need encouragement, right?
+
+40
+00:01:39,990 --> 00:01:42,510
+So we are here today to talk about
+
+41
+00:01:42,510 --> 00:01:44,583
+what we call challenge accepted.
+
+42
+00:01:45,480 --> 00:01:49,800
+I had the opportunity earlier this summer to join
+
+43
+00:01:49,800 --> 00:01:52,380
+all these wonderful people at Cal Poly
+
+44
+00:01:52,380 --> 00:01:56,340
+for a week long summer intensive AI summer camp
+
+45
+00:01:56,340 --> 00:01:58,410
+that was really set up for students
+
+46
+00:01:58,410 --> 00:02:00,690
+to be able to gain some real life skills,
+
+47
+00:02:00,690 --> 00:02:02,340
+and problem solving,
+
+48
+00:02:02,340 --> 00:02:06,330
+and finding ways in which to create some AI driven solutions
+
+49
+00:02:06,330 --> 00:02:09,210
+to problems that higher ed institutions,
+
+50
+00:02:09,210 --> 00:02:12,000
+the community colleges and CSUs submitted
+
+51
+00:02:12,000 --> 00:02:14,520
+to the Digital Transformation hub to say,
+
+52
+00:02:14,520 --> 00:02:16,770
+hey, we have a pain point, we have a problem.
+
+53
+00:02:16,770 --> 00:02:18,120
+Can you help us?
+
+54
+00:02:18,120 --> 00:02:21,120
+And so we are here to talk about what that was like
+
+55
+00:02:21,120 --> 00:02:23,970
+and what our students learned, and how we might scale
+
+56
+00:02:23,970 --> 00:02:25,920
+and replicate that going forward.
+
+57
+00:02:25,920 --> 00:02:27,720
+It was a fantastic experience,
+
+58
+00:02:27,720 --> 00:02:29,670
+and we wanna make sure that you can see
+
+59
+00:02:29,670 --> 00:02:34,020
+what's possible when we teach our students skills,
+
+60
+00:02:34,020 --> 00:02:36,450
+let them be creatively challenged,
+
+61
+00:02:36,450 --> 00:02:38,820
+give them some technical skills
+
+62
+00:02:38,820 --> 00:02:40,800
+and what comes together and what happens.
+
+63
+00:02:40,800 --> 00:02:41,633
+So with that,
+
+64
+00:02:41,633 --> 00:02:43,290
+I'm going to pass it on to my panel
+
+65
+00:02:43,290 --> 00:02:44,550
+as I ask them questions
+
+66
+00:02:44,550 --> 00:02:47,283
+to tell you the story of what happened at Summer Camp.
+
+67
+00:02:48,780 --> 00:02:51,090
+Nick, I'm gonna start with you.
+
+68
+00:02:51,090 --> 00:02:53,820
+What's the history behind this AI summer camp
+
+69
+00:02:53,820 --> 00:02:58,243
+and how did it come to be and how was AWS involved?
+
+70
+00:02:58,243 --> 00:03:00,413
+- Yeah, thank you for that.
+
+71
+00:03:00,413 --> 00:03:01,503
+- Oh, is it working?
+
+72
+00:03:06,447 --> 00:03:08,340
+Here, have this one. - Okay.
+
+73
+00:03:08,340 --> 00:03:09,210
+Test.
+
+74
+00:03:09,210 --> 00:03:10,533
+Got it. Okay. Thank you.
+
+75
+00:03:12,180 --> 00:03:16,950
+Okay, so before I go totally into that answer,
+
+76
+00:03:16,950 --> 00:03:20,490
+I want to kind of maybe queue up like how we got here,
+
+77
+00:03:20,490 --> 00:03:21,780
+the program that I work in,
+
+78
+00:03:21,780 --> 00:03:24,000
+and then what the Cal Poly DxHub is.
+
+79
+00:03:24,000 --> 00:03:27,780
+So I work for Amazon Web Services,
+
+80
+00:03:27,780 --> 00:03:29,883
+I'm a digital innovation expert.
+
+81
+00:03:30,810 --> 00:03:33,900
+I came from the Cal Poly side some seven plus years ago
+
+82
+00:03:33,900 --> 00:03:37,590
+when the Digital Transformation Hub was first established.
+
+83
+00:03:37,590 --> 00:03:40,650
+And I work in a broader program at AWS
+
+84
+00:03:40,650 --> 00:03:43,350
+called the Cloud Innovation Center.
+
+85
+00:03:43,350 --> 00:03:45,750
+There's a number of cloud innovation centers.
+
+86
+00:03:45,750 --> 00:03:46,860
+There's one at ASU,
+
+87
+00:03:46,860 --> 00:03:49,350
+there's one now at the University of Pittsburgh,
+
+88
+00:03:49,350 --> 00:03:52,830
+and then a sister institute
+
+89
+00:03:52,830 --> 00:03:56,460
+up in British Columbia that focuses on healthcare.
+
+90
+00:03:56,460 --> 00:04:00,870
+And our program is really about how can we empower students
+
+91
+00:04:00,870 --> 00:04:02,670
+and work with public sector organizations
+
+92
+00:04:02,670 --> 00:04:05,250
+to create open source solutions
+
+93
+00:04:05,250 --> 00:04:08,050
+that ideally are gonna start to solve problems at scale.
+
+94
+00:04:09,270 --> 00:04:12,120
+As you can imagine, we're very AI focused these days,
+
+95
+00:04:12,120 --> 00:04:13,530
+that isn't, you know,
+
+96
+00:04:13,530 --> 00:04:16,980
+our focus is really about being, you know,
+
+97
+00:04:16,980 --> 00:04:18,780
+rabid trying to solve the business
+
+98
+00:04:18,780 --> 00:04:19,613
+or the mission problem
+
+99
+00:04:19,613 --> 00:04:22,170
+that a public sector institution brings to us.
+
+100
+00:04:22,170 --> 00:04:25,890
+And then working with students to pull that off.
+
+101
+00:04:25,890 --> 00:04:28,170
+So with that, I wanna maybe ask Ryan to explain like,
+
+102
+00:04:28,170 --> 00:04:30,210
+what is the Cal Poly Digital Transformation Hub
+
+103
+00:04:30,210 --> 00:04:31,800
+from the university view?
+
+104
+00:04:31,800 --> 00:04:33,420
+And then maybe we can start to unpack
+
+105
+00:04:33,420 --> 00:04:35,730
+kind of how that summer camp idea came around.
+
+106
+00:04:35,730 --> 00:04:36,563
+- Yeah, yeah.
+
+107
+00:04:36,563 --> 00:04:39,270
+So why do we have a DxHub at Cal Poly?
+
+108
+00:04:39,270 --> 00:04:41,010
+There's many good things that come from it,
+
+109
+00:04:41,010 --> 00:04:44,970
+but for part of us for, hello, hello.
+
+110
+00:04:44,970 --> 00:04:46,620
+Hello, hello, hello.
+
+111
+00:04:46,620 --> 00:04:48,273
+Good. Great. Thank you.
+
+112
+00:04:49,560 --> 00:04:50,640
+At Cal Poly,
+
+113
+00:04:50,640 --> 00:04:52,800
+we are about building new and innovative things,
+
+114
+00:04:52,800 --> 00:04:55,200
+and we also had a time about seven, eight years ago
+
+115
+00:04:55,200 --> 00:04:57,180
+when we did not have capacity
+
+116
+00:04:57,180 --> 00:04:59,250
+to do new innovative things.
+
+117
+00:04:59,250 --> 00:05:02,610
+And so the DxHub for Cal Poly is a pilot light,
+
+118
+00:05:02,610 --> 00:05:04,470
+a kernel of innovation.
+
+119
+00:05:04,470 --> 00:05:07,800
+We are a small and lightweight and very focused team.
+
+120
+00:05:07,800 --> 00:05:10,890
+We are three full-time employees to AWS
+
+121
+00:05:10,890 --> 00:05:12,690
+and one Cal Poly, myself.
+
+122
+00:05:12,690 --> 00:05:15,720
+And then what really is the magic is bringing together
+
+123
+00:05:15,720 --> 00:05:16,740
+the right problems
+
+124
+00:05:16,740 --> 00:05:19,050
+from our passionate public sector customers
+
+125
+00:05:19,050 --> 00:05:20,400
+and a team of students.
+
+126
+00:05:20,400 --> 00:05:22,950
+And as they speak, you'll kind of understand more
+
+127
+00:05:22,950 --> 00:05:24,690
+what their role has been.
+
+128
+00:05:24,690 --> 00:05:28,890
+So at the DxHub every day we are all working side by side.
+
+129
+00:05:28,890 --> 00:05:30,090
+This is the kind of partnership
+
+130
+00:05:30,090 --> 00:05:31,800
+where we are all rolling up our sleeves
+
+131
+00:05:31,800 --> 00:05:33,540
+and working on real things.
+
+132
+00:05:33,540 --> 00:05:35,370
+And for us,
+
+133
+00:05:35,370 --> 00:05:39,510
+the summer camp was out of a need to scale.
+
+134
+00:05:39,510 --> 00:05:40,950
+We were always looking for ways
+
+135
+00:05:40,950 --> 00:05:42,750
+to take what we were doing and share it.
+
+136
+00:05:42,750 --> 00:05:45,030
+We are very open source focused.
+
+137
+00:05:45,030 --> 00:05:47,190
+Everything we build, we share the source code.
+
+138
+00:05:47,190 --> 00:05:49,620
+We would like as many organizations as possible
+
+139
+00:05:49,620 --> 00:05:51,000
+to get value from our work.
+
+140
+00:05:51,000 --> 00:05:53,820
+And so, as we worked more and more with AI
+
+141
+00:05:53,820 --> 00:05:54,900
+over the last couple years,
+
+142
+00:05:54,900 --> 00:05:58,980
+we saw dramatic in opportunity,
+
+143
+00:05:58,980 --> 00:06:00,690
+we can open up the playing field
+
+144
+00:06:00,690 --> 00:06:03,060
+so everybody can build solutions.
+
+145
+00:06:03,060 --> 00:06:05,850
+It's not just for computer science folks anymore.
+
+146
+00:06:05,850 --> 00:06:08,700
+And that has been a fantastic process for us
+
+147
+00:06:08,700 --> 00:06:10,110
+to discover and unpack.
+
+148
+00:06:10,110 --> 00:06:13,260
+And so for us, what summer camp came out of is,
+
+149
+00:06:13,260 --> 00:06:15,900
+take what we do every day in our day jobs
+
+150
+00:06:15,900 --> 00:06:18,570
+and make it available to community college students
+
+151
+00:06:18,570 --> 00:06:22,143
+in a week long intensive in-person program.
+
+152
+00:06:23,640 --> 00:06:28,143
+- And so it kind of started back in February.
+
+153
+00:06:29,190 --> 00:06:30,900
+My team was having an offsite
+
+154
+00:06:30,900 --> 00:06:34,050
+and a planning meeting in San Luis Obispo.
+
+155
+00:06:34,050 --> 00:06:35,820
+And my manager and the leader of our program
+
+156
+00:06:35,820 --> 00:06:37,230
+kind of threw out this challenge,
+
+157
+00:06:37,230 --> 00:06:39,390
+like how can we do a broader scale
+
+158
+00:06:39,390 --> 00:06:41,250
+of what we're doing all day every day
+
+159
+00:06:41,250 --> 00:06:42,780
+at the Kick Program, right?
+
+160
+00:06:42,780 --> 00:06:44,490
+And at the DxHub.
+
+161
+00:06:44,490 --> 00:06:47,790
+And so I don't know how the lightning went off, but it did.
+
+162
+00:06:47,790 --> 00:06:50,190
+And I was like, what about like a summer camp
+
+163
+00:06:50,190 --> 00:06:55,050
+where we basically try to compress what we do at the DxHub
+
+164
+00:06:55,050 --> 00:06:57,570
+and then offer that to as many students
+
+165
+00:06:57,570 --> 00:06:59,340
+as we possibly can
+
+166
+00:06:59,340 --> 00:07:00,840
+in a very intensive,
+
+167
+00:07:00,840 --> 00:07:04,233
+kind of in real life human to human sort of format.
+
+168
+00:07:05,280 --> 00:07:08,220
+I also teach in the master's in business program,
+
+169
+00:07:08,220 --> 00:07:10,620
+specifically generative AI
+
+170
+00:07:10,620 --> 00:07:13,950
+to kind of like quasi technical students as well.
+
+171
+00:07:13,950 --> 00:07:16,830
+And so, you know, it was relatively easy
+
+172
+00:07:16,830 --> 00:07:19,590
+to take what we do all day every day at the DxHub
+
+173
+00:07:19,590 --> 00:07:22,620
+along with the curriculum from that class,
+
+174
+00:07:22,620 --> 00:07:25,620
+and then start to kind of package that up and then down
+
+175
+00:07:25,620 --> 00:07:30,000
+and compress that into an event like the summer camp.
+
+176
+00:07:30,000 --> 00:07:33,660
+And so we, you know, we originally did this for the CSU,
+
+177
+00:07:33,660 --> 00:07:36,400
+so it started with the CSU specifically
+
+178
+00:07:38,820 --> 00:07:40,170
+and the CSU,
+
+179
+00:07:40,170 --> 00:07:42,930
+I don't know if folks may or may not know that
+
+180
+00:07:42,930 --> 00:07:44,460
+the CSU and the governor's office
+
+181
+00:07:44,460 --> 00:07:45,660
+kind of did this big announcement
+
+182
+00:07:45,660 --> 00:07:50,660
+about really kind of fine tuning student experiences
+
+183
+00:07:51,000 --> 00:07:52,770
+to really harness AI
+
+184
+00:07:52,770 --> 00:07:55,140
+to be that kinda workforce to the future.
+
+185
+00:07:55,140 --> 00:07:58,260
+And so this idea really kind of, you know,
+
+186
+00:07:58,260 --> 00:08:01,383
+intentionally strategically mapped to that as well.
+
+187
+00:08:02,250 --> 00:08:05,430
+And, you know, to be like totally candid,
+
+188
+00:08:05,430 --> 00:08:08,850
+like we were making all of this up as we went along.
+
+189
+00:08:08,850 --> 00:08:11,880
+So started as an idea in February,
+
+190
+00:08:11,880 --> 00:08:13,380
+started holding our first, you know,
+
+191
+00:08:13,380 --> 00:08:15,600
+got the, you know, the resource committed.
+
+192
+00:08:15,600 --> 00:08:16,800
+Got started doing kind
+
+193
+00:08:16,800 --> 00:08:19,500
+of first formal planning meetings in March
+
+194
+00:08:19,500 --> 00:08:21,120
+and then just kind of just making it up
+
+195
+00:08:21,120 --> 00:08:22,080
+as we went effectively.
+
+196
+00:08:22,080 --> 00:08:24,360
+So apologies for being a little sloppy,
+
+197
+00:08:24,360 --> 00:08:26,310
+'cause it totally was, it was agile
+
+198
+00:08:26,310 --> 00:08:28,830
+and it was almost like an innovation experiment
+
+199
+00:08:28,830 --> 00:08:30,075
+in its own right. - Yeah.
+
+200
+00:08:30,075 --> 00:08:32,460
+And if we could like pull that thread a little more.
+
+201
+00:08:32,460 --> 00:08:33,420
+This is how we work.
+
+202
+00:08:33,420 --> 00:08:35,370
+And so we talk about a culture of innovation
+
+203
+00:08:35,370 --> 00:08:37,590
+and I've, previously, I was deputy CIO,
+
+204
+00:08:37,590 --> 00:08:39,210
+I was information security officer,
+
+205
+00:08:39,210 --> 00:08:41,730
+so I know rigorous frameworks and processes,
+
+206
+00:08:41,730 --> 00:08:44,940
+but we're about doing responsible things,
+
+207
+00:08:44,940 --> 00:08:47,400
+but doing it creatively, quickly
+
+208
+00:08:47,400 --> 00:08:49,020
+and focusing just on the pieces
+
+209
+00:08:49,020 --> 00:08:50,970
+that are really valuable to our customers.
+
+210
+00:08:50,970 --> 00:08:53,040
+And so I would say,
+
+211
+00:08:53,040 --> 00:08:55,690
+this is how we do all of our projects by design
+
+212
+00:08:57,371 --> 00:08:58,440
+and then we mature them over time.
+
+213
+00:08:58,440 --> 00:09:01,140
+We do an experiment and we see what works.
+
+214
+00:09:01,140 --> 00:09:01,973
+- Yeah, yeah.
+
+215
+00:09:01,973 --> 00:09:04,200
+And this was an experiment to be totally clear.
+
+216
+00:09:04,200 --> 00:09:06,570
+It seems to be a very successful experiment,
+
+217
+00:09:06,570 --> 00:09:07,500
+which we're excited about.
+
+218
+00:09:07,500 --> 00:09:10,323
+So we'll see what that looks like moving forward.
+
+219
+00:09:11,250 --> 00:09:12,600
+So we did the CSU thing
+
+220
+00:09:12,600 --> 00:09:14,280
+and basically it was a,
+
+221
+00:09:14,280 --> 00:09:15,420
+the start of it was,
+
+222
+00:09:15,420 --> 00:09:18,090
+let's mock up some, you know, submission forms
+
+223
+00:09:18,090 --> 00:09:20,970
+and a flyer both for the student participants
+
+224
+00:09:20,970 --> 00:09:24,240
+as well as for these kind of real world challenge sponsors.
+
+225
+00:09:24,240 --> 00:09:25,740
+We've got some in in the crowd here.
+
+226
+00:09:25,740 --> 00:09:26,580
+Thank you for showing up
+
+227
+00:09:26,580 --> 00:09:29,280
+and thank you for sponsoring real world problems.
+
+228
+00:09:29,280 --> 00:09:30,390
+So back to that theme,
+
+229
+00:09:30,390 --> 00:09:33,630
+like at the DxHub, in the Kick Program,
+
+230
+00:09:33,630 --> 00:09:36,450
+it's all about students doing the learn by doing thing
+
+231
+00:09:36,450 --> 00:09:39,000
+and actually tackling like real world problems
+
+232
+00:09:39,000 --> 00:09:40,770
+that are meaningful and impactful if solved,
+
+233
+00:09:40,770 --> 00:09:42,020
+just to be totally clear.
+
+234
+00:09:42,930 --> 00:09:45,630
+So we did this kind of joint campaign.
+
+235
+00:09:45,630 --> 00:09:48,240
+We had folks with lots of relationships,
+
+236
+00:09:48,240 --> 00:09:49,080
+kind of reaching out
+
+237
+00:09:49,080 --> 00:09:51,450
+to all the different lines of business throughout the CSU
+
+238
+00:09:51,450 --> 00:09:53,100
+to find those problems.
+
+239
+00:09:53,100 --> 00:09:54,570
+We also did,
+
+240
+00:09:54,570 --> 00:09:57,720
+and then on kind of similarly on the participant side
+
+241
+00:09:57,720 --> 00:10:00,660
+and thank you for all the folks that helped there.
+
+242
+00:10:00,660 --> 00:10:04,230
+We also did some pretty hardcore grassroots effort,
+
+243
+00:10:04,230 --> 00:10:05,790
+Devani and Sharon, thank you so much for your effort.
+
+244
+00:10:05,790 --> 00:10:08,220
+I'm like, hey, can you create a campaign
+
+245
+00:10:08,220 --> 00:10:12,420
+where we're like grassroots emailing every student club
+
+246
+00:10:12,420 --> 00:10:14,880
+and every student officer on, you know,
+
+247
+00:10:14,880 --> 00:10:16,380
+at all these different campuses?
+
+248
+00:10:16,380 --> 00:10:18,870
+And I think that worked out quite well.
+
+249
+00:10:18,870 --> 00:10:21,570
+And then we just started seeing the student interest
+
+250
+00:10:21,570 --> 00:10:22,920
+just start rolling in
+
+251
+00:10:22,920 --> 00:10:26,733
+and we ended up with close to 900 in about three weeks.
+
+252
+00:10:27,810 --> 00:10:30,660
+So the demand signal was like, so clearly there.
+
+253
+00:10:30,660 --> 00:10:32,520
+We vibe coded this fun little dashboard
+
+254
+00:10:32,520 --> 00:10:35,008
+and we were seeing these numbers come in in real time.
+
+255
+00:10:35,008 --> 00:10:36,540
+We're like, well, somebody just went out
+
+256
+00:10:36,540 --> 00:10:38,160
+and activated Fresno,
+
+257
+00:10:38,160 --> 00:10:39,870
+look at all these numbers come in, right?
+
+258
+00:10:39,870 --> 00:10:41,220
+Somebody just activated Pomona,
+
+259
+00:10:41,220 --> 00:10:42,920
+look at all these numbers come in.
+
+260
+00:10:43,920 --> 00:10:45,480
+And then at that point it was kinda like,
+
+261
+00:10:45,480 --> 00:10:47,940
+well there's probably one moment in time.
+
+262
+00:10:47,940 --> 00:10:49,725
+There's like this window, this passing window.
+
+263
+00:10:49,725 --> 00:10:51,660
+At least this is my gut instinct
+
+264
+00:10:51,660 --> 00:10:56,434
+where this demand is so real,
+
+265
+00:10:56,434 --> 00:10:57,690
+right here, right now.
+
+266
+00:10:57,690 --> 00:11:02,580
+And, you know, it baked, it was a good assumption.
+
+267
+00:11:02,580 --> 00:11:05,430
+I think that if it was that popular
+
+268
+00:11:05,430 --> 00:11:08,100
+and in demand for the CSU is probably equally,
+
+269
+00:11:08,100 --> 00:11:11,310
+if not more popular for the community college system.
+
+270
+00:11:11,310 --> 00:11:13,470
+And you know, we had some internal discussions,
+
+271
+00:11:13,470 --> 00:11:16,140
+like we've gotta extend this opportunity
+
+272
+00:11:16,140 --> 00:11:17,520
+to the community college system
+
+273
+00:11:17,520 --> 00:11:19,350
+and the name of, you know, equitable access
+
+274
+00:11:19,350 --> 00:11:23,040
+and all those good things by design.
+
+275
+00:11:23,040 --> 00:11:25,440
+And so, you know, one thing led to another,
+
+276
+00:11:25,440 --> 00:11:27,390
+we had some great data to back up,
+
+277
+00:11:27,390 --> 00:11:30,210
+this kind of secondary commitment
+
+278
+00:11:30,210 --> 00:11:33,450
+and now all of a sudden we're doing two summer camps
+
+279
+00:11:33,450 --> 00:11:36,330
+back to back weeks, which was a lot.
+
+280
+00:11:36,330 --> 00:11:38,100
+And then I started pushing for K12
+
+281
+00:11:38,100 --> 00:11:39,663
+and I think Ryan was about to-
+
+282
+00:11:42,060 --> 00:11:43,470
+- Had enough. - Yeah. Yeah.
+
+283
+00:11:43,470 --> 00:11:44,720
+I had to pump the brakes.
+
+284
+00:11:45,750 --> 00:11:47,790
+So anyway, within about three weeks we had,
+
+285
+00:11:47,790 --> 00:11:52,440
+I think 1300-ish community college applications.
+
+286
+00:11:52,440 --> 00:11:53,850
+Still very kind of grassroots
+
+287
+00:11:53,850 --> 00:11:56,400
+and thanks again to some of the top cover
+
+288
+00:11:56,400 --> 00:11:58,200
+and getting the word out,
+
+289
+00:11:58,200 --> 00:12:01,680
+kind of to chancellors and digital center level as well.
+
+290
+00:12:01,680 --> 00:12:05,070
+And so then now we had this big problem like,
+
+291
+00:12:05,070 --> 00:12:08,640
+how do we figure out how we're gonna execute on this
+
+292
+00:12:08,640 --> 00:12:10,890
+and, you know, give the right folks
+
+293
+00:12:10,890 --> 00:12:12,240
+the opportunity to show up.
+
+294
+00:12:12,240 --> 00:12:14,850
+And I dunno if you want to lean into that one at all.
+
+295
+00:12:14,850 --> 00:12:17,400
+- Well, I mean we have a very repeatable recipe
+
+296
+00:12:17,400 --> 00:12:18,840
+for how we do things day to day
+
+297
+00:12:18,840 --> 00:12:21,690
+and month to month in our day jobs.
+
+298
+00:12:21,690 --> 00:12:24,330
+And, but there's a big challenge in how do we scale that,
+
+299
+00:12:24,330 --> 00:12:27,930
+and compress it and keep the most important elements
+
+300
+00:12:27,930 --> 00:12:31,530
+and also, you know, honor the principles,
+
+301
+00:12:31,530 --> 00:12:35,250
+which are rule number one, it needs to be fun.
+
+302
+00:12:35,250 --> 00:12:38,760
+It's not competitive, it's not team A, versus team B,
+
+303
+00:12:38,760 --> 00:12:41,130
+everybody is supporting each other.
+
+304
+00:12:41,130 --> 00:12:42,660
+People need to learn a lot still.
+
+305
+00:12:42,660 --> 00:12:44,940
+It's learning outcomes that we care about
+
+306
+00:12:44,940 --> 00:12:48,270
+and ultimately solving a real problem
+
+307
+00:12:48,270 --> 00:12:49,590
+that's a special part of the recipe.
+
+308
+00:12:49,590 --> 00:12:52,470
+So those three things and how do we compress that all down?
+
+309
+00:12:52,470 --> 00:12:54,480
+And so we know how to do these things,
+
+310
+00:12:54,480 --> 00:12:57,930
+but we had to adjust and tune a lot every single day
+
+311
+00:12:57,930 --> 00:12:59,253
+leading up to that camp.
+
+312
+00:13:00,463 --> 00:13:01,740
+- And I'll just jump. Whoops.
+
+313
+00:13:01,740 --> 00:13:04,350
+I'll just, can you hear me?
+
+314
+00:13:04,350 --> 00:13:06,510
+Yeah, I'll just use my teacher voice.
+
+315
+00:13:06,510 --> 00:13:08,070
+I'll just jump in and say,
+
+316
+00:13:08,070 --> 00:13:11,130
+it really was grassroots in a very quick kind of,
+
+317
+00:13:11,130 --> 00:13:12,300
+let's get to, you know,
+
+318
+00:13:12,300 --> 00:13:14,190
+let's get these students in.
+
+319
+00:13:14,190 --> 00:13:16,020
+To get to 1300 applicants,
+
+320
+00:13:16,020 --> 00:13:19,050
+there was a need and there was an interest
+
+321
+00:13:19,050 --> 00:13:22,830
+and it was, we just emailed the contacts that we had.
+
+322
+00:13:22,830 --> 00:13:26,070
+We emailed, you know, VPIs at different colleges
+
+323
+00:13:26,070 --> 00:13:28,620
+because we said, can you talk to your instructors
+
+324
+00:13:28,620 --> 00:13:30,390
+and see if anybody will just send this out
+
+325
+00:13:30,390 --> 00:13:32,430
+and say, are your students interested?
+
+326
+00:13:32,430 --> 00:13:35,730
+Because we didn't wanna just target computer science majors,
+
+327
+00:13:35,730 --> 00:13:38,652
+it wasn't just for certain types of majors,
+
+328
+00:13:38,652 --> 00:13:41,070
+it was for any student who might be interested in that.
+
+329
+00:13:41,070 --> 00:13:45,423
+And so to get very quickly 1300 plus applications,
+
+330
+00:13:46,440 --> 00:13:48,150
+yeah, there's an interest
+
+331
+00:13:48,150 --> 00:13:49,530
+and students wanted to do this.
+
+332
+00:13:49,530 --> 00:13:51,630
+And so I think that's amazing to do that
+
+333
+00:13:51,630 --> 00:13:53,400
+just when you're trying to do it grassroots
+
+334
+00:13:53,400 --> 00:13:55,227
+and by, you know, who do you know
+
+335
+00:13:55,227 --> 00:13:57,000
+and let's see if we can push this out
+
+336
+00:13:57,000 --> 00:13:58,323
+and get people to apply.
+
+337
+00:13:59,400 --> 00:14:00,233
+- Thank you.
+
+338
+00:14:00,233 --> 00:14:02,700
+And so we laid out some basic tenets.
+
+339
+00:14:02,700 --> 00:14:04,730
+Ryan was kind of starting to allude to them like,
+
+340
+00:14:04,730 --> 00:14:07,290
+we gotta have fun, rule number one, gotta have fun.
+
+341
+00:14:07,290 --> 00:14:09,990
+It's gotta be in real life, like human to human.
+
+342
+00:14:09,990 --> 00:14:12,600
+There's no better time than right now in my opinion at least
+
+343
+00:14:12,600 --> 00:14:15,780
+to be like all down in the trenches, you know,
+
+344
+00:14:15,780 --> 00:14:17,820
+kind of trauma bonding if you will.
+
+345
+00:14:17,820 --> 00:14:20,760
+I don't know if that happened for you all, but. (laughs)
+
+346
+00:14:20,760 --> 00:14:23,490
+- [Ryan] I have never felt more optimistic
+
+347
+00:14:23,490 --> 00:14:25,770
+this year in those two weeks. Yeah.
+
+348
+00:14:25,770 --> 00:14:28,110
+- Yeah. It's gotta be an authentic experience
+
+349
+00:14:28,110 --> 00:14:29,850
+that everybody cares about, right?
+
+350
+00:14:29,850 --> 00:14:31,530
+And wants to take away
+
+351
+00:14:31,530 --> 00:14:33,420
+and start to like plant the seeds
+
+352
+00:14:33,420 --> 00:14:36,990
+for building and growing a broader longer term community.
+
+353
+00:14:36,990 --> 00:14:39,480
+So like community, community, community, community.
+
+354
+00:14:39,480 --> 00:14:41,163
+That was a big part of the theme.
+
+355
+00:14:42,060 --> 00:14:43,770
+And I hope you'll kind of like met some people
+
+356
+00:14:43,770 --> 00:14:45,120
+that you're gonna know for the rest of your life.
+
+357
+00:14:45,120 --> 00:14:47,340
+Sounds like maybe that's starting to happen a little bit,
+
+358
+00:14:47,340 --> 00:14:48,243
+which is exciting.
+
+359
+00:14:49,260 --> 00:14:50,430
+And you know,
+
+360
+00:14:50,430 --> 00:14:52,560
+and all those other great things we talk about,
+
+361
+00:14:52,560 --> 00:14:55,260
+learn by doing real world problems.
+
+362
+00:14:55,260 --> 00:14:57,900
+Teamwork, we really kind of harped a lot on
+
+363
+00:14:57,900 --> 00:14:59,670
+the durable kind of soft skills,
+
+364
+00:14:59,670 --> 00:15:01,590
+not just the hardcore technical
+
+365
+00:15:01,590 --> 00:15:03,360
+and, you know, the equity by design.
+
+366
+00:15:03,360 --> 00:15:05,790
+Like, I'm kind of still ratioing,
+
+367
+00:15:05,790 --> 00:15:07,800
+I think like half of the students that showed up
+
+368
+00:15:07,800 --> 00:15:10,350
+were probably computer science or software.
+
+369
+00:15:10,350 --> 00:15:11,250
+I think a quarter,
+
+370
+00:15:11,250 --> 00:15:16,250
+I'm just guessing a quarter was probably in the STEM realm
+
+371
+00:15:16,470 --> 00:15:20,250
+and then a quarter was just totally non-technical entirely.
+
+372
+00:15:20,250 --> 00:15:25,080
+So bringing all of that together, you know, in one room
+
+373
+00:15:25,080 --> 00:15:28,413
+for a full week was really interesting and exciting.
+
+374
+00:15:29,250 --> 00:15:30,360
+- [Anu] And how many people did you bring
+
+375
+00:15:30,360 --> 00:15:32,370
+into the room that week?
+
+376
+00:15:32,370 --> 00:15:34,555
+- What did we end up with? 80. - 80.
+
+377
+00:15:34,555 --> 00:15:35,995
+- About 80 - Plus. Yeah.
+
+378
+00:15:35,995 --> 00:15:36,900
+- Yeah. So I think- - A hundred students
+
+379
+00:15:36,900 --> 00:15:39,750
+were from that 1300 applications.
+
+380
+00:15:39,750 --> 00:15:43,200
+It was called down to a hundred invitations were made.
+
+381
+00:15:43,200 --> 00:15:45,150
+- Yeah. - And there was
+
+382
+00:15:45,150 --> 00:15:46,500
+an intentional effort to
+
+383
+00:15:46,500 --> 00:15:50,700
+try to get a wide range of majors and experiences,
+
+384
+00:15:50,700 --> 00:15:52,170
+and you know, whether they,
+
+385
+00:15:52,170 --> 00:15:54,510
+if they indicated they were first year, or second year,
+
+386
+00:15:54,510 --> 00:15:57,030
+or third year community college students.
+
+387
+00:15:57,030 --> 00:15:59,220
+And we also tried to get a mix across
+
+388
+00:15:59,220 --> 00:16:01,440
+the community colleges,
+
+389
+00:16:01,440 --> 00:16:02,610
+districts and colleges.
+
+390
+00:16:02,610 --> 00:16:05,850
+So we had, with the a hundred invitations,
+
+391
+00:16:05,850 --> 00:16:08,343
+we had 43 colleges represented.
+
+392
+00:16:09,330 --> 00:16:10,320
+- And I think the,
+
+393
+00:16:10,320 --> 00:16:13,500
+my observation was the age range in the community college
+
+394
+00:16:13,500 --> 00:16:17,403
+was 18 to 55 or 60 maybe,
+
+395
+00:16:18,270 --> 00:16:20,580
+some folks with just really, really interesting
+
+396
+00:16:20,580 --> 00:16:22,140
+and diverse backgrounds.
+
+397
+00:16:22,140 --> 00:16:26,130
+So hopefully that was a part of the fun that happened there.
+
+398
+00:16:26,130 --> 00:16:27,660
+So to answer a second part of the question
+
+399
+00:16:27,660 --> 00:16:30,270
+and then I'll roll into Mike here.
+
+400
+00:16:30,270 --> 00:16:32,250
+The AWS side, the Cal Poly side,
+
+401
+00:16:32,250 --> 00:16:37,200
+we put students up on campus housing at Poly Canyon Village.
+
+402
+00:16:37,200 --> 00:16:38,910
+I think the walks were a little too far
+
+403
+00:16:38,910 --> 00:16:40,410
+and burdensome every single day,
+
+404
+00:16:40,410 --> 00:16:41,370
+but I don't know,
+
+405
+00:16:41,370 --> 00:16:43,720
+it's probably also good for your mental health.
+
+406
+00:16:44,970 --> 00:16:48,480
+And so funding for that, the resource around that,
+
+407
+00:16:48,480 --> 00:16:51,600
+the resource around meals, the programming,
+
+408
+00:16:51,600 --> 00:16:53,580
+obviously kind of the curriculum,
+
+409
+00:16:53,580 --> 00:16:56,400
+the mentors like maul we've got here showed up.
+
+410
+00:16:56,400 --> 00:16:58,020
+And then our DxHub mentors.
+
+411
+00:16:58,020 --> 00:17:01,650
+So our DxHub team was just like full all in.
+
+412
+00:17:01,650 --> 00:17:04,530
+It's knocked us out for like a month by the way.
+
+413
+00:17:04,530 --> 00:17:06,480
+So it was very resource intensive
+
+414
+00:17:06,480 --> 00:17:10,080
+and kind of mapping this back to the original challenge
+
+415
+00:17:10,080 --> 00:17:12,120
+that my manager had thrown out there,
+
+416
+00:17:12,120 --> 00:17:14,673
+like how do we do this at a broader scale?
+
+417
+00:17:15,810 --> 00:17:17,490
+You know, I think we started with,
+
+418
+00:17:17,490 --> 00:17:20,250
+we've got resource to conduct this experiment,
+
+419
+00:17:20,250 --> 00:17:22,320
+let's see how it can be done right.
+
+420
+00:17:22,320 --> 00:17:24,000
+Let's pull those lessons learned
+
+421
+00:17:24,000 --> 00:17:25,200
+and then let's figure out
+
+422
+00:17:25,200 --> 00:17:28,290
+how to kind of distribute that resource
+
+423
+00:17:28,290 --> 00:17:29,340
+burden sharing a little bit.
+
+424
+00:17:29,340 --> 00:17:32,310
+And so lots to talk about I think in the future
+
+425
+00:17:32,310 --> 00:17:35,070
+about where this could go, but okay.
+
+426
+00:17:35,070 --> 00:17:36,699
+Does that cover?
+
+427
+00:17:36,699 --> 00:17:39,030
+- Yeah, I think so. - Okay.
+
+428
+00:17:39,030 --> 00:17:40,440
+- [Anu] Does anybody have any questions right now
+
+429
+00:17:40,440 --> 00:17:41,760
+about the program
+
+430
+00:17:41,760 --> 00:17:44,130
+as otherwise I'm gonna transition to the students
+
+431
+00:17:44,130 --> 00:17:46,113
+and let's hear about their experiences.
+
+432
+00:17:48,120 --> 00:17:50,770
+We'll try to leave time at the end for questions too.
+
+433
+00:17:51,720 --> 00:17:54,690
+Okay, Christopher, I'm gonna start with you.
+
+434
+00:17:54,690 --> 00:17:57,240
+What happened when they got to summer camp
+
+435
+00:17:57,240 --> 00:17:58,830
+is they were put into teams
+
+436
+00:17:58,830 --> 00:18:00,930
+and they were given challenge statements,
+
+437
+00:18:00,930 --> 00:18:04,170
+which were some of the collected challenges
+
+438
+00:18:04,170 --> 00:18:05,910
+and problems that we collected
+
+439
+00:18:05,910 --> 00:18:08,100
+from a lot of the community college leaders that we knew.
+
+440
+00:18:08,100 --> 00:18:10,230
+And we had put out requests and said,
+
+441
+00:18:10,230 --> 00:18:12,450
+does your institution have a pain point?
+
+442
+00:18:12,450 --> 00:18:15,870
+Is there a problem that might be benefited from
+
+443
+00:18:15,870 --> 00:18:18,360
+with some kind of AI driven solution?
+
+444
+00:18:18,360 --> 00:18:20,430
+If so, give us a challenge statement
+
+445
+00:18:20,430 --> 00:18:22,650
+and we're gonna have the students work on that.
+
+446
+00:18:22,650 --> 00:18:24,540
+So the students were put into teams
+
+447
+00:18:24,540 --> 00:18:28,260
+and then it was their charge to work on that solution.
+
+448
+00:18:28,260 --> 00:18:30,360
+Starting, you know, starting on Monday afternoon,
+
+449
+00:18:30,360 --> 00:18:31,620
+I guess you got together Monday,
+
+450
+00:18:31,620 --> 00:18:34,110
+you were given some technical skills and get going
+
+451
+00:18:34,110 --> 00:18:38,010
+and Friday they were gonna pitch and present their solution.
+
+452
+00:18:38,010 --> 00:18:40,380
+And so Christopher, I'm gonna start with you.
+
+453
+00:18:40,380 --> 00:18:42,900
+What challenge did your team work on
+
+454
+00:18:42,900 --> 00:18:44,790
+and can you tell us about your project
+
+455
+00:18:44,790 --> 00:18:47,040
+and what you tried to solve and how you did that?
+
+456
+00:18:47,040 --> 00:18:51,720
+- Yeah, so what we worked on was a project assigned
+
+457
+00:18:51,720 --> 00:18:55,911
+by the Foothill-De Anza Community College District.
+
+458
+00:18:55,911 --> 00:18:58,290
+And basically what our application
+
+459
+00:18:58,290 --> 00:19:02,040
+or platform aimed to do was to connect students
+
+460
+00:19:02,040 --> 00:19:05,580
+with learning differences or disabilities
+
+461
+00:19:05,580 --> 00:19:09,520
+with tutors that are suitable
+
+462
+00:19:10,380 --> 00:19:14,010
+to teach based on the needs of that student.
+
+463
+00:19:14,010 --> 00:19:17,310
+And it's something new, right?
+
+464
+00:19:17,310 --> 00:19:20,400
+And we harness the power of AI.
+
+465
+00:19:20,400 --> 00:19:22,773
+Basically how the experience goes is that,
+
+466
+00:19:23,811 --> 00:19:27,060
+a student will fill in an application form,
+
+467
+00:19:27,060 --> 00:19:30,000
+the AI will go through every single field
+
+468
+00:19:30,000 --> 00:19:32,770
+that the student with a learning difference entered
+
+469
+00:19:34,680 --> 00:19:38,400
+and it will then match it to a tutor.
+
+470
+00:19:38,400 --> 00:19:41,250
+And it's really sick because, sorry.
+
+471
+00:19:41,250 --> 00:19:43,286
+Yeah, we, it's-
+
+472
+00:19:43,286 --> 00:19:44,119
+- You don't need to apologize.
+
+473
+00:19:44,119 --> 00:19:45,870
+- Oh yeah, it's- - Your generation.
+
+474
+00:19:45,870 --> 00:19:47,730
+- Yeah, no, it's really sick
+
+475
+00:19:47,730 --> 00:19:50,790
+because we use this concept called
+
+476
+00:19:50,790 --> 00:19:53,100
+retrieval-augmented generation.
+
+477
+00:19:53,100 --> 00:19:57,390
+So basically it's not just the AI working,
+
+478
+00:19:57,390 --> 00:20:02,390
+it's retrieving context from a vast, like, knowledge base.
+
+479
+00:20:02,760 --> 00:20:06,750
+And AWS helped us with this through workshops
+
+480
+00:20:06,750 --> 00:20:11,133
+and yeah, that's basically what our platform did.
+
+481
+00:20:12,660 --> 00:20:17,660
+- [Anu] Well one of the things we talked about why.
+
+482
+00:20:18,360 --> 00:20:19,193
+- Yeah.
+
+483
+00:20:20,040 --> 00:20:21,390
+- [Anu] One of the things we talked about
+
+484
+00:20:21,390 --> 00:20:22,693
+when you were in your team was
+
+485
+00:20:22,693 --> 00:20:25,230
+I had the opportunity to go spend the week with them
+
+486
+00:20:25,230 --> 00:20:27,870
+and be a mentor and walk around
+
+487
+00:20:27,870 --> 00:20:30,420
+and work with some of the teams and talk to them.
+
+488
+00:20:30,420 --> 00:20:32,880
+One of the things we talked about was,
+
+489
+00:20:32,880 --> 00:20:35,580
+okay, you have a problem which is,
+
+490
+00:20:35,580 --> 00:20:38,027
+these students have learning disabilities, okay?
+
+491
+00:20:38,027 --> 00:20:39,840
+- Right. - They need to be matched up
+
+492
+00:20:39,840 --> 00:20:41,250
+and they're not always going to be able
+
+493
+00:20:41,250 --> 00:20:43,620
+to be meeting with a virtual tutor
+
+494
+00:20:43,620 --> 00:20:45,510
+because a tutor might not be available.
+
+495
+00:20:45,510 --> 00:20:47,310
+What if they're studying in the middle of the night.
+
+496
+00:20:47,310 --> 00:20:49,830
+- Exactly. - But a regular chatbot
+
+497
+00:20:49,830 --> 00:20:52,230
+may not be able to accommodate
+
+498
+00:20:52,230 --> 00:20:54,726
+based on their learning difference or learning disability.
+
+499
+00:20:54,726 --> 00:20:55,936
+- Right. - How did you address that?
+
+500
+00:20:55,936 --> 00:20:59,150
+- Yeah, so that's a really great question.
+
+501
+00:20:59,150 --> 00:21:02,190
+Basically, so right, if you schedule a tutor,
+
+502
+00:21:02,190 --> 00:21:05,460
+it's gonna take some time for them to come back to you
+
+503
+00:21:05,460 --> 00:21:06,990
+and, you know, help you with your homework
+
+504
+00:21:06,990 --> 00:21:10,080
+or your exam, right?
+
+505
+00:21:10,080 --> 00:21:13,080
+So what we did was we integrated a chatbot
+
+506
+00:21:13,080 --> 00:21:15,000
+into an app, our platform,
+
+507
+00:21:15,000 --> 00:21:17,400
+where while the student is waiting
+
+508
+00:21:17,400 --> 00:21:20,100
+for their next appointment with their tutor,
+
+509
+00:21:20,100 --> 00:21:21,870
+you get to chat with a chatbot
+
+510
+00:21:21,870 --> 00:21:25,230
+and that chatbot has context
+
+511
+00:21:25,230 --> 00:21:28,980
+of what the student needs are.
+
+512
+00:21:28,980 --> 00:21:32,580
+So for example, if you're, you know, you have ADHD
+
+513
+00:21:32,580 --> 00:21:37,530
+or you have some sort of reading impairment,
+
+514
+00:21:37,530 --> 00:21:40,350
+it'll try to adjust through those context
+
+515
+00:21:40,350 --> 00:21:43,740
+and give an appropriate response
+
+516
+00:21:43,740 --> 00:21:46,350
+that's tailored to the student's needs.
+
+517
+00:21:46,350 --> 00:21:49,200
+And we also integrated this in our UI.
+
+518
+00:21:49,200 --> 00:21:52,860
+So for example, you know, if you're dyslexic,
+
+519
+00:21:52,860 --> 00:21:56,130
+we implemented a feature where you click a button
+
+520
+00:21:56,130 --> 00:21:57,930
+and there's a dyslexic friendly view
+
+521
+00:21:57,930 --> 00:22:01,380
+where the fonts get weighted down at the bottom.
+
+522
+00:22:01,380 --> 00:22:05,250
+And you know what's really cool about this project is that,
+
+523
+00:22:05,250 --> 00:22:07,590
+most of it was powered by AI.
+
+524
+00:22:07,590 --> 00:22:11,280
+So those like UI changes,
+
+525
+00:22:11,280 --> 00:22:14,643
+those are mostly guided by AI.
+
+526
+00:22:16,650 --> 00:22:18,090
+- [Anu] What was the most surprising thing
+
+527
+00:22:18,090 --> 00:22:19,470
+that you discovered
+
+528
+00:22:19,470 --> 00:22:22,890
+while you were working on this project and with your team?
+
+529
+00:22:22,890 --> 00:22:26,580
+- Yeah, so the most surprising thing
+
+530
+00:22:26,580 --> 00:22:29,373
+that I learned through this project was that,
+
+531
+00:22:31,500 --> 00:22:36,360
+building the MVP and building production level projects
+
+532
+00:22:36,360 --> 00:22:37,193
+are different.
+
+533
+00:22:37,193 --> 00:22:42,193
+So when we are in the summer camp,
+
+534
+00:22:42,300 --> 00:22:44,940
+we're mostly doing this thing called vibe coding,
+
+535
+00:22:44,940 --> 00:22:49,940
+where the code is basically, you know, assisted,
+
+536
+00:22:50,820 --> 00:22:53,460
+as AI assists us to write code.
+
+537
+00:22:53,460 --> 00:22:56,910
+'Cause again, not all people in the team are technical
+
+538
+00:22:56,910 --> 00:22:59,410
+and you know, what's really cool about
+
+539
+00:23:00,420 --> 00:23:01,710
+the time we're in is that
+
+540
+00:23:01,710 --> 00:23:03,960
+you could just code in natural language,
+
+541
+00:23:03,960 --> 00:23:08,370
+like English and that comes with side effects.
+
+542
+00:23:08,370 --> 00:23:11,790
+Like it can be hard for,
+
+543
+00:23:11,790 --> 00:23:15,450
+like this type of code to be in production.
+
+544
+00:23:15,450 --> 00:23:18,750
+So I guess that's surprising that, you know,
+
+545
+00:23:18,750 --> 00:23:20,700
+if you're building an MVP, sure it works,
+
+546
+00:23:20,700 --> 00:23:25,530
+but if you put it in production it might not work, right?
+
+547
+00:23:25,530 --> 00:23:28,440
+There's like multiple edge cases that
+
+548
+00:23:28,440 --> 00:23:30,090
+you don't know what's gonna happen.
+
+549
+00:23:30,090 --> 00:23:33,510
+And I guess a recommendation I could give is that,
+
+550
+00:23:33,510 --> 00:23:35,310
+if you're integrating AI tools
+
+551
+00:23:35,310 --> 00:23:38,670
+and educational infrastructure,
+
+552
+00:23:38,670 --> 00:23:41,580
+there's a lot of studies that needs to be done
+
+553
+00:23:41,580 --> 00:23:44,910
+in order to make sure everything goes smoothly
+
+554
+00:23:44,910 --> 00:23:47,460
+and the platform doesn't break.
+
+555
+00:23:47,460 --> 00:23:50,400
+'Cause there's a lot of things that can go wrong with AI,
+
+556
+00:23:50,400 --> 00:23:53,103
+like, you know, like there's railroad features,
+
+557
+00:23:54,420 --> 00:23:59,100
+rail guards, and there's also like ethical concerns too.
+
+558
+00:23:59,100 --> 00:24:03,573
+So yeah, that's my insight.
+
+559
+00:24:04,950 --> 00:24:06,900
+- Can I ask a quick question?
+
+560
+00:24:06,900 --> 00:24:09,150
+Who was your team's mentor?
+
+561
+00:24:09,150 --> 00:24:12,123
+- Oh yeah, so our team's mentor is Sharon.
+
+562
+00:24:12,960 --> 00:24:17,960
+She's like the most helpful person ever. Well, yeah.
+
+563
+00:24:18,690 --> 00:24:22,980
+And she helped us like through like 12:00 AM,
+
+564
+00:24:22,980 --> 00:24:26,199
+like I was like, you you need to get a raise after this.
+
+565
+00:24:26,199 --> 00:24:27,990
+(all laughing)
+
+566
+00:24:27,990 --> 00:24:30,928
+- She did. - She got a raise. Oh nice.
+
+567
+00:24:30,928 --> 00:24:31,980
+- That's good because she, like,
+
+568
+00:24:31,980 --> 00:24:34,660
+she was working till 12:00 AM with us and like
+
+569
+00:24:35,790 --> 00:24:38,250
+we were really thankful. - We gonna ask her.
+
+570
+00:24:39,270 --> 00:24:42,540
+- [Anu] Sharon, so I'll turn it to you for a moment then.
+
+571
+00:24:42,540 --> 00:24:43,890
+Since you mentored this team,
+
+572
+00:24:43,890 --> 00:24:46,710
+what was it like to be a mentor
+
+573
+00:24:46,710 --> 00:24:49,500
+and what are some of the dynamics that you saw
+
+574
+00:24:49,500 --> 00:24:52,650
+with the team members and especially
+
+575
+00:24:52,650 --> 00:24:55,653
+because it was such a diverse group in the team,
+
+576
+00:24:56,670 --> 00:24:58,924
+what did you observe?
+
+577
+00:24:58,924 --> 00:24:59,820
+- Yeah, so yeah,
+
+578
+00:24:59,820 --> 00:25:03,780
+I had the pleasure mentoring Christopher and his team
+
+579
+00:25:03,780 --> 00:25:07,320
+and within that team it consisted of,
+
+580
+00:25:07,320 --> 00:25:09,690
+like so many diverse backgrounds.
+
+581
+00:25:09,690 --> 00:25:11,310
+We had Christopher who was like younger,
+
+582
+00:25:11,310 --> 00:25:13,740
+who just started off at CC
+
+583
+00:25:13,740 --> 00:25:15,490
+and then we had some members
+
+584
+00:25:16,545 --> 00:25:19,020
+who were coming back to CC
+
+585
+00:25:19,020 --> 00:25:22,320
+to learn more about computer science.
+
+586
+00:25:22,320 --> 00:25:27,320
+We had a juror, someone who was a PM, a product manager
+
+587
+00:25:27,330 --> 00:25:30,180
+and then we also had someone who was more business focused.
+
+588
+00:25:30,180 --> 00:25:33,120
+So it was really inspiring to see
+
+589
+00:25:33,120 --> 00:25:36,180
+all these different perspectives come together,
+
+590
+00:25:36,180 --> 00:25:38,670
+work together to build a solution
+
+591
+00:25:38,670 --> 00:25:40,540
+in such a short amount of time
+
+592
+00:25:41,490 --> 00:25:45,240
+and seeing these different perspectives work together
+
+593
+00:25:45,240 --> 00:25:47,010
+to build a more inclusive solution
+
+594
+00:25:47,010 --> 00:25:48,360
+because you have, you know,
+
+595
+00:25:48,360 --> 00:25:50,730
+people who are more technical like Christopher
+
+596
+00:25:50,730 --> 00:25:52,800
+who is like who has a CS background
+
+597
+00:25:52,800 --> 00:25:56,280
+and then you have other people who are more business focused
+
+598
+00:25:56,280 --> 00:25:59,340
+or even like Lasha who was a juror
+
+599
+00:25:59,340 --> 00:26:00,810
+trying to learn more about AI.
+
+600
+00:26:00,810 --> 00:26:05,103
+So it was really inspiring to see all of that come together.
+
+601
+00:26:06,780 --> 00:26:08,370
+- [Anu] Great, thank you.
+
+602
+00:26:08,370 --> 00:26:10,530
+River, I'll come to you.
+
+603
+00:26:10,530 --> 00:26:13,050
+What project did your team work on
+
+604
+00:26:13,050 --> 00:26:15,090
+and what was your experience like,
+
+605
+00:26:15,090 --> 00:26:16,710
+and how did you solve this problem
+
+606
+00:26:16,710 --> 00:26:19,440
+that was given in your challenge statement?
+
+607
+00:26:19,440 --> 00:26:22,230
+- Yeah, of course. So my name's River.
+
+608
+00:26:22,230 --> 00:26:25,200
+I was at Saddleback Community College in Orange County.
+
+609
+00:26:25,200 --> 00:26:29,250
+I recently transferred to San Jose State University,
+
+610
+00:26:29,250 --> 00:26:31,380
+still studying civil engineering.
+
+611
+00:26:31,380 --> 00:26:34,500
+And the project that we were working on
+
+612
+00:26:34,500 --> 00:26:36,120
+was a shipping project.
+
+613
+00:26:36,120 --> 00:26:39,450
+We received procurement data of different ways
+
+614
+00:26:39,450 --> 00:26:43,800
+that Cal Poly slow ships things in and out.
+
+615
+00:26:43,800 --> 00:26:45,510
+And our goal was to use AI
+
+616
+00:26:45,510 --> 00:26:47,943
+to optimize their shipping methods.
+
+617
+00:26:49,470 --> 00:26:53,820
+The way we were able to do that was really cool
+
+618
+00:26:53,820 --> 00:26:55,260
+to be able to be involved with,
+
+619
+00:26:55,260 --> 00:26:58,800
+because AWS gave us access to tools that
+
+620
+00:26:58,800 --> 00:26:59,970
+I wouldn't have access to
+
+621
+00:26:59,970 --> 00:27:02,070
+unless I was involved in a camp like that
+
+622
+00:27:02,070 --> 00:27:04,590
+because some of them have credits,
+
+623
+00:27:04,590 --> 00:27:05,700
+some of them cost money
+
+624
+00:27:05,700 --> 00:27:07,680
+and so we didn't have to think about that stuff,
+
+625
+00:27:07,680 --> 00:27:09,180
+which was awesome.
+
+626
+00:27:09,180 --> 00:27:11,220
+And so I worked alongside
+
+627
+00:27:11,220 --> 00:27:15,180
+and in some capacities as like a project manager
+
+628
+00:27:15,180 --> 00:27:16,860
+because as a civil engineer
+
+629
+00:27:16,860 --> 00:27:18,753
+with computer science background,
+
+630
+00:27:20,100 --> 00:27:21,930
+I felt I could relate to like people
+
+631
+00:27:21,930 --> 00:27:24,750
+with business backgrounds, people with,
+
+632
+00:27:24,750 --> 00:27:27,900
+I think there was a engineering systems
+
+633
+00:27:27,900 --> 00:27:29,700
+or something like that, background,
+
+634
+00:27:29,700 --> 00:27:31,263
+communication background.
+
+635
+00:27:32,250 --> 00:27:34,830
+And so I was able to give them specific goals
+
+636
+00:27:34,830 --> 00:27:35,880
+that they could work on
+
+637
+00:27:35,880 --> 00:27:38,190
+and then I was able to use AI
+
+638
+00:27:38,190 --> 00:27:40,350
+as Christopher mentioned,
+
+639
+00:27:40,350 --> 00:27:42,990
+vibe coding allowed those less technical people
+
+640
+00:27:42,990 --> 00:27:44,460
+to provide code
+
+641
+00:27:44,460 --> 00:27:47,790
+and it allowed us more technical folk like the CS students
+
+642
+00:27:47,790 --> 00:27:50,640
+and engineering students to integrate
+
+643
+00:27:50,640 --> 00:27:54,960
+those less technical deliverables
+
+644
+00:27:54,960 --> 00:27:57,720
+with like the more technical backend.
+
+645
+00:27:57,720 --> 00:28:00,390
+And that wouldn't have been possible without AI
+
+646
+00:28:00,390 --> 00:28:04,203
+and those specific AWS tools that we had access to.
+
+647
+00:28:05,370 --> 00:28:07,590
+And the way I solved the problem with my team
+
+648
+00:28:07,590 --> 00:28:09,750
+was essentially building a chatbot
+
+649
+00:28:09,750 --> 00:28:12,060
+where you could interact with the shipping data.
+
+650
+00:28:12,060 --> 00:28:13,680
+We also gave access to,
+
+651
+00:28:13,680 --> 00:28:16,020
+I called it like Expedia for shipping
+
+652
+00:28:16,020 --> 00:28:19,350
+because we had an API call which pretty much reached out
+
+653
+00:28:19,350 --> 00:28:22,590
+to like FedEx, UPS, postal service
+
+654
+00:28:22,590 --> 00:28:24,280
+and got their prices
+
+655
+00:28:25,535 --> 00:28:28,170
+and like the price per dimension
+
+656
+00:28:28,170 --> 00:28:30,540
+for shipping something to somewhere.
+
+657
+00:28:30,540 --> 00:28:32,790
+And so instead of having to go to like FedEx
+
+658
+00:28:32,790 --> 00:28:33,990
+and type all that in,
+
+659
+00:28:33,990 --> 00:28:36,330
+and then go to UPS and type all that in,
+
+660
+00:28:36,330 --> 00:28:38,970
+you're able to go to like the freight lease shipping hub,
+
+661
+00:28:38,970 --> 00:28:40,860
+which my project developed
+
+662
+00:28:40,860 --> 00:28:42,630
+and you could see all the different,
+
+663
+00:28:42,630 --> 00:28:44,880
+like shipping price options,
+
+664
+00:28:44,880 --> 00:28:46,860
+then you can interact with them with a chatbot
+
+665
+00:28:46,860 --> 00:28:51,090
+to be like, oh, I want it to come as fast as possible,
+
+666
+00:28:51,090 --> 00:28:53,010
+or I want it to be as cheap as possible,
+
+667
+00:28:53,010 --> 00:28:55,350
+and it would actually be able to interact with you.
+
+668
+00:28:55,350 --> 00:28:59,280
+And then we're also able to use machine learning tools
+
+669
+00:28:59,280 --> 00:29:01,020
+to go through that procurement data
+
+670
+00:29:01,020 --> 00:29:03,873
+and analyze where potential savings could be made.
+
+671
+00:29:05,010 --> 00:29:06,960
+One of the ways we found that is that,
+
+672
+00:29:06,960 --> 00:29:08,670
+we found they had shipped
+
+673
+00:29:08,670 --> 00:29:10,890
+from one supplier six separate times.
+
+674
+00:29:10,890 --> 00:29:12,780
+And so if they had just shipped one time,
+
+675
+00:29:12,780 --> 00:29:15,330
+they could have saved X amount of money.
+
+676
+00:29:15,330 --> 00:29:19,350
+And so I think we projected 15 to 25,000
+
+677
+00:29:19,350 --> 00:29:20,940
+in potential shipping savings
+
+678
+00:29:20,940 --> 00:29:23,730
+which could go back into like student funding
+
+679
+00:29:23,730 --> 00:29:26,250
+and different groups and organizations.
+
+680
+00:29:26,250 --> 00:29:31,250
+And so all this was possible with AWS and AI tools
+
+681
+00:29:31,620 --> 00:29:35,640
+that really like, increased our efficiency
+
+682
+00:29:35,640 --> 00:29:38,190
+and increased our like potential.
+
+683
+00:29:38,190 --> 00:29:40,140
+Like the potential that we had
+
+684
+00:29:40,140 --> 00:29:41,670
+compared to if we didn't have access
+
+685
+00:29:41,670 --> 00:29:43,623
+to these tools is remarkable.
+
+686
+00:29:46,560 --> 00:29:50,760
+- [Anu] When your team was trying to decide their solution,
+
+687
+00:29:50,760 --> 00:29:55,500
+did cost savings or cost savings
+
+688
+00:29:55,500 --> 00:29:59,730
+and kind of capacity for workflow, did that?
+
+689
+00:29:59,730 --> 00:30:02,010
+what kind of conversations did you have around that
+
+690
+00:30:02,010 --> 00:30:03,690
+to come, you know?
+
+691
+00:30:03,690 --> 00:30:07,170
+- Yeah, definitely as far as when building the project
+
+692
+00:30:07,170 --> 00:30:11,520
+or for like, the like, deliverable
+
+693
+00:30:11,520 --> 00:30:14,010
+because when developing a project
+
+694
+00:30:14,010 --> 00:30:15,510
+do you want to understand like,
+
+695
+00:30:15,510 --> 00:30:19,080
+oh, are my API calls gonna be costing money every time,
+
+696
+00:30:19,080 --> 00:30:20,520
+I like call them.
+
+697
+00:30:20,520 --> 00:30:22,860
+But then you also wanna be considering like,
+
+698
+00:30:22,860 --> 00:30:26,340
+how can this project help the business save money?
+
+699
+00:30:26,340 --> 00:30:28,530
+And so I think thinking about it from both ends,
+
+700
+00:30:28,530 --> 00:30:30,000
+like who's asking for it
+
+701
+00:30:30,000 --> 00:30:32,370
+and who's giving it out in both ends,
+
+702
+00:30:32,370 --> 00:30:35,073
+you can like apply saving methods and stuff like that.
+
+703
+00:30:36,120 --> 00:30:37,680
+- [Anu] Yeah, I asked that because we could see
+
+704
+00:30:37,680 --> 00:30:41,045
+as we were walking around that it wasn't always,
+
+705
+00:30:41,045 --> 00:30:42,570
+the conversations weren't always
+
+706
+00:30:42,570 --> 00:30:44,490
+around the technical skills,
+
+707
+00:30:44,490 --> 00:30:46,410
+but there were lots of conversations about
+
+708
+00:30:46,410 --> 00:30:48,900
+what does it mean, where's the value,
+
+709
+00:30:48,900 --> 00:30:51,600
+who's being helped and how are they being helped?
+
+710
+00:30:51,600 --> 00:30:53,580
+And I think that's a lot of the conversations
+
+711
+00:30:53,580 --> 00:30:56,160
+that we've been having since yesterday here,
+
+712
+00:30:56,160 --> 00:30:59,280
+that the technology is a technology
+
+713
+00:30:59,280 --> 00:31:00,960
+but what are we actually using it for?
+
+714
+00:31:00,960 --> 00:31:02,220
+How are we applying that
+
+715
+00:31:02,220 --> 00:31:05,100
+and where is that actually helping us as humans
+
+716
+00:31:05,100 --> 00:31:06,390
+and how are we part of that?
+
+717
+00:31:06,390 --> 00:31:09,180
+And so it was really interesting to see
+
+718
+00:31:09,180 --> 00:31:12,240
+the students engaging in those conversations.
+
+719
+00:31:12,240 --> 00:31:15,660
+You know, there were flip charts all around the room
+
+720
+00:31:15,660 --> 00:31:18,210
+and you know, they're brainstorming and talking
+
+721
+00:31:18,210 --> 00:31:22,380
+and so they're doing some of the work that we are doing too.
+
+722
+00:31:22,380 --> 00:31:24,450
+And in these conversations they just
+
+723
+00:31:24,450 --> 00:31:28,565
+did in an intensive week long experience.
+
+724
+00:31:28,565 --> 00:31:31,620
+Devani you are also a mentor for one of the teams,
+
+725
+00:31:31,620 --> 00:31:34,410
+so I'll ask you what was it like to be a mentor
+
+726
+00:31:34,410 --> 00:31:36,150
+and what dynamics did you observe
+
+727
+00:31:36,150 --> 00:31:39,483
+and how did you help the teams move forward?
+
+728
+00:31:41,700 --> 00:31:44,640
+- Yeah, so I was also one of the mentors for the team
+
+729
+00:31:44,640 --> 00:31:48,060
+and honestly it was such a rewarding experience for me
+
+730
+00:31:48,060 --> 00:31:51,540
+because I got to share everything that I have learned
+
+731
+00:31:51,540 --> 00:31:52,950
+working as a software developer
+
+732
+00:31:52,950 --> 00:31:56,647
+for the DxHub with my team and all the students.
+
+733
+00:31:56,647 --> 00:31:58,920
+And I saw everyone grow so much in terms,
+
+734
+00:31:58,920 --> 00:32:00,630
+not only in terms of technical skills,
+
+735
+00:32:00,630 --> 00:32:02,280
+but also as a person through the week.
+
+736
+00:32:02,280 --> 00:32:04,560
+So that was really inspiring for me.
+
+737
+00:32:04,560 --> 00:32:06,120
+And like it was mentioned before,
+
+738
+00:32:06,120 --> 00:32:08,850
+we had so many students come in from different backgrounds
+
+739
+00:32:08,850 --> 00:32:12,510
+with different technical levels, different skills,
+
+740
+00:32:12,510 --> 00:32:15,000
+and I was able to work with teams
+
+741
+00:32:15,000 --> 00:32:17,430
+to like bring out the best in them
+
+742
+00:32:17,430 --> 00:32:19,533
+and really use the skillset
+
+743
+00:32:19,533 --> 00:32:20,700
+that they provided
+
+744
+00:32:20,700 --> 00:32:24,450
+to build a real tangible solution in just a week.
+
+745
+00:32:24,450 --> 00:32:26,880
+So honestly working with them,
+
+746
+00:32:26,880 --> 00:32:30,030
+I also really got a unique experience as a student
+
+747
+00:32:30,030 --> 00:32:31,770
+because usually I'm the one
+
+748
+00:32:31,770 --> 00:32:33,090
+who is working on these projects,
+
+749
+00:32:33,090 --> 00:32:35,880
+but this time I got to be on the other side of the,
+
+750
+00:32:35,880 --> 00:32:37,920
+like on the other side helping students,
+
+751
+00:32:37,920 --> 00:32:39,660
+guiding them through their projects.
+
+752
+00:32:39,660 --> 00:32:43,770
+So I think I also learned so much as a developer myself
+
+753
+00:32:43,770 --> 00:32:47,223
+and yeah, it was an amazing experience overall.
+
+754
+00:32:49,860 --> 00:32:53,340
+- [Anu] Ryan or Nick, what was some takeaways
+
+755
+00:32:53,340 --> 00:32:56,010
+and surprises in terms of what you observed
+
+756
+00:32:56,010 --> 00:32:57,930
+as you were helping mentors
+
+757
+00:32:57,930 --> 00:32:59,890
+and students work on these projects?
+
+758
+00:32:59,890 --> 00:33:01,023
+- Okay, I'll start.
+
+759
+00:33:01,890 --> 00:33:06,890
+So first off, I think the chief feedback that we got
+
+760
+00:33:07,770 --> 00:33:11,760
+from the DxHub team after it was all over was,
+
+761
+00:33:11,760 --> 00:33:12,593
+you didn't tell us
+
+762
+00:33:12,593 --> 00:33:15,017
+what this was actually gonna be like at all.
+
+763
+00:33:15,017 --> 00:33:16,650
+(all laughing)
+
+764
+00:33:16,650 --> 00:33:20,403
+And so I think is that, okay?
+
+765
+00:33:21,870 --> 00:33:24,963
+And so like I think what we saw was,
+
+766
+00:33:25,890 --> 00:33:28,230
+I would argue that a lot of our team members
+
+767
+00:33:28,230 --> 00:33:30,783
+are introverts by nature maybe, right?
+
+768
+00:33:31,770 --> 00:33:34,680
+And then all of a sudden this script flip happened
+
+769
+00:33:34,680 --> 00:33:36,690
+and you don't know until you know,
+
+770
+00:33:36,690 --> 00:33:37,650
+until you experience
+
+771
+00:33:37,650 --> 00:33:39,510
+what it's like to all of a sudden,
+
+772
+00:33:39,510 --> 00:33:40,497
+'cause like Ryan and I are,
+
+773
+00:33:40,497 --> 00:33:42,000
+and our colleague Darren are always,
+
+774
+00:33:42,000 --> 00:33:44,097
+are constantly like, mentoring you, all right?
+
+775
+00:33:44,097 --> 00:33:48,510
+And now all of a sudden you have to jump in that role.
+
+776
+00:33:48,510 --> 00:33:52,830
+And I think it was like, it even totally surprised me,
+
+777
+00:33:52,830 --> 00:33:55,680
+like when that second week was over
+
+778
+00:33:55,680 --> 00:33:59,013
+you could just like hear the big gasp of relief.
+
+779
+00:34:01,200 --> 00:34:03,840
+And so I think that was probably the most interesting thing
+
+780
+00:34:03,840 --> 00:34:06,630
+and I'm super looking forward to hearing like,
+
+781
+00:34:06,630 --> 00:34:09,960
+did that experience, you know,
+
+782
+00:34:09,960 --> 00:34:12,810
+help you all as mentors and teachers.
+
+783
+00:34:12,810 --> 00:34:15,030
+'Cause all of a sudden you guys were doing breakouts, right?
+
+784
+00:34:15,030 --> 00:34:16,830
+And you were like literally teaching
+
+785
+00:34:16,830 --> 00:34:18,780
+a specific concept to all
+
+786
+00:34:18,780 --> 00:34:21,270
+and let alone just like hunkering down
+
+787
+00:34:21,270 --> 00:34:22,530
+with a specific team
+
+788
+00:34:22,530 --> 00:34:24,810
+and just doing, you know, the mentorship piece.
+
+789
+00:34:24,810 --> 00:34:28,770
+So I think that was probably the biggest surprise for me.
+
+790
+00:34:28,770 --> 00:34:31,410
+I just don't think I would have understood
+
+791
+00:34:31,410 --> 00:34:33,420
+really what that was gonna mean.
+
+792
+00:34:33,420 --> 00:34:36,030
+- Yeah. And I think also if we reflect back
+
+793
+00:34:36,030 --> 00:34:37,740
+at the start of the week, Christopher,
+
+794
+00:34:37,740 --> 00:34:41,760
+like Monday morning we start handing teams projects
+
+795
+00:34:41,760 --> 00:34:43,860
+and they're very clear about the time they have.
+
+796
+00:34:43,860 --> 00:34:46,140
+And some of these projects have very large
+
+797
+00:34:46,140 --> 00:34:48,930
+ill-defined scopes by design,
+
+798
+00:34:48,930 --> 00:34:50,670
+we chose them very carefully.
+
+799
+00:34:50,670 --> 00:34:53,100
+And we had a strong sense it would be possible
+
+800
+00:34:53,100 --> 00:34:54,750
+to do some good work on them.
+
+801
+00:34:54,750 --> 00:34:57,180
+I was surprised by how much work was done.
+
+802
+00:34:57,180 --> 00:34:58,590
+It was remarkable.
+
+803
+00:34:58,590 --> 00:34:59,950
+You used that word before
+
+804
+00:35:00,844 --> 00:35:01,677
+of between the vibe coding,
+
+805
+00:35:01,677 --> 00:35:02,880
+but really between the connectivity
+
+806
+00:35:02,880 --> 00:35:04,830
+of the members of the team.
+
+807
+00:35:04,830 --> 00:35:06,450
+I think that's what allowed it to happen.
+
+808
+00:35:06,450 --> 00:35:11,040
+And of course it's a high intensity supported environment,
+
+809
+00:35:11,040 --> 00:35:14,520
+but there is a dynamic on being on a team, it's hard.
+
+810
+00:35:14,520 --> 00:35:16,260
+It takes a lot of extra effort
+
+811
+00:35:16,260 --> 00:35:18,300
+and to do that all within a week.
+
+812
+00:35:18,300 --> 00:35:21,120
+And so what I guess surprised me most was,
+
+813
+00:35:21,120 --> 00:35:22,530
+the community college students
+
+814
+00:35:22,530 --> 00:35:26,280
+within five minutes you were connecting with each other.
+
+815
+00:35:26,280 --> 00:35:29,220
+You had maybe less in common in terms of your skills,
+
+816
+00:35:29,220 --> 00:35:31,020
+your experience, your location,
+
+817
+00:35:31,020 --> 00:35:32,940
+but you made those bridges immediately.
+
+818
+00:35:32,940 --> 00:35:36,750
+And so, I mean Cal State University employee,
+
+819
+00:35:36,750 --> 00:35:38,280
+we had a great first week.
+
+820
+00:35:38,280 --> 00:35:41,520
+The second week I think was even better
+
+821
+00:35:41,520 --> 00:35:42,870
+in ways we tuned some things,
+
+822
+00:35:42,870 --> 00:35:44,850
+but also a lot of it was just that connectivity
+
+823
+00:35:44,850 --> 00:35:46,410
+and that willingness to reach out
+
+824
+00:35:46,410 --> 00:35:49,050
+from all of the participants and to support each other,
+
+825
+00:35:49,050 --> 00:35:50,550
+to explore together
+
+826
+00:35:50,550 --> 00:35:53,250
+and to honor rule number one of having fun.
+
+827
+00:35:53,250 --> 00:35:56,730
+- That's true. - And it also just felt real,
+
+828
+00:35:56,730 --> 00:35:59,370
+like, it was not sanitized.
+
+829
+00:35:59,370 --> 00:36:01,650
+It felt like a real community was coming together
+
+830
+00:36:01,650 --> 00:36:04,293
+in real time, somewhat spontaneously.
+
+831
+00:36:08,670 --> 00:36:11,250
+- [Anu] Chancellor Christian yesterday talked about
+
+832
+00:36:11,250 --> 00:36:14,610
+the vision 2030 and what we hope for, you know,
+
+833
+00:36:14,610 --> 00:36:16,380
+the two million students that we have
+
+834
+00:36:16,380 --> 00:36:17,610
+in the community college system
+
+835
+00:36:17,610 --> 00:36:22,020
+and how we can train and retrain and upskill our students.
+
+836
+00:36:22,020 --> 00:36:26,340
+And again, emphasize it's not just about technical skills,
+
+837
+00:36:26,340 --> 00:36:28,230
+but also the durable skills.
+
+838
+00:36:28,230 --> 00:36:29,730
+And so you touched on that a little bit
+
+839
+00:36:29,730 --> 00:36:30,780
+in terms of the teamwork,
+
+840
+00:36:30,780 --> 00:36:32,820
+but I'll ask the students, you know,
+
+841
+00:36:32,820 --> 00:36:35,823
+Christopher or River, you can both take a turn at this.
+
+842
+00:36:36,930 --> 00:36:38,490
+As the week progressed,
+
+843
+00:36:38,490 --> 00:36:42,120
+you were definitely applying some of the technical skills
+
+844
+00:36:42,120 --> 00:36:43,140
+that you were learning
+
+845
+00:36:43,140 --> 00:36:46,140
+and you know, there were breakout sessions in between
+
+846
+00:36:46,140 --> 00:36:48,480
+of how do you vibe code and how do you,
+
+847
+00:36:48,480 --> 00:36:50,823
+what were some of the other ones or other sessions?
+
+848
+00:36:50,823 --> 00:36:52,500
+- RAG. - RAG, yeah.
+
+849
+00:36:52,500 --> 00:36:54,000
+I was trying to learn and keep up too,
+
+850
+00:36:54,000 --> 00:36:56,550
+but it was really hard.
+
+851
+00:36:56,550 --> 00:37:00,213
+But, and you know, we talked about how to present and pitch.
+
+852
+00:37:01,110 --> 00:37:04,050
+As the week started to get to the point of,
+
+853
+00:37:04,050 --> 00:37:05,850
+we have to pitch on Friday,
+
+854
+00:37:05,850 --> 00:37:08,790
+what was that like in terms of what you did in your teams
+
+855
+00:37:08,790 --> 00:37:10,500
+and how did you prepare for that?
+
+856
+00:37:10,500 --> 00:37:12,150
+Because that's beyond technical skills,
+
+857
+00:37:12,150 --> 00:37:14,790
+now you're getting into some of your durable skills
+
+858
+00:37:14,790 --> 00:37:17,340
+like problem solving, presentation,
+
+859
+00:37:17,340 --> 00:37:19,290
+communication, teamwork.
+
+860
+00:37:19,290 --> 00:37:21,060
+So can you talk about a little bit about your experience
+
+861
+00:37:21,060 --> 00:37:24,123
+and how you all came together to pitch at the end?
+
+862
+00:37:26,070 --> 00:37:27,510
+You wanna start River?
+
+863
+00:37:27,510 --> 00:37:29,160
+- Yeah, I'd love to start.
+
+864
+00:37:29,160 --> 00:37:31,470
+I think one of the special things about this program
+
+865
+00:37:31,470 --> 00:37:35,190
+was the fact that we were on campus for five days,
+
+866
+00:37:35,190 --> 00:37:39,510
+like 24 hours a day just hanging out,
+
+867
+00:37:39,510 --> 00:37:42,060
+talking about AI with other students
+
+868
+00:37:42,060 --> 00:37:43,260
+that can resonate
+
+869
+00:37:43,260 --> 00:37:45,453
+as far as being community college students.
+
+870
+00:37:46,770 --> 00:37:49,970
+And yeah, one of like the best parts about that,
+
+871
+00:37:49,970 --> 00:37:51,900
+is like I have so many friends,
+
+872
+00:37:51,900 --> 00:37:54,180
+I have four friends at SJSU now.
+
+873
+00:37:54,180 --> 00:37:56,520
+I have a group chat of like five people.
+
+874
+00:37:56,520 --> 00:37:58,320
+I talked to them today,
+
+875
+00:37:58,320 --> 00:38:00,567
+I got like exciting news and I sent it to them
+
+876
+00:38:00,567 --> 00:38:02,520
+and we all encourage each other and stuff.
+
+877
+00:38:02,520 --> 00:38:05,970
+And so just developing those relationships with the,
+
+878
+00:38:05,970 --> 00:38:09,420
+like friends from San Francisco, to San Diego,
+
+879
+00:38:09,420 --> 00:38:10,253
+and Long Beach,
+
+880
+00:38:10,253 --> 00:38:11,850
+and everywhere has been really cool.
+
+881
+00:38:12,690 --> 00:38:15,843
+And then just like being able to,
+
+882
+00:38:17,880 --> 00:38:19,770
+sorry, I kind of lost track of what I was saying.
+
+883
+00:38:19,770 --> 00:38:21,480
+Do you wanna take over Christopher?
+
+884
+00:38:21,480 --> 00:38:22,350
+- Yeah, yeah.
+
+885
+00:38:22,350 --> 00:38:26,760
+So I guess like you were asking about,
+
+886
+00:38:26,760 --> 00:38:27,720
+like the presentation, right?
+
+887
+00:38:27,720 --> 00:38:29,231
+Leading up to the presentation.
+
+888
+00:38:29,231 --> 00:38:30,064
+- [Anu] Oh yeah.
+
+889
+00:38:30,064 --> 00:38:31,710
+How you came together as you were leading up the,
+
+890
+00:38:31,710 --> 00:38:33,659
+you have to present your solution
+
+891
+00:38:33,659 --> 00:38:34,492
+- Definitely. - and you gotta come together.
+
+892
+00:38:34,492 --> 00:38:35,877
+- Yeah, yeah, yeah.
+
+893
+00:38:35,877 --> 00:38:40,877
+So, between these like, you know, technical building stuff,
+
+894
+00:38:40,890 --> 00:38:43,110
+we had like some really cool events
+
+895
+00:38:43,110 --> 00:38:44,880
+like the Duck Hunt event.
+
+896
+00:38:44,880 --> 00:38:48,300
+The the Duck Hunt event, which is basically where
+
+897
+00:38:48,300 --> 00:38:51,900
+the Cal Poly DxHub team programmed the chatbot
+
+898
+00:38:51,900 --> 00:38:56,130
+and they hide like mini ducks around campus
+
+899
+00:38:56,130 --> 00:38:58,800
+and it has an NFC chip in it
+
+900
+00:38:58,800 --> 00:39:01,140
+where if you put your phone next to it,
+
+901
+00:39:01,140 --> 00:39:02,730
+it's gonna pull up a chatbot
+
+902
+00:39:02,730 --> 00:39:07,260
+and you're supposed to prompt inject it
+
+903
+00:39:07,260 --> 00:39:12,030
+for the chatbot to give you a clue.
+
+904
+00:39:12,030 --> 00:39:14,970
+So it's really like awesome. I've never seen-
+
+905
+00:39:14,970 --> 00:39:16,350
+- Sophisticated treasure. - Exactly.
+
+906
+00:39:16,350 --> 00:39:18,330
+- Like it was really cool.
+
+907
+00:39:18,330 --> 00:39:21,153
+'Cause number one, I got my steps in,
+
+908
+00:39:23,160 --> 00:39:26,400
+Cal Poly is like really big campus.
+
+909
+00:39:26,400 --> 00:39:31,400
+Number two, I got to like know my team better.
+
+910
+00:39:31,980 --> 00:39:36,810
+And number three, I got to know,
+
+911
+00:39:36,810 --> 00:39:39,510
+like the whole like culture of this
+
+912
+00:39:39,510 --> 00:39:42,750
+because the clues are like designed to like,
+
+913
+00:39:42,750 --> 00:39:46,503
+designed specifically with like,
+
+914
+00:39:47,580 --> 00:39:49,680
+hints of Cal Poly culture.
+
+915
+00:39:49,680 --> 00:39:51,510
+So like they're mentioning like,
+
+916
+00:39:51,510 --> 00:39:52,860
+oh students hang out here,
+
+917
+00:39:52,860 --> 00:39:55,680
+so like we get to like experience what, you know,
+
+918
+00:39:55,680 --> 00:39:58,440
+a four year university is like in a sense.
+
+919
+00:39:58,440 --> 00:40:00,450
+And you know, that team building
+
+920
+00:40:00,450 --> 00:40:02,100
+leading up to the presentation
+
+921
+00:40:02,100 --> 00:40:05,010
+definitely made my team's chemistry much stronger.
+
+922
+00:40:05,010 --> 00:40:09,810
+And you know, that prepares us for moments where,
+
+923
+00:40:09,810 --> 00:40:12,510
+even if we're not ready, we have that chemistry say,
+
+924
+00:40:12,510 --> 00:40:13,800
+oh yeah, you take over this,
+
+925
+00:40:13,800 --> 00:40:14,940
+I take over that.
+
+926
+00:40:14,940 --> 00:40:16,830
+You know, like we don't need,
+
+927
+00:40:16,830 --> 00:40:18,930
+like we don't need to tell them to step up,
+
+928
+00:40:18,930 --> 00:40:19,763
+they step up,
+
+929
+00:40:19,763 --> 00:40:21,840
+'cause you know, we have,
+
+930
+00:40:21,840 --> 00:40:23,460
+we know each other basically.
+
+931
+00:40:23,460 --> 00:40:25,113
+So that's what should I get at.
+
+932
+00:40:25,950 --> 00:40:27,120
+- So finish my last thought
+
+933
+00:40:27,120 --> 00:40:29,490
+and to expand upon what he said,
+
+934
+00:40:29,490 --> 00:40:31,140
+they really did put so much effort
+
+935
+00:40:31,140 --> 00:40:32,733
+into like community building.
+
+936
+00:40:33,600 --> 00:40:36,540
+One of my favorite parts was they had like,
+
+937
+00:40:36,540 --> 00:40:37,560
+a gumball machine,
+
+938
+00:40:37,560 --> 00:40:40,170
+but it had little 3D printed trophies
+
+939
+00:40:40,170 --> 00:40:42,297
+that incentivized like hard work.
+
+940
+00:40:42,297 --> 00:40:44,310
+And one of my favorite things was like,
+
+941
+00:40:44,310 --> 00:40:47,040
+identifying someone that was working hard and going up
+
+942
+00:40:47,040 --> 00:40:48,690
+and recognizing their hard work.
+
+943
+00:40:48,690 --> 00:40:51,150
+And I made like so many good friends
+
+944
+00:40:51,150 --> 00:40:53,400
+just from that small action of them,
+
+945
+00:40:53,400 --> 00:40:55,470
+like feeling recognized.
+
+946
+00:40:55,470 --> 00:40:57,840
+And then towards the end of the week people were like,
+
+947
+00:40:57,840 --> 00:40:59,820
+giving me these little trinkets and stuff.
+
+948
+00:40:59,820 --> 00:41:02,910
+And so I felt, like, that made me wanna work hard.
+
+949
+00:41:02,910 --> 00:41:05,580
+And when people get recognized for working hard,
+
+950
+00:41:05,580 --> 00:41:06,810
+that helps them as well.
+
+951
+00:41:06,810 --> 00:41:09,780
+And so towards the end of the week
+
+952
+00:41:09,780 --> 00:41:13,470
+there was these different community building engagements
+
+953
+00:41:13,470 --> 00:41:14,850
+and stuff like that that we did
+
+954
+00:41:14,850 --> 00:41:15,990
+that really like helped us,
+
+955
+00:41:15,990 --> 00:41:17,520
+like get through to that finish line
+
+956
+00:41:17,520 --> 00:41:19,923
+and like give our best each day essentially.
+
+957
+00:41:20,933 --> 00:41:22,710
+- I think I saw in the Discord
+
+958
+00:41:22,710 --> 00:41:26,310
+that people were doing like human pyramids on the beach
+
+959
+00:41:26,310 --> 00:41:28,138
+and like falling off.
+
+960
+00:41:28,138 --> 00:41:28,971
+- Did you go there
+
+961
+00:41:28,971 --> 00:41:31,353
+- So basically how it all started was the pizza night.
+
+962
+00:41:32,468 --> 00:41:35,280
+So how this all started was,
+
+963
+00:41:35,280 --> 00:41:38,610
+so how the AI camp actually started was a bowling night,
+
+964
+00:41:38,610 --> 00:41:40,320
+a social like gathering, right?
+
+965
+00:41:40,320 --> 00:41:41,400
+To get to know each other
+
+966
+00:41:41,400 --> 00:41:44,610
+and basically like a group of people,
+
+967
+00:41:44,610 --> 00:41:46,950
+like bundled up in one table
+
+968
+00:41:46,950 --> 00:41:48,510
+and be like, oh yeah, yeah, yeah,
+
+969
+00:41:48,510 --> 00:41:50,520
+you go to this college, I go to this college.
+
+970
+00:41:50,520 --> 00:41:52,920
+You know, like trying to exchange contacts
+
+971
+00:41:52,920 --> 00:41:54,015
+and stuff like that.
+
+972
+00:41:54,015 --> 00:41:56,070
+You know, LinkedIn connections.
+
+973
+00:41:56,070 --> 00:41:59,340
+Then after that we became closer and closer friends,
+
+974
+00:41:59,340 --> 00:42:01,830
+even though we are in separate teams by the way.
+
+975
+00:42:01,830 --> 00:42:04,800
+And you know, they went to beaches,
+
+976
+00:42:04,800 --> 00:42:06,720
+we played Uno at like 12:00 AM
+
+977
+00:42:06,720 --> 00:42:07,860
+even though we're not supposed to,
+
+978
+00:42:07,860 --> 00:42:10,060
+we're supposed to be working on our project.
+
+979
+00:42:11,430 --> 00:42:13,080
+And if I'm not mistaken right now,
+
+980
+00:42:13,080 --> 00:42:14,190
+we have a group chat
+
+981
+00:42:14,190 --> 00:42:17,460
+where they're planning to do a skydiving trip, so.
+
+982
+00:42:17,460 --> 00:42:20,490
+- [Anu] The Discord server was quite active all day,
+
+983
+00:42:20,490 --> 00:42:21,323
+all night.
+
+984
+00:42:21,323 --> 00:42:22,623
+- We were doing- - I didn't know
+
+985
+00:42:22,623 --> 00:42:23,520
+how to turn off my notifications
+
+986
+00:42:23,520 --> 00:42:25,860
+and I was hearing ding ding, ding, ding,
+
+987
+00:42:25,860 --> 00:42:28,113
+for a little while, the first two nights.
+
+988
+00:42:28,113 --> 00:42:29,490
+- If I'm not mistaken, we were doing truth or dares
+
+989
+00:42:29,490 --> 00:42:33,965
+and like yeah, it the Discord got pretty active.
+
+990
+00:42:33,965 --> 00:42:35,704
+- The Discord is wild. - Yeah.
+
+991
+00:42:35,704 --> 00:42:38,850
+So, but we made like really strong connections
+
+992
+00:42:38,850 --> 00:42:42,603
+through those, like, fun time that's not technical.
+
+993
+00:42:43,522 --> 00:42:44,700
+- Yeah. - I think for us
+
+994
+00:42:44,700 --> 00:42:46,500
+as community college leaders,
+
+995
+00:42:46,500 --> 00:42:49,050
+what I saw in what was happening in the Discord
+
+996
+00:42:49,050 --> 00:42:51,900
+and in the immersive experiences,
+
+997
+00:42:51,900 --> 00:42:54,150
+students want community and connection.
+
+998
+00:42:54,150 --> 00:42:58,046
+And it's often hard when we have students at our campuses
+
+999
+00:42:58,046 --> 00:43:00,000
+who are, you know, and these were our students,
+
+1000
+00:43:00,000 --> 00:43:02,850
+they're commuter students, they're coming in and out
+
+1001
+00:43:02,850 --> 00:43:05,610
+and what we did is we gave them this
+
+1002
+00:43:05,610 --> 00:43:07,290
+week long immersive experience
+
+1003
+00:43:07,290 --> 00:43:09,570
+where they could be connected, but I don't,
+
+1004
+00:43:09,570 --> 00:43:10,560
+and it's not the end.
+
+1005
+00:43:10,560 --> 00:43:12,060
+They're gonna stay connected.
+
+1006
+00:43:12,060 --> 00:43:15,360
+But it is a lesson in thinking about what are we doing
+
+1007
+00:43:15,360 --> 00:43:18,300
+and how do we continue for our other students
+
+1008
+00:43:18,300 --> 00:43:20,760
+to create that community and that engagement,
+
+1009
+00:43:20,760 --> 00:43:22,680
+and give them a place
+
+1010
+00:43:22,680 --> 00:43:26,400
+because they want it and they're thriving in it.
+
+1011
+00:43:26,400 --> 00:43:29,160
+Sometimes it's weird in the wild, wild west in that Discord,
+
+1012
+00:43:29,160 --> 00:43:30,780
+but you know, but they want it.
+
+1013
+00:43:30,780 --> 00:43:34,200
+And so I think it's another way for us to think about
+
+1014
+00:43:34,200 --> 00:43:35,940
+what are we doing for our students?
+
+1015
+00:43:35,940 --> 00:43:37,770
+How are we creating community?
+
+1016
+00:43:37,770 --> 00:43:40,863
+And giving them these opportunities to build the connections
+
+1017
+00:43:40,863 --> 00:43:43,620
+that I think will help them in their career
+
+1018
+00:43:43,620 --> 00:43:45,180
+and moving forward.
+
+1019
+00:43:45,180 --> 00:43:46,200
+And so, you know,
+
+1020
+00:43:46,200 --> 00:43:47,370
+I appreciate you talking about
+
+1021
+00:43:47,370 --> 00:43:49,080
+that community building aspect.
+
+1022
+00:43:49,080 --> 00:43:50,070
+Was that intentional
+
+1023
+00:43:50,070 --> 00:43:51,870
+when you were all the community building
+
+1024
+00:43:51,870 --> 00:43:55,495
+when you talked about, you know, designing this program?
+
+1025
+00:43:55,495 --> 00:43:56,700
+- 100%. - Yeah. Yeah.
+
+1026
+00:43:56,700 --> 00:44:01,110
+- I mean, that's the major goal. Yeah.
+
+1027
+00:44:01,110 --> 00:44:01,943
+- [Anu] Mentors,
+
+1028
+00:44:01,943 --> 00:44:03,900
+did you also participate in the community building?
+
+1029
+00:44:03,900 --> 00:44:06,360
+And what was community building like for you
+
+1030
+00:44:06,360 --> 00:44:08,860
+and the other group of mentors that you were with?
+
+1031
+00:44:12,660 --> 00:44:14,070
+- I think for us,
+
+1032
+00:44:14,070 --> 00:44:16,260
+like we also went to these social events
+
+1033
+00:44:16,260 --> 00:44:20,580
+and I think even as mentors we really bonded a lot.
+
+1034
+00:44:20,580 --> 00:44:22,800
+Even just like putting the camp together.
+
+1035
+00:44:22,800 --> 00:44:26,730
+Like Christopher mentioned that we had the AI scavenger hunt
+
+1036
+00:44:26,730 --> 00:44:29,550
+that three students from the DxHub team,
+
+1037
+00:44:29,550 --> 00:44:30,930
+they worked on it really hard
+
+1038
+00:44:30,930 --> 00:44:32,670
+and we also had like dry runs
+
+1039
+00:44:32,670 --> 00:44:34,260
+that we did around the campus.
+
+1040
+00:44:34,260 --> 00:44:36,810
+So the whole team, we put like ducks around
+
+1041
+00:44:36,810 --> 00:44:38,880
+just to see like everything is working well.
+
+1042
+00:44:38,880 --> 00:44:41,520
+And I think just that whole process
+
+1043
+00:44:41,520 --> 00:44:44,940
+was also like a really good bonding experience for us.
+
+1044
+00:44:44,940 --> 00:44:48,990
+We had like a much more stronger community after the camp.
+
+1045
+00:44:48,990 --> 00:44:50,910
+And the two weeks together,
+
+1046
+00:44:50,910 --> 00:44:52,800
+we were there from nine to five
+
+1047
+00:44:52,800 --> 00:44:54,453
+and then we had some social events
+
+1048
+00:44:54,453 --> 00:44:57,630
+that we wanted to go to after the whole camp.
+
+1049
+00:44:57,630 --> 00:45:00,930
+And yeah, I think it was like a really good experience
+
+1050
+00:45:00,930 --> 00:45:01,833
+for us too.
+
+1051
+00:45:03,000 --> 00:45:04,297
+- Just real quick,
+
+1052
+00:45:04,297 --> 00:45:07,030
+I think we also made all of our DxHub student mentors
+
+1053
+00:45:08,190 --> 00:45:10,470
+decide who the individual award winners
+
+1054
+00:45:10,470 --> 00:45:11,303
+- Yeah. - were gonna be
+
+1055
+00:45:11,303 --> 00:45:13,983
+and also gauge the actual winning teams and stuff, so.
+
+1056
+00:45:15,660 --> 00:45:16,590
+- [Anu] Because it the work,
+
+1057
+00:45:16,590 --> 00:45:19,201
+can you explain a little bit about the award
+
+1058
+00:45:19,201 --> 00:45:20,100
+after they presented on Friday
+
+1059
+00:45:20,100 --> 00:45:21,270
+and gave their solutions?
+
+1060
+00:45:21,270 --> 00:45:22,470
+- Yeah. - What happened?
+
+1061
+00:45:22,470 --> 00:45:25,200
+- So it wasn't, there's like no money on the line, right?
+
+1062
+00:45:25,200 --> 00:45:27,570
+It was really about - Bragging rights.
+
+1063
+00:45:27,570 --> 00:45:29,460
+- it was bragging rights.
+
+1064
+00:45:29,460 --> 00:45:32,670
+Did your team understand the AI concepts you were applying?
+
+1065
+00:45:32,670 --> 00:45:34,320
+Were you laser focused on customer need
+
+1066
+00:45:34,320 --> 00:45:36,360
+and actually solving that real business problem
+
+1067
+00:45:36,360 --> 00:45:37,710
+among a litany of other things.
+
+1068
+00:45:37,710 --> 00:45:39,600
+And we had individual words which mapped
+
+1069
+00:45:39,600 --> 00:45:41,190
+to the gumball machine
+
+1070
+00:45:41,190 --> 00:45:43,410
+with all the little trinkets in it or whatever.
+
+1071
+00:45:43,410 --> 00:45:46,260
+So like bias for action, a little lightning bolt
+
+1072
+00:45:46,260 --> 00:45:47,820
+or big lightning bolt for whoever won
+
+1073
+00:45:47,820 --> 00:45:49,500
+that one event and simplify.
+
+1074
+00:45:49,500 --> 00:45:52,623
+Some of these are like Amazon leadership principles as well.
+
+1075
+00:45:55,320 --> 00:45:57,690
+The builder trophy, which was a giant Lego person
+
+1076
+00:45:57,690 --> 00:45:59,430
+with a nice bejeweled stash.
+
+1077
+00:45:59,430 --> 00:46:01,080
+It was ultimately a nice touch.
+
+1078
+00:46:01,080 --> 00:46:02,850
+So there were a number of these awards
+
+1079
+00:46:02,850 --> 00:46:06,120
+and then one camper would get the individual awards
+
+1080
+00:46:06,120 --> 00:46:07,560
+and then there was first, second, third
+
+1081
+00:46:07,560 --> 00:46:10,290
+for the teams themselves.
+
+1082
+00:46:10,290 --> 00:46:12,030
+Did we have some awards at this table?
+
+1083
+00:46:12,030 --> 00:46:13,560
+What'd you win?
+
+1084
+00:46:13,560 --> 00:46:16,440
+- I won the AI safety and ethics award
+
+1085
+00:46:16,440 --> 00:46:18,286
+and that was for being-
+
+1086
+00:46:18,286 --> 00:46:19,119
+(audience applauding) Thank you.
+
+1087
+00:46:19,119 --> 00:46:20,700
+I appreciate that.
+
+1088
+00:46:20,700 --> 00:46:22,200
+That was for being considerate
+
+1089
+00:46:22,200 --> 00:46:24,810
+of what the customer was looking for,
+
+1090
+00:46:24,810 --> 00:46:27,900
+as well as how we can safeguard them against loss
+
+1091
+00:46:27,900 --> 00:46:30,573
+and hopefully get them more savings.
+
+1092
+00:46:31,860 --> 00:46:34,020
+- And then you won an award too, right?
+
+1093
+00:46:34,020 --> 00:46:35,760
+- The Invent and Simplify award.
+
+1094
+00:46:35,760 --> 00:46:37,639
+- Invent and simplify. Yeah.
+
+1095
+00:46:37,639 --> 00:46:38,565
+(audience applauding)
+
+1096
+00:46:38,565 --> 00:46:39,690
+Yeah, that's the twisty light bulb, right?
+
+1097
+00:46:39,690 --> 00:46:41,760
+- Yeah, so the award was really cool,
+
+1098
+00:46:41,760 --> 00:46:44,130
+'cause like he could twist it and stuff.
+
+1099
+00:46:44,130 --> 00:46:46,283
+- And then, sorry, I didn't mean to cut you off Sharon.
+
+1100
+00:46:47,688 --> 00:46:48,738
+I think maybe, sorry.
+
+1101
+00:46:49,920 --> 00:46:52,590
+- What, were you gonna say something?
+
+1102
+00:46:52,590 --> 00:46:53,423
+- For the mentor? Yeah.
+
+1103
+00:46:53,423 --> 00:46:55,198
+- [Anu] Oh, for the mentors. Go ahead.
+
+1104
+00:46:55,198 --> 00:46:56,520
+- Yeah. Oh yeah. Okay. I can also speak on that.
+
+1105
+00:46:56,520 --> 00:46:58,980
+I think, yeah, throughout this camp
+
+1106
+00:46:58,980 --> 00:47:02,250
+the mentors definitely got a lot closer,
+
+1107
+00:47:02,250 --> 00:47:06,930
+because usually during regular, like development hours,
+
+1108
+00:47:06,930 --> 00:47:10,230
+we're usually grouped into smaller developer groups
+
+1109
+00:47:10,230 --> 00:47:13,113
+where we don't get the opportunity to really speak with,
+
+1110
+00:47:14,310 --> 00:47:16,500
+like as many developers
+
+1111
+00:47:16,500 --> 00:47:19,170
+because you're just in your group
+
+1112
+00:47:19,170 --> 00:47:20,760
+developing for that project.
+
+1113
+00:47:20,760 --> 00:47:22,920
+But through the summer camp,
+
+1114
+00:47:22,920 --> 00:47:26,730
+we were able to talk to everyone more
+
+1115
+00:47:26,730 --> 00:47:30,030
+and discuss like different approaches
+
+1116
+00:47:30,030 --> 00:47:32,640
+and like to the different solutions
+
+1117
+00:47:32,640 --> 00:47:36,330
+and it was a great way to, yeah, collaborate
+
+1118
+00:47:36,330 --> 00:47:38,583
+just through the mentors themselves as well.
+
+1119
+00:47:40,650 --> 00:47:42,885
+- So I know we talked about all the great things
+
+1120
+00:47:42,885 --> 00:47:43,830
+and the positive things.
+
+1121
+00:47:43,830 --> 00:47:46,560
+It wasn't all perfect, right, Christopher and River.
+
+1122
+00:47:46,560 --> 00:47:50,730
+And can you tell me what some of the challenges were
+
+1123
+00:47:50,730 --> 00:47:52,620
+or that you either experienced
+
+1124
+00:47:52,620 --> 00:47:54,483
+or Nick or Ryan that you observed?
+
+1125
+00:47:57,990 --> 00:47:59,100
+- I'll go first. - 'Cause those
+
+1126
+00:47:59,100 --> 00:48:00,273
+are life changing too.
+
+1127
+00:48:01,596 --> 00:48:03,780
+- I don't think anything was like,
+
+1128
+00:48:03,780 --> 00:48:06,180
+pull your hair out, stressful, challenging.
+
+1129
+00:48:06,180 --> 00:48:09,273
+I think all the challenges were like constructive.
+
+1130
+00:48:10,590 --> 00:48:12,660
+There were moments in time where I was like,
+
+1131
+00:48:12,660 --> 00:48:15,360
+am I gonna be able to submit a project
+
+1132
+00:48:15,360 --> 00:48:16,560
+that is worth anything?
+
+1133
+00:48:16,560 --> 00:48:18,540
+Like am I wasting everyone's time
+
+1134
+00:48:18,540 --> 00:48:20,340
+by telling them to do all these things?
+
+1135
+00:48:20,340 --> 00:48:22,710
+So there's a lot of second guessing myself
+
+1136
+00:48:22,710 --> 00:48:26,250
+and kind of like imposter syndrome as far as like,
+
+1137
+00:48:26,250 --> 00:48:28,770
+wow, everyone around here is so talented
+
+1138
+00:48:28,770 --> 00:48:30,300
+and so good at what they do.
+
+1139
+00:48:30,300 --> 00:48:33,810
+Like am I really one of these kids as well?
+
+1140
+00:48:33,810 --> 00:48:36,450
+And so I think getting over that
+
+1141
+00:48:36,450 --> 00:48:38,130
+was one of the challenges for me.
+
+1142
+00:48:38,130 --> 00:48:39,900
+And the way that I got through that,
+
+1143
+00:48:39,900 --> 00:48:43,770
+was just like those community building engagements
+
+1144
+00:48:43,770 --> 00:48:46,740
+when I started interacting with like the mentors
+
+1145
+00:48:46,740 --> 00:48:48,030
+or like the faculty,
+
+1146
+00:48:48,030 --> 00:48:49,800
+or like the fellow students,
+
+1147
+00:48:49,800 --> 00:48:52,140
+I did really felt like I belonged there.
+
+1148
+00:48:52,140 --> 00:48:54,600
+And towards the end of it I was like thinking like,
+
+1149
+00:48:54,600 --> 00:48:57,900
+wow, everyone really did get selected, like for a reason.
+
+1150
+00:48:57,900 --> 00:48:59,580
+'Cause I tried to talk to everyone at the camp,
+
+1151
+00:48:59,580 --> 00:49:01,320
+like I'm kind of antisocial,
+
+1152
+00:49:01,320 --> 00:49:03,990
+so I pushed myself to be more social
+
+1153
+00:49:03,990 --> 00:49:06,090
+and so I'm walking around talking to everyone
+
+1154
+00:49:06,090 --> 00:49:10,800
+and each person had just such a unique, interesting story.
+
+1155
+00:49:10,800 --> 00:49:13,440
+I'm sure they all have their own unique challenges,
+
+1156
+00:49:13,440 --> 00:49:15,720
+but we did like come together
+
+1157
+00:49:15,720 --> 00:49:18,300
+to like overcome those challenges.
+
+1158
+00:49:18,300 --> 00:49:19,900
+So I think that was really cool.
+
+1159
+00:49:20,760 --> 00:49:23,100
+- Yeah, yeah. I definitely agree with that.
+
+1160
+00:49:23,100 --> 00:49:27,480
+And also I guess a more technical challenge for,
+
+1161
+00:49:27,480 --> 00:49:30,780
+well, I think for most of the teams are like,
+
+1162
+00:49:30,780 --> 00:49:31,860
+I feel like the data
+
+1163
+00:49:31,860 --> 00:49:36,723
+that the California Community College system has is really,
+
+1164
+00:49:37,740 --> 00:49:39,180
+I mean the data is there, right?
+
+1165
+00:49:39,180 --> 00:49:41,400
+I think building systems around these data
+
+1166
+00:49:41,400 --> 00:49:42,810
+could be difficult
+
+1167
+00:49:42,810 --> 00:49:45,690
+because, you know, it's not like smooth Lego bricks
+
+1168
+00:49:45,690 --> 00:49:46,920
+that connect with each other, right?
+
+1169
+00:49:46,920 --> 00:49:48,840
+Like the data could be all sorts
+
+1170
+00:49:48,840 --> 00:49:50,850
+of different sizes and shapes.
+
+1171
+00:49:50,850 --> 00:49:52,860
+So I guess a technical challenge was,
+
+1172
+00:49:52,860 --> 00:49:57,480
+building a system that's compatible with an MVP,
+
+1173
+00:49:57,480 --> 00:50:00,570
+but then having that mindset that, you know,
+
+1174
+00:50:00,570 --> 00:50:02,580
+this could potentially scale
+
+1175
+00:50:02,580 --> 00:50:05,100
+and the data could get even more messier
+
+1176
+00:50:05,100 --> 00:50:06,900
+and more complicated.
+
+1177
+00:50:06,900 --> 00:50:11,900
+And I guess that's also like generally how AI works.
+
+1178
+00:50:12,360 --> 00:50:14,610
+Like it's really challenging to work with
+
+1179
+00:50:14,610 --> 00:50:16,530
+data that's garbage, right?
+
+1180
+00:50:16,530 --> 00:50:18,180
+So garbage in, garbage out.
+
+1181
+00:50:18,180 --> 00:50:19,013
+If it's not good,
+
+1182
+00:50:19,013 --> 00:50:22,353
+then it's probably not gonna be good in production.
+
+1183
+00:50:23,460 --> 00:50:25,830
+- Christopher, you learned in one week a lesson
+
+1184
+00:50:25,830 --> 00:50:28,500
+that all of us in system have experience,
+
+1185
+00:50:28,500 --> 00:50:31,620
+which is we have incompatible systems often
+
+1186
+00:50:31,620 --> 00:50:34,200
+in our institutions, across our institutions,
+
+1187
+00:50:34,200 --> 00:50:35,970
+across our district, so. - I agree.
+
+1188
+00:50:35,970 --> 00:50:37,260
+- Good luck. (laughs) I agree.
+
+1189
+00:50:37,260 --> 00:50:38,943
+Yes, they did experience that.
+
+1190
+00:50:40,650 --> 00:50:42,870
+- Just on the first off, you know,
+
+1191
+00:50:42,870 --> 00:50:45,060
+thank you all for like dealing with
+
+1192
+00:50:45,060 --> 00:50:47,070
+last minute agenda changes
+
+1193
+00:50:47,070 --> 00:50:49,830
+or a lack of data or specificity.
+
+1194
+00:50:49,830 --> 00:50:51,570
+Ryan kind of alluded to,
+
+1195
+00:50:51,570 --> 00:50:53,790
+we don't expect that we know the answer
+
+1196
+00:50:53,790 --> 00:50:54,930
+or the right solution
+
+1197
+00:50:54,930 --> 00:50:57,360
+and that's a part of the process.
+
+1198
+00:50:57,360 --> 00:50:58,380
+We did like, I don't know,
+
+1199
+00:50:58,380 --> 00:51:01,593
+15 discovery sessions in two weeks leading up to the camp,
+
+1200
+00:51:02,460 --> 00:51:04,380
+this recording, you know, the pain points,
+
+1201
+00:51:04,380 --> 00:51:06,000
+basically interviewing the business experts,
+
+1202
+00:51:06,000 --> 00:51:07,170
+like what are your pain points?
+
+1203
+00:51:07,170 --> 00:51:09,450
+What are the data sets that we could get access to?
+
+1204
+00:51:09,450 --> 00:51:11,280
+What would really good look like? Right?
+
+1205
+00:51:11,280 --> 00:51:13,977
+And then all that got packaged up and passed in
+
+1206
+00:51:13,977 --> 00:51:16,200
+and some teams didn't have as much as other teams.
+
+1207
+00:51:16,200 --> 00:51:18,210
+There were some teams that literally had to create
+
+1208
+00:51:18,210 --> 00:51:20,250
+synthetic data out of nowhere and go,
+
+1209
+00:51:20,250 --> 00:51:22,500
+lots of teams were scraping data off the web.
+
+1210
+00:51:24,030 --> 00:51:27,030
+So thank you for like embracing that ambiguity
+
+1211
+00:51:27,030 --> 00:51:28,650
+and just kind of rolling with it.
+
+1212
+00:51:28,650 --> 00:51:31,260
+I think one of my biggest observations was,
+
+1213
+00:51:31,260 --> 00:51:33,900
+I think we lost two teams.
+
+1214
+00:51:33,900 --> 00:51:35,750
+It's the community college, right?
+
+1215
+00:51:35,750 --> 00:51:36,810
+- We had to adjust significantly.
+
+1216
+00:51:36,810 --> 00:51:38,430
+- Yeah, so we team rebalancing.
+
+1217
+00:51:38,430 --> 00:51:42,540
+It's almost like a little mini HR function
+
+1218
+00:51:42,540 --> 00:51:45,227
+would have like a well thought out one
+
+1219
+00:51:45,227 --> 00:51:46,060
+would've been incredibly easy.
+
+1220
+00:51:46,060 --> 00:51:47,340
+We we did it on offline
+
+1221
+00:51:47,340 --> 00:51:49,260
+and I think we did it more or less successfully,
+
+1222
+00:51:49,260 --> 00:51:52,380
+but like team dynamics and participation
+
+1223
+00:51:52,380 --> 00:51:53,880
+and just like the chemistry
+
+1224
+00:51:53,880 --> 00:51:56,490
+and stuff, some teams really clearly clicked
+
+1225
+00:51:56,490 --> 00:51:57,750
+and some teams totally struggled
+
+1226
+00:51:57,750 --> 00:51:59,310
+and we had to kind of lean in
+
+1227
+00:51:59,310 --> 00:52:01,590
+and figure that out a little bit.
+
+1228
+00:52:01,590 --> 00:52:04,050
+And by the way, I feel like I heard from all the mentors
+
+1229
+00:52:04,050 --> 00:52:05,970
+that they also kind of had imposter syndrome
+
+1230
+00:52:05,970 --> 00:52:06,840
+at the same time.
+
+1231
+00:52:06,840 --> 00:52:09,331
+So I think that's kind of interesting.
+
+1232
+00:52:09,331 --> 00:52:11,310
+- Yeah, yeah. And it's a summer camp
+
+1233
+00:52:11,310 --> 00:52:12,930
+and it was intensive by design.
+
+1234
+00:52:12,930 --> 00:52:16,410
+And so we tried to communicate consistently every hour
+
+1235
+00:52:16,410 --> 00:52:17,610
+like, we are here to support you.
+
+1236
+00:52:17,610 --> 00:52:20,400
+Let us know what you need. And they did.
+
+1237
+00:52:20,400 --> 00:52:22,080
+And we got calls at two in the morning
+
+1238
+00:52:22,080 --> 00:52:24,870
+and we got to go to Costco and buy towels
+
+1239
+00:52:24,870 --> 00:52:25,920
+because there weren't enough.
+
+1240
+00:52:25,920 --> 00:52:29,550
+And like that part of the experience was amazing to me.
+
+1241
+00:52:29,550 --> 00:52:30,810
+I mean, Nick and I are both fathers,
+
+1242
+00:52:30,810 --> 00:52:32,160
+we both have daughters
+
+1243
+00:52:32,160 --> 00:52:33,600
+that someday will be community college
+
+1244
+00:52:33,600 --> 00:52:35,223
+or CSU or other students.
+
+1245
+00:52:36,450 --> 00:52:40,140
+But the mentors really stepped up and like,
+
+1246
+00:52:40,140 --> 00:52:42,180
+it was such a great supportive environment
+
+1247
+00:52:42,180 --> 00:52:43,110
+and that that was our hope,
+
+1248
+00:52:43,110 --> 00:52:43,943
+that was our dream.
+
+1249
+00:52:43,943 --> 00:52:45,780
+We did everything we could to craft that.
+
+1250
+00:52:45,780 --> 00:52:47,490
+But pretty much just standing back
+
+1251
+00:52:47,490 --> 00:52:51,330
+and watching you all step into that, you were naturals.
+
+1252
+00:52:51,330 --> 00:52:52,380
+I mean, I was so amazed.
+
+1253
+00:52:52,380 --> 00:52:54,527
+I wanna give our mentors around applause.
+
+1254
+00:52:54,527 --> 00:52:57,360
+(all applauding)
+
+1255
+00:52:58,350 --> 00:53:00,300
+- I wanna give all of you a round of applause
+
+1256
+00:53:00,300 --> 00:53:02,177
+because what you've put together,
+
+1257
+00:53:02,177 --> 00:53:04,890
+(audience applauding)
+
+1258
+00:53:04,890 --> 00:53:07,710
+what you put together really is what we're trying to do
+
+1259
+00:53:07,710 --> 00:53:10,140
+as you know, when Chancellor Christian
+
+1260
+00:53:10,140 --> 00:53:12,810
+and all of our presidents
+
+1261
+00:53:12,810 --> 00:53:15,960
+and chancellors talk about how are we preparing students,
+
+1262
+00:53:15,960 --> 00:53:18,000
+how are we getting them workforce ready?
+
+1263
+00:53:18,000 --> 00:53:21,840
+How are we helping them find purpose-driven career
+
+1264
+00:53:21,840 --> 00:53:22,890
+and personal outcomes?
+
+1265
+00:53:22,890 --> 00:53:24,720
+How are we helping them reach that?
+
+1266
+00:53:24,720 --> 00:53:25,860
+And so this really,
+
+1267
+00:53:25,860 --> 00:53:28,470
+this experience I think set out to do that
+
+1268
+00:53:28,470 --> 00:53:31,350
+and we're hoping to be able to replicate and scale.
+
+1269
+00:53:31,350 --> 00:53:33,390
+And then as we kind of close us out,
+
+1270
+00:53:33,390 --> 00:53:36,300
+we have a highlight video that we just wanna show you,
+
+1271
+00:53:36,300 --> 00:53:38,610
+so you get to see all the things they talked about
+
+1272
+00:53:38,610 --> 00:53:41,343
+and what it was like to be in that room that week.
+
+1273
+00:53:43,527 --> 00:53:46,194
+(upbeat music)
+
+1274
+00:54:13,554 --> 00:54:15,610
+- [Student] Hartnell College is our client.
+
+1275
+00:54:15,610 --> 00:54:17,880
+If we were challenged to develop
+
+1276
+00:54:17,880 --> 00:54:21,420
+an AI power career exploration tool
+
+1277
+00:54:21,420 --> 00:54:24,120
+that helps undecided community college students
+
+1278
+00:54:24,120 --> 00:54:25,980
+discover appropriate majors.
+
+1279
+00:54:25,980 --> 00:54:29,370
+- [Student] We created Allen Live Access named the after
+
+1280
+00:54:29,370 --> 00:54:32,910
+De Anza and Foothills, which is our customer.
+
+1281
+00:54:32,910 --> 00:54:33,743
+- [Alex] Hi there,
+
+1282
+00:54:33,743 --> 00:54:36,750
+this is Alex from the Allen Live Disability Services
+
+1283
+00:54:36,750 --> 00:54:38,160
+tutoring center from
+
+1284
+00:54:38,160 --> 00:54:40,560
+the De Anza and Foothill College District.
+
+1285
+00:54:40,560 --> 00:54:43,530
+I'm here to help you schedule a tutoring appointment
+
+1286
+00:54:43,530 --> 00:54:45,120
+that's perfectly tailored to your needs.
+
+1287
+00:54:45,120 --> 00:54:48,090
+May I start by getting your name?
+
+1288
+00:54:48,090 --> 00:54:53,090
+- [Christopher] Yeah, my name is Christopher.
+
+1289
+00:54:53,136 --> 00:54:54,270
+- [Alex] Thank you so much Christopher,
+
+1290
+00:54:54,270 --> 00:54:55,983
+it's great to meet you.
+
+1291
+00:54:55,983 --> 00:54:57,720
+I'll make sure we get you the.
+
+1292
+00:54:57,720 --> 00:54:59,250
+Great to meet you Christopher.
+
+1293
+00:54:59,250 --> 00:55:01,490
+Now I'll be your student ID number,
+
+1294
+00:55:01,490 --> 00:55:03,090
+so I can access your profile.
+
+1295
+00:55:03,090 --> 00:55:05,670
+- [Christopher] So let's try and do it on AI.
+
+1296
+00:55:05,670 --> 00:55:08,010
+- What's your student ID? - Do I really have
+
+1297
+00:55:08,010 --> 00:55:09,423
+to give you my student ID?
+
+1298
+00:55:12,000 --> 00:55:13,890
+- [Alex] That's a great question Christopher
+
+1299
+00:55:13,890 --> 00:55:16,500
+and I completely understand your hesitation.
+
+1300
+00:55:16,500 --> 00:55:18,094
+We ask for your student ID
+
+1301
+00:55:18,094 --> 00:55:20,190
+just to make sure we're looking at the right profile
+
+1302
+00:55:20,190 --> 00:55:23,340
+and can provide you with the best support possible.
+
+1303
+00:55:23,340 --> 00:55:25,290
+Your information is always kept private
+
+1304
+00:55:25,290 --> 00:55:28,350
+and only used to help you get the services you need.
+
+1305
+00:55:28,350 --> 00:55:29,610
+If you're comfortable,
+
+1306
+00:55:29,610 --> 00:55:33,597
+could you please share your student ID with me?
+
+1307
+00:55:33,597 --> 00:55:34,650
+- [Christopher] All right, I gotta go
+
+1308
+00:55:34,650 --> 00:55:36,610
+because there's no more time.
+
+1309
+00:55:36,610 --> 00:55:38,266
+(audience applauding)
+
+1310
+00:55:38,266 --> 00:55:41,970
+We are trying to support small businesses in California.
+
+1311
+00:55:41,970 --> 00:55:44,280
+- [Student] So yeah, this is our main dashboard.
+
+1312
+00:55:44,280 --> 00:55:45,540
+- [Student] In addition to our chatbot,
+
+1313
+00:55:45,540 --> 00:55:49,470
+we produce a demo with Amazon's new Nova Sonic model.
+
+1314
+00:55:49,470 --> 00:55:50,941
+- [Student] I want SAT score,
+
+1315
+00:55:50,941 --> 00:55:52,770
+do I need to be eligible for calculus?
+
+1316
+00:55:52,770 --> 00:55:53,603
+- [Alex] Hey there.
+
+1317
+00:55:53,603 --> 00:55:56,190
+To be eligible for calculus at Cal Poly,
+
+1318
+00:55:56,190 --> 00:56:00,240
+you need an SAT math score of 620 or above.
+
+1319
+00:56:00,240 --> 00:56:01,890
+Alternatively, you can also call-
+
+1320
+00:56:01,890 --> 00:56:03,821
+- [Student] All right, that's enough information.
+
+1321
+00:56:03,821 --> 00:56:06,694
+Thank you. - You're welcome.
+
+1322
+00:56:06,694 --> 00:56:07,800
+(audience applauding)
+
+1323
+00:56:07,800 --> 00:56:09,090
+- [Student] Can that matching feature,
+
+1324
+00:56:09,090 --> 00:56:10,380
+I think that's really cool.
+
+1325
+00:56:10,380 --> 00:56:12,750
+and that also help on the other end in terms of like,
+
+1326
+00:56:12,750 --> 00:56:14,100
+those who are going to be reading
+
+1327
+00:56:14,100 --> 00:56:15,750
+and awarding scholarships.
+
+1328
+00:56:15,750 --> 00:56:18,060
+Do you see that as kind of a connection?
+
+1329
+00:56:18,060 --> 00:56:18,893
+- [Student] Definitely, yeah.
+
+1330
+00:56:18,893 --> 00:56:22,710
+That could definitely be implemented in the backwards
+
+1331
+00:56:22,710 --> 00:56:25,203
+or the foundation themselves of working in.
+
+1332
+00:56:26,820 --> 00:56:29,580
+- [Student] And what you wanna make sure is that the money
+
+1333
+00:56:29,580 --> 00:56:32,250
+and the tuition that you are putting into university
+
+1334
+00:56:32,250 --> 00:56:34,140
+is being used practically
+
+1335
+00:56:34,140 --> 00:56:37,530
+and is not being spent carelessly honestly without,
+
+1336
+00:56:37,530 --> 00:56:41,310
+you know, consideration for what it's going into.
+
+1337
+00:56:41,310 --> 00:56:42,353
+- [Student] Well said.
+
+1338
+00:56:43,391 --> 00:56:45,270
+And that's what we're trying to target the students
+
+1339
+00:56:45,270 --> 00:56:47,100
+who need that additional support
+
+1340
+00:56:47,100 --> 00:56:49,380
+to figure out their career paths, majors,
+
+1341
+00:56:49,380 --> 00:56:52,833
+and any potential certificate they'd like to pursue.
+
+1342
+00:56:53,790 --> 00:56:56,220
+We'd also like to target the academic advisors
+
+1343
+00:56:56,220 --> 00:56:58,920
+and counselors at Centers Junior College.
+
+1344
+00:56:58,920 --> 00:57:00,570
+- [Student] Two big changes,
+
+1345
+00:57:00,570 --> 00:57:02,550
+required trainings have right there
+
+1346
+00:57:02,550 --> 00:57:04,530
+and the training assistant right there.
+
+1347
+00:57:04,530 --> 00:57:06,888
+- [Student] So the experience is just made for
+
+1348
+00:57:06,888 --> 00:57:09,543
+the experience to be more tailored to the learning.
+
+1349
+00:57:10,920 --> 00:57:11,753
+- [Student] We are lucky,
+
+1350
+00:57:11,753 --> 00:57:15,240
+if you take anything from PDF forms
+
+1351
+00:57:15,240 --> 00:57:19,770
+to training manuals, to payroll schedules,
+
+1352
+00:57:19,770 --> 00:57:20,910
+and explains the information
+
+1353
+00:57:20,910 --> 00:57:23,160
+that you are looking for in a concise
+
+1354
+00:57:23,160 --> 00:57:25,803
+and easy to understand conversational manner.
+
+1355
+00:57:30,540 --> 00:57:32,713
+- [Student] Debate over who gets prizes.
+
+1356
+00:57:32,713 --> 00:57:34,050
+(audience laughing)
+
+1357
+00:57:34,050 --> 00:57:36,100
+- Intense debate. - Award goes to River.
+
+1358
+00:57:37,277 --> 00:57:40,066
+(audience applauding) (audience cheering)
+
+1359
+00:57:40,066 --> 00:57:45,066
+- River. (audience laughing)
+
+1360
+00:57:55,303 --> 00:57:58,553
+(audience applauding)
+
+1361
+00:58:00,720 --> 00:58:02,880
+- Thank you to all of you for joining us today.
+
+1362
+00:58:02,880 --> 00:58:04,380
+Thank you again, panelists.
+
+1363
+00:58:04,380 --> 00:58:07,710
+As you can see, we really try to give an experience here
+
+1364
+00:58:07,710 --> 00:58:08,910
+through this partnership
+
+1365
+00:58:08,910 --> 00:58:12,957
+for how we can train our and be make workforce ready,
+
+1366
+00:58:12,957 --> 00:58:16,410
+for students for tomorrow if there's any questions?
+
+1367
+00:58:16,410 --> 00:58:18,480
+Yeah, we're, go ahead.
+
+1368
+00:58:18,480 --> 00:58:19,824
+- [Audience member] I'd love to ask
+
+1369
+00:58:19,824 --> 00:58:20,657
+just real quick question. - Sure.
+
+1370
+00:58:20,657 --> 00:58:21,750
+- [Audience member] Students and the mentors,
+
+1371
+00:58:21,750 --> 00:58:24,450
+knowing what you know now and having had experiences,
+
+1372
+00:58:24,450 --> 00:58:26,280
+is there one gnarly challenge
+
+1373
+00:58:26,280 --> 00:58:29,943
+that you wanna tackle or you want someone to tackle with AI?
+
+1374
+00:58:33,626 --> 00:58:36,240
+- I really want to be able to communicate
+
+1375
+00:58:36,240 --> 00:58:39,150
+with Canvas in like a better way.
+
+1376
+00:58:39,150 --> 00:58:41,610
+I think that workflow could be improved.
+
+1377
+00:58:41,610 --> 00:58:45,000
+I'm actually doing a hackathon where I'm trying to integrate
+
+1378
+00:58:45,000 --> 00:58:48,420
+Google Gemini Notion and Canvas.
+
+1379
+00:58:48,420 --> 00:58:50,820
+So you could essentially just talk to Google Gemini
+
+1380
+00:58:50,820 --> 00:58:53,310
+and have it tell you your Canvas solution.
+
+1381
+00:58:53,310 --> 00:58:57,430
+So I think stuff that can help students succeed academically
+
+1382
+00:58:58,680 --> 00:59:00,480
+would have like a two-pronged approach,
+
+1383
+00:59:00,480 --> 00:59:02,460
+'cause it would have such a positive impact
+
+1384
+00:59:02,460 --> 00:59:03,690
+on students in the future.
+
+1385
+00:59:03,690 --> 00:59:05,250
+But then building those tools
+
+1386
+00:59:05,250 --> 00:59:07,443
+are a challenge within themselves.
+
+1387
+00:59:09,150 --> 00:59:10,500
+- I really wanna mention,
+
+1388
+00:59:10,500 --> 00:59:13,620
+if there's one thing that I want community colleges,
+
+1389
+00:59:13,620 --> 00:59:17,070
+the California Community College system to focus on is,
+
+1390
+00:59:17,070 --> 00:59:19,097
+standardizing the data.
+
+1391
+00:59:19,097 --> 00:59:22,624
+(audience laughing)
+
+1392
+00:59:22,624 --> 00:59:24,422
+- You'll have to come work for us in the future.
+
+1393
+00:59:24,422 --> 00:59:25,255
+- Yeah.
+
+1394
+00:59:26,863 --> 00:59:31,863
+- I spent, like, days looking at like data
+
+1395
+00:59:33,840 --> 00:59:37,290
+that's like, not like, it's like really outdated
+
+1396
+00:59:37,290 --> 00:59:41,520
+and it's really hard to deal with, you know,
+
+1397
+00:59:41,520 --> 00:59:45,857
+like, you know the CID super numbering system assist,
+
+1398
+00:59:47,400 --> 00:59:50,048
+how it's not compatible.
+
+1399
+00:59:50,048 --> 00:59:51,720
+How it's not compatible with CVC,
+
+1400
+00:59:51,720 --> 00:59:53,280
+that's another SaaS.
+
+1401
+00:59:53,280 --> 00:59:56,070
+It's like really hard to connect these.
+
+1402
+00:59:56,070 --> 00:59:57,240
+Like the data is there, right?
+
+1403
+00:59:57,240 --> 01:00:00,780
+But it's so disconnected and disjointed that, you know,
+
+1404
+01:00:00,780 --> 01:00:02,343
+why not standardize this?
+
+1405
+01:00:03,420 --> 01:00:06,409
+- Yes. - Yes. (laughs)
+
+1406
+01:00:06,409 --> 01:00:07,242
+(audience applauding)
+
+1407
+01:00:07,242 --> 01:00:09,093
+And you had a question back there.
+
+1408
+01:00:09,977 --> 01:00:10,810
+- [Audience member] Oh yeah.
+
+1409
+01:00:10,810 --> 01:00:15,457
+For the students in emerging protocol frameworks,
+
+1410
+01:00:15,457 --> 01:00:20,139
+do you see your self in (speaking softly)
+
+1411
+01:00:20,139 --> 01:00:21,203
+as technical as you want.
+
+1412
+01:00:24,270 --> 01:00:27,330
+- I'm attending an event tomorrow
+
+1413
+01:00:27,330 --> 01:00:31,140
+with the host is Dom Sagolla,
+
+1414
+01:00:31,140 --> 01:00:34,650
+he was one of the early Twitter members
+
+1415
+01:00:34,650 --> 01:00:38,190
+and he's developing a platform called Gray Whale AI.
+
+1416
+01:00:38,190 --> 01:00:41,190
+And I think that should be really interesting.
+
+1417
+01:00:41,190 --> 01:00:42,960
+I don't know too much about it,
+
+1418
+01:00:42,960 --> 01:00:44,130
+'cause it's proprietary,
+
+1419
+01:00:44,130 --> 01:00:46,020
+but essentially he's saying it's gonna use
+
+1420
+01:00:46,020 --> 01:00:47,610
+a thousand times less data
+
+1421
+01:00:47,610 --> 01:00:50,250
+and Bill Tai is a venture capitalist
+
+1422
+01:00:50,250 --> 01:00:51,810
+who is funding the event
+
+1423
+01:00:51,810 --> 01:00:54,840
+and there's some pretty impressive sponsors and stuff.
+
+1424
+01:00:54,840 --> 01:00:57,510
+So I think keeping an eye on that space
+
+1425
+01:00:57,510 --> 01:00:58,890
+and a agentic AI,
+
+1426
+01:00:58,890 --> 01:01:02,640
+just that entire realm is probably where like the AI feature
+
+1427
+01:01:02,640 --> 01:01:03,843
+is going, in my opinion.
+
+1428
+01:01:06,300 --> 01:01:08,070
+- One thing that I would
+
+1429
+01:01:08,070 --> 01:01:10,800
+like to see is definitely MCP servers.
+
+1430
+01:01:10,800 --> 01:01:12,180
+It's really popular.
+
+1431
+01:01:12,180 --> 01:01:17,070
+It's taking the LLM agentic AI scene by storm.
+
+1432
+01:01:17,070 --> 01:01:19,860
+It's became like the, the standard and the norm.
+
+1433
+01:01:19,860 --> 01:01:23,400
+And I feel like all these educational focused SaaS,
+
+1434
+01:01:23,400 --> 01:01:27,510
+like Ellucian, Canvas, Instructure, Cengage,
+
+1435
+01:01:27,510 --> 01:01:30,330
+should all adapt MCP as a standard
+
+1436
+01:01:30,330 --> 01:01:33,150
+so that, you know, LLM tools
+
+1437
+01:01:33,150 --> 01:01:36,594
+that could be built by the future,
+
+1438
+01:01:36,594 --> 01:01:37,860
+CC AI camp students
+
+1439
+01:01:37,860 --> 01:01:40,530
+wouldn't have to go through documents of AI pages,
+
+1440
+01:01:40,530 --> 01:01:44,370
+but just give this, you know, MCP server documentation
+
+1441
+01:01:44,370 --> 01:01:48,090
+to an LLM and it's gonna be integrated with context
+
+1442
+01:01:48,090 --> 01:01:49,680
+engineering built into it, right?
+
+1443
+01:01:49,680 --> 01:01:51,680
+So I guess that's one thing I wanna see.
+
+1444
+01:01:54,720 --> 01:01:57,755
+- Okay. Thank you very much for joining us.
+
+1445
+01:01:57,755 --> 01:01:58,800
+(audience applauding)
+
+1446
+01:01:58,800 --> 01:02:00,780
+Lunch is next
+
+1447
+01:02:00,780 --> 01:02:03,000
+and it's going to be in the exhibit hall,
+
+1448
+01:02:03,000 --> 01:02:05,373
+in the Futurist Hub, so, and then there's.

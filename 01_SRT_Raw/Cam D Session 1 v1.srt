@@ -1,0 +1,1083 @@
+1
+00:00:05,137 --> 00:00:07,530
+- All, not just in the education sector,
+
+2
+00:00:07,530 --> 00:00:09,570
+but just overall, all around.
+
+3
+00:00:09,570 --> 00:00:10,800
+And this is one way we can do that
+
+4
+00:00:10,800 --> 00:00:13,323
+by preserving what we're all worried about, right?
+
+5
+00:00:14,460 --> 00:00:17,070
+We're gonna lose our credibility for critical thinking,
+
+6
+00:00:17,070 --> 00:00:20,910
+and, you know, our ability to be unique in society
+
+7
+00:00:20,910 --> 00:00:22,380
+and all that stuff, even though, you know,
+
+8
+00:00:22,380 --> 00:00:23,957
+don't know that we have that much control of it.
+
+9
+00:00:23,957 --> 00:00:25,980
+(panelist laughs)
+
+10
+00:00:25,980 --> 00:00:28,860
+It's really moving towards that progress
+
+11
+00:00:28,860 --> 00:00:33,810
+with humans at the center of it all, truly, truly,
+
+12
+00:00:33,810 --> 00:00:36,633
+to really preserve any of these human elements.
+
+13
+00:00:38,010 --> 00:00:39,150
+Yeah.
+
+14
+00:00:39,150 --> 00:00:41,043
+- I actually wanna add to this.
+
+15
+00:00:43,140 --> 00:00:45,330
+I think a lot of us, and a lot of us here,
+
+16
+00:00:45,330 --> 00:00:49,020
+you know, we teach first-generation college students
+
+17
+00:00:49,020 --> 00:00:54,020
+who went to schools where they were told what to write,
+
+18
+00:00:54,090 --> 00:00:57,543
+when to write, how many words, spacing.
+
+19
+00:00:58,410 --> 00:01:01,170
+I mean, in a way, they were told what to think.
+
+20
+00:01:01,170 --> 00:01:05,217
+So, when you actually ask them, "What do you think?"
+
+21
+00:01:06,487 --> 00:01:08,190
+"I don't know, what should I think?"
+
+22
+00:01:08,190 --> 00:01:10,260
+- Mm-hm. - Okay?
+
+23
+00:01:10,260 --> 00:01:11,407
+So, that whole idea of like,
+
+24
+00:01:11,407 --> 00:01:15,063
+you know, how do we teach students to read critically,
+
+25
+00:01:15,930 --> 00:01:17,430
+you know, that's a struggle.
+
+26
+00:01:17,430 --> 00:01:20,910
+We have to come up with creative tools.
+
+27
+00:01:20,910 --> 00:01:24,603
+And this is where I'm gonna do a plugin for like Playlab.
+
+28
+00:01:25,620 --> 00:01:28,260
+If you don't know what Playlab is,
+
+29
+00:01:28,260 --> 00:01:30,990
+it's a chatbot that you build.
+
+30
+00:01:30,990 --> 00:01:34,503
+Your corazon, your heart builds it.
+
+31
+00:01:35,520 --> 00:01:39,000
+You build that, as we call it, vibe coding,
+
+32
+00:01:39,000 --> 00:01:42,870
+or that narrative of how you want it to perform,
+
+33
+00:01:42,870 --> 00:01:44,910
+how you want it to help.
+
+34
+00:01:44,910 --> 00:01:49,910
+And so for me, for example, I know I think of myself
+
+35
+00:01:49,980 --> 00:01:51,060
+when it's like, you know,
+
+36
+00:01:51,060 --> 00:01:53,580
+that story I gave you about Salomon Huerta,
+
+37
+00:01:53,580 --> 00:01:56,040
+I was looking at his art, okay?
+
+38
+00:01:56,040 --> 00:01:58,290
+He actually got a MacArthur Genius Award
+
+39
+00:01:58,290 --> 00:01:59,883
+and I didn't get it.
+
+40
+00:02:00,900 --> 00:02:03,630
+It's like, when he asked me, "What do you think?"
+
+41
+00:02:03,630 --> 00:02:06,603
+I was like, "I don't know," okay?
+
+42
+00:02:08,280 --> 00:02:12,240
+But when he explained to me, the process, I was able to,
+
+43
+00:02:12,240 --> 00:02:14,310
+you know, come up with an answer.
+
+44
+00:02:14,310 --> 00:02:17,430
+So with PlayLab, you know, I built the mechanism
+
+45
+00:02:17,430 --> 00:02:22,430
+to enable students to ask it, to talk to the student,
+
+46
+00:02:22,590 --> 00:02:27,180
+according to their passions, according to their hobbies,
+
+47
+00:02:27,180 --> 00:02:28,800
+according to what they're into.
+
+48
+00:02:28,800 --> 00:02:31,980
+For example, if a student is a basketball player,
+
+49
+00:02:31,980 --> 00:02:34,800
+they can talk to our chatbot that's connected
+
+50
+00:02:34,800 --> 00:02:39,360
+to our textbook and say, "Look, I play basketball.
+
+51
+00:02:39,360 --> 00:02:41,640
+Professor's asking me about intersectionality.
+
+52
+00:02:41,640 --> 00:02:43,167
+I don't really get it."
+
+53
+00:02:44,070 --> 00:02:45,513
+And guess what it'll do.
+
+54
+00:02:46,800 --> 00:02:48,030
+It'll talk to the student.
+
+55
+00:02:48,030 --> 00:02:49,920
+It'll actually be like, "Oh, don't worry.
+
+56
+00:02:49,920 --> 00:02:51,420
+I know it's hard."
+
+57
+00:02:51,420 --> 00:02:54,240
+Well, I hear the voice in my head.
+
+58
+00:02:54,240 --> 00:02:57,180
+You know, I wish it could have the little avatar
+
+59
+00:02:57,180 --> 00:02:58,530
+'cause it'd be like, "Ah, don't worry.
+
+60
+00:02:58,530 --> 00:03:00,147
+That's a fancy word, isn't it?"
+
+61
+00:03:01,020 --> 00:03:01,853
+You know?
+
+62
+00:03:03,210 --> 00:03:07,449
+And so I added those like vernacular words,
+
+63
+00:03:07,449 --> 00:03:12,449
+even some Gen Z you know, lingo to be like, you know,
+
+64
+00:03:12,630 --> 00:03:14,880
+you know what you're saying is, you know, is quite cap.
+
+65
+00:03:14,880 --> 00:03:17,280
+But, you know, I don't also wanna be ingenuous.
+
+66
+00:03:17,280 --> 00:03:18,870
+I do wanna say, I don't wanna be ingenuous.
+
+67
+00:03:18,870 --> 00:03:20,493
+I've been struggling with that.
+
+68
+00:03:23,010 --> 00:03:25,200
+But my point is, is that this is where,
+
+69
+00:03:25,200 --> 00:03:28,320
+as practitioners, we can use a tool
+
+70
+00:03:28,320 --> 00:03:30,690
+to help the students be able to get to that point
+
+71
+00:03:30,690 --> 00:03:33,870
+where they can just say, is it good?
+
+72
+00:03:33,870 --> 00:03:38,870
+And if it's not, why do you feel this way, you know?
+
+73
+00:03:40,170 --> 00:03:43,980
+And so that is still a challenge for a lot of our students.
+
+74
+00:03:43,980 --> 00:03:46,440
+That's just critical thinking is still something
+
+75
+00:03:46,440 --> 00:03:48,030
+that they struggle with.
+
+76
+00:03:48,030 --> 00:03:49,560
+I've said this story before, like,
+
+77
+00:03:49,560 --> 00:03:52,230
+my sister was a straight A student in high school,
+
+78
+00:03:52,230 --> 00:03:55,529
+but when she went into college, she started failing
+
+79
+00:03:55,529 --> 00:03:58,050
+'cause my sister, she would memorize.
+
+80
+00:03:58,050 --> 00:04:00,630
+She was one of those that would spend hours memorizing
+
+81
+00:04:00,630 --> 00:04:02,610
+and would get straight A's.
+
+82
+00:04:02,610 --> 00:04:03,720
+When she went to college,
+
+83
+00:04:03,720 --> 00:04:06,837
+she couldn't answer the question, "What do you think?"
+
+84
+00:04:08,550 --> 00:04:11,160
+And like, "What do you mean, what do I think?"
+
+85
+00:04:11,160 --> 00:04:14,580
+So, just that idea of just the critical thinking,
+
+86
+00:04:14,580 --> 00:04:16,860
+like you said, is still something, you know,
+
+87
+00:04:16,860 --> 00:04:17,940
+we struggle with.
+
+88
+00:04:17,940 --> 00:04:19,110
+- Yeah, I think that's interesting
+
+89
+00:04:19,110 --> 00:04:22,923
+because one thing that I'm doing with my students now is,
+
+90
+00:04:23,820 --> 00:04:25,500
+because there is AI
+
+91
+00:04:25,500 --> 00:04:28,440
+and it's about them being able to assess the output
+
+92
+00:04:28,440 --> 00:04:31,080
+that AI is giving them and all that,
+
+93
+00:04:31,080 --> 00:04:33,210
+but what kind of a thinker are you?
+
+94
+00:04:33,210 --> 00:04:35,220
+Are you waiting to be told what to think?
+
+95
+00:04:35,220 --> 00:04:37,050
+Are you a blank page that's waiting
+
+96
+00:04:37,050 --> 00:04:38,700
+to have an answer input?
+
+97
+00:04:38,700 --> 00:04:40,110
+Do you have an answer?
+
+98
+00:04:40,110 --> 00:04:42,810
+I'm trying to see what other people say so you can decide
+
+99
+00:04:42,810 --> 00:04:44,490
+what you think about your answer.
+
+100
+00:04:44,490 --> 00:04:45,780
+You know, kind of that back and forth.
+
+101
+00:04:45,780 --> 00:04:47,490
+You're waiting for that.
+
+102
+00:04:47,490 --> 00:04:52,410
+And so I am trying to cultivate like, okay, let's be aware
+
+103
+00:04:52,410 --> 00:04:54,450
+of our thinking style, right?
+
+104
+00:04:54,450 --> 00:04:57,300
+'Cause that's gonna matter when you're looking at AI,
+
+105
+00:04:57,300 --> 00:05:00,180
+like when I enter stuff in AI, I tend
+
+106
+00:05:00,180 --> 00:05:02,700
+to have an answer already in my head, right?
+
+107
+00:05:02,700 --> 00:05:05,520
+And if it's contrary to my answer, like, okay, but why?
+
+108
+00:05:05,520 --> 00:05:08,460
+If it makes a really good point, you know, I'm willing
+
+109
+00:05:08,460 --> 00:05:10,650
+to change my response.
+
+110
+00:05:10,650 --> 00:05:12,870
+You know, and I think that is important
+
+111
+00:05:12,870 --> 00:05:15,780
+in critical thinking is like when you find a flaw
+
+112
+00:05:15,780 --> 00:05:17,730
+in your own perfect answer,
+
+113
+00:05:17,730 --> 00:05:20,430
+being willing to admit that and, you know, that's okay
+
+114
+00:05:20,430 --> 00:05:23,070
+to like, oh yeah, okay, that makes more sense.
+
+115
+00:05:23,070 --> 00:05:25,860
+And so for me, I think it's really curiosity too.
+
+116
+00:05:25,860 --> 00:05:27,330
+You have to have curiosity.
+
+117
+00:05:27,330 --> 00:05:29,700
+You have to crave to wanna know, right?
+
+118
+00:05:29,700 --> 00:05:32,430
+And so, one way that I would say
+
+119
+00:05:32,430 --> 00:05:37,430
+as an educator is currently, I'm trying to help my students
+
+120
+00:05:38,700 --> 00:05:41,640
+and I don't know, I feel, again, I feel a little like,
+
+121
+00:05:41,640 --> 00:05:46,640
+you know, arrogant to be like, I'm helping them, you know,
+
+122
+00:05:46,680 --> 00:05:49,380
+understand their thinking process, right?
+
+123
+00:05:49,380 --> 00:05:50,910
+Because maybe they do on some level,
+
+124
+00:05:50,910 --> 00:05:52,350
+and I don't wanna dismiss that,
+
+125
+00:05:52,350 --> 00:05:54,390
+but being aware of it too, just like, okay,
+
+126
+00:05:54,390 --> 00:05:56,760
+well what kind of a thinker are you, right,
+
+127
+00:05:56,760 --> 00:05:59,010
+before you start jumping into AI,
+
+128
+00:05:59,010 --> 00:06:00,600
+'cause I fall into that trap with Ai.
+
+129
+00:06:00,600 --> 00:06:02,460
+Sometimes, I love AI
+
+130
+00:06:02,460 --> 00:06:04,830
+'cause they give me answers really quick, right?
+
+131
+00:06:04,830 --> 00:06:06,093
+Like right away.
+
+132
+00:06:07,290 --> 00:06:11,100
+And sometimes I don't even trust myself doing that
+
+133
+00:06:11,100 --> 00:06:14,310
+because I'm like, but now I don't know what I was thinking.
+
+134
+00:06:14,310 --> 00:06:15,143
+- Yeah. - Right.
+
+135
+00:06:15,143 --> 00:06:18,330
+Like now I don't know if that was my thought process.
+
+136
+00:06:18,330 --> 00:06:20,340
+And I like to know my thought process.
+
+137
+00:06:20,340 --> 00:06:23,460
+I like to know if it's coming from what I'm thinking of.
+
+138
+00:06:23,460 --> 00:06:24,293
+You know?
+
+139
+00:06:25,500 --> 00:06:27,033
+- Did you find the word?
+
+140
+00:06:30,180 --> 00:06:31,710
+What was it?
+
+141
+00:06:31,710 --> 00:06:33,369
+- [Speaker] I'm sorry, and you were looking for?
+
+142
+00:06:33,369 --> 00:06:36,330
+- The word, the psychological term?
+
+143
+00:06:36,330 --> 00:06:40,109
+- [Speaker] Oh, it might have been in a different article.
+
+144
+00:06:40,109 --> 00:06:42,510
+Were you thinking about the one where the student
+
+145
+00:06:42,510 --> 00:06:44,470
+or the child who actually committed suicide?
+
+146
+00:06:44,470 --> 00:06:45,303
+- No. - No, no.
+
+147
+00:06:45,303 --> 00:06:46,136
+- [Speaker] That's a different one.
+
+148
+00:06:46,136 --> 00:06:47,553
+- No, no, no. Oh, darn.
+
+149
+00:06:48,461 --> 00:06:49,980
+- Could I say something?
+
+150
+00:06:49,980 --> 00:06:52,020
+- Yeah, what were you saying, Wendy, you know.
+
+151
+00:06:52,020 --> 00:06:52,890
+- Yeah. - Yeah, go for it.
+
+152
+00:06:52,890 --> 00:06:55,530
+- I mean, there's an insidious dimension here, though.
+
+153
+00:06:55,530 --> 00:06:58,080
+I wanna be slightly contrarian.
+
+154
+00:06:58,080 --> 00:07:01,890
+Just like, I worry about,
+
+155
+00:07:01,890 --> 00:07:05,880
+so when expert practitioners use these systems,
+
+156
+00:07:05,880 --> 00:07:09,450
+like us, we have years
+
+157
+00:07:09,450 --> 00:07:12,660
+of training without these technologies that we can use
+
+158
+00:07:12,660 --> 00:07:13,830
+as our basis.
+
+159
+00:07:13,830 --> 00:07:17,130
+And I worry, you know, like for your students, for instance,
+
+160
+00:07:17,130 --> 00:07:19,380
+like there is something I believe
+
+161
+00:07:19,380 --> 00:07:23,190
+about that cognitive friction of encountering something
+
+162
+00:07:23,190 --> 00:07:27,439
+that is difficult and pushing into it and past it
+
+163
+00:07:27,439 --> 00:07:29,070
+that's really important
+
+164
+00:07:29,070 --> 00:07:32,310
+for building your own self-confidence.
+
+165
+00:07:32,310 --> 00:07:34,020
+And so I worry sometimes that, like,
+
+166
+00:07:34,020 --> 00:07:36,090
+when do the training wheels come off?
+
+167
+00:07:36,090 --> 00:07:37,080
+You know, that's, I think,
+
+168
+00:07:37,080 --> 00:07:38,880
+the thing we're still not sure about.
+
+169
+00:07:38,880 --> 00:07:41,670
+And I worry in the same way that, you know,
+
+170
+00:07:41,670 --> 00:07:45,300
+we didn't know really that social media would have all
+
+171
+00:07:45,300 --> 00:07:46,680
+of these consequences.
+
+172
+00:07:46,680 --> 00:07:51,470
+So, I feel like we're experimenting with our kids sometimes.
+
+173
+00:07:51,470 --> 00:07:55,110
+I mean, we sort of have no choice.
+
+174
+00:07:55,110 --> 00:07:58,770
+But as humanists, we are very good at thinking
+
+175
+00:07:58,770 --> 00:08:01,080
+in four different ways, simultaneously.
+
+176
+00:08:01,080 --> 00:08:03,600
+And I think we have to keep that, you know,
+
+177
+00:08:03,600 --> 00:08:05,460
+Jiminy Cricket, right,
+
+178
+00:08:05,460 --> 00:08:06,693
+- Oh, yeah. - In mind.
+
+179
+00:08:07,560 --> 00:08:10,380
+- With that in mind, I wanna ask the last question,
+
+180
+00:08:10,380 --> 00:08:15,380
+which is, in what ways can humanities provide a guiding lens
+
+181
+00:08:15,630 --> 00:08:20,463
+to how AI is integrated into education and society?
+
+182
+00:08:23,280 --> 00:08:25,950
+- I think you had a brilliant idea on the critical STS.
+
+183
+00:08:25,950 --> 00:08:27,060
+- Okay. - I'm unaware of it.
+
+184
+00:08:27,060 --> 00:08:29,080
+So I would love for you to take the lead on this.
+
+185
+00:08:29,080 --> 00:08:32,010
+- Okay, I made this one comment
+
+186
+00:08:32,010 --> 00:08:34,770
+about how I'd make a plug for a whole discipline,
+
+187
+00:08:34,770 --> 00:08:39,750
+which is science technology studies, STS,
+
+188
+00:08:39,750 --> 00:08:41,310
+and critical STS,
+
+189
+00:08:41,310 --> 00:08:44,190
+which has really critiqued the scientific development
+
+190
+00:08:44,190 --> 00:08:46,440
+in the 19th and 20th century.
+
+191
+00:08:46,440 --> 00:08:50,880
+And it really helped to help us see
+
+192
+00:08:50,880 --> 00:08:52,830
+and historicize the ways
+
+193
+00:08:52,830 --> 00:08:55,560
+in which this was a sociological phenomenon.
+
+194
+00:08:55,560 --> 00:08:57,930
+So I think that there are frameworks
+
+195
+00:08:57,930 --> 00:08:58,763
+that come from there.
+
+196
+00:08:58,763 --> 00:09:00,930
+I'll just mention a couple books and I'll say something.
+
+197
+00:09:00,930 --> 00:09:03,997
+So, you know, one that people probably know is,
+
+198
+00:09:03,997 --> 00:09:07,110
+"Design Justice" by Costanza-Chock.
+
+199
+00:09:07,110 --> 00:09:09,510
+But there's also this great book
+
+200
+00:09:09,510 --> 00:09:13,047
+by Arturo Escobar, "Designs for the Pluriverse."
+
+201
+00:09:14,220 --> 00:09:18,030
+And then the other thing, I have some more,
+
+202
+00:09:18,030 --> 00:09:20,820
+like "Race After Technology," Ruha Benjamin's classic book
+
+203
+00:09:20,820 --> 00:09:22,920
+and "Automating Inequality."
+
+204
+00:09:22,920 --> 00:09:26,850
+But I also have become more aware
+
+205
+00:09:26,850 --> 00:09:28,590
+of other dimensions.
+
+206
+00:09:28,590 --> 00:09:30,690
+My colleague, Megan Moody,
+
+207
+00:09:30,690 --> 00:09:33,510
+Santa Cruz works in disability studies.
+
+208
+00:09:33,510 --> 00:09:35,340
+And with her, I've been reading a lot
+
+209
+00:09:35,340 --> 00:09:37,200
+of work in critical disability studies,
+
+210
+00:09:37,200 --> 00:09:41,040
+and she's made the point to me that, you know, with these,
+
+211
+00:09:41,040 --> 00:09:45,060
+you know, future AI individuals, we all have a kind
+
+212
+00:09:45,060 --> 00:09:46,740
+of disability with respect to it.
+
+213
+00:09:46,740 --> 00:09:49,410
+And so disability studies, which emphasizes the way
+
+214
+00:09:49,410 --> 00:09:53,640
+in which people as individuals navigate a world
+
+215
+00:09:53,640 --> 00:09:57,660
+that isn't designed for them, is a really effective lens
+
+216
+00:09:57,660 --> 00:09:58,860
+for thinking about the future.
+
+217
+00:09:58,860 --> 00:10:01,110
+So there's a book that she recommended
+
+218
+00:10:01,110 --> 00:10:04,020
+by Sara Hendren, called, "What Can a Body Do:
+
+219
+00:10:04,020 --> 00:10:05,700
+How We Meet the Built World,"
+
+220
+00:10:05,700 --> 00:10:08,640
+that has been very helpful for me in thinking about things.
+
+221
+00:10:08,640 --> 00:10:10,860
+And I should just say, as humanists, one thing
+
+222
+00:10:10,860 --> 00:10:14,070
+that we're really good at is thinking about corner cases,
+
+223
+00:10:14,070 --> 00:10:17,670
+thinking about individual instances,
+
+224
+00:10:17,670 --> 00:10:20,400
+thinking about the long tail, right?
+
+225
+00:10:20,400 --> 00:10:21,810
+And that is not something
+
+226
+00:10:21,810 --> 00:10:25,140
+that people in the AI industry really care about,
+
+227
+00:10:25,140 --> 00:10:27,660
+but we should care about because we care about people.
+
+228
+00:10:27,660 --> 00:10:30,750
+And all of these scholars really reckon
+
+229
+00:10:30,750 --> 00:10:33,060
+with the way the technology,
+
+230
+00:10:33,060 --> 00:10:36,330
+as a discipline, hasn't thought about its impacts
+
+231
+00:10:36,330 --> 00:10:38,550
+on individual people.
+
+232
+00:10:38,550 --> 00:10:41,190
+And that's something that we need to bring again
+
+233
+00:10:41,190 --> 00:10:42,750
+and again to our students.
+
+234
+00:10:42,750 --> 00:10:45,690
+And it's something that these books and their frameworks,
+
+235
+00:10:45,690 --> 00:10:48,750
+but also narrative is so powerful for.
+
+236
+00:10:48,750 --> 00:10:51,870
+There's a reason why we crave narrative, right?
+
+237
+00:10:51,870 --> 00:10:54,539
+Because it makes sense to us in a way.
+
+238
+00:10:54,539 --> 00:10:55,372
+- Yeah.
+
+239
+00:10:55,372 --> 00:10:58,260
+Yeah, so because this is about humanities,
+
+240
+00:10:58,260 --> 00:11:00,870
+just one fun last question.
+
+241
+00:11:00,870 --> 00:11:02,523
+What brings you joy, Rachel?
+
+242
+00:11:03,720 --> 00:11:06,930
+- That's a simple one. It's just my family and my dogs.
+
+243
+00:11:06,930 --> 00:11:07,862
+- Yay. Family and dogs.
+
+244
+00:11:07,862 --> 00:11:09,450
+- Spending time with them.
+
+245
+00:11:09,450 --> 00:11:11,160
+- What brings you joy?
+
+246
+00:11:11,160 --> 00:11:13,200
+- What brings me joy? I don't know.
+
+247
+00:11:13,200 --> 00:11:15,263
+I really like making art. - Okay.
+
+248
+00:11:16,560 --> 00:11:17,393
+Ah, right.
+
+249
+00:11:17,393 --> 00:11:19,366
+- We'll let your family know they weren't on the top.
+
+250
+00:11:19,366 --> 00:11:20,760
+(audience laughing)
+
+251
+00:11:20,760 --> 00:11:21,869
+- They already know.
+
+252
+00:11:21,869 --> 00:11:23,010
+(everyone laughing)
+
+253
+00:11:23,010 --> 00:11:24,090
+- I have a new joy,
+
+254
+00:11:24,090 --> 00:11:26,070
+and it was introduced to me from Michelle, like,
+
+255
+00:11:26,070 --> 00:11:29,580
+I wanna look for daily awe moments.
+
+256
+00:11:29,580 --> 00:11:31,590
+So, I'm like taking my camera
+
+257
+00:11:31,590 --> 00:11:34,410
+and taking pictures of like, "Oh, look at this flower.
+
+258
+00:11:34,410 --> 00:11:35,310
+Wow."
+
+259
+00:11:35,310 --> 00:11:38,445
+So that's my new joy. I'm gonna find daily awe.
+
+260
+00:11:38,445 --> 00:11:39,278
+- That's awesome.
+
+261
+00:11:39,278 --> 00:11:40,800
+- So, I wanna thank everyone.
+
+262
+00:11:40,800 --> 00:11:43,400
+If you see us around, you wanna have a conversation,
+
+263
+00:11:44,280 --> 00:11:45,900
+I think lunch is next?
+
+264
+00:11:45,900 --> 00:11:46,830
+- [Speaker 2] Yeah. - All right!
+
+265
+00:11:46,830 --> 00:11:48,168
+Don't want to keep you away from that.
+
+266
+00:11:48,168 --> 00:11:49,470
+- Thank you. - Thank you, everybody.
+
+267
+00:11:49,470 --> 00:11:50,859
+Thank you to our panelists.
+
+268
+00:11:50,859 --> 00:11:51,941
+- Thank you.
+
+269
+00:11:51,941 --> 00:11:52,774
+- Whoo!
+
+270
+00:11:52,774 --> 00:11:54,081
+- Thank you, Fabiola.
+
+271
+00:11:54,081 --> 00:11:56,297
+- That was so fun. - That was so fun!

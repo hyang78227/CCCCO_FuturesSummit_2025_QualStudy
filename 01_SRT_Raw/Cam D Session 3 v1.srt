@@ -1,0 +1,4759 @@
+1
+00:00:05,739 --> 00:00:07,920
+- All right, now we can fully start.
+
+2
+00:00:07,920 --> 00:00:11,190
+Welcome, thank you again so much for your patience.
+
+3
+00:00:11,190 --> 00:00:13,083
+Sorry about the delay.
+
+4
+00:00:14,130 --> 00:00:16,170
+I did create a song.
+
+5
+00:00:16,170 --> 00:00:18,690
+It was supposed to be an anthem for us.
+
+6
+00:00:18,690 --> 00:00:21,240
+These were the lyrics that you are going to read
+
+7
+00:00:21,240 --> 00:00:23,280
+as you enjoyed the song,
+
+8
+00:00:23,280 --> 00:00:25,620
+but unfortunately we are out of time.
+
+9
+00:00:25,620 --> 00:00:27,450
+So, if you are curious about the song,
+
+10
+00:00:27,450 --> 00:00:29,970
+I'll be happy to email you the link.
+
+11
+00:00:29,970 --> 00:00:33,930
+And also, this is not a paid advertisement for Suno,
+
+12
+00:00:33,930 --> 00:00:37,770
+but usually when I talk I like to create anthems.
+
+13
+00:00:37,770 --> 00:00:40,530
+And what I use is Suno AI, it is free,
+
+14
+00:00:40,530 --> 00:00:42,390
+but you could pay like $8, $9
+
+15
+00:00:42,390 --> 00:00:46,440
+if you are so into music that you want it to be customized.
+
+16
+00:00:46,440 --> 00:00:49,890
+All right, so I would like to start off
+
+17
+00:00:49,890 --> 00:00:53,460
+just by welcoming you and welcoming our panelists.
+
+18
+00:00:53,460 --> 00:00:55,320
+I'll be the moderator for today.
+
+19
+00:00:55,320 --> 00:00:58,020
+My name is Leslie Flores Valmonte.
+
+20
+00:00:58,020 --> 00:01:01,680
+I teach work experience over at Chaffey College.
+
+21
+00:01:01,680 --> 00:01:03,780
+I, at one point for seven years,
+
+22
+00:01:03,780 --> 00:01:05,820
+was a Guided Pathways regional coordinator
+
+23
+00:01:05,820 --> 00:01:07,350
+for our state.
+
+24
+00:01:07,350 --> 00:01:11,010
+And now all I do is AI.
+
+25
+00:01:11,010 --> 00:01:14,460
+So thank you again for having us, for joining us today.
+
+26
+00:01:14,460 --> 00:01:17,670
+As I was preparing for this moment,
+
+27
+00:01:17,670 --> 00:01:20,550
+I started thinking about the concept of digital twins.
+
+28
+00:01:20,550 --> 00:01:22,230
+And it reminded me
+
+29
+00:01:22,230 --> 00:01:26,010
+of how I have always wanted my own J.A.R.V.I.S.
+
+30
+00:01:26,010 --> 00:01:28,590
+So how many of us have seen Ironman?
+
+31
+00:01:28,590 --> 00:01:30,570
+Yes, okay.
+
+32
+00:01:30,570 --> 00:01:34,499
+So who wants their own J.A.R.V.I.S., right?
+
+33
+00:01:34,499 --> 00:01:37,110
+Yes, so I'm excited
+
+34
+00:01:37,110 --> 00:01:39,900
+because I feel like I finally get that chance
+
+35
+00:01:39,900 --> 00:01:42,180
+to have my own J.A.R.V.I.S.,
+
+36
+00:01:42,180 --> 00:01:44,490
+but there is caution, right?
+
+37
+00:01:44,490 --> 00:01:48,150
+That we should take along with having the fun
+
+38
+00:01:48,150 --> 00:01:50,280
+and also the responsibility.
+
+39
+00:01:50,280 --> 00:01:52,800
+Because in "Iron Man" the movie,
+
+40
+00:01:52,800 --> 00:01:57,270
+we saw how it was Robert Downey Jr. psychic, right?
+
+41
+00:01:57,270 --> 00:02:00,990
+It was Iron Man's protector,
+
+42
+00:02:00,990 --> 00:02:03,330
+you know, like almost like savior at some point
+
+43
+00:02:03,330 --> 00:02:04,800
+during the fight.
+
+44
+00:02:04,800 --> 00:02:06,360
+But I'm not sure which movie it was.
+
+45
+00:02:06,360 --> 00:02:08,520
+But we also saw at one point
+
+46
+00:02:08,520 --> 00:02:10,680
+when J.A.R.V.I.S. got hacked, right?
+
+47
+00:02:10,680 --> 00:02:13,500
+Yeah, and so to me, I feel like,
+
+48
+00:02:13,500 --> 00:02:16,080
+you know, there's a lesson to be learned.
+
+49
+00:02:16,080 --> 00:02:20,340
+We each will have our own J.A.R.V.I.S., how we train it,
+
+50
+00:02:20,340 --> 00:02:24,360
+and also how we care for making sure
+
+51
+00:02:24,360 --> 00:02:28,140
+that it's not exhibiting risky behavior,
+
+52
+00:02:28,140 --> 00:02:32,280
+and how we're implementing guardrails, right?
+
+53
+00:02:32,280 --> 00:02:33,600
+It's going to be so important
+
+54
+00:02:33,600 --> 00:02:36,960
+because we know that at any given moment
+
+55
+00:02:36,960 --> 00:02:38,400
+our J.A.R.V.I.S. can turn against us
+
+56
+00:02:38,400 --> 00:02:40,110
+and that's the last thing that we want.
+
+57
+00:02:40,110 --> 00:02:42,390
+So, yes, while it is all fun and games
+
+58
+00:02:42,390 --> 00:02:44,820
+having a digital twin, there must be something
+
+59
+00:02:44,820 --> 00:02:48,660
+to be said of always making sure that,
+
+60
+00:02:48,660 --> 00:02:50,640
+you know, humanity comes first, right?
+
+61
+00:02:50,640 --> 00:02:52,830
+Our own personal wellness comes first.
+
+62
+00:02:52,830 --> 00:02:56,580
+So with that, I would like to pass this on to our panel.
+
+63
+00:02:56,580 --> 00:03:00,300
+And if you can just take one minute to introduce your name,
+
+64
+00:03:00,300 --> 00:03:02,490
+how you serve our students,
+
+65
+00:03:02,490 --> 00:03:05,580
+and 15 seconds to describe
+
+66
+00:03:05,580 --> 00:03:08,730
+how your personal J.A.R.V.I.S. is.
+
+67
+00:03:08,730 --> 00:03:10,623
+Any values, principles?
+
+68
+00:03:14,310 --> 00:03:16,113
+I'll pass it on to you, you first.
+
+69
+00:03:17,010 --> 00:03:18,630
+- Hi, I'm Bob Cormia.
+
+70
+00:03:18,630 --> 00:03:20,460
+I teach chemistry at Foothill College
+
+71
+00:03:20,460 --> 00:03:22,620
+and I did lose my voice an hour ago.
+
+72
+00:03:22,620 --> 00:03:24,870
+I was pretending I was yelling at my students
+
+73
+00:03:24,870 --> 00:03:27,060
+in the lab, right?
+
+74
+00:03:27,060 --> 00:03:30,720
+Seriously, I do teach chemistry stem at Foothill,
+
+75
+00:03:30,720 --> 00:03:32,460
+and I've been working with my colleagues,
+
+76
+00:03:32,460 --> 00:03:36,720
+especially my dean, Zach Cembellin, on AI projects,
+
+77
+00:03:36,720 --> 00:03:39,390
+and picked up an interesting term from our chancellor,
+
+78
+00:03:39,390 --> 00:03:41,370
+Lee Lambert, who has a digital twin.
+
+79
+00:03:41,370 --> 00:03:43,893
+And I'll be sharing that idea with you today.
+
+80
+00:03:46,710 --> 00:03:48,090
+Oh. - Is that one up?
+
+81
+00:03:48,090 --> 00:03:50,010
+- Yeah, this is not gonna go.
+
+82
+00:03:50,010 --> 00:03:51,860
+- Is that one up? - Yeah, it's fine.
+
+83
+00:03:54,750 --> 00:03:57,393
+Hi, I am Drew Magliozzi, CEO of Mainstay,
+
+84
+00:03:58,290 --> 00:04:03,240
+and we are an AI-powered college coaching platform
+
+85
+00:04:03,240 --> 00:04:06,480
+that focuses on human relationships first and foremost.
+
+86
+00:04:06,480 --> 00:04:08,580
+Specifically the relationship between the student
+
+87
+00:04:08,580 --> 00:04:13,020
+and their counselor to enhance the journey to
+
+88
+00:04:13,020 --> 00:04:15,000
+and through college and into careers.
+
+89
+00:04:15,000 --> 00:04:19,620
+And my personal, I mean, I like to talk to ChatGPT
+
+90
+00:04:19,620 --> 00:04:21,910
+about the hair-brained ideas I have
+
+91
+00:04:22,980 --> 00:04:26,280
+that I'm too ashamed to talk to other people about.
+
+92
+00:04:26,280 --> 00:04:28,420
+And it is, you know, very encouraging
+
+93
+00:04:29,310 --> 00:04:31,020
+but sometimes a little too encouraging.
+
+94
+00:04:31,020 --> 00:04:34,770
+'cause I think the best ideas often start out as bad ideas,
+
+95
+00:04:34,770 --> 00:04:38,700
+but most of them probably should never see the light of day.
+
+96
+00:04:38,700 --> 00:04:42,123
+So, yeah, that's my personal usage.
+
+97
+00:04:44,730 --> 00:04:46,290
+- Hi, I'm Vinny Forese.
+
+98
+00:04:46,290 --> 00:04:49,440
+I'm the CEO of Link-Systems International.
+
+99
+00:04:49,440 --> 00:04:54,440
+We are NetTutor.com, an online tutoring company
+
+100
+00:04:54,570 --> 00:04:56,113
+that works directly with 105
+
+101
+00:04:57,008 --> 00:04:59,430
+of the 115 community colleges here in California,
+
+102
+00:04:59,430 --> 00:05:02,703
+providing live one-on-one tutoring to your students.
+
+103
+00:05:04,230 --> 00:05:07,090
+And I don't really know
+
+104
+00:05:08,400 --> 00:05:09,723
+that I have a personal J.A.R.V.I.S.
+
+105
+00:05:09,723 --> 00:05:11,193
+like that quite just yet.
+
+106
+00:05:13,590 --> 00:05:14,640
+- There's still time.
+
+107
+00:05:19,234 --> 00:05:21,690
+- Okay, so it's my turn.
+
+108
+00:05:21,690 --> 00:05:25,410
+I do have a personal avatar that I like to showcase.
+
+109
+00:05:25,410 --> 00:05:27,593
+This is basically- - Oh, you need a mic, here.
+
+110
+00:05:27,593 --> 00:05:29,703
+Michelle, here, take this.
+
+111
+00:05:31,290 --> 00:05:33,930
+- So I do have a creative digital avatar
+
+112
+00:05:33,930 --> 00:05:35,913
+for myself as introduction.
+
+113
+00:05:37,770 --> 00:05:41,110
+That being said, following this morning's
+
+114
+00:05:42,240 --> 00:05:45,120
+Chancellor Lee Lambert's introduction.
+
+115
+00:05:45,120 --> 00:05:47,460
+Instead of me talk about how great I am,
+
+116
+00:05:47,460 --> 00:05:49,923
+my digital twin gonna talk about how great I am.
+
+117
+00:05:52,560 --> 00:05:54,745
+Let me go ahead and just play it.
+
+118
+00:05:54,745 --> 00:05:56,430
+- [Michelle Wu Twin Avatar] Hi, I am the digital twin
+
+119
+00:05:56,430 --> 00:05:57,750
+of Michelle Wu.
+
+120
+00:05:57,750 --> 00:06:01,020
+I have a strong passion for education and technology,
+
+121
+00:06:01,020 --> 00:06:03,330
+and I believe AI can greatly enhance
+
+122
+00:06:03,330 --> 00:06:05,790
+the learning experience for students.
+
+123
+00:06:05,790 --> 00:06:08,640
+By incorporating AI into education,
+
+124
+00:06:08,640 --> 00:06:10,500
+we can personalize learning,
+
+125
+00:06:10,500 --> 00:06:13,080
+provide real-time feedback and support,
+
+126
+00:06:13,080 --> 00:06:16,233
+and improve overall student engagement and success.
+
+127
+00:06:17,220 --> 00:06:19,950
+In addition to teaching and developing AI,
+
+128
+00:06:19,950 --> 00:06:22,830
+I also mentor students in various hackathons
+
+129
+00:06:22,830 --> 00:06:24,780
+and innovation challenges.
+
+130
+00:06:24,780 --> 00:06:27,840
+My background in business, computer engineering and AI
+
+131
+00:06:27,840 --> 00:06:30,540
+has allowed me to see the potential and impact
+
+132
+00:06:30,540 --> 00:06:33,480
+of this technology in various industries.
+
+133
+00:06:33,480 --> 00:06:36,480
+I am excited to see how AI will continue to shape
+
+134
+00:06:36,480 --> 00:06:38,730
+and improve the education.
+
+135
+00:06:38,730 --> 00:06:39,563
+Thank you.
+
+136
+00:06:40,740 --> 00:06:41,850
+- Thank you. - By the way,
+
+137
+00:06:41,850 --> 00:06:46,380
+the script is kind of AI-generated with my modification,
+
+138
+00:06:46,380 --> 00:06:48,240
+so I'm not gonna take all the credit
+
+139
+00:06:48,240 --> 00:06:50,313
+that I wrote such a great bio.
+
+140
+00:06:52,050 --> 00:06:53,220
+- Thank you, Michelle.
+
+141
+00:06:53,220 --> 00:06:57,093
+So, how many of us were impressed by the avatar?
+
+142
+00:06:58,350 --> 00:07:01,290
+Hasn't it gotten just exponentially better than,
+
+143
+00:07:01,290 --> 00:07:03,120
+maybe a year, a year and a half ago?
+
+144
+00:07:03,120 --> 00:07:03,963
+- Yeah. - Yeah.
+
+145
+00:07:04,800 --> 00:07:06,960
+I had one and I showed it to my daughter
+
+146
+00:07:06,960 --> 00:07:09,360
+and it was so creepy 'cause it was just kind of,
+
+147
+00:07:09,360 --> 00:07:11,040
+like, the mouth, like the puppet,
+
+148
+00:07:11,040 --> 00:07:13,380
+that she literally told me, like, "Turn it off!"
+
+149
+00:07:13,380 --> 00:07:14,820
+(attendees laughing)
+
+150
+00:07:14,820 --> 00:07:19,230
+So I haven't updated yet, but I'm inspired now to see,
+
+151
+00:07:19,230 --> 00:07:21,330
+like, how much better it can get.
+
+152
+00:07:21,330 --> 00:07:22,590
+All right, so let's get into it.
+
+153
+00:07:22,590 --> 00:07:27,590
+My first question is to Michelle and Robert.
+
+154
+00:07:27,750 --> 00:07:32,430
+What does a digital twin look like in the classroom, a lab,
+
+155
+00:07:32,430 --> 00:07:35,133
+a campus system, and why should we care?
+
+156
+00:07:37,620 --> 00:07:41,850
+- Well, you know, students email us 24 hours a day
+
+157
+00:07:41,850 --> 00:07:43,500
+with all kinds of crazy questions.
+
+158
+00:07:43,500 --> 00:07:47,550
+Like, I have strep throat, should I come to lab?
+
+159
+00:07:47,550 --> 00:07:52,230
+I said, yes, and you might, but don't kiss anyone, right?
+
+160
+00:07:52,230 --> 00:07:55,350
+You wanna teach your avatar to answer basic questions.
+
+161
+00:07:55,350 --> 00:07:56,790
+What should I wear the first day?
+
+162
+00:07:56,790 --> 00:07:59,070
+Well, shoes are a good idea, right?
+
+163
+00:07:59,070 --> 00:08:01,170
+How do I succeed in class?
+
+164
+00:08:01,170 --> 00:08:03,270
+Well, stay up on your homework, right?
+
+165
+00:08:03,270 --> 00:08:04,800
+What do I do if I miss a lab?
+
+166
+00:08:04,800 --> 00:08:06,900
+Now that's an important question, right?
+
+167
+00:08:06,900 --> 00:08:08,340
+Because there's a set of questions.
+
+168
+00:08:08,340 --> 00:08:10,170
+I don't want them to be scared off.
+
+169
+00:08:10,170 --> 00:08:13,200
+Don't come to lab sick, so here's what you do.
+
+170
+00:08:13,200 --> 00:08:16,980
+And your TAs, when the students ask a question like,
+
+171
+00:08:16,980 --> 00:08:18,870
+I cannot figure out gas laws.
+
+172
+00:08:18,870 --> 00:08:21,300
+And I might say, well, join the club,
+
+173
+00:08:21,300 --> 00:08:23,580
+but there's a path to get there.
+
+174
+00:08:23,580 --> 00:08:26,370
+And I train my TA how to step a student
+
+175
+00:08:26,370 --> 00:08:29,730
+through the four variables, put it all together,
+
+176
+00:08:29,730 --> 00:08:33,000
+and then we do some reinforcement dialogue.
+
+177
+00:08:33,000 --> 00:08:37,410
+So the TA really represent what an instructor would do
+
+178
+00:08:37,410 --> 00:08:39,630
+in an office hour, right?
+
+179
+00:08:39,630 --> 00:08:41,160
+But we have to train our TA
+
+180
+00:08:41,160 --> 00:08:42,903
+to be a good representation of us.
+
+181
+00:08:45,420 --> 00:08:46,860
+- Yes, I definitely agree
+
+182
+00:08:46,860 --> 00:08:51,660
+with what the Professor Cormia said.
+
+183
+00:08:51,660 --> 00:08:54,780
+Digital twin is not a new concept.
+
+184
+00:08:54,780 --> 00:08:57,990
+It has been existing in the industry for years
+
+185
+00:08:57,990 --> 00:08:59,700
+or maybe even for decade.
+
+186
+00:08:59,700 --> 00:09:03,240
+Think about the construction, think about healthcare,
+
+187
+00:09:03,240 --> 00:09:04,920
+think about the automobile
+
+188
+00:09:04,920 --> 00:09:07,263
+that they will provide or fabricate.
+
+189
+00:09:08,242 --> 00:09:10,320
+A not so much of digital twin,
+
+190
+00:09:10,320 --> 00:09:12,630
+but the model before they deploy,
+
+191
+00:09:12,630 --> 00:09:14,400
+especially with the construction.
+
+192
+00:09:14,400 --> 00:09:17,850
+You build a building so you have a little mini building.
+
+193
+00:09:17,850 --> 00:09:20,670
+That's not digital twin, but that's a modeling.
+
+194
+00:09:20,670 --> 00:09:22,950
+We call them modeling a twin, right?
+
+195
+00:09:22,950 --> 00:09:24,420
+Then you can make modifications,
+
+196
+00:09:24,420 --> 00:09:27,240
+you can do cost estimation, operation.
+
+197
+00:09:27,240 --> 00:09:29,760
+And then, that got scale and fast forward
+
+198
+00:09:29,760 --> 00:09:32,130
+into what we call the digital twin.
+
+199
+00:09:32,130 --> 00:09:34,200
+So digital twin does not only...
+
+200
+00:09:34,200 --> 00:09:37,860
+This digital twin for education is a niche,
+
+201
+00:09:37,860 --> 00:09:41,850
+it's a special application out of this bigger digital twin,
+
+202
+00:09:41,850 --> 00:09:43,770
+such as manufacturing.
+
+203
+00:09:43,770 --> 00:09:47,580
+BMW have implemented their digital twin of manufacturer
+
+204
+00:09:47,580 --> 00:09:50,310
+that they can go ahead to test ideas,
+
+205
+00:09:50,310 --> 00:09:51,780
+test drives on everything
+
+206
+00:09:51,780 --> 00:09:55,140
+before they put a lot of money into a real manufacturer.
+
+207
+00:09:55,140 --> 00:09:58,087
+As a teacher, I kind of take advantage of this, I said,
+
+208
+00:09:58,087 --> 00:10:01,530
+"Well, you know, what Bill Gate said,
+
+209
+00:10:01,530 --> 00:10:03,930
+if you wanna get your job done, done the best,
+
+210
+00:10:03,930 --> 00:10:05,400
+you'll find the laziest worker."
+
+211
+00:10:05,400 --> 00:10:07,380
+I'm not saying I'm the laziest.
+
+212
+00:10:07,380 --> 00:10:11,520
+But I find efficient way to utilize the AI technology
+
+213
+00:10:11,520 --> 00:10:14,760
+to help me be more available,
+
+214
+00:10:14,760 --> 00:10:17,640
+to help my student in the classroom
+
+215
+00:10:17,640 --> 00:10:20,640
+that they have number of questions they wanna ask.
+
+216
+00:10:20,640 --> 00:10:23,220
+I don't like to study, but I wanna pass my class.
+
+217
+00:10:23,220 --> 00:10:25,170
+What do I do, right?
+
+218
+00:10:25,170 --> 00:10:29,910
+So the AI is very smart to very articulate in a way to say,
+
+219
+00:10:29,910 --> 00:10:31,440
+this is very hard course,
+
+220
+00:10:31,440 --> 00:10:33,300
+you do have to put in lots of effort
+
+221
+00:10:33,300 --> 00:10:35,670
+if you wanna get a good grade.
+
+222
+00:10:35,670 --> 00:10:37,320
+As a real Professor Wu will say,
+
+223
+00:10:37,320 --> 00:10:38,820
+well, you know, you gotta have to study.
+
+224
+00:10:38,820 --> 00:10:41,580
+If you don't study, you're gonna fail, right?
+
+225
+00:10:41,580 --> 00:10:45,330
+So, anyway, I think in the classroom my belief
+
+226
+00:10:45,330 --> 00:10:48,150
+is technology has to help us,
+
+227
+00:10:48,150 --> 00:10:50,130
+help the teacher, help the student.
+
+228
+00:10:50,130 --> 00:10:52,380
+And I do see the benefit,
+
+229
+00:10:52,380 --> 00:10:55,593
+positive has outweighed the concerns.
+
+230
+00:10:57,270 --> 00:10:58,320
+- [Leslie] Thank you.
+
+231
+00:10:59,250 --> 00:11:01,440
+And this is for Drew and Vinny.
+
+232
+00:11:01,440 --> 00:11:04,380
+How are you and your college partners using tech
+
+233
+00:11:04,380 --> 00:11:07,410
+and proactively outreaching to really connect
+
+234
+00:11:07,410 --> 00:11:09,390
+with students and help them succeed?
+
+235
+00:11:09,390 --> 00:11:10,740
+- Yeah.
+
+236
+00:11:10,740 --> 00:11:15,600
+- So, for context, Mainstay deploys AI coaches,
+
+237
+00:11:15,600 --> 00:11:19,740
+but I'm also quite an AI skeptic,
+
+238
+00:11:19,740 --> 00:11:21,960
+and particularly an AI skeptic about,
+
+239
+00:11:21,960 --> 00:11:24,243
+even digital twins, I will say.
+
+240
+00:11:25,410 --> 00:11:27,240
+So the origin story for Mainstay
+
+241
+00:11:27,240 --> 00:11:30,810
+is we were very interested in behavioral science
+
+242
+00:11:30,810 --> 00:11:32,730
+and the power of text messages
+
+243
+00:11:32,730 --> 00:11:37,080
+to help people overcome barriers through nudges.
+
+244
+00:11:37,080 --> 00:11:40,620
+But it turns out when you text young people,
+
+245
+00:11:40,620 --> 00:11:45,090
+hey, your FAFSA deadline is coming up, don't forget to file.
+
+246
+00:11:45,090 --> 00:11:48,450
+You end up getting lots and lots of questions back.
+
+247
+00:11:48,450 --> 00:11:51,780
+And our temptation and intuition was,
+
+248
+00:11:51,780 --> 00:11:53,610
+oh, we think we can use AI
+
+249
+00:11:53,610 --> 00:11:57,870
+to dramatically scale up the ability to handle this
+
+250
+00:11:57,870 --> 00:12:01,140
+and not need to hire additional staff members.
+
+251
+00:12:01,140 --> 00:12:04,980
+And I actually remember when our first customer
+
+252
+00:12:04,980 --> 00:12:08,947
+at Georgia State University, Tim Rennick, he asked me,
+
+253
+00:12:08,947 --> 00:12:11,580
+"Drew, is this going to work?"
+
+254
+00:12:11,580 --> 00:12:15,119
+And I said, "Tim, I have no idea.
+
+255
+00:12:15,119 --> 00:12:16,620
+(chuckles)
+
+256
+00:12:16,620 --> 00:12:18,090
+But let's find out."
+
+257
+00:12:18,090 --> 00:12:20,790
+And we brought on an outside researcher
+
+258
+00:12:20,790 --> 00:12:25,560
+to run a rigorous AB test called a randomized control trial
+
+259
+00:12:25,560 --> 00:12:26,820
+that we ended up publishing.
+
+260
+00:12:26,820 --> 00:12:28,680
+And sure enough, it did help.
+
+261
+00:12:28,680 --> 00:12:30,630
+And we've run a number of studies
+
+262
+00:12:30,630 --> 00:12:32,310
+and I could talk to you about our successes,
+
+263
+00:12:32,310 --> 00:12:34,770
+but actually the most important study we ever did
+
+264
+00:12:34,770 --> 00:12:37,350
+was the one that had the least impact.
+
+265
+00:12:37,350 --> 00:12:38,970
+And it was the only time
+
+266
+00:12:38,970 --> 00:12:42,210
+we did not consistently have a human being,
+
+267
+00:12:42,210 --> 00:12:45,570
+specifically the student's advisor or counselor
+
+268
+00:12:45,570 --> 00:12:48,390
+in the conversation as well.
+
+269
+00:12:48,390 --> 00:12:50,280
+We got overconfident and we thought,
+
+270
+00:12:50,280 --> 00:12:52,590
+oh, AI is capable of answering these things.
+
+271
+00:12:52,590 --> 00:12:55,800
+But it turns out the superpower of AI
+
+272
+00:12:55,800 --> 00:12:59,880
+is that people feel vulnerable and open with it.
+
+273
+00:12:59,880 --> 00:13:01,680
+I'm willing to say things to AI
+
+274
+00:13:01,680 --> 00:13:05,850
+that I wouldn't say to a person because I feel embarrassed.
+
+275
+00:13:05,850 --> 00:13:06,900
+And this is great,
+
+276
+00:13:06,900 --> 00:13:09,690
+but it turns out the flip side of this vulnerability
+
+277
+00:13:09,690 --> 00:13:13,500
+and non-judgment is actually non-accountability.
+
+278
+00:13:13,500 --> 00:13:17,070
+And without the human being in the conversation as well,
+
+279
+00:13:17,070 --> 00:13:20,130
+if I say, I promise I'll file my FAFSA by next Tuesday
+
+280
+00:13:20,130 --> 00:13:23,940
+and I don't follow through, I didn't let anybody down.
+
+281
+00:13:23,940 --> 00:13:25,440
+And so it's very interesting,
+
+282
+00:13:25,440 --> 00:13:29,520
+the temptation with AI is it can do a job,
+
+283
+00:13:29,520 --> 00:13:32,340
+but I think the next question used to be
+
+284
+00:13:32,340 --> 00:13:35,070
+is that a job that ought to be automated?
+
+285
+00:13:35,070 --> 00:13:38,280
+Just because it can be done doesn't mean it should be done.
+
+286
+00:13:38,280 --> 00:13:42,150
+And for instance, I guarantee you
+
+287
+00:13:42,150 --> 00:13:46,710
+Lee's digital twin could conduct today
+
+288
+00:13:46,710 --> 00:13:50,700
+a 100% flawless wedding ceremony.
+
+289
+00:13:50,700 --> 00:13:52,800
+And I'm sure nobody in this room
+
+290
+00:13:52,800 --> 00:13:55,290
+would want to be married by Lee's digital twin.
+
+291
+00:13:55,290 --> 00:13:56,253
+Sorry, Lee.
+
+292
+00:13:56,253 --> 00:13:57,960
+(attendees laughing)
+
+293
+00:13:57,960 --> 00:13:59,340
+Now, I'm gonna eat my words.
+
+294
+00:13:59,340 --> 00:14:01,470
+And tomorrow on Google News there's gonna be an article
+
+295
+00:14:01,470 --> 00:14:03,570
+about some digital twin marrying somebody.
+
+296
+00:14:03,570 --> 00:14:06,060
+But the fact is just because it can be done
+
+297
+00:14:06,060 --> 00:14:07,137
+doesn't mean it should be done.
+
+298
+00:14:07,137 --> 00:14:10,740
+And I think we need to be very cautious and skeptical
+
+299
+00:14:10,740 --> 00:14:13,170
+and rigorous in our measurement
+
+300
+00:14:13,170 --> 00:14:15,990
+of what the impacts actually are of certain things.
+
+301
+00:14:15,990 --> 00:14:19,533
+And maybe they are outstandingly impactful,
+
+302
+00:14:20,790 --> 00:14:23,280
+or maybe they inadvertently exacerbate problems
+
+303
+00:14:23,280 --> 00:14:25,380
+we don't know until we try.
+
+304
+00:14:25,380 --> 00:14:28,800
+And we have to know and measure carefully
+
+305
+00:14:28,800 --> 00:14:30,720
+to figure out the things that we should scale up,
+
+306
+00:14:30,720 --> 00:14:33,270
+or the things that we should absolutely stop doing.
+
+307
+00:14:34,380 --> 00:14:35,280
+Vinny? - Oh sure.
+
+308
+00:14:36,300 --> 00:14:37,740
+Yeah, thanks, Drew.
+
+309
+00:14:37,740 --> 00:14:41,103
+So at NetTutor, you know,
+
+310
+00:14:42,210 --> 00:14:44,340
+I wouldn't say I'm an AI skeptic
+
+311
+00:14:44,340 --> 00:14:47,370
+because we do use AI,
+
+312
+00:14:47,370 --> 00:14:49,500
+for example, in doing,
+
+313
+00:14:49,500 --> 00:14:54,180
+we can now review all of the sessions using AI,
+
+314
+00:14:54,180 --> 00:14:56,070
+and flag sessions that might be a problem
+
+315
+00:14:56,070 --> 00:14:58,770
+where five years ago that had to be done very manually,
+
+316
+00:14:58,770 --> 00:15:00,300
+which means we had to take sample sizes
+
+317
+00:15:00,300 --> 00:15:01,950
+and we couldn't really look
+
+318
+00:15:01,950 --> 00:15:04,620
+at a hundred thousand sessions a week.
+
+319
+00:15:04,620 --> 00:15:06,660
+And now we can review them all in flag ones
+
+320
+00:15:06,660 --> 00:15:08,220
+that we should go check.
+
+321
+00:15:08,220 --> 00:15:10,170
+We use AI in our queuing models
+
+322
+00:15:10,170 --> 00:15:11,190
+and some of other technology.
+
+323
+00:15:11,190 --> 00:15:13,830
+And of course, as a business we're using AI
+
+324
+00:15:13,830 --> 00:15:15,990
+for all types of things around sales and marketing,
+
+325
+00:15:15,990 --> 00:15:18,483
+business administration, data analysis.
+
+326
+00:15:19,830 --> 00:15:21,753
+When it comes to tutoring, however,
+
+327
+00:15:22,980 --> 00:15:27,093
+we are developing our lobby agent,
+
+328
+00:15:28,020 --> 00:15:30,750
+you know, if you know much about interaction with students,
+
+329
+00:15:30,750 --> 00:15:32,790
+in a tutoring model there's a certain number
+
+330
+00:15:32,790 --> 00:15:35,287
+of minutes required for me to figure out that you,
+
+331
+00:15:35,287 --> 00:15:37,110
+you know, that I know who you are,
+
+332
+00:15:37,110 --> 00:15:39,240
+that I can confirm what school you come from.
+
+333
+00:15:39,240 --> 00:15:40,410
+These are things that are tutors knows,
+
+334
+00:15:40,410 --> 00:15:41,550
+but we need to confirm, you know,
+
+335
+00:15:41,550 --> 00:15:43,260
+it looks like you came here for algebra.
+
+336
+00:15:43,260 --> 00:15:45,420
+Sometimes they say, no, I'm here for biology.
+
+337
+00:15:45,420 --> 00:15:48,810
+And you gotta go back and pick biology, you picked algebra.
+
+338
+00:15:48,810 --> 00:15:52,410
+And we're pretty confident that that can be done
+
+339
+00:15:52,410 --> 00:15:53,810
+with a large language model.
+
+340
+00:15:54,900 --> 00:15:58,560
+And then, so the first 5 to 10 minutes of the session
+
+341
+00:15:58,560 --> 00:16:01,563
+might be able to be done by some type of AI agent.
+
+342
+00:16:02,520 --> 00:16:04,980
+Schools, of course would be allowed to opt into this.
+
+343
+00:16:04,980 --> 00:16:07,730
+We wouldn't push this on schools as a way to save time.
+
+344
+00:16:08,580 --> 00:16:12,933
+And then, you could be turned over to a live tutor.
+
+345
+00:16:15,600 --> 00:16:19,360
+There's a piece in between
+
+346
+00:16:20,430 --> 00:16:24,840
+that we're certain, if I kind of know my answer,
+
+347
+00:16:24,840 --> 00:16:27,180
+I'm just stuck on the, I knew this formula yesterday,
+
+348
+00:16:27,180 --> 00:16:28,620
+I had forgotten it.
+
+349
+00:16:28,620 --> 00:16:32,310
+For sure ChatGPT, some of these other technologies,
+
+350
+00:16:32,310 --> 00:16:34,600
+that student who's ready to do the work
+
+351
+00:16:35,760 --> 00:16:37,380
+just needs to be reminded.
+
+352
+00:16:37,380 --> 00:16:40,440
+There's probably a really, really good opportunity
+
+353
+00:16:40,440 --> 00:16:42,390
+for them to get that question answered.
+
+354
+00:16:44,070 --> 00:16:45,570
+But if you know anything about tutoring,
+
+355
+00:16:45,570 --> 00:16:47,490
+and this is face-to-face tutoring,
+
+356
+00:16:47,490 --> 00:16:50,190
+this is advising when you're talking to a student,
+
+357
+00:16:50,190 --> 00:16:52,053
+and especially online tutoring,
+
+358
+00:16:53,010 --> 00:16:54,843
+when we say, how can I help you?
+
+359
+00:16:56,070 --> 00:16:59,973
+A lot of the sessions start with, I don't belong here.
+
+360
+00:17:01,470 --> 00:17:04,590
+And I do not believe
+
+361
+00:17:04,590 --> 00:17:09,030
+that we are even close to any type of AI model
+
+362
+00:17:09,030 --> 00:17:10,650
+that's gonna be able to turn on the video,
+
+363
+00:17:10,650 --> 00:17:12,510
+look at that student in the eyes and say,
+
+364
+00:17:12,510 --> 00:17:15,300
+listen, you do belong here and we're gonna do this together.
+
+365
+00:17:15,300 --> 00:17:16,710
+And I know that there's, you know,
+
+366
+00:17:16,710 --> 00:17:19,650
+empathy being built into AI that says good job.
+
+367
+00:17:19,650 --> 00:17:22,620
+And I heard, somebody was telling me that they were so proud
+
+368
+00:17:22,620 --> 00:17:25,530
+that AI is teaching students to say please and thank you.
+
+369
+00:17:25,530 --> 00:17:27,900
+That's all good and dandy and I support it all.
+
+370
+00:17:27,900 --> 00:17:29,190
+And I think that stuff is great.
+
+371
+00:17:29,190 --> 00:17:32,610
+And by the way, we also use AI for our support bot.
+
+372
+00:17:32,610 --> 00:17:34,350
+If you want to get tech support from us,
+
+373
+00:17:34,350 --> 00:17:36,150
+you know, we think we can get your question answered.
+
+374
+00:17:36,150 --> 00:17:38,003
+If not, then you can ask for an agent.
+
+375
+00:17:38,850 --> 00:17:40,290
+But the types of things
+
+376
+00:17:40,290 --> 00:17:42,210
+that happen in a real tutoring session,
+
+377
+00:17:42,210 --> 00:17:43,983
+the type of rapport you build,
+
+378
+00:17:45,510 --> 00:17:50,040
+I don't think we're close to being able to say.
+
+379
+00:17:50,040 --> 00:17:52,080
+And by the way, replace tutor with teacher
+
+380
+00:17:52,080 --> 00:17:54,150
+and all the teachers in the room will agree,
+
+381
+00:17:54,150 --> 00:17:55,920
+you know, AI can't teach.
+
+382
+00:17:55,920 --> 00:17:57,300
+AI can give you some instruction,
+
+383
+00:17:57,300 --> 00:17:59,040
+AI can ask you some questions,
+
+384
+00:17:59,040 --> 00:18:02,313
+but AI cannot do what a teacher does.
+
+385
+00:18:03,300 --> 00:18:04,470
+And so that's where we sort of,
+
+386
+00:18:04,470 --> 00:18:06,600
+and that tutor just kind of draw that line
+
+387
+00:18:06,600 --> 00:18:07,860
+and we're gonna go up to it
+
+388
+00:18:07,860 --> 00:18:09,720
+and maybe we'll go a little bit beyond it,
+
+389
+00:18:09,720 --> 00:18:10,620
+but at the end of the day,
+
+390
+00:18:10,620 --> 00:18:13,170
+we think that there's a human element
+
+391
+00:18:13,170 --> 00:18:17,700
+that it's not gonna go away for a while,
+
+392
+00:18:17,700 --> 00:18:18,753
+maybe someday.
+
+393
+00:18:18,753 --> 00:18:20,490
+(attendees applauding)
+
+394
+00:18:20,490 --> 00:18:21,570
+- Amen and hallelujah.
+
+395
+00:18:21,570 --> 00:18:25,320
+I would also add what is the job of a teacher?
+
+396
+00:18:25,320 --> 00:18:26,790
+Because it's not only,
+
+397
+00:18:26,790 --> 00:18:28,980
+and we talked about this earlier, Vinny,
+
+398
+00:18:28,980 --> 00:18:31,950
+not only being a subject matter expert,
+
+399
+00:18:31,950 --> 00:18:33,150
+I mean obviously people
+
+400
+00:18:33,150 --> 00:18:35,910
+are incredibly decorated to be faculty,
+
+401
+00:18:35,910 --> 00:18:40,110
+but the great teachers are the ones that motivate learners
+
+402
+00:18:40,110 --> 00:18:43,170
+to struggle a little bit more than they would on their own.
+
+403
+00:18:43,170 --> 00:18:47,220
+And that's second part is truly extraordinary
+
+404
+00:18:47,220 --> 00:18:49,890
+and really requires a human connection
+
+405
+00:18:49,890 --> 00:18:51,750
+and trust and empathy,
+
+406
+00:18:51,750 --> 00:18:55,260
+which AI might be able to mimic but can never replace.
+
+407
+00:18:55,260 --> 00:18:59,400
+And we just need to be very careful about the relationships
+
+408
+00:18:59,400 --> 00:19:03,300
+that we are developing and students are developing with AI.
+
+409
+00:19:03,300 --> 00:19:07,410
+It's worth noting that the number one use case,
+
+410
+00:19:07,410 --> 00:19:08,610
+it was number two last year
+
+411
+00:19:08,610 --> 00:19:12,420
+and it just became number one this year for Gen Z
+
+412
+00:19:12,420 --> 00:19:16,080
+is to use AI for companionship,
+
+413
+00:19:16,080 --> 00:19:18,570
+like the social replacement.
+
+414
+00:19:18,570 --> 00:19:20,610
+And they turn to it when they have good news
+
+415
+00:19:20,610 --> 00:19:22,140
+or they have a bad day.
+
+416
+00:19:22,140 --> 00:19:26,100
+And it is very interesting, possibly therapeutic,
+
+417
+00:19:26,100 --> 00:19:29,550
+but we've been down this road before with social media
+
+418
+00:19:29,550 --> 00:19:31,470
+where we thought we had a technology
+
+419
+00:19:31,470 --> 00:19:32,820
+that was going to bring us together
+
+420
+00:19:32,820 --> 00:19:35,760
+and it inadvertently driven us apart.
+
+421
+00:19:35,760 --> 00:19:37,560
+I think we should be very careful
+
+422
+00:19:37,560 --> 00:19:41,130
+and scrutinize what this technology is doing
+
+423
+00:19:41,130 --> 00:19:42,720
+to our social connections.
+
+424
+00:19:42,720 --> 00:19:45,660
+And so, you're right, like, anything that prevents us
+
+425
+00:19:45,660 --> 00:19:48,780
+from being human beings together
+
+426
+00:19:48,780 --> 00:19:50,573
+should be taken with a grain of salt.
+
+427
+00:19:51,660 --> 00:19:52,530
+- Thank you for that.
+
+428
+00:19:52,530 --> 00:19:54,750
+I'd like to expand on that just a little bit
+
+429
+00:19:54,750 --> 00:19:56,550
+and open it up to the panel.
+
+430
+00:19:56,550 --> 00:19:58,470
+Just the concept of ethics.
+
+431
+00:19:58,470 --> 00:20:01,350
+We always, I always get questions about, like, ethics,
+
+432
+00:20:01,350 --> 00:20:03,510
+and especially when it comes to like avatars
+
+433
+00:20:03,510 --> 00:20:04,830
+and digital twins.
+
+434
+00:20:04,830 --> 00:20:09,270
+So, you know, in your own personal expertise,
+
+435
+00:20:09,270 --> 00:20:13,023
+how, what are your thoughts on AI and ethics?
+
+436
+00:20:15,330 --> 00:20:16,923
+It's open to anyone. - Yeah.
+
+437
+00:20:18,624 --> 00:20:20,550
+- Well, I would just like to comment a little bit
+
+438
+00:20:20,550 --> 00:20:22,950
+about on ethical use of AI,
+
+439
+00:20:22,950 --> 00:20:25,080
+because when ChatGPT first came out,
+
+440
+00:20:25,080 --> 00:20:26,700
+the very very first thing we had to do
+
+441
+00:20:26,700 --> 00:20:30,090
+was reach out to all 500, 600 of our customers and say,
+
+442
+00:20:30,090 --> 00:20:31,890
+what is your AI policy?
+
+443
+00:20:31,890 --> 00:20:36,210
+And of course, 599 of them said, AI policy?
+
+444
+00:20:36,210 --> 00:20:37,610
+Should we have one of those?
+
+445
+00:20:38,670 --> 00:20:42,360
+Typing three prompts into ChatGPT,
+
+446
+00:20:42,360 --> 00:20:45,690
+taking what it spits out, copying and pasting the word,
+
+447
+00:20:45,690 --> 00:20:47,640
+and submitting it as your work is plagiarism, right?
+
+448
+00:20:47,640 --> 00:20:50,430
+Nobody argues that, I think we all know that.
+
+449
+00:20:50,430 --> 00:20:52,200
+I sat for the CPA exam in the eighties
+
+450
+00:20:52,200 --> 00:20:54,000
+and I wasn't allowed to use a calculator
+
+451
+00:20:54,000 --> 00:20:58,950
+because accountants should know how to do the math.
+
+452
+00:20:58,950 --> 00:21:00,300
+How dumb does that sound now, right?
+
+453
+00:21:00,300 --> 00:21:03,180
+Like, that was, this is not what we expect.
+
+454
+00:21:03,180 --> 00:21:05,520
+And so, ethical use of AI
+
+455
+00:21:05,520 --> 00:21:08,790
+is part of what we train our tutors to do using AI.
+
+456
+00:21:08,790 --> 00:21:11,870
+So for example, asking ChatGPT to help you,
+
+457
+00:21:11,870 --> 00:21:12,840
+you know, I have to write this,
+
+458
+00:21:12,840 --> 00:21:14,580
+can you give me some suggestions on prompts
+
+459
+00:21:14,580 --> 00:21:15,930
+or some sources that I might get
+
+460
+00:21:15,930 --> 00:21:16,920
+so where I can go do my work.
+
+461
+00:21:16,920 --> 00:21:18,540
+I mean, I think that's a good thing.
+
+462
+00:21:18,540 --> 00:21:20,123
+Some colleges may still prohibit that.
+
+463
+00:21:20,123 --> 00:21:22,110
+I mean, it's a college by college thing,
+
+464
+00:21:22,110 --> 00:21:26,160
+but so I think there's,
+
+465
+00:21:26,160 --> 00:21:30,600
+to me, yeah, there's always the right way
+
+466
+00:21:30,600 --> 00:21:31,740
+to do things.
+
+467
+00:21:31,740 --> 00:21:33,570
+Like, at the end of the day, if you think about,
+
+468
+00:21:33,570 --> 00:21:35,340
+there's a lot of ways to get there.
+
+469
+00:21:35,340 --> 00:21:38,070
+And I think students know,
+
+470
+00:21:38,070 --> 00:21:40,833
+and I think teachers know and I think tutors know-
+
+471
+00:21:42,134 --> 00:21:46,350
+- And that to an AI front end and have that dialogue.
+
+472
+00:21:46,350 --> 00:21:48,900
+What is your context, what is your direction,
+
+473
+00:21:48,900 --> 00:21:51,150
+why do you want to know the answer to that?
+
+474
+00:21:51,150 --> 00:21:54,330
+So, if a student asks me, I don't get it.
+
+475
+00:21:54,330 --> 00:21:56,520
+I mean, atoms are fundamentally empty.
+
+476
+00:21:56,520 --> 00:22:00,060
+So how are they hard and how could they weight so much?
+
+477
+00:22:00,060 --> 00:22:02,460
+And if I'm typically in lecture, thinking,
+
+478
+00:22:02,460 --> 00:22:04,830
+oh, God, this is a digression, right?
+
+479
+00:22:04,830 --> 00:22:07,980
+I turn that into a prompt and I teach the entire class.
+
+480
+00:22:07,980 --> 00:22:10,290
+There's actually an interesting piece here,
+
+481
+00:22:10,290 --> 00:22:12,030
+so let's have that conversation.
+
+482
+00:22:12,030 --> 00:22:14,340
+But when you go, as Michelle has said,
+
+483
+00:22:14,340 --> 00:22:18,270
+you don't ask an AI engine, why are atoms empty?
+
+484
+00:22:18,270 --> 00:22:22,050
+You might ask, what are they made of if they can be hard
+
+485
+00:22:22,050 --> 00:22:24,120
+and empty at the same time?
+
+486
+00:22:24,120 --> 00:22:25,830
+And turn that into a dialogue,
+
+487
+00:22:25,830 --> 00:22:28,773
+and then explore the composition of an atom.
+
+488
+00:22:30,030 --> 00:22:31,740
+- Yeah, just a quick follow up
+
+489
+00:22:31,740 --> 00:22:34,590
+that also when I think in the classroom,
+
+490
+00:22:34,590 --> 00:22:38,130
+a lot of teacher kind of facing, try to accuse student
+
+491
+00:22:38,130 --> 00:22:41,460
+of plagiarism or cheating because they have no control.
+
+492
+00:22:41,460 --> 00:22:43,860
+The way that I find that work out is,
+
+493
+00:22:43,860 --> 00:22:45,720
+I teach engineering graphics, right?
+
+494
+00:22:45,720 --> 00:22:47,520
+Solid work, it's a theory.
+
+495
+00:22:47,520 --> 00:22:50,490
+And those theory can be very, if I give like a 10-question,
+
+496
+00:22:50,490 --> 00:22:52,140
+like a final or a midterm, and say,
+
+497
+00:22:52,140 --> 00:22:54,690
+hey, describe what's orthographic view,
+
+498
+00:22:54,690 --> 00:22:58,230
+describe, you know, what is the thread, blah, blah, blah.
+
+499
+00:22:58,230 --> 00:23:01,200
+Those things can be done in five minutes just feeding to GPT
+
+500
+00:23:01,200 --> 00:23:03,180
+and then come back and everything's done.
+
+501
+00:23:03,180 --> 00:23:04,710
+But I didn't do that.
+
+502
+00:23:04,710 --> 00:23:06,597
+I said, we are gonna have oral exam,
+
+503
+00:23:06,597 --> 00:23:09,180
+and you can go look at GPT,
+
+504
+00:23:09,180 --> 00:23:10,950
+you can do modeling, you can write anything,
+
+505
+00:23:10,950 --> 00:23:14,190
+but the exam, you stand up there
+
+506
+00:23:14,190 --> 00:23:16,050
+and you explain to me verbally.
+
+507
+00:23:16,050 --> 00:23:18,960
+If you can remember all of the theory, you are done.
+
+508
+00:23:18,960 --> 00:23:20,610
+I don't care how you study it.
+
+509
+00:23:20,610 --> 00:23:21,443
+So we have to...
+
+510
+00:23:21,443 --> 00:23:23,670
+I kind of felt like I tell myself I have to change
+
+511
+00:23:23,670 --> 00:23:27,840
+the way that how I teach to accommodate technology
+
+512
+00:23:27,840 --> 00:23:29,440
+and what's available to student.
+
+513
+00:23:30,570 --> 00:23:31,680
+- That's great.
+
+514
+00:23:31,680 --> 00:23:34,860
+At Mainstay we have like our own internal,
+
+515
+00:23:34,860 --> 00:23:37,320
+we call it our hippocratic oath of AI.
+
+516
+00:23:37,320 --> 00:23:40,080
+I think we've had it for like five or six years.
+
+517
+00:23:40,080 --> 00:23:42,030
+And it's pretty simple actually.
+
+518
+00:23:42,030 --> 00:23:43,500
+And I'd encourage you to just think
+
+519
+00:23:43,500 --> 00:23:45,210
+about the principles for yourself,
+
+520
+00:23:45,210 --> 00:23:48,480
+what standards you wanna hold yourselves
+
+521
+00:23:48,480 --> 00:23:49,710
+and your colleagues to.
+
+522
+00:23:49,710 --> 00:23:52,050
+But it's things, like, start with why,
+
+523
+00:23:52,050 --> 00:23:54,360
+like, what are we trying to achieve
+
+524
+00:23:54,360 --> 00:23:56,850
+by implementing AI in a new area?
+
+525
+00:23:56,850 --> 00:23:58,770
+Because we're always trying to push the boundaries.
+
+526
+00:23:58,770 --> 00:24:02,760
+Although I'm the AI skeptic, we're still forging ahead.
+
+527
+00:24:02,760 --> 00:24:04,560
+We're just doing it with eyes wide open.
+
+528
+00:24:04,560 --> 00:24:07,290
+So start with why, what outcome are we hoping to achieve?
+
+529
+00:24:07,290 --> 00:24:08,850
+Do we wanna increase enrollment,
+
+530
+00:24:08,850 --> 00:24:12,960
+increase persistence to a degree, reduce DFW rates,
+
+531
+00:24:12,960 --> 00:24:16,260
+you name it, we wanna measure it.
+
+532
+00:24:16,260 --> 00:24:18,540
+The second is to be proactive.
+
+533
+00:24:18,540 --> 00:24:19,800
+If you create...
+
+534
+00:24:19,800 --> 00:24:24,540
+It's very much like the, build it and they will not come.
+
+535
+00:24:24,540 --> 00:24:27,450
+You have to actually bring the technology to people.
+
+536
+00:24:27,450 --> 00:24:31,920
+So typically the medium we use is text message.
+
+537
+00:24:31,920 --> 00:24:34,800
+We're pushing things to students directly
+
+538
+00:24:34,800 --> 00:24:36,750
+on their phones frequently.
+
+539
+00:24:36,750 --> 00:24:38,790
+And that is the way to reach the students
+
+540
+00:24:38,790 --> 00:24:41,250
+with the least help-seeking behavior.
+
+541
+00:24:41,250 --> 00:24:43,230
+Frankly, the students who are coming to your website
+
+542
+00:24:43,230 --> 00:24:45,750
+and interacting with a widget are the ones
+
+543
+00:24:45,750 --> 00:24:48,390
+who probably are going to solve the problem.
+
+544
+00:24:48,390 --> 00:24:50,280
+The ones you need to reach are the ones
+
+545
+00:24:50,280 --> 00:24:53,370
+who maybe aren't even thinking that they have a problem,
+
+546
+00:24:53,370 --> 00:24:55,590
+or don't know what they don't know.
+
+547
+00:24:55,590 --> 00:24:59,340
+College students often don't care until they care a lot
+
+548
+00:24:59,340 --> 00:25:01,290
+and then they don't really care again.
+
+549
+00:25:01,290 --> 00:25:03,300
+So how can you prompt them to care
+
+550
+00:25:03,300 --> 00:25:05,730
+and take advantage of those moments
+
+551
+00:25:05,730 --> 00:25:07,203
+when they're ready to engage?
+
+552
+00:25:08,460 --> 00:25:10,260
+The second is we're very cognizant
+
+553
+00:25:10,260 --> 00:25:12,330
+of wanting to enhance human relationships.
+
+554
+00:25:12,330 --> 00:25:14,940
+Like, are we getting in between people,
+
+555
+00:25:14,940 --> 00:25:16,680
+or we bringing people together?
+
+556
+00:25:16,680 --> 00:25:19,590
+And that's a question we ask ourselves all the time.
+
+557
+00:25:19,590 --> 00:25:21,060
+We are human-centered in the sense
+
+558
+00:25:21,060 --> 00:25:24,390
+that we want to center on relationships that humans have.
+
+559
+00:25:24,390 --> 00:25:26,430
+And then finally, we measure what matters
+
+560
+00:25:26,430 --> 00:25:29,190
+because the hippocratic oath suggests
+
+561
+00:25:29,190 --> 00:25:30,870
+that you should do no harm.
+
+562
+00:25:30,870 --> 00:25:34,350
+So what are the actual results you can think?
+
+563
+00:25:34,350 --> 00:25:35,790
+And even positive results
+
+564
+00:25:35,790 --> 00:25:40,410
+can be a distraction sometimes
+
+565
+00:25:40,410 --> 00:25:42,570
+because is it positive for everybody,
+
+566
+00:25:42,570 --> 00:25:44,850
+or is it only positive for some
+
+567
+00:25:44,850 --> 00:25:46,500
+and others are being left behind?
+
+568
+00:25:46,500 --> 00:25:49,560
+So being very cognizant of measuring the outcomes
+
+569
+00:25:49,560 --> 00:25:53,640
+for all students and all subgroups of students,
+
+570
+00:25:53,640 --> 00:25:54,960
+not just in aggregate.
+
+571
+00:25:54,960 --> 00:25:57,780
+And those tend to be the things that guide us,
+
+572
+00:25:57,780 --> 00:25:59,680
+but maybe something different guides you.
+
+573
+00:25:59,680 --> 00:26:01,620
+But I encourage you to think hard about,
+
+574
+00:26:01,620 --> 00:26:04,890
+hey, what really matters and what do you wanna hold true
+
+575
+00:26:04,890 --> 00:26:07,070
+whenever you're implementing AI
+
+576
+00:26:07,070 --> 00:26:09,480
+in a new way in your school, your classroom,
+
+577
+00:26:09,480 --> 00:26:11,163
+or any setting you have.
+
+578
+00:26:12,480 --> 00:26:13,313
+- Thank you for that.
+
+579
+00:26:13,313 --> 00:26:15,333
+You guys are getting great advice.
+
+580
+00:26:16,260 --> 00:26:19,530
+Here's one question, it's a little bit related to advice.
+
+581
+00:26:19,530 --> 00:26:22,260
+What's the best advice you'd give campus leaders
+
+582
+00:26:22,260 --> 00:26:26,130
+who want to adopt these tools, especially when there's fear
+
+583
+00:26:26,130 --> 00:26:28,383
+or resistance to new technology?
+
+584
+00:26:31,410 --> 00:26:33,180
+- I'll go for this.
+
+585
+00:26:33,180 --> 00:26:34,860
+Let me take a shot at this.
+
+586
+00:26:34,860 --> 00:26:37,803
+I may be offending all the leaders in the room.
+
+587
+00:26:39,810 --> 00:26:43,140
+What is the best advice from my technology perspective?
+
+588
+00:26:43,140 --> 00:26:45,990
+I think the attitude is very important.
+
+589
+00:26:45,990 --> 00:26:48,720
+Openness and the encouragement.
+
+590
+00:26:48,720 --> 00:26:51,840
+So let's say take a Chancellor Lee, I go up to him,
+
+591
+00:26:51,840 --> 00:26:55,020
+I say, I got this thing, right, this technology,
+
+592
+00:26:55,020 --> 00:26:56,850
+he could say, I'm not interested.
+
+593
+00:26:56,850 --> 00:26:57,870
+Guess what's gonna happen?
+
+594
+00:26:57,870 --> 00:26:59,310
+It brush under the rug.
+
+595
+00:26:59,310 --> 00:27:02,010
+Whether it's good or not, if he could say,
+
+596
+00:27:02,010 --> 00:27:03,780
+Michelle, go for it and let's see
+
+597
+00:27:03,780 --> 00:27:05,910
+what comes out of it, right?
+
+598
+00:27:05,910 --> 00:27:08,100
+So I go ahead and do something.
+
+599
+00:27:08,100 --> 00:27:09,750
+Maybe it's good, maybe it's bad,
+
+600
+00:27:09,750 --> 00:27:13,020
+but at least that's a really be open-minded, encouraged.
+
+601
+00:27:13,020 --> 00:27:15,600
+That's how the innovation happens.
+
+602
+00:27:15,600 --> 00:27:18,630
+One out of 10, maybe one out of a hundred ideas
+
+603
+00:27:18,630 --> 00:27:21,720
+is gonna be scale up like a Google for example 20 years ago.
+
+604
+00:27:21,720 --> 00:27:23,730
+You know, it's Google who cares about Google.
+
+605
+00:27:23,730 --> 00:27:25,680
+But somehow somebody gonna invest a lot of money
+
+606
+00:27:25,680 --> 00:27:30,680
+and that VC had made tons of money, right, super wealthy.
+
+607
+00:27:30,930 --> 00:27:35,913
+Was it Sequoia or A-to-Z or Mark Anderson?
+
+608
+00:27:37,110 --> 00:27:41,490
+So I think my advice is to just be open-minded,
+
+609
+00:27:41,490 --> 00:27:43,470
+be encouraging and supportive.
+
+610
+00:27:43,470 --> 00:27:44,820
+That's very important.
+
+611
+00:27:44,820 --> 00:27:46,110
+I mean you don't have to know everything,
+
+612
+00:27:46,110 --> 00:27:49,650
+but just know that we are here, we want to make impact,
+
+613
+00:27:49,650 --> 00:27:53,250
+and we want to make the world a better place to live.
+
+614
+00:27:53,250 --> 00:27:55,353
+Now we think about technology.
+
+615
+00:27:56,310 --> 00:27:59,643
+Chancellor Lambert said really well,
+
+616
+00:28:00,540 --> 00:28:04,203
+we want to make a impact, make a positive impact,
+
+617
+00:28:05,520 --> 00:28:10,170
+and let people use a technology tool, and to help people.
+
+618
+00:28:10,170 --> 00:28:12,513
+So that's what it is about.
+
+619
+00:28:15,210 --> 00:28:18,420
+- And building on that, I think that's great.
+
+620
+00:28:18,420 --> 00:28:21,750
+We've implemented AI at hundreds of institutions.
+
+621
+00:28:21,750 --> 00:28:25,020
+In many cases we're like the first AI implementation,
+
+622
+00:28:25,020 --> 00:28:27,960
+and there is always fear, uncertainty
+
+623
+00:28:27,960 --> 00:28:31,200
+and doubt at almost every level.
+
+624
+00:28:31,200 --> 00:28:34,290
+And I've learned there are like many, many ways to fail,
+
+625
+00:28:34,290 --> 00:28:36,990
+but there are only a few ways to succeed.
+
+626
+00:28:36,990 --> 00:28:40,110
+The surefire most reliable condition
+
+627
+00:28:40,110 --> 00:28:42,930
+for success is a culture of innovation.
+
+628
+00:28:42,930 --> 00:28:46,590
+And if you want to encourage a culture of innovation,
+
+629
+00:28:46,590 --> 00:28:51,000
+counterintuitively, I would strongly encourage any leader.
+
+630
+00:28:51,000 --> 00:28:55,920
+And frankly, we are all leaders, to celebrate failure.
+
+631
+00:28:55,920 --> 00:28:57,300
+And you're like, what, why failure?
+
+632
+00:28:57,300 --> 00:28:59,220
+Shouldn't we celebrate the success?
+
+633
+00:28:59,220 --> 00:29:02,220
+And you're right, like, one out of a hundred things
+
+634
+00:29:02,220 --> 00:29:04,080
+is going to succeed,
+
+635
+00:29:04,080 --> 00:29:06,747
+but there is no failure if you learn.
+
+636
+00:29:06,747 --> 00:29:08,250
+And if you shine a spotlight
+
+637
+00:29:08,250 --> 00:29:10,920
+and celebrate the people who are taking the risks,
+
+638
+00:29:10,920 --> 00:29:13,860
+and have them, from the mountaintops,
+
+639
+00:29:13,860 --> 00:29:15,390
+shout what they have learned.
+
+640
+00:29:15,390 --> 00:29:18,240
+Because no matter what, if you learn you have not failed,
+
+641
+00:29:18,240 --> 00:29:20,010
+you have advanced the ball forward.
+
+642
+00:29:20,010 --> 00:29:21,840
+And at least help someone else not step
+
+643
+00:29:21,840 --> 00:29:24,060
+in the same pothole that you did.
+
+644
+00:29:24,060 --> 00:29:26,880
+The culture of innovation that we've seen work the best
+
+645
+00:29:26,880 --> 00:29:31,350
+are places that are constantly experimenting
+
+646
+00:29:31,350 --> 00:29:33,900
+and celebrating not just the successes
+
+647
+00:29:33,900 --> 00:29:36,420
+but actually giving more attention to the things
+
+648
+00:29:36,420 --> 00:29:37,740
+that didn't get off the ground
+
+649
+00:29:37,740 --> 00:29:40,320
+or didn't fully accomplish what they set out to do.
+
+650
+00:29:40,320 --> 00:29:44,070
+It's counterintuitive, but it is a sure-fire way
+
+651
+00:29:44,070 --> 00:29:46,263
+to succeed in an uncharted territory.
+
+652
+00:29:48,870 --> 00:29:50,250
+- Yeah, thank you.
+
+653
+00:29:50,250 --> 00:29:52,620
+So when I have this conversation,
+
+654
+00:29:52,620 --> 00:29:56,580
+you know, I think there's two parts to the conversation.
+
+655
+00:29:56,580 --> 00:30:00,780
+The first is that our pace
+
+656
+00:30:00,780 --> 00:30:04,240
+at which we adopt technology is so fast now
+
+657
+00:30:05,160 --> 00:30:08,370
+that I don't think we want to do this
+
+658
+00:30:08,370 --> 00:30:10,410
+isn't really a great answer
+
+659
+00:30:10,410 --> 00:30:13,290
+as an academic leader or any kind of leader
+
+660
+00:30:13,290 --> 00:30:16,950
+'cause maybe you don't, but the students are gonna do it.
+
+661
+00:30:16,950 --> 00:30:20,340
+And if you bury your head, you're only hurting yourself.
+
+662
+00:30:20,340 --> 00:30:24,480
+I mean I just, we launched online tutoring in 1996,
+
+663
+00:30:24,480 --> 00:30:25,890
+and I would call schools
+
+664
+00:30:25,890 --> 00:30:29,820
+and I would say it works on the 9,600 bod modem.
+
+665
+00:30:29,820 --> 00:30:32,430
+So, if you know what that is, then you're as old as I am.
+
+666
+00:30:32,430 --> 00:30:34,260
+And they said, "That's great.
+
+667
+00:30:34,260 --> 00:30:36,780
+Nobody has internet in our school."
+
+668
+00:30:36,780 --> 00:30:37,710
+Well, we don't hear that today.
+
+669
+00:30:37,710 --> 00:30:40,390
+So to avoid AI
+
+670
+00:30:41,610 --> 00:30:43,770
+is just a terrible mistake at any level
+
+671
+00:30:43,770 --> 00:30:45,180
+of an institution because it's happening.
+
+672
+00:30:45,180 --> 00:30:47,070
+The students are doing to, like, get into it.
+
+673
+00:30:47,070 --> 00:30:49,803
+In terms of a real warning though,
+
+674
+00:30:50,700 --> 00:30:53,040
+you know, who's ever going to do this,
+
+675
+00:30:53,040 --> 00:30:54,270
+whatever they're going to do,
+
+676
+00:30:54,270 --> 00:30:56,790
+they're presumably gonna be a lot of smart people
+
+677
+00:30:56,790 --> 00:30:59,430
+and they're gonna plan for the successes,
+
+678
+00:30:59,430 --> 00:31:00,420
+and they're gonna tell you
+
+679
+00:31:00,420 --> 00:31:01,890
+all the things you're gonna get out of it,
+
+680
+00:31:01,890 --> 00:31:03,360
+and they're gonna tell you the risks,
+
+681
+00:31:03,360 --> 00:31:04,740
+and they're gonna tell you how they're gonna avoid
+
+682
+00:31:04,740 --> 00:31:05,790
+all the risks.
+
+683
+00:31:05,790 --> 00:31:07,740
+It's the unintended consequences.
+
+684
+00:31:07,740 --> 00:31:09,450
+- Yeah. - You know, you don't know
+
+685
+00:31:09,450 --> 00:31:12,423
+what you don't know until it happens.
+
+686
+00:31:13,470 --> 00:31:15,360
+And you know, that happened with ChatGPT
+
+687
+00:31:15,360 --> 00:31:16,320
+when it first came out,
+
+688
+00:31:16,320 --> 00:31:17,887
+and then all of a sudden the next thing you know ChatGPT
+
+689
+00:31:17,887 --> 00:31:20,070
+is saying some pretty terrible things
+
+690
+00:31:20,070 --> 00:31:21,780
+they didn't think it would say.
+
+691
+00:31:21,780 --> 00:31:24,090
+They didn't realize that that was just AI being AI.
+
+692
+00:31:24,090 --> 00:31:25,800
+And so, they put some filters on it.
+
+693
+00:31:25,800 --> 00:31:28,110
+And so, whether it's your avatars
+
+694
+00:31:28,110 --> 00:31:29,220
+or whether it's anything I do,
+
+695
+00:31:29,220 --> 00:31:33,600
+or, you know, just you don't know what might happen,
+
+696
+00:31:33,600 --> 00:31:35,070
+good or bad.
+
+697
+00:31:35,070 --> 00:31:37,620
+You might find really good unintended consequences.
+
+698
+00:31:38,460 --> 00:31:42,093
+But those need to be planned for, prepared for,
+
+699
+00:31:42,960 --> 00:31:45,660
+and then you just have to kind of fess up that it happened
+
+700
+00:31:45,660 --> 00:31:48,000
+and then figure out how you're gonna fix it or regroup
+
+701
+00:31:48,000 --> 00:31:49,710
+or take it down before you put it back up.
+
+702
+00:31:49,710 --> 00:31:52,863
+That's usually the way the conversations I have go.
+
+703
+00:31:55,110 --> 00:31:59,010
+- Okay, so what challenges come up
+
+704
+00:31:59,010 --> 00:32:01,230
+when you try to scale these innovations
+
+705
+00:32:01,230 --> 00:32:04,173
+across multiple departments or campuses?
+
+706
+00:32:05,635 --> 00:32:07,383
+- People. - Yeah.
+
+707
+00:32:07,383 --> 00:32:11,340
+People are the problem, but they can also be the solution.
+
+708
+00:32:11,340 --> 00:32:14,100
+So at Georgia State University,
+
+709
+00:32:14,100 --> 00:32:15,480
+they were our first partner.
+
+710
+00:32:15,480 --> 00:32:18,720
+They actually have a really wonderful policy.
+
+711
+00:32:18,720 --> 00:32:21,810
+So they set up, and we're coaching
+
+712
+00:32:21,810 --> 00:32:24,093
+at their campus about 50,000 students.
+
+713
+00:32:25,440 --> 00:32:27,750
+And they are incredibly clear.
+
+714
+00:32:27,750 --> 00:32:29,820
+Like this is a line of text messaging
+
+715
+00:32:29,820 --> 00:32:32,790
+directly to every student in an instant.
+
+716
+00:32:32,790 --> 00:32:36,120
+And as soon as a word got out that this was successful,
+
+717
+00:32:36,120 --> 00:32:39,120
+the football coach said, "Well, we got a game on Saturday,
+
+718
+00:32:39,120 --> 00:32:42,270
+we gotta get the word out, get people to the stadium."
+
+719
+00:32:42,270 --> 00:32:44,407
+And another department came and said,
+
+720
+00:32:44,407 --> 00:32:45,870
+"Well, we wanna message them."
+
+721
+00:32:45,870 --> 00:32:49,200
+And the risk is that we would do to this medium
+
+722
+00:32:49,200 --> 00:32:50,970
+the same thing we did to email,
+
+723
+00:32:50,970 --> 00:32:53,490
+which is encourage students to tune out
+
+724
+00:32:53,490 --> 00:32:56,520
+because it is full of things that they don't care about.
+
+725
+00:32:56,520 --> 00:32:59,130
+So the value of texting, for example,
+
+726
+00:32:59,130 --> 00:33:03,270
+is that its strength is also, its like really narrow limits
+
+727
+00:33:03,270 --> 00:33:05,220
+and you have to focus the messaging.
+
+728
+00:33:05,220 --> 00:33:08,730
+So what they did is they actually had one person
+
+729
+00:33:08,730 --> 00:33:11,100
+for the entire campus in charge
+
+730
+00:33:11,100 --> 00:33:14,670
+of what messages went through our platform,
+
+731
+00:33:14,670 --> 00:33:17,370
+and they gave her the mandate,
+
+732
+00:33:17,370 --> 00:33:21,720
+if it isn't designed to achieve student success,
+
+733
+00:33:21,720 --> 00:33:24,660
+meaning help more students persist to a degree,
+
+734
+00:33:24,660 --> 00:33:26,280
+the answer is no.
+
+735
+00:33:26,280 --> 00:33:31,170
+And having a clear why they are doing what they are doing
+
+736
+00:33:31,170 --> 00:33:35,430
+was the thing that allowed them to say no to everything else
+
+737
+00:33:35,430 --> 00:33:37,620
+so that they could say hell yes
+
+738
+00:33:37,620 --> 00:33:40,290
+to the very small subset of things
+
+739
+00:33:40,290 --> 00:33:42,660
+that were actually going to achieve the goal.
+
+740
+00:33:42,660 --> 00:33:45,300
+And the number one advice I always give to people
+
+741
+00:33:45,300 --> 00:33:49,530
+is start with why and never deviate from it.
+
+742
+00:33:49,530 --> 00:33:51,570
+Know what your north star is.
+
+743
+00:33:51,570 --> 00:33:54,450
+And I would say that is the best way to cut through,
+
+744
+00:33:54,450 --> 00:33:57,540
+like the murky territory of, like, human beings
+
+745
+00:33:57,540 --> 00:34:00,690
+all having their own competing priorities particularly,
+
+746
+00:34:00,690 --> 00:34:02,520
+and when something is gaining traction,
+
+747
+00:34:02,520 --> 00:34:06,363
+like everyone wants to pile on, less is often more.
+
+748
+00:34:08,430 --> 00:34:10,440
+- Yes, absolutely, I agree.
+
+749
+00:34:10,440 --> 00:34:14,190
+From the higher leadership level, I think we,
+
+750
+00:34:14,190 --> 00:34:18,780
+it's very important to provide a clear common vision
+
+751
+00:34:18,780 --> 00:34:22,230
+that the people under the leadership
+
+752
+00:34:22,230 --> 00:34:24,750
+had this common view and common goal,
+
+753
+00:34:24,750 --> 00:34:26,790
+knowing that where we are going.
+
+754
+00:34:26,790 --> 00:34:29,160
+Even though cross-functional cross department
+
+755
+00:34:29,160 --> 00:34:31,530
+may not agree with the priority,
+
+756
+00:34:31,530 --> 00:34:35,760
+but we know that from the leader, the captain of the ship,
+
+757
+00:34:35,760 --> 00:34:38,100
+to say this is the direction we're gonna go.
+
+758
+00:34:38,100 --> 00:34:41,340
+I think that will help a lot in the collaboration
+
+759
+00:34:41,340 --> 00:34:46,340
+of each department, each schools even.
+
+760
+00:34:46,470 --> 00:34:51,240
+So I think from that level it is very important.
+
+761
+00:34:51,240 --> 00:34:52,320
+At the lower level,
+
+762
+00:34:52,320 --> 00:34:53,940
+I think of what's important things,
+
+763
+00:34:53,940 --> 00:34:56,760
+for example, we do this pilot project, right?
+
+764
+00:34:56,760 --> 00:34:58,470
+When you start in trial and run,
+
+765
+00:34:58,470 --> 00:35:00,780
+when you have a success, you celebrate it,
+
+766
+00:35:00,780 --> 00:35:03,690
+you advertise it, you tell people to say,
+
+767
+00:35:03,690 --> 00:35:06,060
+hey, we did this and this is a successful,
+
+768
+00:35:06,060 --> 00:35:07,860
+and you will benefit this.
+
+769
+00:35:07,860 --> 00:35:09,750
+This is a way to convince the people
+
+770
+00:35:09,750 --> 00:35:13,770
+that your cross department, your colleague that to jump in.
+
+771
+00:35:13,770 --> 00:35:15,930
+And of course they have maybe some incentive
+
+772
+00:35:15,930 --> 00:35:17,910
+that's up to the management.
+
+773
+00:35:17,910 --> 00:35:21,210
+But I think also once the people see the benefit,
+
+774
+00:35:21,210 --> 00:35:23,640
+they will be able to more willing
+
+775
+00:35:23,640 --> 00:35:26,460
+to cooperate to convince the people.
+
+776
+00:35:26,460 --> 00:35:27,990
+But if you can't, you can't force anyone
+
+777
+00:35:27,990 --> 00:35:29,910
+to do something that they don't believe in.
+
+778
+00:35:29,910 --> 00:35:31,680
+So you gotta have to say, this is what I did,
+
+779
+00:35:31,680 --> 00:35:35,640
+and this is how I benefited, marketing, advertisement.
+
+780
+00:35:35,640 --> 00:35:36,480
+- Yeah. - Thank you.
+
+781
+00:35:36,480 --> 00:35:39,388
+- Neither carrot, nor stick, but FOMO.
+
+782
+00:35:39,388 --> 00:35:40,742
+(all laughing)
+
+783
+00:35:40,742 --> 00:35:42,293
+- Yeah. - Yeah.
+
+784
+00:35:42,293 --> 00:35:45,390
+So what I think with any special technology,
+
+785
+00:35:45,390 --> 00:35:47,160
+but it's true for anything too.
+
+786
+00:35:47,160 --> 00:35:49,110
+The biggest challenge in scaling
+
+787
+00:35:49,110 --> 00:35:51,750
+is that when you pilot something
+
+788
+00:35:51,750 --> 00:35:55,020
+or if you're the designer of it or you're early in,
+
+789
+00:35:55,020 --> 00:35:56,550
+you think it's a great idea.
+
+790
+00:35:56,550 --> 00:35:59,250
+And you love the idea and you fall in love with your idea,
+
+791
+00:35:59,250 --> 00:36:02,580
+and then you believe that everybody's gonna believe
+
+792
+00:36:02,580 --> 00:36:03,413
+that this is a good idea.
+
+793
+00:36:03,413 --> 00:36:07,800
+And if they don't, my PowerPoint deck is gonna show them
+
+794
+00:36:07,800 --> 00:36:09,990
+what a good idea this is.
+
+795
+00:36:09,990 --> 00:36:13,440
+And the fact is it doesn't have to be a bad idea
+
+796
+00:36:13,440 --> 00:36:15,660
+for other people to not care, not like it,
+
+797
+00:36:15,660 --> 00:36:16,493
+not wanna do it. - Yeah.
+
+798
+00:36:16,493 --> 00:36:19,260
+- And so to scale, I'll give you a perfect example,
+
+799
+00:36:19,260 --> 00:36:21,900
+I have four children all in their twenties and a wife
+
+800
+00:36:21,900 --> 00:36:26,900
+and we have five iPhone users and one Samsung user.
+
+801
+00:36:27,300 --> 00:36:31,230
+And my kids say, "Dad, I can't find your phone
+
+802
+00:36:31,230 --> 00:36:32,757
+and we can't FaceTime."
+
+803
+00:36:33,990 --> 00:36:35,744
+And I'm like, "I know."
+
+804
+00:36:35,744 --> 00:36:36,750
+(attendees laughing)
+
+805
+00:36:36,750 --> 00:36:39,240
+See what they thought was a great idea
+
+806
+00:36:39,240 --> 00:36:40,350
+that they were gonna convince me,
+
+807
+00:36:40,350 --> 00:36:42,480
+turned out to be the exact opposite of what I thought.
+
+808
+00:36:42,480 --> 00:36:44,070
+I don't want you to find my phone,
+
+809
+00:36:44,070 --> 00:36:46,470
+it's none your business where I am.
+
+810
+00:36:46,470 --> 00:36:48,450
+You're a grownup, I'm a grownup, leave me alone.
+
+811
+00:36:48,450 --> 00:36:49,497
+So anyways, that's why I think that,
+
+812
+00:36:49,497 --> 00:36:51,327
+I think that tends to be the biggest challenge.
+
+813
+00:36:51,327 --> 00:36:52,620
+And I imagine you guys
+
+814
+00:36:52,620 --> 00:36:55,170
+will experience this too with digital twins,
+
+815
+00:36:55,170 --> 00:36:57,300
+is that it might fit in some departments.
+
+816
+00:36:57,300 --> 00:36:59,340
+Other departments, it won't be a good fit for.
+
+817
+00:36:59,340 --> 00:37:02,970
+Some classes, maybe it's okay to send your students
+
+818
+00:37:02,970 --> 00:37:05,700
+to something virtual to get answers.
+
+819
+00:37:05,700 --> 00:37:07,020
+Other kind of classes,
+
+820
+00:37:07,020 --> 00:37:09,510
+I think students might find themselves entirely offended
+
+821
+00:37:09,510 --> 00:37:12,030
+that their teacher won't directly respond to their email,
+
+822
+00:37:12,030 --> 00:37:13,470
+and then being sent to an avatar.
+
+823
+00:37:13,470 --> 00:37:16,080
+So I think, doesn't mean it's not a great idea
+
+824
+00:37:16,080 --> 00:37:17,250
+and it doesn't mean it doesn't work
+
+825
+00:37:17,250 --> 00:37:19,380
+in certain circumstances, but I think,
+
+826
+00:37:19,380 --> 00:37:22,083
+you know, global adaptation of anything,
+
+827
+00:37:23,130 --> 00:37:26,430
+it just gets hard the bigger you try to spread it.
+
+828
+00:37:26,430 --> 00:37:27,743
+- Absolutely, I agree with that.
+
+829
+00:37:27,743 --> 00:37:31,440
+Adoption is always follow Gaussian model,
+
+830
+00:37:31,440 --> 00:37:32,940
+you know the bell curve.
+
+831
+00:37:32,940 --> 00:37:35,370
+You have the beachhead,
+
+832
+00:37:35,370 --> 00:37:39,420
+the top 5% that just graphed, adopting everything emergent.
+
+833
+00:37:39,420 --> 00:37:40,800
+Then you have the 90%
+
+834
+00:37:40,800 --> 00:37:44,070
+of the bell curve in the middle, right?
+
+835
+00:37:44,070 --> 00:37:46,740
+Then you always have that 5% no matter what you're gonna do,
+
+836
+00:37:46,740 --> 00:37:48,450
+they're not gonna be on the ship.
+
+837
+00:37:48,450 --> 00:37:51,150
+So I think we should allow everybody
+
+838
+00:37:51,150 --> 00:37:53,820
+making their own decision and they decide
+
+839
+00:37:53,820 --> 00:37:57,030
+when they want to join and when they want to move.
+
+840
+00:37:57,030 --> 00:37:59,310
+- I also think the question we ask is important
+
+841
+00:37:59,310 --> 00:38:01,170
+because oftentimes we're saying,
+
+842
+00:38:01,170 --> 00:38:05,400
+and the news is terrible and the headline is AI achieves,
+
+843
+00:38:05,400 --> 00:38:06,600
+blah, blah, blah outcome.
+
+844
+00:38:06,600 --> 00:38:09,450
+Or I remember when we had our first summer melt thing,
+
+845
+00:38:09,450 --> 00:38:12,870
+it's like AI solve summer melt for Georgia State.
+
+846
+00:38:12,870 --> 00:38:15,999
+Well, AI didn't do anything, Human beings did it.
+
+847
+00:38:15,999 --> 00:38:18,960
+And the question isn't does AI work or not?
+
+848
+00:38:18,960 --> 00:38:21,510
+It's what are the exact conditions
+
+849
+00:38:21,510 --> 00:38:24,990
+under which AI can achieve this particular outcome?
+
+850
+00:38:24,990 --> 00:38:27,660
+And it turns out AI can be really helpful,
+
+851
+00:38:27,660 --> 00:38:29,310
+but there are 14 things you've gotta do
+
+852
+00:38:29,310 --> 00:38:30,900
+and there's a order you have to do them
+
+853
+00:38:30,900 --> 00:38:32,910
+and there's a recipe for success.
+
+854
+00:38:32,910 --> 00:38:36,090
+And oftentimes that just doesn't fit the headline.
+
+855
+00:38:36,090 --> 00:38:38,700
+And so, I think the question we ask is,
+
+856
+00:38:38,700 --> 00:38:40,020
+hey, what are the exact conditions?
+
+857
+00:38:40,020 --> 00:38:44,621
+Which course, what size, what subject, et cetera.
+
+858
+00:38:44,621 --> 00:38:46,470
+Where this is gonna work really well?
+
+859
+00:38:46,470 --> 00:38:49,500
+And that allows somebody who has something similar to say,
+
+860
+00:38:49,500 --> 00:38:51,480
+oh, it might work in my setting too.
+
+861
+00:38:51,480 --> 00:38:53,580
+- Yeah, we did the sub pilot project.
+
+862
+00:38:53,580 --> 00:38:55,717
+I can share exactly where it adapts well,
+
+863
+00:38:55,717 --> 00:38:58,650
+and where it didn't adapt a well.
+
+864
+00:38:58,650 --> 00:39:00,720
+But I may not wanna share it right now,
+
+865
+00:39:00,720 --> 00:39:03,780
+but, yeah, I know exactly where it is gonna adapt well
+
+866
+00:39:03,780 --> 00:39:05,733
+and where is not gonna adapt well.
+
+867
+00:39:06,810 --> 00:39:09,570
+Okay, English. - You're keeping it a secret.
+
+868
+00:39:09,570 --> 00:39:12,060
+- English is not gonna adapt well because English,
+
+869
+00:39:12,060 --> 00:39:14,700
+LLM is a large language model.
+
+870
+00:39:14,700 --> 00:39:16,830
+It has all the English literature,
+
+871
+00:39:16,830 --> 00:39:19,710
+you know, from 800 years and compile into two days.
+
+872
+00:39:19,710 --> 00:39:23,910
+And it has a mass amount of vocabulary wording,
+
+873
+00:39:23,910 --> 00:39:27,270
+and even have a good college level of thinking.
+
+874
+00:39:27,270 --> 00:39:28,320
+- Yes. - Verbal thinking.
+
+875
+00:39:28,320 --> 00:39:31,320
+So the English definitely would not adapt well
+
+876
+00:39:31,320 --> 00:39:33,360
+to say that we're not gonna use AI.
+
+877
+00:39:33,360 --> 00:39:37,257
+But with AI you do replace a lot of classical,
+
+878
+00:39:38,640 --> 00:39:41,580
+or legacy English teaching curriculum.
+
+879
+00:39:41,580 --> 00:39:42,870
+That's my thinking.
+
+880
+00:39:42,870 --> 00:39:46,590
+And then now, as you talk about engineering or chemistry.
+
+881
+00:39:46,590 --> 00:39:49,560
+Engineering, for example, I'm familiar with engineering,
+
+882
+00:39:49,560 --> 00:39:54,153
+we are still far behind on the engineering logic AI,
+
+883
+00:39:55,410 --> 00:39:56,640
+the critical thinking AI,
+
+884
+00:39:56,640 --> 00:39:59,970
+and that part hasn't been, the AI hasn't catch up yet.
+
+885
+00:39:59,970 --> 00:40:02,590
+So we can use that to leverage some of the aid
+
+886
+00:40:03,630 --> 00:40:05,340
+for our teaching.
+
+887
+00:40:05,340 --> 00:40:09,510
+And computer science adapt really quite well.
+
+888
+00:40:09,510 --> 00:40:12,510
+I mean, when we did this pilot project we have,
+
+889
+00:40:12,510 --> 00:40:15,240
+the fastest adopter are computer science professor.
+
+890
+00:40:15,240 --> 00:40:17,130
+They're very talented, they figure out everything,
+
+891
+00:40:17,130 --> 00:40:19,440
+they just, boom, it come, it just comes out.
+
+892
+00:40:19,440 --> 00:40:23,130
+So they adopted quickest. - Thank you.
+
+893
+00:40:23,130 --> 00:40:24,810
+I'd like to open this up to our audience.
+
+894
+00:40:24,810 --> 00:40:27,300
+Do you have any questions for our panelists today?
+
+895
+00:40:27,300 --> 00:40:28,133
+Yes.
+
+896
+00:40:28,133 --> 00:40:31,727
+(attendee speaking indistinctly)
+
+897
+00:40:31,727 --> 00:40:34,353
+And we just opened our first OpenAI lab last week.
+
+898
+00:40:36,498 --> 00:40:38,492
+- Cool. - And so we're excited
+
+899
+00:40:38,492 --> 00:40:40,530
+about using AI.
+
+900
+00:40:40,530 --> 00:40:45,123
+And so with that being said, every flex event,
+
+901
+00:40:45,990 --> 00:40:49,650
+the department head of AI and I we're like doing our best
+
+902
+00:40:49,650 --> 00:40:52,140
+to kind of like encourage our staff,
+
+903
+00:40:52,140 --> 00:40:54,750
+the students and our,
+
+904
+00:40:54,750 --> 00:40:57,250
+you know, colleagues in the institution
+
+905
+00:40:58,110 --> 00:41:01,770
+and in the industry to kind of like be open with AI.
+
+906
+00:41:01,770 --> 00:41:05,310
+Now my question is, are we kind like redefining our role
+
+907
+00:41:05,310 --> 00:41:07,890
+and responsibility as educators?
+
+908
+00:41:07,890 --> 00:41:10,560
+Because it boils down to when we present,
+
+909
+00:41:10,560 --> 00:41:14,160
+not everyone are acceptable with the idea.
+
+910
+00:41:14,160 --> 00:41:18,330
+And most of the time, like, there are refusals,
+
+911
+00:41:18,330 --> 00:41:22,140
+and we'll hear kind of like you're adding work
+
+912
+00:41:22,140 --> 00:41:23,910
+to what we're doing right now.
+
+913
+00:41:23,910 --> 00:41:28,620
+So with that being said, with a teacher saying that,
+
+914
+00:41:28,620 --> 00:41:31,920
+and me, like, formulating this kind of like,
+
+915
+00:41:31,920 --> 00:41:34,740
+I'm doing like a no-code app right now,
+
+916
+00:41:34,740 --> 00:41:38,250
+utilizing MP six five, which is really cool.
+
+917
+00:41:38,250 --> 00:41:42,180
+And I'm trying to kind of like teach that tool,
+
+918
+00:41:42,180 --> 00:41:43,950
+but then there's some refusal
+
+919
+00:41:43,950 --> 00:41:46,650
+with those technology or tools.
+
+920
+00:41:46,650 --> 00:41:48,870
+And with that formative assessment
+
+921
+00:41:48,870 --> 00:41:51,330
+being offered to my students,
+
+922
+00:41:51,330 --> 00:41:54,930
+the students won't do such formative assessments
+
+923
+00:41:54,930 --> 00:41:59,190
+without me giving kind of like an incentive
+
+924
+00:41:59,190 --> 00:42:00,870
+or a grade to that.
+
+925
+00:42:00,870 --> 00:42:04,320
+So I just wanted to go back
+
+926
+00:42:04,320 --> 00:42:08,190
+into our definition of as an educator
+
+927
+00:42:08,190 --> 00:42:12,330
+'cause everything was down to the same course policy,
+
+928
+00:42:12,330 --> 00:42:14,550
+and now we're adding AI policy.
+
+929
+00:42:14,550 --> 00:42:18,150
+But how many in this room have developed their AI policy?
+
+930
+00:42:18,150 --> 00:42:21,210
+So I just wanted to go back to that as a baseline.
+
+931
+00:42:23,280 --> 00:42:24,510
+- [Leslie] Actually, I'd like to ask the room,
+
+932
+00:42:24,510 --> 00:42:25,380
+how many of you
+
+933
+00:42:25,380 --> 00:42:30,380
+have a course policy on AI?
+
+934
+00:42:30,900 --> 00:42:31,890
+- Wow. - What about
+
+935
+00:42:31,890 --> 00:42:34,953
+a department policy when you're working together as teams?
+
+936
+00:42:36,240 --> 00:42:38,883
+What about an institutional AI policy?
+
+937
+00:42:40,770 --> 00:42:44,403
+Okay, how many of you have a personal AI policy?
+
+938
+00:42:45,960 --> 00:42:48,240
+I love that, okay, thank you.
+
+939
+00:42:48,240 --> 00:42:49,560
+But yes, that's definitely something
+
+940
+00:42:49,560 --> 00:42:51,600
+that has to be revisited.
+
+941
+00:42:51,600 --> 00:42:52,680
+And I don't think it's something
+
+942
+00:42:52,680 --> 00:42:55,350
+that we should only do as individuals
+
+943
+00:42:55,350 --> 00:42:58,680
+because again, we're using AI together, right?
+
+944
+00:42:58,680 --> 00:43:01,590
+This is the world where AI is just now a part of our teams.
+
+945
+00:43:01,590 --> 00:43:03,090
+It's a part of our ecosystem.
+
+946
+00:43:03,090 --> 00:43:06,060
+And the more that we are all on the same page,
+
+947
+00:43:06,060 --> 00:43:07,710
+the easier it's gonna be for our students
+
+948
+00:43:07,710 --> 00:43:09,423
+to work with us, right?
+
+949
+00:43:10,260 --> 00:43:11,850
+- Can I plug the last panel?
+
+950
+00:43:11,850 --> 00:43:13,890
+I don't know how many of you all were in here
+
+951
+00:43:13,890 --> 00:43:16,770
+for the last panel, but it was freaking awesome.
+
+952
+00:43:16,770 --> 00:43:20,400
+I mean, and the person who was the faculty member in,
+
+953
+00:43:20,400 --> 00:43:24,210
+I think English composition was like a master class
+
+954
+00:43:24,210 --> 00:43:26,970
+in how to run a course with AI.
+
+955
+00:43:26,970 --> 00:43:28,560
+Yeah, you're nodding back there.
+
+956
+00:43:28,560 --> 00:43:30,120
+And he even cited this list.
+
+957
+00:43:30,120 --> 00:43:31,200
+I was trying to write it down.
+
+958
+00:43:31,200 --> 00:43:32,430
+So if anyone knows it,
+
+959
+00:43:32,430 --> 00:43:36,720
+of like the 150 different policies from courses.
+
+960
+00:43:36,720 --> 00:43:38,992
+What was it? - Dr. Lance Eaton.
+
+961
+00:43:38,992 --> 00:43:40,750
+- Dr. Lance Eaton?
+
+962
+00:43:40,750 --> 00:43:43,560
+- E-A-T-O-N. - E-A-T-O-N.
+
+963
+00:43:43,560 --> 00:43:45,120
+- [Attendee 1] You'll find him on Substack.
+
+964
+00:43:45,120 --> 00:43:46,860
+- On Substack, Dr. Lance Eaton.
+
+965
+00:43:46,860 --> 00:43:48,540
+I was like, I wanna find that.
+
+966
+00:43:48,540 --> 00:43:51,540
+Check that out, you'll get 150 different policies
+
+967
+00:43:51,540 --> 00:43:54,120
+that you can learn from and hopefully assemble your own.
+
+968
+00:43:54,120 --> 00:43:56,043
+Great to get inspiration, thank you.
+
+969
+00:43:57,510 --> 00:43:58,560
+- [Leslie] Yes.
+
+970
+00:43:58,560 --> 00:44:00,270
+- [Attendee 2] So I have a comment and a question
+
+971
+00:44:00,270 --> 00:44:02,520
+and I also just wanna,
+
+972
+00:44:02,520 --> 00:44:04,200
+I was in the digital twin pilot
+
+973
+00:44:04,200 --> 00:44:05,070
+that Michelle was talking about.
+
+974
+00:44:05,070 --> 00:44:06,570
+I was the one English person on there.
+
+975
+00:44:06,570 --> 00:44:10,110
+So I just wanna say there are applications in English,
+
+976
+00:44:10,110 --> 00:44:13,320
+but you just have to, it's a different problem
+
+977
+00:44:13,320 --> 00:44:16,380
+that we're trying to solve if you're using digital twins
+
+978
+00:44:16,380 --> 00:44:18,390
+or anything like that, AI.
+
+979
+00:44:18,390 --> 00:44:20,280
+So my question for the panel is,
+
+980
+00:44:20,280 --> 00:44:23,173
+what is the problem that you think
+
+981
+00:44:23,173 --> 00:44:25,980
+a digital twin could solve?
+
+982
+00:44:25,980 --> 00:44:27,754
+- That's on my next slide. - Oh.
+
+983
+00:44:27,754 --> 00:44:32,754
+- Oh, go for it. - If you don't mind.
+
+984
+00:44:34,497 --> 00:44:36,247
+- Yeah, there you go.
+
+985
+00:44:38,100 --> 00:44:40,800
+While you're looking for that, I'll see your problem.
+
+986
+00:44:40,800 --> 00:44:42,420
+So I made a digital twin once.
+
+987
+00:44:42,420 --> 00:44:44,280
+We have James at my company,
+
+988
+00:44:44,280 --> 00:44:48,240
+he's a senior product manager and he is a rock star.
+
+989
+00:44:48,240 --> 00:44:52,380
+And every time somebody has a product question in Slack,
+
+990
+00:44:52,380 --> 00:44:55,590
+James is answering, like, in five minutes,
+
+991
+00:44:55,590 --> 00:44:57,120
+he's unbelievable.
+
+992
+00:44:57,120 --> 00:44:59,730
+And I thought, oh, man, James is so incredible.
+
+993
+00:44:59,730 --> 00:45:01,560
+He's got all this knowledge in his head.
+
+994
+00:45:01,560 --> 00:45:04,260
+I should just, like, scrape everything he's ever said
+
+995
+00:45:04,260 --> 00:45:06,900
+in Slack and create like a digital James
+
+996
+00:45:06,900 --> 00:45:08,550
+to save him a ton of time
+
+997
+00:45:08,550 --> 00:45:10,260
+'cause that's actually not his job
+
+998
+00:45:10,260 --> 00:45:11,250
+to answer those questions.
+
+999
+00:45:11,250 --> 00:45:13,770
+His job's to build the product of the future.
+
+1000
+00:45:13,770 --> 00:45:18,499
+And I built it and I showed it to him and he hated it.
+
+1001
+00:45:18,499 --> 00:45:19,560
+(attendees laughing)
+
+1002
+00:45:19,560 --> 00:45:21,210
+He was like, I can't believe...
+
+1003
+00:45:21,210 --> 00:45:23,040
+He's like, "One, this is cool.
+
+1004
+00:45:23,040 --> 00:45:25,587
+Do not show this to anyone, do not let anyone use it."
+
+1005
+00:45:25,587 --> 00:45:27,450
+And I was like, "James, why?
+
+1006
+00:45:27,450 --> 00:45:29,310
+This is gonna save you so much time."
+
+1007
+00:45:29,310 --> 00:45:32,498
+And he said, "No, I like the questions."
+
+1008
+00:45:32,498 --> 00:45:33,660
+And I was like, "But they're distracting you."
+
+1009
+00:45:33,660 --> 00:45:35,580
+He goes, "Drew, you don't understand.
+
+1010
+00:45:35,580 --> 00:45:39,660
+These are opportunities for me to connect with my coworkers
+
+1011
+00:45:39,660 --> 00:45:43,260
+and often uncover things that I never would've understood
+
+1012
+00:45:43,260 --> 00:45:45,360
+about our product until I ask the second
+
+1013
+00:45:45,360 --> 00:45:47,940
+and third order questions and went deeper with them.
+
+1014
+00:45:47,940 --> 00:45:50,370
+So you only see the questions and answers in the main thing,
+
+1015
+00:45:50,370 --> 00:45:53,160
+but, like, these are opportunities that I'm servicing
+
+1016
+00:45:53,160 --> 00:45:56,520
+to learn things that I couldn't learn any other way."
+
+1017
+00:45:56,520 --> 00:45:57,990
+And I was like, "Oh, yeah, you're right."
+
+1018
+00:45:57,990 --> 00:45:59,190
+So I scrapped it.
+
+1019
+00:45:59,190 --> 00:46:01,440
+But it's interesting
+
+1020
+00:46:01,440 --> 00:46:03,510
+that you can have unintended consequences.
+
+1021
+00:46:03,510 --> 00:46:04,953
+But yeah, I'd love to know.
+
+1022
+00:46:06,248 --> 00:46:07,620
+(Michelle speaking indistinctly)
+
+1023
+00:46:07,620 --> 00:46:09,510
+Thank you so much for asking.
+
+1024
+00:46:09,510 --> 00:46:11,940
+I had the thought about this beforehand.
+
+1025
+00:46:11,940 --> 00:46:12,990
+What problem are we solving?
+
+1026
+00:46:12,990 --> 00:46:15,270
+We talk about digital twin, we talk about anything,
+
+1027
+00:46:15,270 --> 00:46:17,010
+any entrepreneur you would know
+
+1028
+00:46:17,010 --> 00:46:19,200
+when they come up to their 32nd pitch
+
+1029
+00:46:19,200 --> 00:46:20,970
+or their five minutes presentation,
+
+1030
+00:46:20,970 --> 00:46:22,770
+the first thing they say, what problem are we having?
+
+1031
+00:46:22,770 --> 00:46:24,120
+What is the solution?
+
+1032
+00:46:24,120 --> 00:46:27,930
+What problem are we solving using the digital twin?
+
+1033
+00:46:27,930 --> 00:46:31,773
+So from only the education college level,
+
+1034
+00:46:32,760 --> 00:46:36,840
+we have reduced the faculty and staff workload.
+
+1035
+00:46:36,840 --> 00:46:37,920
+When I first started
+
+1036
+00:46:37,920 --> 00:46:40,410
+with the Foothill College last September,
+
+1037
+00:46:40,410 --> 00:46:43,680
+I have this teacher, was very kindly mentor me to say,
+
+1038
+00:46:43,680 --> 00:46:45,270
+you need to do this, this, this, this.
+
+1039
+00:46:45,270 --> 00:46:48,780
+By the way, I have 50 student, I'm so stressed out,
+
+1040
+00:46:48,780 --> 00:46:51,960
+I'm overworked and I try to set up 20 minutes
+
+1041
+00:46:51,960 --> 00:46:54,330
+with each student per quarter.
+
+1042
+00:46:54,330 --> 00:46:55,980
+That's a thousand minutes.
+
+1043
+00:46:55,980 --> 00:46:59,760
+So then immediately I say, okay, I have,
+
+1044
+00:46:59,760 --> 00:47:02,790
+my mind to say, how can I solve this problem, right?
+
+1045
+00:47:02,790 --> 00:47:05,130
+So when you have a digital twin, I say,
+
+1046
+00:47:05,130 --> 00:47:07,470
+you could have maybe something automated
+
+1047
+00:47:07,470 --> 00:47:09,990
+and talk to the student, gather the feedback,
+
+1048
+00:47:09,990 --> 00:47:12,090
+and keep the log and then you can review it
+
+1049
+00:47:12,090 --> 00:47:13,950
+instead of face-to-face.
+
+1050
+00:47:13,950 --> 00:47:17,010
+The second is increase the student support level.
+
+1051
+00:47:17,010 --> 00:47:19,680
+Digital twin can have 24 by 7 support.
+
+1052
+00:47:19,680 --> 00:47:22,740
+It doesn't get sick, It doesn't require office hour.
+
+1053
+00:47:22,740 --> 00:47:25,620
+And also it's very scalable.
+
+1054
+00:47:25,620 --> 00:47:30,390
+When you physical person, you meet student one-on-one,
+
+1055
+00:47:30,390 --> 00:47:33,600
+digital twin can span off 50 sessions,
+
+1056
+00:47:33,600 --> 00:47:37,413
+meet with 50 student at the same time, it's scalable.
+
+1057
+00:47:38,430 --> 00:47:41,130
+So definitely increase the student level support.
+
+1058
+00:47:41,130 --> 00:47:44,370
+Also, college, you have a financial benefit.
+
+1059
+00:47:44,370 --> 00:47:47,910
+You cost a saving on the college tutoring budget.
+
+1060
+00:47:47,910 --> 00:47:49,620
+We think about money, right?
+
+1061
+00:47:49,620 --> 00:47:52,260
+Then, you can bridging the technology gap.
+
+1062
+00:47:52,260 --> 00:47:55,620
+That's a little kind of like an insulting part for me,
+
+1063
+00:47:55,620 --> 00:47:57,600
+or for somebody.
+
+1064
+00:47:57,600 --> 00:48:01,470
+Student, I found out they adapted technology faster than us
+
+1065
+00:48:01,470 --> 00:48:04,170
+on some certain situation.
+
+1066
+00:48:04,170 --> 00:48:05,820
+For example, when Gemini,
+
+1067
+00:48:05,820 --> 00:48:09,090
+Google IO announced their Gemini workflow,
+
+1068
+00:48:09,090 --> 00:48:12,480
+the flow, canvas flow, I was like so excited.
+
+1069
+00:48:12,480 --> 00:48:14,730
+I said, oh, you know, you can do this, this, this, this.
+
+1070
+00:48:14,730 --> 00:48:17,790
+The student in the classroom pull up the laptop,
+
+1071
+00:48:17,790 --> 00:48:18,757
+they sign it up, they say,
+
+1072
+00:48:18,757 --> 00:48:22,950
+"Oh, I just created this amazing video with one prompt.
+
+1073
+00:48:22,950 --> 00:48:26,280
+Have the Superman fighting a giant spider."
+
+1074
+00:48:26,280 --> 00:48:27,330
+The movie comes out.
+
+1075
+00:48:27,330 --> 00:48:28,860
+So they're very quick.
+
+1076
+00:48:28,860 --> 00:48:31,470
+And for me, I have to kind of like go on
+
+1077
+00:48:31,470 --> 00:48:33,450
+and take a look at it and think about it.
+
+1078
+00:48:33,450 --> 00:48:36,690
+So with the digital twin, it's kind of play in between.
+
+1079
+00:48:36,690 --> 00:48:41,550
+It does bridge the gap between a faculty and student.
+
+1080
+00:48:41,550 --> 00:48:43,233
+That's just my personal opinion.
+
+1081
+00:48:44,610 --> 00:48:45,810
+- I wonder if I could-
+
+1082
+00:48:45,810 --> 00:48:46,890
+- Yes. - Yes, sure.
+
+1083
+00:48:46,890 --> 00:48:49,260
+- Awesome, thank you for that question.
+
+1084
+00:48:49,260 --> 00:48:51,090
+I would like to introduce an idea.
+
+1085
+00:48:51,090 --> 00:48:52,380
+A little bit orthogonal,
+
+1086
+00:48:52,380 --> 00:48:54,870
+but straight Tess's question.
+
+1087
+00:48:54,870 --> 00:48:57,240
+Imagine, well, we don't have to imagine.
+
+1088
+00:48:57,240 --> 00:48:59,250
+There is a digital twin for every car
+
+1089
+00:48:59,250 --> 00:49:02,820
+that's ever been manufactured, currently running right now,
+
+1090
+00:49:02,820 --> 00:49:05,940
+there's a digital twin for every commercial airplane.
+
+1091
+00:49:05,940 --> 00:49:10,770
+Southwest Airlines has a digital twin for every 737.
+
+1092
+00:49:10,770 --> 00:49:12,810
+And I believe that in addition
+
+1093
+00:49:12,810 --> 00:49:16,800
+to simulating mechanical systems for predictive analytics
+
+1094
+00:49:16,800 --> 00:49:18,840
+and intervening just in time
+
+1095
+00:49:18,840 --> 00:49:21,090
+before maintenance becomes critical,
+
+1096
+00:49:21,090 --> 00:49:22,740
+that there are industries
+
+1097
+00:49:22,740 --> 00:49:26,550
+where representing people, animate objects, say healthcare,
+
+1098
+00:49:26,550 --> 00:49:30,180
+Kaiser is probably thinking about digital twins of patients.
+
+1099
+00:49:30,180 --> 00:49:32,340
+We think that we're unique and we're not.
+
+1100
+00:49:32,340 --> 00:49:35,280
+There are 50 or 100 people just like us,
+
+1101
+00:49:35,280 --> 00:49:37,230
+maybe a little older, a little younger.
+
+1102
+00:49:37,230 --> 00:49:39,120
+They may look a little bit different,
+
+1103
+00:49:39,120 --> 00:49:41,580
+but metabolically they're the same.
+
+1104
+00:49:41,580 --> 00:49:44,340
+We have the same challenges and we have arcs
+
+1105
+00:49:44,340 --> 00:49:46,290
+and we can predict what's going on.
+
+1106
+00:49:46,290 --> 00:49:47,760
+And that's what digital tunes
+
+1107
+00:49:47,760 --> 00:49:50,580
+have been used since, in NASA, right?
+
+1108
+00:49:50,580 --> 00:49:53,910
+For 20 years for understanding something's way out there.
+
+1109
+00:49:53,910 --> 00:49:56,340
+And we're gonna figure out down here what's going on.
+
+1110
+00:49:56,340 --> 00:49:58,800
+Now, imagine digital twins of students.
+
+1111
+00:49:58,800 --> 00:50:01,800
+Imagine guided pathways, follow the yellow brick road.
+
+1112
+00:50:01,800 --> 00:50:04,440
+Just take chem 38, then take biology.
+
+1113
+00:50:04,440 --> 00:50:07,830
+And in a year and a half you'll be ready in nursing school
+
+1114
+00:50:07,830 --> 00:50:09,270
+or something like that.
+
+1115
+00:50:09,270 --> 00:50:12,840
+That's the guided pathway, but it's not the true path.
+
+1116
+00:50:12,840 --> 00:50:14,760
+Our students are more like pinballs
+
+1117
+00:50:14,760 --> 00:50:17,220
+and they may ricochet off courses
+
+1118
+00:50:17,220 --> 00:50:19,410
+and they have issues that come up.
+
+1119
+00:50:19,410 --> 00:50:20,910
+They all have talents.
+
+1120
+00:50:20,910 --> 00:50:23,970
+But if we could represent students in a virtual world,
+
+1121
+00:50:23,970 --> 00:50:25,200
+this is not a new idea.
+
+1122
+00:50:25,200 --> 00:50:29,550
+In 1991, Michael Gelernter came up with this idea,
+
+1123
+00:50:29,550 --> 00:50:30,870
+in a book called "Mirror World",
+
+1124
+00:50:30,870 --> 00:50:32,400
+and showed it with Christina.
+
+1125
+00:50:32,400 --> 00:50:36,180
+And this idea was actually stimulated by Lee Lambert
+
+1126
+00:50:36,180 --> 00:50:38,490
+who mentioned this word about maybe a year ago.
+
+1127
+00:50:38,490 --> 00:50:41,460
+And I thought, heck, that is so interesting.
+
+1128
+00:50:41,460 --> 00:50:43,380
+What if we represented molecules?
+
+1129
+00:50:43,380 --> 00:50:45,660
+And I thought, wait a minute, I'm in education.
+
+1130
+00:50:45,660 --> 00:50:47,460
+What if we represented students
+
+1131
+00:50:47,460 --> 00:50:50,370
+and really took all, not their transcripts,
+
+1132
+00:50:50,370 --> 00:50:52,470
+but in addition to that, their abilities,
+
+1133
+00:50:52,470 --> 00:50:54,840
+their associations, their affinity groups.
+
+1134
+00:50:54,840 --> 00:50:56,160
+Do they have internships?
+
+1135
+00:50:56,160 --> 00:50:56,993
+Where do they work?
+
+1136
+00:50:56,993 --> 00:50:59,040
+Do they have housing insecurity?
+
+1137
+00:50:59,040 --> 00:51:02,610
+And imagine a world where we can represent students
+
+1138
+00:51:02,610 --> 00:51:03,870
+not knowing their names,
+
+1139
+00:51:03,870 --> 00:51:07,320
+but representing them and predicting their trajectories
+
+1140
+00:51:07,320 --> 00:51:09,390
+and showing really firsthand
+
+1141
+00:51:09,390 --> 00:51:11,550
+what interventions are successful.
+
+1142
+00:51:11,550 --> 00:51:13,080
+So I just wanna wrap up with,
+
+1143
+00:51:13,080 --> 00:51:15,000
+this is a project that I've been working on
+
+1144
+00:51:15,000 --> 00:51:19,710
+for about a month now, spurned by Lee's idea a while back.
+
+1145
+00:51:19,710 --> 00:51:22,140
+Hit me up afterwards Because I believe
+
+1146
+00:51:22,140 --> 00:51:23,910
+that we can represent students.
+
+1147
+00:51:23,910 --> 00:51:26,790
+I think that there are industries, were already doing it,
+
+1148
+00:51:26,790 --> 00:51:30,270
+healthcare, criminal justice, recovery.
+
+1149
+00:51:30,270 --> 00:51:32,340
+Why are we not doing it in education?
+
+1150
+00:51:32,340 --> 00:51:34,530
+We know our lives are messy, right?
+
+1151
+00:51:34,530 --> 00:51:36,810
+We know our students have challenging lives.
+
+1152
+00:51:36,810 --> 00:51:38,970
+Can we see that in an action?
+
+1153
+00:51:38,970 --> 00:51:41,160
+And can we feed those digital twins
+
+1154
+00:51:41,160 --> 00:51:44,490
+and no one to provide support services?
+
+1155
+00:51:44,490 --> 00:51:45,615
+- [Leslie] Thank you.
+
+1156
+00:51:45,615 --> 00:51:47,670
+(Vinny speaking indistinctly)
+
+1157
+00:51:47,670 --> 00:51:49,830
+- Quickly, yes. - Oh, nevermind.
+
+1158
+00:51:49,830 --> 00:51:52,492
+- [Leslie] Oh, well, is it okay with the...
+
+1159
+00:51:52,492 --> 00:51:54,543
+I just wanna say we're two minutes over.
+
+1160
+00:51:58,080 --> 00:52:00,480
+Okay, so thank you everyone.
+
+1161
+00:52:00,480 --> 00:52:03,390
+I know that today we talked about digital twins.
+
+1162
+00:52:03,390 --> 00:52:06,330
+We started off with the concept of J.A.R.V.I.S.
+
+1163
+00:52:06,330 --> 00:52:08,760
+And I want you to understand, at some point,
+
+1164
+00:52:08,760 --> 00:52:10,980
+we all may have a digital twin,
+
+1165
+00:52:10,980 --> 00:52:14,460
+but before we create them, I just wanna encourage you
+
+1166
+00:52:14,460 --> 00:52:18,660
+to understand what your superpower is first, right?
+
+1167
+00:52:18,660 --> 00:52:21,330
+Understand, like, as Iron Man, as Iron Woman,
+
+1168
+00:52:21,330 --> 00:52:25,410
+what are you bringing to serve our students, who are you?
+
+1169
+00:52:25,410 --> 00:52:27,630
+And then, create your digital twin.
+
+1170
+00:52:27,630 --> 00:52:31,590
+And if you don't know, you could easily just ask ChatGPT.
+
+1171
+00:52:31,590 --> 00:52:32,700
+I did, right?
+
+1172
+00:52:32,700 --> 00:52:34,170
+So it's a simple prompt,
+
+1173
+00:52:34,170 --> 00:52:36,183
+and you could let it say something like,
+
+1174
+00:52:37,680 --> 00:52:39,690
+Iron Man has J.A.R.V.I.S.,
+
+1175
+00:52:39,690 --> 00:52:41,430
+I want a digital twin.
+
+1176
+00:52:41,430 --> 00:52:45,840
+Knowing what you know about me, describe my digital twin.
+
+1177
+00:52:45,840 --> 00:52:48,810
+And it gave me a whole list of information.
+
+1178
+00:52:48,810 --> 00:52:51,120
+But what I wanna end with is this,
+
+1179
+00:52:51,120 --> 00:52:53,850
+how it introduces itself on stage.
+
+1180
+00:52:53,850 --> 00:52:57,480
+If I had a digital twin right now, it would say,
+
+1181
+00:52:57,480 --> 00:53:00,360
+hi Leslie, I'm your bridge keeper.
+
+1182
+00:53:00,360 --> 00:53:04,680
+I map the work like a twin, nudge like a mentor,
+
+1183
+00:53:04,680 --> 00:53:06,960
+and protect like a steward.
+
+1184
+00:53:06,960 --> 00:53:09,603
+I will suggest, you will decide.
+
+1185
+00:53:10,500 --> 00:53:14,640
+Today's risks are noted, your voice is loaded,
+
+1186
+00:53:14,640 --> 00:53:17,520
+and your people stay at the center.
+
+1187
+00:53:17,520 --> 00:53:18,930
+So thank you for joining us today.
+
+1188
+00:53:18,930 --> 00:53:20,310
+If you have any questions,
+
+1189
+00:53:20,310 --> 00:53:21,992
+please come up and see our panelists.
+
+1190
+00:53:21,992 --> 00:53:26,992
+(attendees applauding)

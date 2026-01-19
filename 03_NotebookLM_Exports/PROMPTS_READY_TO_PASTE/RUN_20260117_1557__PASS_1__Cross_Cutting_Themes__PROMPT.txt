@@ -1,0 +1,12 @@
+Across all provided session transcripts, identify cross-cutting themes that appear across multiple sessions.
+
+For each theme identified, provide:
+- Theme name
+- A clear definition describing what the theme encompasses
+- Session_IDs where the theme appears
+- How the theme manifests differently across contexts or roles (if applicable)
+- 1–2 representative quotes with Session_ID references
+
+Use only transcript content. Do not summarize individual sessions. Do not introduce external interpretation or opinion. Base all themes strictly on transcript evidence.
+
+Return the output as a numbered list (1., 2., 3., ...). One finding per number.

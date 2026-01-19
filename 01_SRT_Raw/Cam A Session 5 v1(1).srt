@@ -1,0 +1,5491 @@
+1
+00:00:09,630 --> 00:00:13,350
+- All right, I think we have a few people walking in now.
+
+2
+00:00:13,350 --> 00:00:15,630
+But thank you so much for joining this afternoon,
+
+3
+00:00:15,630 --> 00:00:17,460
+particularly after lunch.
+
+4
+00:00:17,460 --> 00:00:19,620
+We know there are a lot of panels happening,
+
+5
+00:00:19,620 --> 00:00:20,790
+but we're excited to welcome you
+
+6
+00:00:20,790 --> 00:00:23,043
+to our Pathways with Purpose panel.
+
+7
+00:00:24,060 --> 00:00:25,830
+My name is Kirsten Lundgren.
+
+8
+00:00:25,830 --> 00:00:28,560
+I am the director of Post-Secondary
+
+9
+00:00:28,560 --> 00:00:30,810
+and Workforce Initiatives at the Kapor Foundation.
+
+10
+00:00:30,810 --> 00:00:34,080
+We're located just up the road in Oakland, California,
+
+11
+00:00:34,080 --> 00:00:35,760
+but all of our work is really centered
+
+12
+00:00:35,760 --> 00:00:38,340
+around building inclusive tech ecosystems
+
+13
+00:00:38,340 --> 00:00:40,440
+in California and nationally.
+
+14
+00:00:40,440 --> 00:00:41,880
+And we thought we would bring together
+
+15
+00:00:41,880 --> 00:00:44,340
+some of our favorite university partners
+
+16
+00:00:44,340 --> 00:00:46,410
+for this conversation.
+
+17
+00:00:46,410 --> 00:00:49,020
+So they'll be introducing themselves shortly,
+
+18
+00:00:49,020 --> 00:00:52,200
+but to have a conversation that we feel is urgent
+
+19
+00:00:52,200 --> 00:00:56,850
+around the need for a talent-based form of students
+
+20
+00:00:56,850 --> 00:00:59,400
+and learners and workers that are interested
+
+21
+00:00:59,400 --> 00:01:01,890
+and dedicated to building technology,
+
+22
+00:01:01,890 --> 00:01:02,910
+especially around AI,
+
+23
+00:01:02,910 --> 00:01:06,510
+that serves our communities and everyone in them.
+
+24
+00:01:06,510 --> 00:01:08,400
+So particularly at the Kapor Foundation,
+
+25
+00:01:08,400 --> 00:01:09,720
+we are tracking every day
+
+26
+00:01:09,720 --> 00:01:12,600
+how AI is quickly reshaping,
+
+27
+00:01:12,600 --> 00:01:14,970
+particularly entry level roles and skill sets.
+
+28
+00:01:14,970 --> 00:01:16,860
+And while there's legitimate concern
+
+29
+00:01:16,860 --> 00:01:19,170
+around some skills displacement,
+
+30
+00:01:19,170 --> 00:01:20,003
+we firmly believe
+
+31
+00:01:20,003 --> 00:01:22,380
+that there's amazing opportunity
+
+32
+00:01:22,380 --> 00:01:24,270
+for new skills and new roles,
+
+33
+00:01:24,270 --> 00:01:28,800
+especially around AI ethics, audit, auditing,
+
+34
+00:01:28,800 --> 00:01:30,780
+engineering skill,
+
+35
+00:01:30,780 --> 00:01:33,420
+at the intersection of responsible design,
+
+36
+00:01:33,420 --> 00:01:36,870
+and that this is going to be increasingly critical
+
+37
+00:01:36,870 --> 00:01:39,000
+in a world in which regulation
+
+38
+00:01:39,000 --> 00:01:40,920
+and guidelines, guardrails,
+
+39
+00:01:40,920 --> 00:01:44,880
+for new technologies are up in the air.
+
+40
+00:01:44,880 --> 00:01:46,200
+So without further ado,
+
+41
+00:01:46,200 --> 00:01:47,700
+and we'd love to,
+
+42
+00:01:47,700 --> 00:01:49,890
+we'll have half an hour of just commentary
+
+43
+00:01:49,890 --> 00:01:51,720
+with our panelists and then we'll open it up
+
+44
+00:01:51,720 --> 00:01:53,010
+for conversation with you all.
+
+45
+00:01:53,010 --> 00:01:57,150
+We'd love to have this just be as interactive as possible
+
+46
+00:01:57,150 --> 00:01:59,460
+after a long day of other events.
+
+47
+00:01:59,460 --> 00:02:00,630
+But without further ado,
+
+48
+00:02:00,630 --> 00:02:02,550
+I'll ask our esteemed panelists
+
+49
+00:02:02,550 --> 00:02:03,930
+to introduce themselves.
+
+50
+00:02:03,930 --> 00:02:07,230
+If you could start with who you are, what you do,
+
+51
+00:02:07,230 --> 00:02:08,730
+what your role is,
+
+52
+00:02:08,730 --> 00:02:11,070
+maybe just a bit about how you, yourself,
+
+53
+00:02:11,070 --> 00:02:14,520
+have entered into responsible
+
+54
+00:02:14,520 --> 00:02:16,593
+pathway work professionally.
+
+55
+00:02:18,428 --> 00:02:19,261
+- I go first?
+
+56
+00:02:19,261 --> 00:02:21,275
+- Yeah. - Sure.
+
+57
+00:02:21,275 --> 00:02:23,040
+- Hi everyone.
+
+58
+00:02:23,040 --> 00:02:24,360
+Can you hear me? - [Speaker] Yeah.
+
+59
+00:02:24,360 --> 00:02:25,410
+- Excellent.
+
+60
+00:02:25,410 --> 00:02:26,880
+My name is Meredith Lee.
+
+61
+00:02:26,880 --> 00:02:29,820
+I am the head of strategic partnerships
+
+62
+00:02:29,820 --> 00:02:32,280
+and chief technical advisor
+
+63
+00:02:32,280 --> 00:02:35,130
+to the dean at UC Berkeley's New College
+
+64
+00:02:35,130 --> 00:02:37,920
+of Computing, Data Science and Society.
+
+65
+00:02:37,920 --> 00:02:40,744
+I have practiced to be able to say that in one breath.
+
+66
+00:02:40,744 --> 00:02:41,577
+(people laughing)
+
+67
+00:02:41,577 --> 00:02:46,440
+It's a very long title, but every word is important.
+
+68
+00:02:46,440 --> 00:02:50,350
+And I think really on a day-to-day
+
+69
+00:02:51,900 --> 00:02:52,860
+scale of things,
+
+70
+00:02:52,860 --> 00:02:55,230
+what gets me excited about my role
+
+71
+00:02:55,230 --> 00:02:59,520
+is that I have the opportunity to really ask some
+
+72
+00:02:59,520 --> 00:03:01,470
+of the long range questions.
+
+73
+00:03:01,470 --> 00:03:05,370
+Some of these have been echoed on stage throughout the last
+
+74
+00:03:05,370 --> 00:03:07,950
+couple of days at this summit.
+
+75
+00:03:07,950 --> 00:03:12,950
+But for instance, what can we design and build together?
+
+76
+00:03:13,050 --> 00:03:14,460
+Often for us at Berkeley,
+
+77
+00:03:14,460 --> 00:03:17,460
+it's together with other institutions.
+
+78
+00:03:17,460 --> 00:03:20,280
+We love working with the Chancellor's Office
+
+79
+00:03:20,280 --> 00:03:22,620
+of the California Community Colleges,
+
+80
+00:03:22,620 --> 00:03:24,750
+across UC's, CSUs,
+
+81
+00:03:24,750 --> 00:03:27,210
+which are represented here today,
+
+82
+00:03:27,210 --> 00:03:29,700
+and with civil society organizations,
+
+83
+00:03:29,700 --> 00:03:32,250
+philanthropic partners, state government.
+
+84
+00:03:32,250 --> 00:03:34,890
+Basically, I think as head of strategic partnerships,
+
+85
+00:03:34,890 --> 00:03:36,960
+I get to partner with basically anybody,
+
+86
+00:03:36,960 --> 00:03:39,240
+which is super exciting.
+
+87
+00:03:39,240 --> 00:03:40,860
+I get to ask the questions like,
+
+88
+00:03:40,860 --> 00:03:42,420
+how will that actually work?
+
+89
+00:03:42,420 --> 00:03:44,490
+What are the key ingredients
+
+90
+00:03:44,490 --> 00:03:47,280
+and what might success look like
+
+91
+00:03:47,280 --> 00:03:49,983
+short term and long term?
+
+92
+00:03:51,030 --> 00:03:55,620
+It covers research, education, and public service.
+
+93
+00:03:55,620 --> 00:03:58,380
+So it's a really broad mandate
+
+94
+00:03:58,380 --> 00:03:59,820
+and I think one of the things
+
+95
+00:03:59,820 --> 00:04:01,710
+that I've really appreciated is that,
+
+96
+00:04:01,710 --> 00:04:03,900
+because we are a new college,
+
+97
+00:04:03,900 --> 00:04:08,400
+the first in 50 or so years on campus,
+
+98
+00:04:08,400 --> 00:04:13,400
+there is this sort of vibe of possibility.
+
+99
+00:04:14,730 --> 00:04:19,730
+So much like we've heard from the students on stage,
+
+100
+00:04:19,890 --> 00:04:22,230
+love the AI skit, by the way.
+
+101
+00:04:22,230 --> 00:04:23,063
+You should watch
+
+102
+00:04:23,063 --> 00:04:25,680
+that recording if you weren't there in person.
+
+103
+00:04:25,680 --> 00:04:30,093
+There is this beauty to trying to co-create together.
+
+104
+00:04:31,230 --> 00:04:35,340
+Why I got interested in PIT, Public Interest Technology.
+
+105
+00:04:35,340 --> 00:04:37,640
+Well, I remember when it was called civic tech
+
+106
+00:04:38,670 --> 00:04:43,020
+and I am trained personally as an engineer.
+
+107
+00:04:43,020 --> 00:04:46,560
+I went into public service in DC
+
+108
+00:04:46,560 --> 00:04:48,420
+during the Obama administration,
+
+109
+00:04:48,420 --> 00:04:52,320
+having not done any policy whatsoever.
+
+110
+00:04:52,320 --> 00:04:54,840
+I had to pull aside a faculty member
+
+111
+00:04:54,840 --> 00:04:57,030
+who taught science policy and ask him,
+
+112
+00:04:57,030 --> 00:04:58,350
+what do you teach in your classes?
+
+113
+00:04:58,350 --> 00:05:00,480
+And can I get a little, you know, bootcamp
+
+114
+00:05:00,480 --> 00:05:05,100
+before I head over to the other side of the country?
+
+115
+00:05:05,100 --> 00:05:08,220
+And I think for me,
+
+116
+00:05:08,220 --> 00:05:10,770
+even though I love technologies
+
+117
+00:05:10,770 --> 00:05:13,770
+like from a device scale of things,
+
+118
+00:05:13,770 --> 00:05:14,670
+I like to know,
+
+119
+00:05:14,670 --> 00:05:17,433
+how is that built from an atomic level and so forth.
+
+120
+00:05:18,600 --> 00:05:22,020
+For me, it always started and ended with humans.
+
+121
+00:05:22,020 --> 00:05:25,370
+And so when the public interest technology
+
+122
+00:05:25,370 --> 00:05:28,620
+sort of movement and field came along,
+
+123
+00:05:28,620 --> 00:05:30,420
+I immediately identified with it
+
+124
+00:05:30,420 --> 00:05:32,880
+because I'd been working in that space
+
+125
+00:05:32,880 --> 00:05:34,260
+for a really long time.
+
+126
+00:05:34,260 --> 00:05:37,590
+And I think a lot of the questions we'll get into today
+
+127
+00:05:37,590 --> 00:05:41,370
+are about this moment where the landscape
+
+128
+00:05:41,370 --> 00:05:43,030
+for public interest tech
+
+129
+00:05:44,040 --> 00:05:46,950
+looks different than it did a couple of years ago,
+
+130
+00:05:46,950 --> 00:05:50,400
+and how might we inspire our students
+
+131
+00:05:50,400 --> 00:05:53,130
+to find their own pathways
+
+132
+00:05:53,130 --> 00:05:57,240
+to feel supported in having this huge,
+
+133
+00:05:57,240 --> 00:05:59,520
+amazing scale of impact,
+
+134
+00:05:59,520 --> 00:06:01,860
+in a slightly different landscape than,
+
+135
+00:06:01,860 --> 00:06:03,303
+you know, a few years ago.
+
+136
+00:06:07,020 --> 00:06:08,962
+Oh, you might wanna try this one.
+
+137
+00:06:08,962 --> 00:06:10,470
+- I can try this one.
+
+138
+00:06:10,470 --> 00:06:11,303
+Okay.
+
+139
+00:06:12,150 --> 00:06:13,012
+Hello.
+
+140
+00:06:13,012 --> 00:06:13,845
+- There's always a mic situation.
+
+141
+00:06:13,845 --> 00:06:14,777
+- I know, I know.
+
+142
+00:06:14,777 --> 00:06:17,700
+All of a sudden I have so many choices.
+
+143
+00:06:17,700 --> 00:06:18,840
+Hello everyone.
+
+144
+00:06:18,840 --> 00:06:20,310
+My name's Yingjie Liu.
+
+145
+00:06:20,310 --> 00:06:23,070
+I'm the director of Digital Learning Strategies
+
+146
+00:06:23,070 --> 00:06:25,620
+at San Jose State University.
+
+147
+00:06:25,620 --> 00:06:30,620
+So I lead faculty and student initiatives related to AI.
+
+148
+00:06:32,340 --> 00:06:36,780
+At same time, I also run
+
+149
+00:06:36,780 --> 00:06:40,950
+as a PI for state fund and as a funded
+
+150
+00:06:40,950 --> 00:06:42,960
+AI related initiatives
+
+151
+00:06:42,960 --> 00:06:47,960
+and also serve as AI advisory committee for our campus.
+
+152
+00:06:48,210 --> 00:06:51,030
+So that's covered the,
+
+153
+00:06:51,030 --> 00:06:55,110
+our policy and strategies to engage the whole campus.
+
+154
+00:06:55,110 --> 00:06:59,790
+So across all those initiatives and responsibilities,
+
+155
+00:06:59,790 --> 00:07:00,630
+it also helped me
+
+156
+00:07:00,630 --> 00:07:04,590
+to see the connections from innovation,
+
+157
+00:07:04,590 --> 00:07:07,200
+connect to the teaching, to the learning,
+
+158
+00:07:07,200 --> 00:07:09,930
+to the equity, to the public sector.
+
+159
+00:07:09,930 --> 00:07:11,610
+So all across.
+
+160
+00:07:11,610 --> 00:07:13,710
+So it's very interesting time
+
+161
+00:07:13,710 --> 00:07:18,300
+right now with AI actually help us
+
+162
+00:07:18,300 --> 00:07:22,230
+to build all the connections, connect all the dots.
+
+163
+00:07:22,230 --> 00:07:27,180
+I think that's lead to the question,
+
+164
+00:07:27,180 --> 00:07:30,930
+what drives me is really, right now,
+
+165
+00:07:30,930 --> 00:07:32,490
+even though a lot of initiatives
+
+166
+00:07:32,490 --> 00:07:34,020
+we are running related to AI
+
+167
+00:07:34,020 --> 00:07:38,670
+is to cultivate folks to understand what is the AI,
+
+168
+00:07:38,670 --> 00:07:42,540
+how to use it in a effective and meaningful way.
+
+169
+00:07:42,540 --> 00:07:46,770
+But at the same time, I think it really position us
+
+170
+00:07:46,770 --> 00:07:51,770
+to shape it in the way to serve our community.
+
+171
+00:07:52,440 --> 00:07:56,560
+And also I like to summarize it kind of like
+
+172
+00:07:59,130 --> 00:08:00,900
+AI shouldn't,
+
+173
+00:08:00,900 --> 00:08:04,170
+AI won't define the future for our students,
+
+174
+00:08:04,170 --> 00:08:06,480
+but our students will
+
+175
+00:08:06,480 --> 00:08:10,200
+and should define the future of AI.
+
+176
+00:08:10,200 --> 00:08:12,240
+So that's something our whole campus
+
+177
+00:08:12,240 --> 00:08:16,650
+is trying very hard to work towards.
+
+178
+00:08:16,650 --> 00:08:18,630
+So glad to be here.
+
+179
+00:08:18,630 --> 00:08:20,160
+- Yes, and Yingjie also,
+
+180
+00:08:20,160 --> 00:08:21,540
+could you say this too a little bit
+
+181
+00:08:21,540 --> 00:08:22,860
+about your background too,
+
+182
+00:08:22,860 --> 00:08:24,383
+because I think it's interesting, both you and Meredith.
+
+183
+00:08:24,383 --> 00:08:25,216
+- Oh, okay.
+
+184
+00:08:25,216 --> 00:08:26,460
+- Have these like technical backgrounds
+
+185
+00:08:26,460 --> 00:08:28,139
+and then you went into.
+
+186
+00:08:28,139 --> 00:08:29,370
+- Yeah, yeah, - This public interest.
+
+187
+00:08:29,370 --> 00:08:30,660
+- Thanks.
+
+188
+00:08:30,660 --> 00:08:31,860
+So my background,
+
+189
+00:08:31,860 --> 00:08:34,740
+I have a bachelor master degree in computer science
+
+190
+00:08:34,740 --> 00:08:37,620
+and then the PhD in cognition instruction
+
+191
+00:08:37,620 --> 00:08:39,240
+and the learning technologies.
+
+192
+00:08:39,240 --> 00:08:43,740
+So slowly you can see my path is like how to actually
+
+193
+00:08:43,740 --> 00:08:45,570
+bring technology meaningfully
+
+194
+00:08:45,570 --> 00:08:48,720
+into the teaching and learning category.
+
+195
+00:08:48,720 --> 00:08:51,420
+At the same time, my interest always
+
+196
+00:08:51,420 --> 00:08:54,270
+try to be the magnet, the translator,
+
+197
+00:08:54,270 --> 00:08:56,640
+the bridge either between the faculty
+
+198
+00:08:56,640 --> 00:09:01,440
+to students or between our campus to other sectors.
+
+199
+00:09:01,440 --> 00:09:06,030
+So I think it's very important for me at this time,
+
+200
+00:09:06,030 --> 00:09:10,470
+especially with AI going on how to demystify it
+
+201
+00:09:10,470 --> 00:09:13,920
+to make sure everybody on track at same time.
+
+202
+00:09:13,920 --> 00:09:18,423
+Really bring AI for for good collectively.
+
+203
+00:09:20,010 --> 00:09:20,880
+Thank you, yeah.
+
+204
+00:09:20,880 --> 00:09:22,110
+- Okay, is this working?
+
+205
+00:09:22,110 --> 00:09:23,160
+Yes, great.
+
+206
+00:09:23,160 --> 00:09:24,840
+Thank you Kirsten for the invitation
+
+207
+00:09:24,840 --> 00:09:26,190
+to be here on this panel
+
+208
+00:09:26,190 --> 00:09:28,530
+and I'm really excited to talk to you about these subjects.
+
+209
+00:09:28,530 --> 00:09:30,480
+So my name is Jess Peake.
+
+210
+00:09:30,480 --> 00:09:32,880
+I'm on the faculty at UCLA law school
+
+211
+00:09:32,880 --> 00:09:36,810
+where I run our International and Comparative Law Program.
+
+212
+00:09:36,810 --> 00:09:39,540
+And I come from this from a totally different angle
+
+213
+00:09:39,540 --> 00:09:40,710
+than my co-panelists.
+
+214
+00:09:40,710 --> 00:09:42,930
+I'm an international lawyer by training.
+
+215
+00:09:42,930 --> 00:09:45,570
+I've focused on human rights, war crimes and genocide
+
+216
+00:09:45,570 --> 00:09:46,830
+throughout my career.
+
+217
+00:09:46,830 --> 00:09:48,990
+I've worked for the UN and other organizations
+
+218
+00:09:48,990 --> 00:09:52,500
+and I've been on the faculty at UCLA for about 12 years.
+
+219
+00:09:52,500 --> 00:09:54,150
+And in the past five or so years,
+
+220
+00:09:54,150 --> 00:09:56,340
+I really became interested in the intersection
+
+221
+00:09:56,340 --> 00:09:59,670
+between technology, human rights, and accountability.
+
+222
+00:09:59,670 --> 00:10:02,670
+And so I've been focusing my research on that intersection
+
+223
+00:10:02,670 --> 00:10:05,640
+and I launched a digital investigations lab
+
+224
+00:10:05,640 --> 00:10:07,230
+at UCLA and co-founded
+
+225
+00:10:07,230 --> 00:10:10,710
+the University of California Digital Investigations Network
+
+226
+00:10:10,710 --> 00:10:13,800
+through which we partner with civil society organizations
+
+227
+00:10:13,800 --> 00:10:17,280
+to use open source information tech tools
+
+228
+00:10:17,280 --> 00:10:19,860
+and platforms for documentation and accountability
+
+229
+00:10:19,860 --> 00:10:22,020
+for international law violations.
+
+230
+00:10:22,020 --> 00:10:24,450
+And so I'm really a public interest lawyer at heart
+
+231
+00:10:24,450 --> 00:10:27,510
+and have kind of come to technology through that work.
+
+232
+00:10:27,510 --> 00:10:29,490
+And through this work, over the past five years,
+
+233
+00:10:29,490 --> 00:10:31,500
+I've met so many students
+
+234
+00:10:31,500 --> 00:10:35,093
+that are really interested in using technology for good,
+
+235
+00:10:35,093 --> 00:10:38,880
+interested in using technology for good in law.
+
+236
+00:10:38,880 --> 00:10:40,500
+But I came to realize that this field
+
+237
+00:10:40,500 --> 00:10:41,910
+was really under explored,
+
+238
+00:10:41,910 --> 00:10:44,820
+particularly in the legal academic setting
+
+239
+00:10:44,820 --> 00:10:46,950
+and we're really not doing a good job
+
+240
+00:10:46,950 --> 00:10:48,930
+of showing our students how they can enter
+
+241
+00:10:48,930 --> 00:10:50,310
+into these fields.
+
+242
+00:10:50,310 --> 00:10:52,650
+And that's what really got me interested in this area.
+
+243
+00:10:52,650 --> 00:10:55,110
+And I'm now a senior of research fellow
+
+244
+00:10:55,110 --> 00:10:57,690
+with the Center for Resilience and Digital Justice,
+
+245
+00:10:57,690 --> 00:11:00,150
+which is Safiya Noble's Center at UCLA.
+
+246
+00:11:00,150 --> 00:11:03,090
+And maybe you heard her give the morning keynote.
+
+247
+00:11:03,090 --> 00:11:04,380
+And so she and I have been thinking
+
+248
+00:11:04,380 --> 00:11:07,020
+through some of these issues and working in partnership
+
+249
+00:11:07,020 --> 00:11:09,450
+with the Public Interest Technology University network
+
+250
+00:11:09,450 --> 00:11:11,160
+over the past year or so,
+
+251
+00:11:11,160 --> 00:11:14,040
+in doing a study to look at how students
+
+252
+00:11:14,040 --> 00:11:15,840
+and young professionals are really thinking
+
+253
+00:11:15,840 --> 00:11:17,640
+about public interest technology careers
+
+254
+00:11:17,640 --> 00:11:19,040
+and what that means to them.
+
+255
+00:11:20,370 --> 00:11:21,780
+- That is a perfect segue,
+
+256
+00:11:21,780 --> 00:11:24,120
+because I would love to actually dive deeper
+
+257
+00:11:24,120 --> 00:11:25,077
+and have you share,
+
+258
+00:11:25,077 --> 00:11:27,210
+and I'm happy, do you wanna do the slides?
+
+259
+00:11:27,210 --> 00:11:28,043
+- [Jees] I'm gonna try and juggle.
+
+260
+00:11:28,043 --> 00:11:29,130
+- Okay, perfect.
+
+261
+00:11:29,130 --> 00:11:31,440
+That is so impressive.
+
+262
+00:11:31,440 --> 00:11:35,190
+So Jess is gonna share some slides about her research
+
+263
+00:11:35,190 --> 00:11:37,320
+called Expansive Vision for Pit Careers
+
+264
+00:11:37,320 --> 00:11:39,180
+that she's been doing at UCLA,
+
+265
+00:11:39,180 --> 00:11:40,320
+but would love to better understand
+
+266
+00:11:40,320 --> 00:11:42,390
+what students are signaling in terms
+
+267
+00:11:42,390 --> 00:11:45,120
+of their interest in picked careers,
+
+268
+00:11:45,120 --> 00:11:49,020
+what organizations they're seeking to contribute to,
+
+269
+00:11:49,020 --> 00:11:51,300
+what are some of the opportunities
+
+270
+00:11:51,300 --> 00:11:53,310
+and challenges that they're facing along the way.
+
+271
+00:11:53,310 --> 00:11:54,143
+- Sure, absolutely.
+
+272
+00:11:54,143 --> 00:11:57,060
+So as I mentioned, for the past year or so,
+
+273
+00:11:57,060 --> 00:11:58,590
+I've been a senior research fellow
+
+274
+00:11:58,590 --> 00:12:01,050
+at the Center for Resilience and Digital Justice.
+
+275
+00:12:01,050 --> 00:12:02,430
+And along with the Public Interest
+
+276
+00:12:02,430 --> 00:12:03,900
+Technology University network,
+
+277
+00:12:03,900 --> 00:12:07,020
+we've been working on a qualitative research project
+
+278
+00:12:07,020 --> 00:12:08,310
+to look at how students
+
+279
+00:12:08,310 --> 00:12:09,930
+and young professionals view
+
+280
+00:12:09,930 --> 00:12:12,090
+public interest technology careers.
+
+281
+00:12:12,090 --> 00:12:14,010
+And I'm just gonna put a few slides up here
+
+282
+00:12:14,010 --> 00:12:17,460
+so you can see some of the data as we go through this.
+
+283
+00:12:17,460 --> 00:12:22,440
+So between just after the election in early January,
+
+284
+00:12:22,440 --> 00:12:24,210
+before Trump was sworn in,
+
+285
+00:12:24,210 --> 00:12:25,590
+we conducted a survey
+
+286
+00:12:25,590 --> 00:12:28,740
+of almost a hundred students and young professionals
+
+287
+00:12:28,740 --> 00:12:31,140
+and asked them a range of questions around
+
+288
+00:12:31,140 --> 00:12:33,510
+how they're thinking about public interest technology
+
+289
+00:12:33,510 --> 00:12:35,370
+careers in this moment.
+
+290
+00:12:35,370 --> 00:12:37,350
+And what I'm gonna focus on today is,
+
+291
+00:12:37,350 --> 00:12:38,340
+is the really broad
+
+292
+00:12:38,340 --> 00:12:40,500
+and expansive vision that the students
+
+293
+00:12:40,500 --> 00:12:42,300
+and young professionals shared with us
+
+294
+00:12:42,300 --> 00:12:44,970
+for what this career path can mean to them,
+
+295
+00:12:44,970 --> 00:12:48,543
+even in the face of potentially changing circumstances.
+
+296
+00:12:50,910 --> 00:12:53,790
+So we first asked a question about what type
+
+297
+00:12:53,790 --> 00:12:56,940
+of public interest issues are you interested in?
+
+298
+00:12:56,940 --> 00:12:58,950
+And what the data shows us here
+
+299
+00:12:58,950 --> 00:13:01,320
+is that the students want career paths
+
+300
+00:13:01,320 --> 00:13:04,560
+that are justice oriented, that are intersectional,
+
+301
+00:13:04,560 --> 00:13:06,300
+and that really speak to their personal
+
+302
+00:13:06,300 --> 00:13:08,580
+circumstances and ideals.
+
+303
+00:13:08,580 --> 00:13:10,830
+And so what we see is they're interested
+
+304
+00:13:10,830 --> 00:13:13,110
+in a really broad variety of subjects,
+
+305
+00:13:13,110 --> 00:13:16,500
+from core equity domains like education,
+
+306
+00:13:16,500 --> 00:13:19,530
+economic justice, human rights, healthcare,
+
+307
+00:13:19,530 --> 00:13:22,200
+racial justice, and more.
+
+308
+00:13:22,200 --> 00:13:24,420
+They're interested in issues that come,
+
+309
+00:13:24,420 --> 00:13:25,770
+that are more policy heavy,
+
+310
+00:13:25,770 --> 00:13:27,990
+like healthcare, voting rights,
+
+311
+00:13:27,990 --> 00:13:32,370
+immigration, data privacy, and environmental justice.
+
+312
+00:13:32,370 --> 00:13:34,710
+They also have very community specific
+
+313
+00:13:34,710 --> 00:13:36,450
+or community centric concerns,
+
+314
+00:13:36,450 --> 00:13:38,250
+such as tribal sovereignty,
+
+315
+00:13:38,250 --> 00:13:41,580
+veterans benefits, and mobility exclusion.
+
+316
+00:13:41,580 --> 00:13:43,410
+And they're really interested in digital rights
+
+317
+00:13:43,410 --> 00:13:45,540
+and platform governance, including, of course,
+
+318
+00:13:45,540 --> 00:13:46,920
+algorithmic accountability,
+
+319
+00:13:46,920 --> 00:13:49,410
+surveillance and AI ethics.
+
+320
+00:13:49,410 --> 00:13:51,210
+And so what this tells us,
+
+321
+00:13:51,210 --> 00:13:52,860
+or one insight we can draw from this,
+
+322
+00:13:52,860 --> 00:13:55,770
+is that students are really not just seeking
+
+323
+00:13:55,770 --> 00:13:57,720
+to apply tech to policy,
+
+324
+00:13:57,720 --> 00:14:00,000
+but they want to use public interest technology
+
+325
+00:14:00,000 --> 00:14:02,340
+to address structural inequalities
+
+326
+00:14:02,340 --> 00:14:04,590
+and to repair historic harms
+
+327
+00:14:04,590 --> 00:14:06,060
+through their participation
+
+328
+00:14:06,060 --> 00:14:08,280
+in public interest technology careers
+
+329
+00:14:08,280 --> 00:14:10,023
+across different sectors.
+
+330
+00:14:11,820 --> 00:14:15,840
+Second, we ask them what type of work they're interested in.
+
+331
+00:14:15,840 --> 00:14:17,280
+And again, we found
+
+332
+00:14:17,280 --> 00:14:18,390
+that students are interested
+
+333
+00:14:18,390 --> 00:14:21,420
+in a really wide array of types of work
+
+334
+00:14:21,420 --> 00:14:23,850
+that really extend far beyond the reach
+
+335
+00:14:23,850 --> 00:14:25,410
+of traditional tech roles
+
+336
+00:14:25,410 --> 00:14:28,560
+or what we might interpret as traditional tech roles.
+
+337
+00:14:28,560 --> 00:14:31,620
+So, students are interested in research and analysis work,
+
+338
+00:14:31,620 --> 00:14:35,490
+from data science to investigations to policy research.
+
+339
+00:14:35,490 --> 00:14:39,570
+They're interested in advocacy and policy domains.
+
+340
+00:14:39,570 --> 00:14:43,260
+They're interested in community engagement and education,
+
+341
+00:14:43,260 --> 00:14:46,020
+including organizing and teaching.
+
+342
+00:14:46,020 --> 00:14:47,250
+They're interested, of course,
+
+343
+00:14:47,250 --> 00:14:49,140
+in the more traditional tech field
+
+344
+00:14:49,140 --> 00:14:51,060
+of product development and design,
+
+345
+00:14:51,060 --> 00:14:54,240
+including user experience, service design,
+
+346
+00:14:54,240 --> 00:14:56,460
+and ethical tech development.
+
+347
+00:14:56,460 --> 00:14:59,520
+And then they're also interested in more legal
+
+348
+00:14:59,520 --> 00:15:02,040
+and journalistic storytelling type work
+
+349
+00:15:02,040 --> 00:15:04,530
+that might involve civil rights litigation
+
+350
+00:15:04,530 --> 00:15:06,300
+or investigative reporting.
+
+351
+00:15:06,300 --> 00:15:07,950
+And so again, this is confirming
+
+352
+00:15:07,950 --> 00:15:09,660
+that students really see technology,
+
+353
+00:15:09,660 --> 00:15:11,940
+not as a standalone skillset,
+
+354
+00:15:11,940 --> 00:15:15,000
+but one that is going to be embedded in broader civil
+
+355
+00:15:15,000 --> 00:15:16,350
+and political work.
+
+356
+00:15:16,350 --> 00:15:19,350
+And they're really drawn to interdisciplinary careers
+
+357
+00:15:19,350 --> 00:15:21,960
+that blend ethics with storytelling,
+
+358
+00:15:21,960 --> 00:15:24,933
+with community knowledge, with systems thinking, and more.
+
+359
+00:15:26,370 --> 00:15:28,380
+Finally, we ask them what types
+
+360
+00:15:28,380 --> 00:15:31,320
+of organizations they're interested in working for.
+
+361
+00:15:31,320 --> 00:15:32,820
+And while there is,
+
+362
+00:15:32,820 --> 00:15:37,820
+of course, a strong interest in nonprofit government work,
+
+363
+00:15:38,010 --> 00:15:41,220
+a surprising number of students in the public interest space
+
+364
+00:15:41,220 --> 00:15:45,390
+also expressed interest in working at technology companies.
+
+365
+00:15:45,390 --> 00:15:48,420
+And I think this probably reflects a pragmatic response
+
+366
+00:15:48,420 --> 00:15:50,267
+to compensation realities.
+
+367
+00:15:50,267 --> 00:15:53,610
+You know, the private sector versus the public sector,
+
+368
+00:15:53,610 --> 00:15:55,950
+but also a fairly strategic mindset.
+
+369
+00:15:55,950 --> 00:15:58,380
+I think students today are thinking about ways
+
+370
+00:15:58,380 --> 00:16:01,440
+they can reshape technology from the inside
+
+371
+00:16:01,440 --> 00:16:02,820
+and they want to bring ethics
+
+372
+00:16:02,820 --> 00:16:06,960
+and equity into those dominant tech institutions.
+
+373
+00:16:06,960 --> 00:16:09,720
+And of course others are drawn to
+
+374
+00:16:09,720 --> 00:16:12,060
+where we might assume public interest students
+
+375
+00:16:12,060 --> 00:16:15,360
+are drawn to, like government, nonprofit, and think tanks.
+
+376
+00:16:15,360 --> 00:16:16,860
+But increasingly, students are thinking
+
+377
+00:16:16,860 --> 00:16:19,140
+about academia as well as a home
+
+378
+00:16:19,140 --> 00:16:22,710
+for public interest technology career paths.
+
+379
+00:16:22,710 --> 00:16:25,290
+So why does this matter?
+
+380
+00:16:25,290 --> 00:16:27,030
+I think it matters in this moment,
+
+381
+00:16:27,030 --> 00:16:28,800
+because public interest technology
+
+382
+00:16:28,800 --> 00:16:30,960
+is increasingly under siege
+
+383
+00:16:30,960 --> 00:16:34,110
+due to some changing political circumstances,
+
+384
+00:16:34,110 --> 00:16:36,750
+a lack of investment overall,
+
+385
+00:16:36,750 --> 00:16:38,610
+not just in this current moment,
+
+386
+00:16:38,610 --> 00:16:41,850
+and a lack of education, training, and career pathways
+
+387
+00:16:41,850 --> 00:16:44,850
+that are legible to our students.
+
+388
+00:16:44,850 --> 00:16:47,040
+But at the same time, the research is telling us
+
+389
+00:16:47,040 --> 00:16:49,200
+that young people want to do this work.
+
+390
+00:16:49,200 --> 00:16:52,710
+And so it's really incumbent upon us as educators
+
+391
+00:16:52,710 --> 00:16:57,300
+to partner with funders, with industry, with civil society,
+
+392
+00:16:57,300 --> 00:16:58,470
+and with government,
+
+393
+00:16:58,470 --> 00:17:02,010
+to begin to create those viable and visible pathways,
+
+394
+00:17:02,010 --> 00:17:03,000
+so that our students
+
+395
+00:17:03,000 --> 00:17:05,160
+and young professionals can pursue these careers
+
+396
+00:17:05,160 --> 00:17:07,860
+that they are already so passionate about.
+
+397
+00:17:07,860 --> 00:17:09,510
+And I'll leave it there and maybe come back
+
+398
+00:17:09,510 --> 00:17:12,150
+to some of this data a little bit later.
+
+399
+00:17:12,150 --> 00:17:13,590
+- I'm sure there will be many questions
+
+400
+00:17:13,590 --> 00:17:14,490
+about this rich data.
+
+401
+00:17:14,490 --> 00:17:16,410
+Thank you so much for taking the initiative
+
+402
+00:17:16,410 --> 00:17:20,613
+to dive in on this, especially at this time.
+
+403
+00:17:21,450 --> 00:17:23,820
+My next question is for Meredith.
+
+404
+00:17:23,820 --> 00:17:27,990
+I'm curious if you see any of this reflected in the interest
+
+405
+00:17:27,990 --> 00:17:29,910
+of your students at UC, Berkeley,
+
+406
+00:17:29,910 --> 00:17:33,540
+how you've then aligned academic pathways
+
+407
+00:17:33,540 --> 00:17:36,030
+across institutions.
+
+408
+00:17:36,030 --> 00:17:38,820
+Has this shifted academic priorities
+
+409
+00:17:38,820 --> 00:17:43,620
+and also just sort of the multidisciplinary aspect of this.
+
+410
+00:17:43,620 --> 00:17:47,153
+How has that kind of bled into your approach?
+
+411
+00:17:47,153 --> 00:17:48,990
+- Absolutely.
+
+412
+00:17:48,990 --> 00:17:50,460
+- I'll mix it up, but I'll try this one.
+
+413
+00:17:50,460 --> 00:17:51,293
+- Okay.
+
+414
+00:17:52,710 --> 00:17:55,740
+- Really appreciate the question.
+
+415
+00:17:55,740 --> 00:17:58,248
+At UC, Berkeley,
+
+416
+00:17:58,248 --> 00:18:00,990
+our new College of Computing, Data Science, and Society
+
+417
+00:18:00,990 --> 00:18:03,570
+includes the data science major,
+
+418
+00:18:03,570 --> 00:18:05,970
+which went from not existing,
+
+419
+00:18:05,970 --> 00:18:10,110
+to now being the most popular one on campus.
+
+420
+00:18:10,110 --> 00:18:13,080
+We had 2000 students graduating.
+
+421
+00:18:13,080 --> 00:18:15,750
+If you've ever gone to a concert at the Greek Theater,
+
+422
+00:18:15,750 --> 00:18:19,500
+you know that filling that Greek Theater is a lot of people.
+
+423
+00:18:19,500 --> 00:18:21,902
+We had to do it twice to fill all
+
+424
+00:18:21,902 --> 00:18:25,440
+of our undergraduate data science students.
+
+425
+00:18:25,440 --> 00:18:28,800
+And so you can imagine, just even selfishly,
+
+426
+00:18:28,800 --> 00:18:31,800
+if some portion of those students
+
+427
+00:18:31,800 --> 00:18:35,400
+went into careers in public interest technology,
+
+428
+00:18:35,400 --> 00:18:37,590
+went into public service,
+
+429
+00:18:37,590 --> 00:18:38,970
+whether at the state government,
+
+430
+00:18:38,970 --> 00:18:42,570
+local government level, or other options,
+
+431
+00:18:42,570 --> 00:18:46,470
+imagine what the cascading positive impacts could be.
+
+432
+00:18:46,470 --> 00:18:51,003
+So I love the theme of trying to, you know,
+
+433
+00:18:52,086 --> 00:18:55,140
+I wrote this down, reshape tech from the inside.
+
+434
+00:18:55,140 --> 00:18:57,870
+It actually echoes when we were getting
+
+435
+00:18:57,870 --> 00:19:00,150
+into federal government
+
+436
+00:19:00,150 --> 00:19:01,980
+during the Obama administration,
+
+437
+00:19:01,980 --> 00:19:05,700
+this call to reshape government from the inside,
+
+438
+00:19:05,700 --> 00:19:07,650
+go do your tour of duty.
+
+439
+00:19:07,650 --> 00:19:09,750
+It's not enough to just vote,
+
+440
+00:19:09,750 --> 00:19:13,560
+and you know, complain about the situation.
+
+441
+00:19:13,560 --> 00:19:16,710
+What might you be able to do crossing a bridge
+
+442
+00:19:16,710 --> 00:19:19,830
+to another sector, another discipline, etcetera.
+
+443
+00:19:19,830 --> 00:19:22,110
+So I think in short, the answer is yes.
+
+444
+00:19:22,110 --> 00:19:25,200
+At Berkeley we're seeing, you know, the continued trend
+
+445
+00:19:25,200 --> 00:19:27,690
+of our data science foundational class
+
+446
+00:19:27,690 --> 00:19:32,220
+feeding into 60 or more different majors.
+
+447
+00:19:32,220 --> 00:19:33,780
+Seeing the applicability
+
+448
+00:19:33,780 --> 00:19:38,610
+of the data skills, the AI increasingly,
+
+449
+00:19:38,610 --> 00:19:42,690
+literacy skills that were mentioned at the summit,
+
+450
+00:19:42,690 --> 00:19:46,443
+all going into a lot of different career paths.
+
+451
+00:19:47,880 --> 00:19:50,280
+I do have some numbers in case
+
+452
+00:19:50,280 --> 00:19:52,800
+those in the audience we're tracking.
+
+453
+00:19:52,800 --> 00:19:54,540
+I was asked, you know,
+
+454
+00:19:54,540 --> 00:19:59,160
+how many community colleges are partnering directly
+
+455
+00:19:59,160 --> 00:20:01,830
+with Berkeley along those pathways?
+
+456
+00:20:01,830 --> 00:20:03,840
+And our team is really excited
+
+457
+00:20:03,840 --> 00:20:08,370
+that there are 21 California community colleges
+
+458
+00:20:08,370 --> 00:20:11,250
+that have approved articulation.
+
+459
+00:20:11,250 --> 00:20:13,950
+Six of those were just in the last year,
+
+460
+00:20:13,950 --> 00:20:16,590
+for our foundational data science course.
+
+461
+00:20:16,590 --> 00:20:19,980
+And 27 California community colleges
+
+462
+00:20:19,980 --> 00:20:24,980
+are using our interactive computing infrastructure.
+
+463
+00:20:25,050 --> 00:20:26,880
+And so the combination
+
+464
+00:20:26,880 --> 00:20:30,360
+of things like a free online textbook,
+
+465
+00:20:30,360 --> 00:20:31,860
+where it's like, no pressure,
+
+466
+00:20:31,860 --> 00:20:34,350
+here's, you know, this material online.
+
+467
+00:20:34,350 --> 00:20:37,980
+By the way, it's been, you know, vetted from a community.
+
+468
+00:20:37,980 --> 00:20:40,140
+It continues to evolve with.
+
+469
+00:20:40,140 --> 00:20:41,910
+I see some familiar faces in the room
+
+470
+00:20:41,910 --> 00:20:45,690
+with leaders from the California community colleges.
+
+471
+00:20:45,690 --> 00:20:47,430
+That has been a real game change.
+
+472
+00:20:47,430 --> 00:20:50,490
+And now that we're coming up with the 10 year anniversary
+
+473
+00:20:50,490 --> 00:20:52,170
+of our national workshop,
+
+474
+00:20:52,170 --> 00:20:54,810
+I think some of those lessons learned
+
+475
+00:20:54,810 --> 00:20:57,450
+and best practices that
+
+476
+00:20:57,450 --> 00:21:01,920
+we saw in the multidisciplinary data science lens
+
+477
+00:21:01,920 --> 00:21:03,690
+are all the more amplified
+
+478
+00:21:03,690 --> 00:21:07,290
+and important in a multidisciplinary multi-sector
+
+479
+00:21:07,290 --> 00:21:10,170
+AI ready workforce frame.
+
+480
+00:21:10,170 --> 00:21:13,620
+So I'm really excited about seeing this data.
+
+481
+00:21:13,620 --> 00:21:16,680
+And of course, as a data science geek,
+
+482
+00:21:16,680 --> 00:21:17,550
+I would say like,
+
+483
+00:21:17,550 --> 00:21:19,710
+oh, and what might we do with the larger sample
+
+484
+00:21:19,710 --> 00:21:21,330
+and the 39 million Californians
+
+485
+00:21:21,330 --> 00:21:22,800
+and what could we, you know,
+
+486
+00:21:22,800 --> 00:21:24,393
+continue to learn together?
+
+487
+00:21:27,775 --> 00:21:29,370
+- Thank you Meredith, and thank you for pioneering
+
+488
+00:21:29,370 --> 00:21:30,630
+like all of this work,
+
+489
+00:21:30,630 --> 00:21:32,250
+especially on structuring pathways
+
+490
+00:21:32,250 --> 00:21:33,720
+that go back.
+
+491
+00:21:33,720 --> 00:21:35,160
+As a funder in this space,
+
+492
+00:21:35,160 --> 00:21:38,040
+we are very pro take, you know,
+
+493
+00:21:38,040 --> 00:21:40,830
+supporting opportunities in which resources can be shared
+
+494
+00:21:40,830 --> 00:21:43,320
+between university partners and community colleges,
+
+495
+00:21:43,320 --> 00:21:45,990
+all the way back to the K through 12 level.
+
+496
+00:21:45,990 --> 00:21:48,240
+So really exciting to see these numbers,
+
+497
+00:21:48,240 --> 00:21:51,240
+in particular, around those shared resources
+
+498
+00:21:51,240 --> 00:21:52,230
+that you've developed
+
+499
+00:21:52,230 --> 00:21:56,193
+and hopefully will lead to more conversations here today.
+
+500
+00:21:57,360 --> 00:21:59,580
+My next question for Yingjie.
+
+501
+00:21:59,580 --> 00:22:02,580
+So San Jose State University has been very well known
+
+502
+00:22:02,580 --> 00:22:05,640
+for developing some very innovative public
+
+503
+00:22:05,640 --> 00:22:07,800
+and private partnerships.
+
+504
+00:22:07,800 --> 00:22:09,750
+Obviously from Jess' research,
+
+505
+00:22:09,750 --> 00:22:11,940
+there's a lot of questions students have around like,
+
+506
+00:22:11,940 --> 00:22:15,960
+well, what does a career actually mean concretely?
+
+507
+00:22:15,960 --> 00:22:18,273
+How can I use these skills on the job?
+
+508
+00:22:19,350 --> 00:22:20,640
+If you could share a bit more about
+
+509
+00:22:20,640 --> 00:22:22,833
+how you've developed those partnerships,
+
+510
+00:22:23,760 --> 00:22:26,340
+any lessons learned, any opportunities
+
+511
+00:22:26,340 --> 00:22:28,200
+or challenges that you wanted to call out
+
+512
+00:22:28,200 --> 00:22:31,650
+for folks at community colleges, or otherwise,
+
+513
+00:22:31,650 --> 00:22:33,330
+who are trying to build similar opportunities
+
+514
+00:22:33,330 --> 00:22:35,010
+or would wanna work with the universities
+
+515
+00:22:35,010 --> 00:22:36,734
+to help build those opportunities.
+
+516
+00:22:36,734 --> 00:22:39,390
+- Awesome, great questions.
+
+517
+00:22:39,390 --> 00:22:42,390
+So at San Jose State,
+
+518
+00:22:42,390 --> 00:22:46,710
+I'm fortunate lead quite a few very fun initiatives
+
+519
+00:22:46,710 --> 00:22:48,180
+across the sector.
+
+520
+00:22:48,180 --> 00:22:51,960
+I'm gonna go through them one by one.
+
+521
+00:22:51,960 --> 00:22:55,440
+So for public sector, I was able to,
+
+522
+00:22:55,440 --> 00:22:57,800
+I have been able to working with the city
+
+523
+00:22:57,800 --> 00:23:01,470
+of San Jose for the AI upscaling program.
+
+524
+00:23:01,470 --> 00:23:05,970
+So we have co-developed the curriculum with the city
+
+525
+00:23:05,970 --> 00:23:08,850
+and we have conducted two cohort already
+
+526
+00:23:08,850 --> 00:23:12,750
+with 60 employees graduating from the cohort.
+
+527
+00:23:12,750 --> 00:23:17,190
+And we are gonna launch the third one next month.
+
+528
+00:23:17,190 --> 00:23:20,610
+So just imagine for me,
+
+529
+00:23:20,610 --> 00:23:22,350
+it's my first time
+
+530
+00:23:22,350 --> 00:23:23,430
+to collaborate with city.
+
+531
+00:23:23,430 --> 00:23:24,930
+At the same time, when you see the audience,
+
+532
+00:23:24,930 --> 00:23:26,990
+there are police officers.
+
+533
+00:23:26,990 --> 00:23:30,870
+They're someone from three women department, right?
+
+534
+00:23:30,870 --> 00:23:35,310
+So they're very eager to have the AI skill
+
+535
+00:23:35,310 --> 00:23:37,380
+to help with their work process.
+
+536
+00:23:37,380 --> 00:23:39,060
+For instance 311, right?
+
+537
+00:23:39,060 --> 00:23:41,640
+So they have large data set
+
+538
+00:23:41,640 --> 00:23:45,930
+and they are wondering if their AI tools
+
+539
+00:23:45,930 --> 00:23:48,750
+to help them process the data
+
+540
+00:23:48,750 --> 00:23:53,370
+and get the main theme, what are the top, for instance,
+
+541
+00:23:53,370 --> 00:23:55,650
+what are the top issues our team need
+
+542
+00:23:55,650 --> 00:23:57,510
+to focus on at this time, right?
+
+543
+00:23:57,510 --> 00:24:00,990
+So a lot of those things very hard for them
+
+544
+00:24:00,990 --> 00:24:02,640
+to do without AI.
+
+545
+00:24:02,640 --> 00:24:05,310
+Now they're able to save more hours
+
+546
+00:24:05,310 --> 00:24:08,160
+and then contribute their energy
+
+547
+00:24:08,160 --> 00:24:11,310
+and team effort to the top priorities.
+
+548
+00:24:11,310 --> 00:24:12,990
+So that's definitely one
+
+549
+00:24:12,990 --> 00:24:16,263
+of the very successful model we have been launching.
+
+550
+00:24:17,850 --> 00:24:21,540
+And also some state we recently maybe you have seen
+
+551
+00:24:21,540 --> 00:24:25,710
+that signed agreement through Citi and with NVIDIA.
+
+552
+00:24:25,710 --> 00:24:27,720
+So over the summer
+
+553
+00:24:27,720 --> 00:24:31,410
+we are able to launch NVIDIA Omniverse
+
+554
+00:24:31,410 --> 00:24:36,090
+digital training for the faculty.
+
+555
+00:24:36,090 --> 00:24:39,330
+We have more than 100 faculty actually go,
+
+556
+00:24:39,330 --> 00:24:40,740
+went through the,
+
+557
+00:24:40,740 --> 00:24:44,010
+the training where the media engineer
+
+558
+00:24:44,010 --> 00:24:47,340
+put together like live session,
+
+559
+00:24:47,340 --> 00:24:50,190
+talk about the ins and outs of either training
+
+560
+00:24:50,190 --> 00:24:54,240
+and also 30 faculty who are tech savvy faculty
+
+561
+00:24:54,240 --> 00:24:57,360
+who are Python ready, they actually get hands on.
+
+562
+00:24:57,360 --> 00:24:59,910
+Yeah, yeah, you understand what that means, yeah.
+
+563
+00:24:59,910 --> 00:25:04,230
+So actually gather hands-on experience to went through
+
+564
+00:25:04,230 --> 00:25:07,380
+the very extensive learning past
+
+565
+00:25:07,380 --> 00:25:11,130
+the engineer experts from media build for them.
+
+566
+00:25:11,130 --> 00:25:15,240
+So now all those faculty are very eager
+
+567
+00:25:15,240 --> 00:25:19,470
+to integrate those into their courses and research.
+
+568
+00:25:19,470 --> 00:25:22,710
+And just today I already saw my inbox,
+
+569
+00:25:22,710 --> 00:25:27,090
+I have three more faculty who reach out talking about,
+
+570
+00:25:27,090 --> 00:25:29,580
+they're not Python savvy,
+
+571
+00:25:29,580 --> 00:25:31,770
+but they're very interested in learning more
+
+572
+00:25:31,770 --> 00:25:33,540
+about this such opportunity,
+
+573
+00:25:33,540 --> 00:25:36,120
+try to maybe collaborate with other faculty
+
+574
+00:25:36,120 --> 00:25:38,160
+and integrate into the courses.
+
+575
+00:25:38,160 --> 00:25:42,090
+And it is very eye-opening for me to see with AI
+
+576
+00:25:42,090 --> 00:25:45,540
+you actually can have a larger skill
+
+577
+00:25:45,540 --> 00:25:47,490
+interdisciplinary collaboration.
+
+578
+00:25:47,490 --> 00:25:49,240
+I have never imagined art
+
+579
+00:25:50,100 --> 00:25:52,350
+professor actually are interested
+
+580
+00:25:52,350 --> 00:25:55,020
+in doing the digital training in this way
+
+581
+00:25:55,020 --> 00:25:59,070
+and try to use their training, digital training,
+
+582
+00:25:59,070 --> 00:26:02,250
+to launch like theater performance, for instance.
+
+583
+00:26:02,250 --> 00:26:04,080
+So it's very eye-opening.
+
+584
+00:26:04,080 --> 00:26:07,383
+And also, for instance,
+
+585
+00:26:08,250 --> 00:26:09,660
+business faculty, right?
+
+586
+00:26:09,660 --> 00:26:14,250
+So a lot of collaboration from the business.
+
+587
+00:26:14,250 --> 00:26:15,603
+I never think,
+
+588
+00:26:17,100 --> 00:26:19,320
+I always think engineering faculty are the first tier,
+
+589
+00:26:19,320 --> 00:26:22,050
+but actually business faculty also see the potential.
+
+590
+00:26:22,050 --> 00:26:26,820
+So a lot of potential there on campus related
+
+591
+00:26:26,820 --> 00:26:30,090
+to this type of industry collaboration.
+
+592
+00:26:30,090 --> 00:26:33,990
+And also our campus is Adobe Creative Campus.
+
+593
+00:26:33,990 --> 00:26:37,640
+So we have been using this opportunity
+
+594
+00:26:37,640 --> 00:26:42,640
+to really bump up our students' digital literacy skills
+
+595
+00:26:42,690 --> 00:26:47,690
+and I have a most very exciting report from our colleague
+
+596
+00:26:48,390 --> 00:26:49,650
+from career center.
+
+597
+00:26:49,650 --> 00:26:50,580
+They actually collaborate
+
+598
+00:26:50,580 --> 00:26:53,220
+with other key stakeholder on campus.
+
+599
+00:26:53,220 --> 00:26:56,700
+Last week, they launched what they have,
+
+600
+00:26:56,700 --> 00:27:00,060
+the name is called Jump Starting Digital Literacy event.
+
+601
+00:27:00,060 --> 00:27:02,460
+They brought nearly 3000 students
+
+602
+00:27:02,460 --> 00:27:06,660
+and 15 faculty together in two days.
+
+603
+00:27:06,660 --> 00:27:11,070
+So all the student went through the training together.
+
+604
+00:27:11,070 --> 00:27:14,220
+And also we have partnership with IBM
+
+605
+00:27:14,220 --> 00:27:15,150
+over the launch.
+
+606
+00:27:15,150 --> 00:27:18,000
+You might have heard about the IBM skill build.
+
+607
+00:27:18,000 --> 00:27:20,400
+So we are actually
+
+608
+00:27:20,400 --> 00:27:23,850
+integrating those opportunities into the teaching learning.
+
+609
+00:27:23,850 --> 00:27:27,060
+And we also launched a hack song
+
+610
+00:27:27,060 --> 00:27:31,140
+with IBM related to AI ethics.
+
+611
+00:27:31,140 --> 00:27:35,160
+So it's, yeah, it's very timely topic
+
+612
+00:27:35,160 --> 00:27:38,190
+and the students are very excited about those
+
+613
+00:27:38,190 --> 00:27:39,420
+very meaningful topic,
+
+614
+00:27:39,420 --> 00:27:41,130
+so they can work on real problem,
+
+615
+00:27:41,130 --> 00:27:43,293
+but very meaningful real problem.
+
+616
+00:27:44,580 --> 00:27:46,323
+So that's another opportunity,
+
+617
+00:27:47,854 --> 00:27:51,360
+Across the CSU campus,
+
+618
+00:27:51,360 --> 00:27:53,613
+we also collaborate closely.
+
+619
+00:27:54,570 --> 00:27:58,110
+One successful initiative
+
+620
+00:27:58,110 --> 00:28:03,110
+led by our faculty from school business.
+
+621
+00:28:03,780 --> 00:28:05,850
+It's called AI for social good.
+
+622
+00:28:05,850 --> 00:28:09,900
+This has been a very successful initiative as well.
+
+623
+00:28:09,900 --> 00:28:12,870
+Try to bring the technology into the classroom
+
+624
+00:28:12,870 --> 00:28:15,240
+so students can collaborate,
+
+625
+00:28:15,240 --> 00:28:17,880
+interdisciplinary collaborative project,
+
+626
+00:28:17,880 --> 00:28:19,293
+but for social good.
+
+627
+00:28:20,250 --> 00:28:24,090
+And now it's extended to the whole CSU system.
+
+628
+00:28:24,090 --> 00:28:28,230
+They just launched a very successful symposium.
+
+629
+00:28:28,230 --> 00:28:30,900
+All the students present their projects.
+
+630
+00:28:30,900 --> 00:28:32,463
+So that's another exciting.
+
+631
+00:28:33,990 --> 00:28:36,700
+I got excited bragging SGSU.
+
+632
+00:28:36,700 --> 00:28:38,280
+(people laughing)
+
+633
+00:28:38,280 --> 00:28:43,110
+Yeah, so, and another project, my own project,
+
+634
+00:28:43,110 --> 00:28:45,240
+so it's a collaboration.
+
+635
+00:28:45,240 --> 00:28:46,830
+It is as a, oh no,
+
+636
+00:28:46,830 --> 00:28:50,850
+this one is founded by California Learning Lab.
+
+637
+00:28:50,850 --> 00:28:55,440
+It's a collaboration with a very non-profit
+
+638
+00:28:55,440 --> 00:28:58,380
+organizations called Quality Matters.
+
+639
+00:28:58,380 --> 00:29:01,440
+Maybe some the faculty heard about that.
+
+640
+00:29:01,440 --> 00:29:04,170
+So the reasoning behind it,
+
+641
+00:29:04,170 --> 00:29:05,223
+the goal is,
+
+642
+00:29:06,150 --> 00:29:08,880
+for us, we are fortunate to have instructional designers,
+
+643
+00:29:08,880 --> 00:29:11,670
+for instance, on campus to help with faculty,
+
+644
+00:29:11,670 --> 00:29:15,150
+with course design, quality course enhancement,
+
+645
+00:29:15,150 --> 00:29:18,420
+but not all the campus have such resources.
+
+646
+00:29:18,420 --> 00:29:23,070
+So we are working together to create AI agent platform.
+
+647
+00:29:23,070 --> 00:29:28,070
+So eventually that will be a very helpful aid for faculty
+
+648
+00:29:28,380 --> 00:29:31,713
+with course design and quality cross enhancement.
+
+649
+00:29:33,330 --> 00:29:36,780
+So I think that's the bragging I have.
+
+650
+00:29:36,780 --> 00:29:39,510
+And for the challenges and the opportunities,
+
+651
+00:29:39,510 --> 00:29:41,140
+I want to share is
+
+652
+00:29:42,120 --> 00:29:44,553
+it's very important we have, we are,
+
+653
+00:29:45,420 --> 00:29:47,490
+solving the real problem together.
+
+654
+00:29:47,490 --> 00:29:52,230
+I think that's the opportunity will actually help
+
+655
+00:29:52,230 --> 00:29:55,110
+with any challenges we are facing.
+
+656
+00:29:55,110 --> 00:29:58,320
+But working with the industry in particular,
+
+657
+00:29:58,320 --> 00:30:00,033
+what I have seen is,
+
+658
+00:30:01,710 --> 00:30:05,700
+they might not understand how education run, right?
+
+659
+00:30:05,700 --> 00:30:08,310
+So they might say, I have this solution,
+
+660
+00:30:08,310 --> 00:30:10,743
+now hand it to your faculty, right?
+
+661
+00:30:11,580 --> 00:30:16,410
+And magically it'll be successful in the classroom,
+
+662
+00:30:16,410 --> 00:30:18,660
+but right, yeah, right?
+
+663
+00:30:18,660 --> 00:30:20,430
+So, but it doesn't run that way, right?
+
+664
+00:30:20,430 --> 00:30:24,180
+So we have to help them to understand in order
+
+665
+00:30:24,180 --> 00:30:26,280
+to be successful, right?
+
+666
+00:30:26,280 --> 00:30:30,060
+Their infrastructure, their faculty training, which,
+
+667
+00:30:30,060 --> 00:30:32,463
+and all the things need to be in place.
+
+668
+00:30:34,020 --> 00:30:36,453
+For instance, NVIDIA training, even,
+
+669
+00:30:37,500 --> 00:30:39,990
+just for industry training is different
+
+670
+00:30:39,990 --> 00:30:44,580
+from what faculty training, their need.
+
+671
+00:30:44,580 --> 00:30:48,783
+So I have to work very hard to help them to understand.
+
+672
+00:30:50,160 --> 00:30:53,820
+Just handing us the list of this training is not helpful.
+
+673
+00:30:53,820 --> 00:30:56,190
+You have to create it as a learning path.
+
+674
+00:30:56,190 --> 00:30:58,980
+So the faculty will see it meaningfully
+
+675
+00:30:58,980 --> 00:31:03,510
+how this actually contribute to their discipline.
+
+676
+00:31:03,510 --> 00:31:08,460
+So a lot of things like that I think challenges,
+
+677
+00:31:08,460 --> 00:31:12,900
+but because we are having the same sharing goals,
+
+678
+00:31:12,900 --> 00:31:14,430
+I think those are opportunity.
+
+679
+00:31:14,430 --> 00:31:17,820
+Everybody work very hard collectively
+
+680
+00:31:17,820 --> 00:31:19,902
+to solve those problem, yeah.
+
+681
+00:31:19,902 --> 00:31:21,930
+- Thanks Yingjie.
+
+682
+00:31:21,930 --> 00:31:22,763
+Thanks Yingjie.
+
+683
+00:31:22,763 --> 00:31:24,570
+That's amazing to hear that full list
+
+684
+00:31:24,570 --> 00:31:27,570
+and menu of options available for both students and faculty.
+
+685
+00:31:27,570 --> 00:31:28,680
+And loved it.
+
+686
+00:31:28,680 --> 00:31:30,180
+I think it's important to note that
+
+687
+00:31:30,180 --> 00:31:32,940
+that faculty upskilling piece is a critical piece
+
+688
+00:31:32,940 --> 00:31:36,930
+to all of this in order to offer these services.
+
+689
+00:31:36,930 --> 00:31:39,693
+And as funders we're also thinking about that.
+
+690
+00:31:41,072 --> 00:31:41,905
+In the interest of time,
+
+691
+00:31:41,905 --> 00:31:43,200
+I think I'm gonna combine some
+
+692
+00:31:43,200 --> 00:31:46,170
+of the last two questions I had.
+
+693
+00:31:46,170 --> 00:31:49,200
+But would love if you could maybe summarize
+
+694
+00:31:49,200 --> 00:31:52,320
+your key takeaway on what you,
+
+695
+00:31:52,320 --> 00:31:54,630
+how you think university partners
+
+696
+00:31:54,630 --> 00:31:56,970
+and community colleges can best collaborate.
+
+697
+00:31:56,970 --> 00:31:59,550
+What sort of resources, policies, structures,
+
+698
+00:31:59,550 --> 00:32:01,920
+need to be in place to help with that?
+
+699
+00:32:01,920 --> 00:32:03,570
+And then maybe one key takeaway
+
+700
+00:32:03,570 --> 00:32:04,920
+that you wanna leave the audience with
+
+701
+00:32:04,920 --> 00:32:08,220
+on how to really forge these pit
+
+702
+00:32:08,220 --> 00:32:10,980
+career opportunities moving forward.
+
+703
+00:32:10,980 --> 00:32:12,130
+Whoever wants to start?
+
+704
+00:32:13,380 --> 00:32:16,380
+- Yeah, can I show one more slide.
+
+705
+00:32:16,380 --> 00:32:17,910
+- Please.
+
+706
+00:32:17,910 --> 00:32:20,190
+- And again, I'm gonna try and juggle all of these things.
+
+707
+00:32:20,190 --> 00:32:22,500
+So apologies if I mess it up.
+
+708
+00:32:22,500 --> 00:32:26,810
+So during the survey we asked students which
+
+709
+00:32:26,810 --> 00:32:28,590
+of the following currently affect
+
+710
+00:32:28,590 --> 00:32:31,590
+whether or not you pursue public interest technology jobs.
+
+711
+00:32:31,590 --> 00:32:32,423
+Right?
+
+712
+00:32:32,423 --> 00:32:34,440
+And so the data is pretty interesting,
+
+713
+00:32:34,440 --> 00:32:36,570
+and of course, everyone's worried about money.
+
+714
+00:32:36,570 --> 00:32:38,040
+We all understand that
+
+715
+00:32:38,040 --> 00:32:41,430
+and probably as educators can't do too much about that.
+
+716
+00:32:41,430 --> 00:32:42,990
+But I think community colleges
+
+717
+00:32:42,990 --> 00:32:44,970
+and universities can do something about
+
+718
+00:32:44,970 --> 00:32:48,750
+a lot of the barriers that relate to the perception
+
+719
+00:32:48,750 --> 00:32:51,270
+that these career paths are invisible
+
+720
+00:32:51,270 --> 00:32:54,870
+or there's a lack of resources for support
+
+721
+00:32:54,870 --> 00:32:58,320
+or there's a lack of mentoring and networking opportunities.
+
+722
+00:32:58,320 --> 00:33:00,870
+And so we together can help fill those gaps
+
+723
+00:33:00,870 --> 00:33:03,930
+through partnerships with industry, with civil society,
+
+724
+00:33:03,930 --> 00:33:05,190
+and with government,
+
+725
+00:33:05,190 --> 00:33:07,560
+to provide students with more visible pathways
+
+726
+00:33:07,560 --> 00:33:09,750
+and on-ramps to these careers.
+
+727
+00:33:09,750 --> 00:33:13,440
+And so this research will eventually result in a report.
+
+728
+00:33:13,440 --> 00:33:16,140
+So you know, stay tuned for that.
+
+729
+00:33:16,140 --> 00:33:18,000
+But we make a bunch of recommendations
+
+730
+00:33:18,000 --> 00:33:21,630
+to these five different constituencies, funders,
+
+731
+00:33:21,630 --> 00:33:23,970
+educational institutions, civil society,
+
+732
+00:33:23,970 --> 00:33:26,070
+government and industry.
+
+733
+00:33:26,070 --> 00:33:28,530
+And I'll just highlight a few of the recommendations
+
+734
+00:33:28,530 --> 00:33:31,320
+that we have for educational institutions.
+
+735
+00:33:31,320 --> 00:33:34,650
+So one thing that we can all collaborate on,
+
+736
+00:33:34,650 --> 00:33:37,050
+which would be a relatively easy lift, I think,
+
+737
+00:33:37,050 --> 00:33:38,610
+is launching public interest
+
+738
+00:33:38,610 --> 00:33:41,040
+technology focused jobs boards,
+
+739
+00:33:41,040 --> 00:33:43,950
+career fairs, and employment partnerships.
+
+740
+00:33:43,950 --> 00:33:45,486
+That's, I think, you know, something,
+
+741
+00:33:45,486 --> 00:33:48,123
+that can be a collective effort together.
+
+742
+00:33:49,830 --> 00:33:51,360
+I think our students really struggle
+
+743
+00:33:51,360 --> 00:33:53,880
+with translating their educational experience
+
+744
+00:33:53,880 --> 00:33:56,190
+into concrete skills.
+
+745
+00:33:56,190 --> 00:33:58,260
+And so we really need to equip them with ways
+
+746
+00:33:58,260 --> 00:33:59,220
+to think about that
+
+747
+00:33:59,220 --> 00:34:01,860
+and be able to track the skills they're developing
+
+748
+00:34:01,860 --> 00:34:05,160
+throughout their college or university experience.
+
+749
+00:34:05,160 --> 00:34:07,230
+I think in the law school,
+
+750
+00:34:07,230 --> 00:34:08,100
+or in law schools,
+
+751
+00:34:08,100 --> 00:34:11,550
+we have a a clinical education model
+
+752
+00:34:11,550 --> 00:34:14,550
+and I think that's something
+
+753
+00:34:14,550 --> 00:34:16,740
+that could really be co-opted in the public
+
+754
+00:34:16,740 --> 00:34:17,940
+interest technology space.
+
+755
+00:34:17,940 --> 00:34:20,700
+So where we're giving our students opportunities
+
+756
+00:34:20,700 --> 00:34:24,750
+to work with partners on hands-on projects
+
+757
+00:34:24,750 --> 00:34:26,880
+where they're receiving practical training
+
+758
+00:34:26,880 --> 00:34:29,790
+and also education in how to implement some
+
+759
+00:34:29,790 --> 00:34:32,070
+of these public interest technology skill sets
+
+760
+00:34:32,070 --> 00:34:34,173
+into the workforce.
+
+761
+00:34:35,250 --> 00:34:38,130
+Obviously students need increased mentorship
+
+762
+00:34:38,130 --> 00:34:40,320
+and support to do this.
+
+763
+00:34:40,320 --> 00:34:43,020
+And so those are some like pretty attainable
+
+764
+00:34:43,020 --> 00:34:44,160
+short-term goals.
+
+765
+00:34:44,160 --> 00:34:45,780
+I think some more medium term goals
+
+766
+00:34:45,780 --> 00:34:48,229
+that we suggest in the report are reflect back
+
+767
+00:34:48,229 --> 00:34:50,700
+to what my co-panelists have already said,
+
+768
+00:34:50,700 --> 00:34:51,533
+which is this need
+
+769
+00:34:51,533 --> 00:34:53,880
+to really embed public interest technology
+
+770
+00:34:53,880 --> 00:34:56,040
+into general education requirements
+
+771
+00:34:56,040 --> 00:34:57,540
+to make sure we're exposing all
+
+772
+00:34:57,540 --> 00:35:00,330
+of our students to technology and society issues.
+
+773
+00:35:00,330 --> 00:35:01,770
+And those numbers coming out of both
+
+774
+00:35:01,770 --> 00:35:03,543
+of your institutions are amazing.
+
+775
+00:35:04,830 --> 00:35:08,490
+We need to do that across disciplines and departments
+
+776
+00:35:08,490 --> 00:35:11,760
+and not continue to operate in these very siloed ways
+
+777
+00:35:11,760 --> 00:35:14,010
+that tend to happen at universities.
+
+778
+00:35:14,010 --> 00:35:16,170
+And then I think we need to think more expansively
+
+779
+00:35:16,170 --> 00:35:20,070
+about how we credential people who are wanting
+
+780
+00:35:20,070 --> 00:35:21,720
+to go into the pit field.
+
+781
+00:35:21,720 --> 00:35:23,190
+I think one thing that we found
+
+782
+00:35:23,190 --> 00:35:24,900
+through the qualitative study and then some interviews
+
+783
+00:35:24,900 --> 00:35:25,950
+that we did were,
+
+784
+00:35:25,950 --> 00:35:27,990
+students were really just not sure
+
+785
+00:35:27,990 --> 00:35:29,520
+what qualifications they needed.
+
+786
+00:35:29,520 --> 00:35:31,410
+And so there needs to be careful thought put
+
+787
+00:35:31,410 --> 00:35:33,900
+into what does that look like?
+
+788
+00:35:33,900 --> 00:35:35,370
+Is there something standardized
+
+789
+00:35:35,370 --> 00:35:37,740
+or is it really not a one size fits all,
+
+790
+00:35:37,740 --> 00:35:41,070
+given the very, very varied career things
+
+791
+00:35:41,070 --> 00:35:42,300
+that they're thinking about.
+
+792
+00:35:42,300 --> 00:35:46,050
+So I think, you know, my takeaway
+
+793
+00:35:46,050 --> 00:35:48,540
+is educational institutions
+
+794
+00:35:48,540 --> 00:35:49,860
+and we all have a giant role
+
+795
+00:35:49,860 --> 00:35:52,050
+to play in creating these pathways,
+
+796
+00:35:52,050 --> 00:35:53,250
+but we cannot do it alone.
+
+797
+00:35:53,250 --> 00:35:55,860
+It really does need to be a multi-sectoral effort
+
+798
+00:35:55,860 --> 00:35:58,680
+between us, between funders.
+
+799
+00:35:58,680 --> 00:36:01,170
+We need to be talking to prospective employers
+
+800
+00:36:01,170 --> 00:36:03,780
+in government, in civil society and in industry,
+
+801
+00:36:03,780 --> 00:36:05,970
+about how to really create
+
+802
+00:36:05,970 --> 00:36:09,570
+and solidify visible on-ramps to our students,
+
+803
+00:36:09,570 --> 00:36:12,843
+so that they can do the work that they want to be doing.
+
+804
+00:36:18,000 --> 00:36:19,000
+- Oh yeah, go ahead.
+
+805
+00:36:21,720 --> 00:36:23,880
+- Always love a bonus data slide.
+
+806
+00:36:23,880 --> 00:36:24,956
+Thanks Jess.
+
+807
+00:36:24,956 --> 00:36:27,870
+(people laughing)
+
+808
+00:36:27,870 --> 00:36:31,590
+These are really heavy questions that keep a lot
+
+809
+00:36:31,590 --> 00:36:32,580
+of us up at night,
+
+810
+00:36:32,580 --> 00:36:33,480
+so it'll be hard
+
+811
+00:36:33,480 --> 00:36:35,400
+to do it justice in a short amount of time.
+
+812
+00:36:35,400 --> 00:36:39,810
+But I think, if I were to have a magic wand
+
+813
+00:36:39,810 --> 00:36:42,360
+and have resources to be able to get
+
+814
+00:36:42,360 --> 00:36:43,620
+from where we are now
+
+815
+00:36:43,620 --> 00:36:46,290
+to the trajectory that so many of us
+
+816
+00:36:46,290 --> 00:36:48,300
+in this room want to see,
+
+817
+00:36:48,300 --> 00:36:52,650
+I think there's an untapped opportunity to really
+
+818
+00:36:52,650 --> 00:36:57,240
+reflect on some of the nascent pilot partnerships.
+
+819
+00:36:57,240 --> 00:37:01,440
+I'm particularly thinking about ones where we, you know,
+
+820
+00:37:01,440 --> 00:37:03,360
+for instance from the California Learning Lab,
+
+821
+00:37:03,360 --> 00:37:04,830
+another shout out to them,
+
+822
+00:37:04,830 --> 00:37:07,230
+we're able to get faculty led,
+
+823
+00:37:07,230 --> 00:37:11,370
+very much staff and student engaged collaborations
+
+824
+00:37:11,370 --> 00:37:14,430
+for the first time seated around,
+
+825
+00:37:14,430 --> 00:37:18,120
+for instance, an introductory computing,
+
+826
+00:37:18,120 --> 00:37:21,090
+no programming experience needed course
+
+827
+00:37:21,090 --> 00:37:23,670
+with a social science lens.
+
+828
+00:37:23,670 --> 00:37:26,880
+I think there was this unique value proposition
+
+829
+00:37:26,880 --> 00:37:29,130
+where for the first time
+
+830
+00:37:29,130 --> 00:37:30,570
+community college faculty,
+
+831
+00:37:30,570 --> 00:37:33,120
+shout out to Lianey if you're in the audience,
+
+832
+00:37:33,120 --> 00:37:38,120
+also Folsom Lake and LA City College
+
+833
+00:37:38,460 --> 00:37:40,800
+and others all collaborating
+
+834
+00:37:40,800 --> 00:37:43,500
+around a shared vision for a curriculum.
+
+835
+00:37:43,500 --> 00:37:45,687
+And we're all piloting, teaching this,
+
+836
+00:37:45,687 --> 00:37:48,990
+for the first times together.
+
+837
+00:37:48,990 --> 00:37:50,130
+That's pretty unusual.
+
+838
+00:37:50,130 --> 00:37:51,510
+By the way, this was also, you know,
+
+839
+00:37:51,510 --> 00:37:53,760
+seed funded from the National Science Foundation
+
+840
+00:37:53,760 --> 00:37:55,890
+to partner with Tuskegee.
+
+841
+00:37:55,890 --> 00:37:58,410
+And I think there's this, you know, pivot moment
+
+842
+00:37:58,410 --> 00:38:00,060
+where you go from a pilot
+
+843
+00:38:00,060 --> 00:38:03,780
+and some really compelling initial results to,
+
+844
+00:38:03,780 --> 00:38:05,760
+well is it actually sustainable?
+
+845
+00:38:05,760 --> 00:38:09,090
+Do we have the capacity on staff?
+
+846
+00:38:09,090 --> 00:38:12,510
+Do we have the, you know, infrastructure
+
+847
+00:38:12,510 --> 00:38:14,910
+and other sort
+
+848
+00:38:14,910 --> 00:38:18,810
+of just basic convening funds, like this convening is great,
+
+849
+00:38:18,810 --> 00:38:22,140
+you can't substitute for in-person connection,
+
+850
+00:38:22,140 --> 00:38:23,910
+but have we actually put
+
+851
+00:38:23,910 --> 00:38:28,800
+that line item in the requested budget to be able
+
+852
+00:38:28,800 --> 00:38:32,220
+to scaffold around the pilot
+
+853
+00:38:32,220 --> 00:38:36,750
+and try to take those lessons learned, best practices,
+
+854
+00:38:36,750 --> 00:38:38,460
+and really leverage that.
+
+855
+00:38:38,460 --> 00:38:41,370
+I have no desire to reinvent the wheel.
+
+856
+00:38:41,370 --> 00:38:45,249
+I hope that other people in the education space also feel
+
+857
+00:38:45,249 --> 00:38:47,490
+that way because time is short
+
+858
+00:38:47,490 --> 00:38:51,750
+and we don't have, you know, that luxury of just like,
+
+859
+00:38:51,750 --> 00:38:54,420
+I am only going to do this because I invented it.
+
+860
+00:38:54,420 --> 00:38:57,460
+I think we need to learn from each other's
+
+861
+00:38:59,010 --> 00:39:03,510
+experiences and contextualize for our own students.
+
+862
+00:39:03,510 --> 00:39:07,320
+And to do that there's simple things like, you know,
+
+863
+00:39:07,320 --> 00:39:10,020
+having a pathway for students
+
+864
+00:39:10,020 --> 00:39:14,523
+and faculty to get professional development,
+
+865
+00:39:16,110 --> 00:39:18,780
+mentors, resources and so forth.
+
+866
+00:39:18,780 --> 00:39:21,720
+And so often that is just others' duties
+
+867
+00:39:21,720 --> 00:39:25,830
+as assigned type of thing
+
+868
+00:39:25,830 --> 00:39:29,220
+versus something that we're actually asking for funding for.
+
+869
+00:39:29,220 --> 00:39:31,140
+Whether that's government funding,
+
+870
+00:39:31,140 --> 00:39:33,780
+philanthropic support, etcetera.
+
+871
+00:39:33,780 --> 00:39:37,500
+And so very much echo my co-panelists sentiment
+
+872
+00:39:37,500 --> 00:39:40,710
+that it's going to take creativity on all of us,
+
+873
+00:39:40,710 --> 00:39:43,020
+whether you're wearing an industry hat,
+
+874
+00:39:43,020 --> 00:39:45,000
+academia, civil society,
+
+875
+00:39:45,000 --> 00:39:48,000
+whether you've served in government or are curious,
+
+876
+00:39:48,000 --> 00:39:50,100
+all of those perspectives are needed
+
+877
+00:39:50,100 --> 00:39:53,340
+to really build robust pathways for students.
+
+878
+00:39:53,340 --> 00:39:55,830
+And if we can remember that it's about those students
+
+879
+00:39:55,830 --> 00:39:57,390
+and what they're going to do,
+
+880
+00:39:57,390 --> 00:40:01,650
+like our products as educators are students.
+
+881
+00:40:01,650 --> 00:40:02,820
+I hope we'll get further,
+
+882
+00:40:02,820 --> 00:40:06,330
+but it's going to take some rolling up of sleeves
+
+883
+00:40:06,330 --> 00:40:09,363
+to adjust to the current climate.
+
+884
+00:40:11,670 --> 00:40:12,660
+- Okay, thanks.
+
+885
+00:40:12,660 --> 00:40:16,140
+I will share, I'm thinking
+
+886
+00:40:16,140 --> 00:40:19,770
+for our university and the community college there,
+
+887
+00:40:19,770 --> 00:40:21,090
+and also public sector,
+
+888
+00:40:21,090 --> 00:40:25,050
+there's three things I want to quickly mention.
+
+889
+00:40:25,050 --> 00:40:28,440
+First is Shared AI Literacy Foundation.
+
+890
+00:40:28,440 --> 00:40:31,797
+So everyone is doing upscaling for students,
+
+891
+00:40:31,797 --> 00:40:34,050
+for faculty, and like I mentioned,
+
+892
+00:40:34,050 --> 00:40:35,580
+it's the city of San Jose, right?
+
+893
+00:40:35,580 --> 00:40:38,220
+So we should think together like
+
+894
+00:40:38,220 --> 00:40:41,400
+what exactly AI literacy we're talking about.
+
+895
+00:40:41,400 --> 00:40:44,130
+And so from the,
+
+896
+00:40:44,130 --> 00:40:45,720
+when we prepare the student
+
+897
+00:40:45,720 --> 00:40:48,690
+and also to the career path.
+
+898
+00:40:48,690 --> 00:40:50,910
+So we need to think our requirement.
+
+899
+00:40:50,910 --> 00:40:53,700
+At same time, for instance,
+
+900
+00:40:53,700 --> 00:40:56,400
+we just recently launched the AI literacy
+
+901
+00:40:56,400 --> 00:40:59,670
+course over the summer for all the transfer students,
+
+902
+00:40:59,670 --> 00:41:03,690
+for thousand students are enrolled into this course.
+
+903
+00:41:03,690 --> 00:41:06,000
+So if we think early, right?
+
+904
+00:41:06,000 --> 00:41:10,560
+So all the students are ready when they are transferred.
+
+905
+00:41:10,560 --> 00:41:12,660
+So I think that's definitely something
+
+906
+00:41:12,660 --> 00:41:16,920
+we can build up, the pipeline.
+
+907
+00:41:16,920 --> 00:41:20,370
+And also join applied project.
+
+908
+00:41:20,370 --> 00:41:23,700
+So for instance, the industry partner
+
+909
+00:41:23,700 --> 00:41:25,950
+for instance IBM over the launch, right?
+
+910
+00:41:25,950 --> 00:41:30,327
+So they're promoting the skill build opportunities
+
+911
+00:41:30,327 --> 00:41:31,920
+and we are promoting
+
+912
+00:41:31,920 --> 00:41:35,013
+and I think there might be opportunity for us,
+
+913
+00:41:35,970 --> 00:41:39,120
+just for the student to collaborate naturally
+
+914
+00:41:39,120 --> 00:41:44,040
+on tackling real world problem together.
+
+915
+00:41:44,040 --> 00:41:45,900
+I think that's definitely an opportunity
+
+916
+00:41:45,900 --> 00:41:48,450
+we need to let industry know we are interested, right?
+
+917
+00:41:48,450 --> 00:41:49,650
+So build those opportunity
+
+918
+00:41:49,650 --> 00:41:53,790
+and with the founder support we can make that successful.
+
+919
+00:41:53,790 --> 00:41:57,540
+And also for faculty as well, right?
+
+920
+00:41:57,540 --> 00:42:01,820
+So I just reach out to the California,
+
+921
+00:42:02,700 --> 00:42:06,120
+the community college, the AI fellow team,
+
+922
+00:42:06,120 --> 00:42:09,180
+I said in some of these state, we have fellows,
+
+923
+00:42:09,180 --> 00:42:12,630
+we have nine fellows, one fellow from each college
+
+924
+00:42:12,630 --> 00:42:15,180
+and you have fellow from divisions.
+
+925
+00:42:15,180 --> 00:42:19,170
+And yeah, with different expertise, we should talk.
+
+926
+00:42:19,170 --> 00:42:22,230
+All the fellows should talk and we should think together
+
+927
+00:42:22,230 --> 00:42:25,290
+and then contribute to each other's growth.
+
+928
+00:42:25,290 --> 00:42:28,650
+And I think that's, like I mentioned,
+
+929
+00:42:28,650 --> 00:42:32,190
+the AI is actually opportunity for us to get closer, right?
+
+930
+00:42:32,190 --> 00:42:34,200
+So because we are facing
+
+931
+00:42:34,200 --> 00:42:35,850
+similar challenges and opportunities,
+
+932
+00:42:35,850 --> 00:42:37,353
+we should do it together.
+
+933
+00:42:38,670 --> 00:42:39,960
+- Thanks.
+
+934
+00:42:39,960 --> 00:42:43,350
+Thanks, that's a great note to I think close on
+
+935
+00:42:43,350 --> 00:42:45,480
+and I wanted to open it up now to questions.
+
+936
+00:42:45,480 --> 00:42:47,460
+We have about 15 minutes,
+
+937
+00:42:47,460 --> 00:42:50,373
+so I'm happy to bring the mic to you,
+
+938
+00:42:51,390 --> 00:42:53,493
+but yeah, feel free to ask away.
+
+939
+00:42:56,850 --> 00:42:58,713
+Any burning questions.
+
+940
+00:43:00,420 --> 00:43:01,920
+Yeah, please. - [Speaker] I can speak.
+
+941
+00:43:01,920 --> 00:43:03,300
+Okay, great.
+
+942
+00:43:03,300 --> 00:43:05,695
+As I was listening to you I was thinking,
+
+943
+00:43:05,695 --> 00:43:09,918
+And I was thinking about graphics, and you know, sharing.
+
+944
+00:43:09,918 --> 00:43:12,519
+And how childcare was a very important.
+
+945
+00:43:12,519 --> 00:43:17,352
+How is it that we're incorporating our adults in agencies?
+
+946
+00:43:18,596 --> 00:43:21,346
+Because they won't have certain .
+
+947
+00:43:24,926 --> 00:43:29,497
+How do you see supporting them, helping them,
+
+948
+00:43:29,497 --> 00:43:32,497
+their trajectory, switching careers?
+
+949
+00:43:34,092 --> 00:43:34,925
+You know?
+
+950
+00:43:36,440 --> 00:43:37,467
+How do you support their needs and support them?
+
+951
+00:43:37,467 --> 00:43:39,780
+- The question is about how to support
+
+952
+00:43:39,780 --> 00:43:41,700
+a career switcher, career changers,
+
+953
+00:43:41,700 --> 00:43:44,730
+people who are trying to rescale in these pathways.
+
+954
+00:43:44,730 --> 00:43:45,600
+It's a great question.
+
+955
+00:43:45,600 --> 00:43:47,359
+- Yeah, thanks.
+
+956
+00:43:47,359 --> 00:43:49,410
+And others should definitely feel free to jump in.
+
+957
+00:43:49,410 --> 00:43:51,300
+I think what we've been thinking about
+
+958
+00:43:51,300 --> 00:43:53,910
+with this research in the report are,
+
+959
+00:43:53,910 --> 00:43:57,510
+how do we provide really holistic wraparound services
+
+960
+00:43:57,510 --> 00:44:00,270
+for all different kinds of learners, right?
+
+961
+00:44:00,270 --> 00:44:04,230
+Traditional students, non-traditional students,
+
+962
+00:44:04,230 --> 00:44:06,030
+those who are returning to education,
+
+963
+00:44:06,030 --> 00:44:07,650
+career changes, all of those people.
+
+964
+00:44:07,650 --> 00:44:10,260
+'Cause everyone's gonna have very unique needs,
+
+965
+00:44:10,260 --> 00:44:12,240
+but there are some commonalities between them,
+
+966
+00:44:12,240 --> 00:44:13,950
+with childcare obviously being, you know,
+
+967
+00:44:13,950 --> 00:44:15,147
+a very significant one.
+
+968
+00:44:15,147 --> 00:44:19,650
+And I think I to,
+
+969
+00:44:19,650 --> 00:44:22,110
+there's no easy fix to that issue, right?
+
+970
+00:44:22,110 --> 00:44:24,060
+Our colleges and universities are not suddenly
+
+971
+00:44:24,060 --> 00:44:27,000
+gonna be able to provide childcare support to all
+
+972
+00:44:27,000 --> 00:44:29,250
+of our student body, unfortunately.
+
+973
+00:44:29,250 --> 00:44:31,713
+Although if we could, that would be incredible.
+
+974
+00:44:32,550 --> 00:44:34,440
+So I think we need to think creatively about
+
+975
+00:44:34,440 --> 00:44:37,920
+how do we support those who have childcare obligations
+
+976
+00:44:37,920 --> 00:44:39,750
+or family care obligations.
+
+977
+00:44:39,750 --> 00:44:42,450
+How can we ensure the flexibility there
+
+978
+00:44:42,450 --> 00:44:44,820
+for those individuals particularly,
+
+979
+00:44:44,820 --> 00:44:47,670
+but also flexibility for, I mean, people can have all kinds
+
+980
+00:44:47,670 --> 00:44:49,530
+of reasons why they can't get to a certain place
+
+981
+00:44:49,530 --> 00:44:50,580
+by a certain time, right?
+
+982
+00:44:50,580 --> 00:44:53,250
+And so we learn so much during COVID about
+
+983
+00:44:53,250 --> 00:44:54,570
+how we can be flexible
+
+984
+00:44:54,570 --> 00:44:56,880
+and accommodate all kinds of different circumstances.
+
+985
+00:44:56,880 --> 00:44:59,190
+And I think there seems to be a little bit
+
+986
+00:44:59,190 --> 00:45:02,610
+of a push away from some of those accommodations
+
+987
+00:45:02,610 --> 00:45:03,600
+that were made during COVID,
+
+988
+00:45:03,600 --> 00:45:05,700
+but I think it's really on us
+
+989
+00:45:05,700 --> 00:45:08,070
+to think very carefully about that.
+
+990
+00:45:08,070 --> 00:45:11,820
+'Cause it brought a lot of benefits to a lot of people
+
+991
+00:45:11,820 --> 00:45:13,350
+and we don't want to lose that.
+
+992
+00:45:13,350 --> 00:45:16,200
+And yes, we, you know, being on Zoom a hundred percent
+
+993
+00:45:16,200 --> 00:45:18,630
+of the time all the time was not ideal.
+
+994
+00:45:18,630 --> 00:45:21,510
+But there's a medium happy place, I think,
+
+995
+00:45:21,510 --> 00:45:22,710
+that we can find between those.
+
+996
+00:45:22,710 --> 00:45:24,780
+And so we need to think creatively about
+
+997
+00:45:24,780 --> 00:45:26,880
+how do we deliver the content that we need
+
+998
+00:45:26,880 --> 00:45:29,190
+for educational programs in a way
+
+999
+00:45:29,190 --> 00:45:32,070
+that also accommodates the individual needs
+
+1000
+00:45:32,070 --> 00:45:33,783
+of our learners and students.
+
+1001
+00:45:36,930 --> 00:45:38,430
+- That's a great question.
+
+1002
+00:45:38,430 --> 00:45:42,240
+I'll just add that I'm hearing a theme through a lot
+
+1003
+00:45:42,240 --> 00:45:47,240
+of leadership discussions on our campus and other partners,
+
+1004
+00:45:47,340 --> 00:45:51,990
+in re-imagining how and where education happens.
+
+1005
+00:45:51,990 --> 00:45:53,220
+There's some great blog posts.
+
+1006
+00:45:53,220 --> 00:45:55,680
+Happy to touch base afterwards.
+
+1007
+00:45:55,680 --> 00:45:58,140
+I think another thing that,
+
+1008
+00:45:58,140 --> 00:46:00,930
+particularly for public interest technology
+
+1009
+00:46:00,930 --> 00:46:02,010
+that I've observed,
+
+1010
+00:46:02,010 --> 00:46:05,220
+is the more that leaders in the space
+
+1011
+00:46:05,220 --> 00:46:08,910
+can encourage students, learners,
+
+1012
+00:46:08,910 --> 00:46:13,910
+from all stages to really feel empowered,
+
+1013
+00:46:14,370 --> 00:46:17,610
+to not only learn, but immediately contribute
+
+1014
+00:46:17,610 --> 00:46:21,180
+and, you know, own it, that you're actually innovating
+
+1015
+00:46:21,180 --> 00:46:23,490
+because you're bringing unique experiences
+
+1016
+00:46:23,490 --> 00:46:25,950
+and expertise to the table.
+
+1017
+00:46:25,950 --> 00:46:28,620
+I think that can be extremely powerful
+
+1018
+00:46:28,620 --> 00:46:32,070
+and in budget constrained times changing framing
+
+1019
+00:46:32,070 --> 00:46:35,370
+and messaging is like a pretty, you know,
+
+1020
+00:46:35,370 --> 00:46:36,330
+low risk thing
+
+1021
+00:46:36,330 --> 00:46:40,770
+to try out and see if it helps in getting us
+
+1022
+00:46:40,770 --> 00:46:45,450
+to the, you know, wide range of skill sets
+
+1023
+00:46:45,450 --> 00:46:47,880
+that really make public interest,
+
+1024
+00:46:47,880 --> 00:46:50,553
+tech and public interest, anything, successful.
+
+1025
+00:46:57,870 --> 00:46:59,892
+- Blake, did you wanna go ahead?
+
+1026
+00:46:59,892 --> 00:47:01,080
+Oh, okay, go ahead, yes.
+
+1027
+00:47:01,080 --> 00:47:02,550
+- I'll stand up and use.
+
+1028
+00:47:02,550 --> 00:47:04,413
+Perfect, excellent.
+
+1029
+00:47:05,370 --> 00:47:06,320
+- So I'm trying to,
+
+1030
+00:47:07,786 --> 00:47:08,619
+I'm kind of in the backdrop
+
+1031
+00:47:08,619 --> 00:47:10,470
+of today's listening session.
+
+1032
+00:47:10,470 --> 00:47:12,663
+The keynotes were powerful.
+
+1033
+00:47:13,590 --> 00:47:16,770
+Kind of flipped a lot of my thinking on zero a little bit.
+
+1034
+00:47:16,770 --> 00:47:21,480
+Hearing how this public interest technology as an ethical
+
+1035
+00:47:21,480 --> 00:47:23,280
+and kind of using technology for good
+
+1036
+00:47:23,280 --> 00:47:24,990
+kind of thinking, right?
+
+1037
+00:47:24,990 --> 00:47:27,270
+And you were talking about sort of what are the pathways
+
+1038
+00:47:27,270 --> 00:47:29,133
+to careers in this space?
+
+1039
+00:47:30,000 --> 00:47:32,520
+And I'm just trying to,
+
+1040
+00:47:32,520 --> 00:47:33,540
+I worked at a community college,
+
+1041
+00:47:33,540 --> 00:47:34,373
+I'm a vice president,
+
+1042
+00:47:34,373 --> 00:47:36,180
+I can help develop programming and degrees
+
+1043
+00:47:36,180 --> 00:47:39,480
+and certificates working with faculty to do so.
+
+1044
+00:47:39,480 --> 00:47:41,250
+And I don't know if, I'm trying to think through like,
+
+1045
+00:47:41,250 --> 00:47:43,800
+is data science the thing we want to be doing here
+
+1046
+00:47:43,800 --> 00:47:46,260
+and trying to elevate that in the program,
+
+1047
+00:47:46,260 --> 00:47:48,810
+but that in and of itself isn't really gonna get you there.
+
+1048
+00:47:48,810 --> 00:47:49,643
+Right?
+
+1049
+00:47:49,643 --> 00:47:50,602
+And then how does then,
+
+1050
+00:47:50,602 --> 00:47:52,410
+because you're trying to create this sort of catchall thing,
+
+1051
+00:47:52,410 --> 00:47:55,143
+data science, ethical approaches,
+
+1052
+00:47:56,250 --> 00:47:58,920
+I think ethnic studies, I'm trying to think, you know,
+
+1053
+00:47:58,920 --> 00:48:02,160
+kind of good thinking we do in our humanities programs
+
+1054
+00:48:02,160 --> 00:48:05,850
+that lead into everything.
+
+1055
+00:48:05,850 --> 00:48:08,310
+So one thing, like I'm not,
+
+1056
+00:48:08,310 --> 00:48:11,310
+what are your all thoughts in terms of how we could,
+
+1057
+00:48:11,310 --> 00:48:13,950
+because we do like the here you go
+
+1058
+00:48:13,950 --> 00:48:15,750
+and then you're all gonna pick it up and take it, right?
+
+1059
+00:48:15,750 --> 00:48:18,270
+So what do you need here at this level
+
+1060
+00:48:18,270 --> 00:48:21,060
+for us to kind of help you help our,
+
+1061
+00:48:21,060 --> 00:48:23,929
+help us, help the society kind of engage in this this way?
+
+1062
+00:48:23,929 --> 00:48:25,120
+Does that make sense?
+
+1063
+00:48:25,120 --> 00:48:26,760
+- Yeah, great question.
+
+1064
+00:48:26,760 --> 00:48:29,490
+Did anyone not hear the question about pathway development,
+
+1065
+00:48:29,490 --> 00:48:33,300
+multidisciplinary, how to create the right type of pathway?
+
+1066
+00:48:33,300 --> 00:48:34,600
+Who would like to take it?
+
+1067
+00:48:35,910 --> 00:48:39,660
+- I can quickly share what
+
+1068
+00:48:39,660 --> 00:48:42,210
+we have been exploring.
+
+1069
+00:48:42,210 --> 00:48:43,043
+Right?
+
+1070
+00:48:43,043 --> 00:48:46,650
+So I think recently we have
+
+1071
+00:48:46,650 --> 00:48:51,650
+successfully launched, it's called AI Minor program
+
+1072
+00:48:52,230 --> 00:48:54,330
+through the school information.
+
+1073
+00:48:54,330 --> 00:48:56,730
+So it's a non-credit program,
+
+1074
+00:48:56,730 --> 00:48:59,460
+and ethics is the requirement, right?
+
+1075
+00:48:59,460 --> 00:49:03,450
+So, and a few other college are also thinking about
+
+1076
+00:49:03,450 --> 00:49:04,740
+things like that, right?
+
+1077
+00:49:04,740 --> 00:49:08,610
+So to pack those foundation,
+
+1078
+00:49:08,610 --> 00:49:09,960
+like data science, for instance,
+
+1079
+00:49:09,960 --> 00:49:12,360
+but on top of that you have to have ethics
+
+1080
+00:49:12,360 --> 00:49:17,360
+and then there's another disciplinary related AI
+
+1081
+00:49:17,460 --> 00:49:19,020
+technology course.
+
+1082
+00:49:19,020 --> 00:49:20,820
+So you can pack things like that.
+
+1083
+00:49:20,820 --> 00:49:24,540
+And then as a so solution,
+
+1084
+00:49:24,540 --> 00:49:27,780
+I think that's what we have been exploring.
+
+1085
+00:49:27,780 --> 00:49:31,020
+- [Blake] So like a Bolton instead of a thing, right?
+
+1086
+00:49:31,020 --> 00:49:33,410
+If you could say, oh we're gonna create a degree in this
+
+1087
+00:49:33,410 --> 00:49:36,510
+or I can create Bolton experiences to every group.
+
+1088
+00:49:36,510 --> 00:49:37,343
+- Yeah.
+
+1089
+00:49:37,343 --> 00:49:39,340
+- [Blake] And so I don't know if there's a.
+
+1090
+00:49:39,340 --> 00:49:40,443
+That make sense?
+
+1091
+00:49:41,400 --> 00:49:42,543
+- Yeah, go ahead, yes.
+
+1092
+00:49:43,620 --> 00:49:46,729
+You can't end a panel without a little bit of spice.
+
+1093
+00:49:46,729 --> 00:49:47,940
+- Exactly.
+
+1094
+00:49:47,940 --> 00:49:50,640
+- Personally, you know, the, the debate
+
+1095
+00:49:50,640 --> 00:49:52,860
+and wrestling around is this an add-on?
+
+1096
+00:49:52,860 --> 00:49:54,540
+Is it a Bolton, etcetera.
+
+1097
+00:49:54,540 --> 00:49:56,880
+For us at Berkeley, when we started data science,
+
+1098
+00:49:56,880 --> 00:50:01,470
+we felt it was incredibly important to make human context
+
+1099
+00:50:01,470 --> 00:50:03,480
+and ethics core to that.
+
+1100
+00:50:03,480 --> 00:50:05,310
+And so it is a requirement
+
+1101
+00:50:05,310 --> 00:50:07,410
+that every data science undergraduate
+
+1102
+00:50:07,410 --> 00:50:11,130
+is taking and actually it's a super popular class,
+
+1103
+00:50:11,130 --> 00:50:12,240
+human context and ethics.
+
+1104
+00:50:12,240 --> 00:50:14,070
+And there's a whole pathway of like,
+
+1105
+00:50:14,070 --> 00:50:15,570
+oh you found that interesting.
+
+1106
+00:50:15,570 --> 00:50:18,870
+Like here's another way to explore that.
+
+1107
+00:50:18,870 --> 00:50:20,700
+We have been discussing
+
+1108
+00:50:20,700 --> 00:50:22,290
+with Safiya Noble at UCLA,
+
+1109
+00:50:22,290 --> 00:50:27,290
+different ways to maybe offer UC, Berkeley and UCLA
+
+1110
+00:50:27,720 --> 00:50:29,460
+and maybe community colleges,
+
+1111
+00:50:29,460 --> 00:50:30,750
+if it's not bold and ambitious,
+
+1112
+00:50:30,750 --> 00:50:32,767
+why bother is sort of our thing.
+
+1113
+00:50:32,767 --> 00:50:37,200
+But like, you know, pathways where students could really
+
+1114
+00:50:37,200 --> 00:50:41,820
+learn from the best of what there is to offer here.
+
+1115
+00:50:41,820 --> 00:50:43,680
+So I think at its core,
+
+1116
+00:50:43,680 --> 00:50:45,660
+whether it's called data science
+
+1117
+00:50:45,660 --> 00:50:50,040
+or AI or technology, you know, for public benefit,
+
+1118
+00:50:50,040 --> 00:50:55,040
+for us it's about empowering the data and AI ready leaders
+
+1119
+00:50:55,530 --> 00:50:59,400
+with their very human perspective and purpose to go out
+
+1120
+00:50:59,400 --> 00:51:00,720
+and do amazing things,
+
+1121
+00:51:00,720 --> 00:51:02,520
+whether it's in health or climate
+
+1122
+00:51:02,520 --> 00:51:05,703
+or education, or you know, technology itself.
+
+1123
+00:51:06,630 --> 00:51:07,950
+And so yeah,
+
+1124
+00:51:07,950 --> 00:51:09,810
+I would encourage folks in the room ,
+
+1125
+00:51:09,810 --> 00:51:11,850
+if you're thinking about this,
+
+1126
+00:51:11,850 --> 00:51:16,850
+to consider, you know, what is required, what is added?
+
+1127
+00:51:16,980 --> 00:51:18,720
+And if it is, you know, an elective and added,
+
+1128
+00:51:18,720 --> 00:51:20,310
+are there ways to frame it
+
+1129
+00:51:20,310 --> 00:51:23,670
+so that people feel encouraged and it's not just like,
+
+1130
+00:51:23,670 --> 00:51:26,160
+oh, and you know, once you do these requirements,
+
+1131
+00:51:26,160 --> 00:51:28,260
+you have the option to learn about ethics.
+
+1132
+00:51:29,730 --> 00:51:31,329
+- Yeah, I would agree with that.
+
+1133
+00:51:31,329 --> 00:51:33,600
+I think that ethics kind of needs to be central to this.
+
+1134
+00:51:33,600 --> 00:51:36,780
+And then what we also need to do is highlight
+
+1135
+00:51:36,780 --> 00:51:39,090
+that connective tissue between how this then relates
+
+1136
+00:51:39,090 --> 00:51:41,580
+to healthcare or justice or environmental work
+
+1137
+00:51:41,580 --> 00:51:45,870
+or you know, racial justice,
+
+1138
+00:51:45,870 --> 00:51:47,550
+whatever the subject matter is.
+
+1139
+00:51:47,550 --> 00:51:49,560
+Because what my research has shown is
+
+1140
+00:51:49,560 --> 00:51:50,970
+that students are really interested
+
+1141
+00:51:50,970 --> 00:51:52,800
+in this broad spectrum of things,
+
+1142
+00:51:52,800 --> 00:51:53,880
+but they don't always see
+
+1143
+00:51:53,880 --> 00:51:56,070
+how technology slots into that.
+
+1144
+00:51:56,070 --> 00:51:58,980
+And so we need to give them the foundation of, you know,
+
+1145
+00:51:58,980 --> 00:52:01,470
+this is how we use technology responsibly
+
+1146
+00:52:01,470 --> 00:52:05,520
+through an ethics course or similar, or courses, ideally.
+
+1147
+00:52:05,520 --> 00:52:07,830
+And then show them how that connects out
+
+1148
+00:52:07,830 --> 00:52:09,510
+to whatever subject it is
+
+1149
+00:52:09,510 --> 00:52:11,360
+that they are seeking to apply it in.
+
+1150
+00:52:13,090 --> 00:52:13,923
+- I would.
+
+1151
+00:52:13,923 --> 00:52:15,062
+- Yeah, go ahead Yingjie. - Okay.
+
+1152
+00:52:15,062 --> 00:52:18,450
+I will just add a quickly, for yeah, literacy,
+
+1153
+00:52:18,450 --> 00:52:22,020
+the foundational AI literacy course we have built,
+
+1154
+00:52:22,020 --> 00:52:25,590
+we actually have specific modules
+
+1155
+00:52:25,590 --> 00:52:27,900
+talking about ethics and responsible use
+
+1156
+00:52:27,900 --> 00:52:29,250
+and also environmental impact,
+
+1157
+00:52:29,250 --> 00:52:31,410
+all those important topics
+
+1158
+00:52:31,410 --> 00:52:35,100
+and the students' feedback, they really appreciate that.
+
+1159
+00:52:35,100 --> 00:52:38,140
+At same time, they also value
+
+1160
+00:52:39,600 --> 00:52:44,600
+the discipline specific AI career,
+
+1161
+00:52:44,730 --> 00:52:47,250
+and skills, and knowledge, about that.
+
+1162
+00:52:47,250 --> 00:52:51,180
+So another idea I want
+
+1163
+00:52:51,180 --> 00:52:53,430
+to share is in the AI literacy course,
+
+1164
+00:52:53,430 --> 00:52:56,610
+students have four modules, essential module,
+
+1165
+00:52:56,610 --> 00:52:57,570
+the foundation,
+
+1166
+00:52:57,570 --> 00:52:59,130
+but we also have the fellows,
+
+1167
+00:52:59,130 --> 00:53:01,260
+remember the fellows are from each college.
+
+1168
+00:53:01,260 --> 00:53:03,150
+So each fellow actually develop,
+
+1169
+00:53:03,150 --> 00:53:05,850
+contribute college specific module.
+
+1170
+00:53:05,850 --> 00:53:10,380
+So kind of like, here's a big idea about AI literacy,
+
+1171
+00:53:10,380 --> 00:53:11,820
+but for our college,
+
+1172
+00:53:11,820 --> 00:53:14,970
+what do we mean and what our career
+
+1173
+00:53:14,970 --> 00:53:18,030
+and discipline actually need and require.
+
+1174
+00:53:18,030 --> 00:53:20,373
+So kind of like help students see it,
+
+1175
+00:53:21,330 --> 00:53:23,610
+you know, closer way.
+
+1176
+00:53:23,610 --> 00:53:24,930
+Yeah.
+
+1177
+00:53:24,930 --> 00:53:26,640
+- That's a great, that's a great question.
+
+1178
+00:53:26,640 --> 00:53:28,755
+And as a funder, I think it'd be really interesting too,
+
+1179
+00:53:28,755 --> 00:53:30,750
+like, 'cause we're evaluating models all the time,
+
+1180
+00:53:30,750 --> 00:53:32,460
+but to kind of have a toolkit
+
+1181
+00:53:32,460 --> 00:53:35,490
+or something that shows some case studies of this,
+
+1182
+00:53:35,490 --> 00:53:39,570
+but we're huge fans of also modularized sort of learning,
+
+1183
+00:53:39,570 --> 00:53:41,940
+but making sure that it's not just a box to check,
+
+1184
+00:53:41,940 --> 00:53:42,870
+to Meredith's point.
+
+1185
+00:53:42,870 --> 00:53:45,420
+So I think we have time for one more question.
+
+1186
+00:53:45,420 --> 00:53:46,890
+Rick, did you wanna take it?
+
+1187
+00:53:46,890 --> 00:53:47,723
+Okay.
+
+1188
+00:53:47,723 --> 00:53:49,470
+- [Rick] Yeah, that would be great, thanks.
+
+1189
+00:53:49,470 --> 00:53:53,040
+So one of the things that you guys are all from
+
+1190
+00:53:53,040 --> 00:53:53,970
+before your colleges
+
+1191
+00:53:53,970 --> 00:53:58,140
+and as AI is moving at this rapid clip
+
+1192
+00:53:58,140 --> 00:54:00,690
+where people are paying attention,
+
+1193
+00:54:00,690 --> 00:54:02,790
+last week, I'm already behind
+
+1194
+00:54:02,790 --> 00:54:06,060
+and curriculum is incredibly challenging,
+
+1195
+00:54:06,060 --> 00:54:09,450
+at least in it's coursework in a degree program that tends
+
+1196
+00:54:09,450 --> 00:54:10,283
+to take really long,
+
+1197
+00:54:10,283 --> 00:54:12,870
+even community colleges are really challenging.
+
+1198
+00:54:12,870 --> 00:54:17,790
+So I'm curious about your take on the pace problem
+
+1199
+00:54:17,790 --> 00:54:19,233
+for these programs.
+
+1200
+00:54:20,168 --> 00:54:23,730
+And then the other point I wanted to make is that the,
+
+1201
+00:54:23,730 --> 00:54:25,290
+that I think experiential learning,
+
+1202
+00:54:25,290 --> 00:54:30,090
+especially of public interest, is really a strong model.
+
+1203
+00:54:30,090 --> 00:54:32,310
+And I love the idea of having real world challenges
+
+1204
+00:54:32,310 --> 00:54:35,490
+of discussions and conversations about that here.
+
+1205
+00:54:35,490 --> 00:54:37,440
+And what I've seen is that a lot of people,
+
+1206
+00:54:37,440 --> 00:54:40,710
+there's kind of the classic root of CS,
+
+1207
+00:54:40,710 --> 00:54:42,390
+maybe maybe little data sciences,
+
+1208
+00:54:42,390 --> 00:54:44,793
+as kind of becoming a specialist in AI.
+
+1209
+00:54:44,793 --> 00:54:48,450
+That would be what most people imagined a year or two ago.
+
+1210
+00:54:48,450 --> 00:54:52,380
+And then, a lot of business entrepreneur programs
+
+1211
+00:54:52,380 --> 00:54:54,930
+are merging that are trying to apply it
+
+1212
+00:54:54,930 --> 00:54:57,330
+and take the more entrepreneurial students
+
+1213
+00:54:57,330 --> 00:55:00,330
+and nurture that with AI in there.
+
+1214
+00:55:00,330 --> 00:55:02,100
+And I think this public sector,
+
+1215
+00:55:02,100 --> 00:55:07,100
+or this public interest model that you guys are taking,
+
+1216
+00:55:07,170 --> 00:55:10,350
+it feels like if you can figure out the pace problem,
+
+1217
+00:55:10,350 --> 00:55:14,880
+having that as a third prong of it,
+
+1218
+00:55:14,880 --> 00:55:16,920
+this sort of more pure technical,
+
+1219
+00:55:16,920 --> 00:55:20,100
+the business entrepreneurial that could be greater
+
+1220
+00:55:20,100 --> 00:55:24,181
+or it could be, you know, that happened earlier,
+
+1221
+00:55:24,181 --> 00:55:25,890
+or the public interest,
+
+1222
+00:55:25,890 --> 00:55:28,680
+which is inherently for good.
+
+1223
+00:55:28,680 --> 00:55:30,927
+I really think is key to learning.
+
+1224
+00:55:32,430 --> 00:55:33,510
+- Absolutely.
+
+1225
+00:55:33,510 --> 00:55:35,703
+Anyone want to comment on this?
+
+1226
+00:55:38,040 --> 00:55:40,380
+- I can't really comment on the time piece.
+
+1227
+00:55:40,380 --> 00:55:42,210
+I don't think I have a good answer for that.
+
+1228
+00:55:42,210 --> 00:55:44,516
+- You don't have an answer to the time piece of AI?
+
+1229
+00:55:44,516 --> 00:55:46,311
+- I don't, I don't. - Oh my goodness.
+
+1230
+00:55:46,311 --> 00:55:47,430
+I don't how we do that.
+
+1231
+00:55:47,430 --> 00:55:49,350
+- It's changing every day.
+
+1232
+00:55:49,350 --> 00:55:50,730
+But the experiential piece, yeah,
+
+1233
+00:55:50,730 --> 00:55:52,230
+I think it's really crucial and key
+
+1234
+00:55:52,230 --> 00:55:54,750
+and that's how we are going to set up our learners
+
+1235
+00:55:54,750 --> 00:55:56,280
+for success in the workforce.
+
+1236
+00:55:56,280 --> 00:55:58,230
+And I don't think that, I mean,
+
+1237
+00:55:58,230 --> 00:56:00,000
+so in the law school setting,
+
+1238
+00:56:00,000 --> 00:56:01,920
+when students are doing experiential learning,
+
+1239
+00:56:01,920 --> 00:56:03,300
+they're doing it for like a semester
+
+1240
+00:56:03,300 --> 00:56:04,860
+or a short period of time.
+
+1241
+00:56:04,860 --> 00:56:08,100
+So it can be integrated in shorter time periods
+
+1242
+00:56:08,100 --> 00:56:10,800
+throughout whatever period of learning you have, I think.
+
+1243
+00:56:10,800 --> 00:56:12,600
+It's just a matter of, you know,
+
+1244
+00:56:12,600 --> 00:56:14,790
+setting expectations with whoever the partner is,
+
+1245
+00:56:14,790 --> 00:56:16,560
+of what is realistic to accomplish
+
+1246
+00:56:16,560 --> 00:56:18,180
+by students in that time, right?
+
+1247
+00:56:18,180 --> 00:56:20,610
+And that's something we run into in law all the time.
+
+1248
+00:56:20,610 --> 00:56:23,040
+People think, oh, these students can come in
+
+1249
+00:56:23,040 --> 00:56:25,410
+and solve this gigantic problem in 13 weeks.
+
+1250
+00:56:25,410 --> 00:56:26,670
+Obviously they're not going to do that.
+
+1251
+00:56:26,670 --> 00:56:28,530
+So we have to like break it down
+
+1252
+00:56:28,530 --> 00:56:30,450
+and be very clear to the students,
+
+1253
+00:56:30,450 --> 00:56:33,450
+but also the partners in what is going to be achievable
+
+1254
+00:56:33,450 --> 00:56:36,270
+in that time and like what the feedback loop needs to be
+
+1255
+00:56:36,270 --> 00:56:37,103
+and all of that stuff.
+
+1256
+00:56:37,103 --> 00:56:39,570
+So it does need to be built quite carefully,
+
+1257
+00:56:39,570 --> 00:56:41,670
+but I think you can slot it in into relatively
+
+1258
+00:56:41,670 --> 00:56:43,383
+short time periods.
+
+1259
+00:56:47,970 --> 00:56:50,970
+- Well, we learned in human-centered design thinking,
+
+1260
+00:56:50,970 --> 00:56:53,640
+you can imagine if that problem were solved,
+
+1261
+00:56:53,640 --> 00:56:54,903
+what would be different?
+
+1262
+00:56:55,770 --> 00:56:59,560
+I think there's some lessons from agile governance work
+
+1263
+00:57:00,420 --> 00:57:02,100
+where it was the same sort of like, oh,
+
+1264
+00:57:02,100 --> 00:57:04,500
+we can't set up the regulations
+
+1265
+00:57:04,500 --> 00:57:06,030
+and norms around governments
+
+1266
+00:57:06,030 --> 00:57:08,820
+as fast as, you know, this is moving.
+
+1267
+00:57:08,820 --> 00:57:11,520
+There's some interesting parallels there.
+
+1268
+00:57:11,520 --> 00:57:14,490
+For Berkeley, we felt a huge pain point
+
+1269
+00:57:14,490 --> 00:57:17,910
+when the scale of our classes
+
+1270
+00:57:17,910 --> 00:57:20,610
+just really took off the student demand.
+
+1271
+00:57:20,610 --> 00:57:23,490
+And in flipping that problem of scale
+
+1272
+00:57:23,490 --> 00:57:25,200
+to an opportunity of scale,
+
+1273
+00:57:25,200 --> 00:57:28,170
+we were able to come up with creative ways
+
+1274
+00:57:28,170 --> 00:57:29,520
+where the faculty, you know,
+
+1275
+00:57:29,520 --> 00:57:32,490
+they couldn't possibly do one-on-one, you know,
+
+1276
+00:57:32,490 --> 00:57:35,340
+office hours with a thousand plus students,
+
+1277
+00:57:35,340 --> 00:57:37,410
+1500 students, etcetera.
+
+1278
+00:57:37,410 --> 00:57:40,950
+But groups where students who are just a year ahead,
+
+1279
+00:57:40,950 --> 00:57:42,600
+or sometimes even six months ahead
+
+1280
+00:57:42,600 --> 00:57:46,080
+from the current person in need,
+
+1281
+00:57:46,080 --> 00:57:49,350
+that ended up being a very valuable scaffolding
+
+1282
+00:57:49,350 --> 00:57:52,710
+that over the years you build up essentially this pipeline
+
+1283
+00:57:52,710 --> 00:57:54,060
+of people who have been in
+
+1284
+00:57:54,060 --> 00:57:57,090
+that student's shoes literally just recently.
+
+1285
+00:57:57,090 --> 00:58:00,750
+And so I think there's something about leveraging our,
+
+1286
+00:58:00,750 --> 00:58:05,190
+you know, creative students and how they're approaching this
+
+1287
+00:58:05,190 --> 00:58:09,090
+and they, you know, have grown up in an age
+
+1288
+00:58:09,090 --> 00:58:12,750
+of high paced, you know, interaction.
+
+1289
+00:58:12,750 --> 00:58:16,170
+And so I think there's potential there that's untapped.
+
+1290
+00:58:16,170 --> 00:58:19,200
+To your second question about experiential learning,
+
+1291
+00:58:19,200 --> 00:58:22,410
+I remember as a student going to internships
+
+1292
+00:58:22,410 --> 00:58:24,030
+and thinking there was something wrong with me,
+
+1293
+00:58:24,030 --> 00:58:26,910
+because people said internships are great for learning
+
+1294
+00:58:26,910 --> 00:58:29,163
+what you're good at and what you don't like.
+
+1295
+00:58:30,120 --> 00:58:31,890
+And I liked all of my internships,
+
+1296
+00:58:31,890 --> 00:58:33,750
+even though they were really, really different.
+
+1297
+00:58:33,750 --> 00:58:37,680
+And so because we're living in this multidisciplinary world,
+
+1298
+00:58:37,680 --> 00:58:42,240
+and you know, an AI world is a multidisciplinary world,
+
+1299
+00:58:42,240 --> 00:58:46,050
+I think the more we can provide experiential learning
+
+1300
+00:58:46,050 --> 00:58:48,780
+and let students know that there's a safe place
+
+1301
+00:58:48,780 --> 00:58:51,210
+to explore in a cohort to, you know,
+
+1302
+00:58:51,210 --> 00:58:53,340
+share their experiences,
+
+1303
+00:58:53,340 --> 00:58:55,290
+it just makes it so much more real
+
+1304
+00:58:55,290 --> 00:58:57,300
+and tangible for those students.
+
+1305
+00:58:57,300 --> 00:58:59,520
+So yeah, I am a fan of experiential learning
+
+1306
+00:58:59,520 --> 00:59:02,670
+and would love to discuss potential partnerships
+
+1307
+00:59:02,670 --> 00:59:04,920
+with anybody else who's seen some
+
+1308
+00:59:04,920 --> 00:59:07,353
+pilots in their individual institutions.
+
+1309
+00:59:09,790 --> 00:59:14,040
+- Okay, I would quickly add one more thing.
+
+1310
+00:59:14,040 --> 00:59:16,230
+I think as we talk about experiential learning,
+
+1311
+00:59:16,230 --> 00:59:18,990
+it reminds me good teaching is good teaching.
+
+1312
+00:59:18,990 --> 00:59:23,130
+Experiential learning is good no matter AI or not, right?
+
+1313
+00:59:23,130 --> 00:59:26,310
+So it is good pedagogy.
+
+1314
+00:59:26,310 --> 00:59:30,030
+And also I try to answer the first question about the pace,
+
+1315
+00:59:30,030 --> 00:59:34,037
+you know, everybody need to be patient, right?
+
+1316
+00:59:36,210 --> 00:59:38,823
+Because we are all working on this together.
+
+1317
+00:59:39,750 --> 00:59:44,750
+At same time I think follow the lead of students, right?
+
+1318
+00:59:44,760 --> 00:59:48,960
+A lot of time we naturally, as educator,
+
+1319
+00:59:48,960 --> 00:59:52,650
+we think this is good for you, this is good for you, right?
+
+1320
+00:59:52,650 --> 00:59:57,240
+So we keep adding things to students' plate at same time,
+
+1321
+00:59:57,240 --> 00:59:59,700
+because we talk about the the future job,
+
+1322
+00:59:59,700 --> 01:00:01,140
+all the workforce development.
+
+1323
+01:00:01,140 --> 01:00:03,480
+At same time we talk about the entry level,
+
+1324
+01:00:03,480 --> 01:00:05,580
+Java is at risk, right?
+
+1325
+01:00:05,580 --> 01:00:09,330
+So we need to re-evaluate all those.
+
+1326
+01:00:09,330 --> 01:00:13,590
+And then really put, again, back to the classroom
+
+1327
+01:00:13,590 --> 01:00:16,200
+and think with the faculty, right?
+
+1328
+01:00:16,200 --> 01:00:19,200
+So right now the course learning objective
+
+1329
+01:00:19,200 --> 01:00:22,623
+actually should, based on the Bloom taxonomy,
+
+1330
+01:00:23,880 --> 01:00:26,250
+we need to aim to the higher level, right?
+
+1331
+01:00:26,250 --> 01:00:27,083
+In other traditional
+
+1332
+01:00:27,083 --> 01:00:29,870
+we build, build, build, build, until that.
+
+1333
+01:00:29,870 --> 01:00:32,610
+We actually need to flip, we aim high.
+
+1334
+01:00:32,610 --> 01:00:36,510
+So that way when we prepare student graduate,
+
+1335
+01:00:36,510 --> 01:00:38,250
+they have the skill ready.
+
+1336
+01:00:38,250 --> 01:00:41,400
+But at the same time with everything going on,
+
+1337
+01:00:41,400 --> 01:00:44,250
+we need to give us credit.
+
+1338
+01:00:44,250 --> 01:00:46,443
+You know, everybody please be patient.
+
+1339
+01:00:47,700 --> 01:00:48,533
+- Absolutely.
+
+1340
+01:00:48,533 --> 01:00:50,010
+And it's funny as we've also seen some cases
+
+1341
+01:00:50,010 --> 01:00:51,960
+where anything related to AI can get kind
+
+1342
+01:00:51,960 --> 01:00:54,060
+of like best tracked, approved.
+
+1343
+01:00:54,060 --> 01:00:55,380
+So some examples of that.
+
+1344
+01:00:55,380 --> 01:00:56,880
+And then the last point I'll add just quickly
+
+1345
+01:00:56,880 --> 01:01:01,770
+before we close is I think we really see it as a foundation,
+
+1346
+01:01:01,770 --> 01:01:03,780
+like an opportunity to bring in startups
+
+1347
+01:01:03,780 --> 01:01:06,120
+and the venture community into these conversations.
+
+1348
+01:01:06,120 --> 01:01:09,240
+And that's why it's really ideal to collaborate
+
+1349
+01:01:09,240 --> 01:01:11,640
+between universities, community colleges,
+
+1350
+01:01:11,640 --> 01:01:13,590
+and that whole startup ecosystem,
+
+1351
+01:01:13,590 --> 01:01:17,100
+because often that startup ecosystem is left,
+
+1352
+01:01:17,100 --> 01:01:18,630
+you know, aside.
+
+1353
+01:01:18,630 --> 01:01:21,390
+And I think that can inject some of that urgency of like
+
+1354
+01:01:21,390 --> 01:01:23,190
+what is really market relevant,
+
+1355
+01:01:23,190 --> 01:01:25,050
+as we saw a lot of students wanna to go work
+
+1356
+01:01:25,050 --> 01:01:26,902
+for the private sector
+
+1357
+01:01:26,902 --> 01:01:28,320
+and that's not the only option,
+
+1358
+01:01:28,320 --> 01:01:30,480
+but I think that intersection is really key.
+
+1359
+01:01:30,480 --> 01:01:32,460
+So I know we are at time.
+
+1360
+01:01:32,460 --> 01:01:35,849
+Please join me in thanking these fantastic panelists.
+
+1361
+01:01:35,849 --> 01:01:37,470
+(people clapping)
+
+1362
+01:01:37,470 --> 01:01:39,120
+We hope that this inspires you all.
+
+1363
+01:01:39,120 --> 01:01:41,640
+We'd love in a year from now to be back and hear
+
+1364
+01:01:41,640 --> 01:01:45,120
+about some of the pilots that you have all started.
+
+1365
+01:01:45,120 --> 01:01:47,913
+And you know, as a funder, again,
+
+1366
+01:01:48,989 --> 01:01:50,100
+like we see other funders in this space
+
+1367
+01:01:50,100 --> 01:01:53,640
+who are just very eager to see how we can help.
+
+1368
+01:01:53,640 --> 01:01:55,740
+So we'll stay on stage for a little bit longer
+
+1369
+01:01:55,740 --> 01:01:57,510
+and feel free to come up and ask any questions.
+
+1370
+01:01:57,510 --> 01:01:58,710
+But thank you so much today.
+
+1371
+01:01:58,710 --> 01:01:59,604
+- Thank you. - Thank you.
+
+1372
+01:01:59,604 --> 01:02:00,437
+- Bye.
+
+1373
+01:02:02,320 --> 01:02:03,737
+- Yey, we did it.

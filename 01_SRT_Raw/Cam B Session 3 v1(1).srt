@@ -1,0 +1,1899 @@
+1
+00:00:05,550 --> 00:00:09,175
+- Email, and so getting logged onto an email,
+
+2
+00:00:09,175 --> 00:00:11,910
+they had to, we had to create an email.
+
+3
+00:00:11,910 --> 00:00:15,390
+And then obviously I can't be too mean,
+
+4
+00:00:15,390 --> 00:00:18,060
+my vice president of technology isn't here,
+
+5
+00:00:18,060 --> 00:00:20,340
+but, so, but no, he knows.
+
+6
+00:00:20,340 --> 00:00:21,173
+He knows.
+
+7
+00:00:21,173 --> 00:00:23,160
+And so the thing is,
+
+8
+00:00:23,160 --> 00:00:24,840
+once we then moved onto the next step
+
+9
+00:00:24,840 --> 00:00:26,160
+of logging onto an email,
+
+10
+00:00:26,160 --> 00:00:28,263
+well, we had multifactor authentication,
+
+11
+00:00:29,340 --> 00:00:31,800
+and at the time we had two of them.
+
+12
+00:00:31,800 --> 00:00:34,530
+And so we're safer now.
+
+13
+00:00:34,530 --> 00:00:36,730
+And so this is not a bash towards you, Arla,
+
+14
+00:00:37,740 --> 00:00:41,400
+but my base is, you know,
+
+15
+00:00:41,400 --> 00:00:45,420
+it was not an easy process of onboarding students.
+
+16
+00:00:45,420 --> 00:00:49,440
+And so thinking that we could onboard 14 students
+
+17
+00:00:49,440 --> 00:00:51,720
+that had never touched a computer before in their life
+
+18
+00:00:51,720 --> 00:00:53,730
+in an hour and a half period of time,
+
+19
+00:00:53,730 --> 00:00:55,080
+not gonna happen.
+
+20
+00:00:55,080 --> 00:00:58,202
+I mean, and I say that genuinely
+
+21
+00:00:58,202 --> 00:01:01,202
+that we changed the next group
+
+22
+00:01:01,202 --> 00:01:03,870
+that we onboarded two weeks later.
+
+23
+00:01:03,870 --> 00:01:05,730
+We did one-on-one.
+
+24
+00:01:05,730 --> 00:01:07,983
+And so we made changes there.
+
+25
+00:01:08,850 --> 00:01:09,990
+As we continue to look
+
+26
+00:01:09,990 --> 00:01:11,790
+at like the development side of things,
+
+27
+00:01:11,790 --> 00:01:12,623
+of what we're doing
+
+28
+00:01:12,623 --> 00:01:14,663
+with our competency-based education program,
+
+29
+00:01:14,663 --> 00:01:18,480
+I mentioned we're the very first competency-based program
+
+30
+00:01:18,480 --> 00:01:20,223
+in agriculture in California.
+
+31
+00:01:21,120 --> 00:01:23,460
+There was no one that we could compare to
+
+32
+00:01:23,460 --> 00:01:26,130
+and specifically like the processes
+
+33
+00:01:26,130 --> 00:01:27,420
+of what we were doing.
+
+34
+00:01:27,420 --> 00:01:30,423
+It is a non-credit CBE program currently.
+
+35
+00:01:31,449 --> 00:01:33,450
+There was no transcripts
+
+36
+00:01:33,450 --> 00:01:37,980
+that we could really copy off of or use.
+
+37
+00:01:37,980 --> 00:01:39,750
+So we had to develop transcripts,
+
+38
+00:01:39,750 --> 00:01:41,250
+and we're still developing transcripts.
+
+39
+00:01:41,250 --> 00:01:44,160
+We've actually, we have developed a competency-based
+
+40
+00:01:44,160 --> 00:01:46,980
+education transcript, but ensuring that, you know,
+
+41
+00:01:46,980 --> 00:01:50,294
+as we look at scalability of programs,
+
+42
+00:01:50,294 --> 00:01:53,010
+we know some of the students not only will take
+
+43
+00:01:53,010 --> 00:01:56,250
+the competency-based access system certificate,
+
+44
+00:01:56,250 --> 00:02:00,420
+but they'll also take potentially a for-credit program.
+
+45
+00:02:00,420 --> 00:02:03,942
+And so ensuring that if students are requesting transcripts,
+
+46
+00:02:03,942 --> 00:02:05,902
+they don't have to--
+
+47
+00:02:05,902 --> 00:02:08,880
+we're trying to eliminate one less click for them
+
+48
+00:02:08,880 --> 00:02:10,980
+so that if they wanna request transcripts,
+
+49
+00:02:10,980 --> 00:02:14,040
+it spits it all out onto two or three documents.
+
+50
+00:02:14,040 --> 00:02:15,840
+That hasn't been an easy process.
+
+51
+00:02:15,840 --> 00:02:18,660
+And so when we're looking at some of those barriers
+
+52
+00:02:18,660 --> 00:02:20,835
+from a systematic side of things,
+
+53
+00:02:20,835 --> 00:02:22,740
+we're still working on that.
+
+54
+00:02:22,740 --> 00:02:26,550
+And we're, we meet weekly;
+
+55
+00:02:26,550 --> 00:02:30,540
+we have several different work groups that are part of that.
+
+56
+00:02:30,540 --> 00:02:32,880
+When we look at the barriers for students,
+
+57
+00:02:32,880 --> 00:02:36,810
+that's what this specific program has been all about
+
+58
+00:02:36,810 --> 00:02:40,290
+was how can we remove barriers for students.
+
+59
+00:02:40,290 --> 00:02:43,530
+The process of applying to a community college
+
+60
+00:02:43,530 --> 00:02:46,140
+in California is not simple.
+
+61
+00:02:46,140 --> 00:02:49,080
+We have a wellbeing program at the college,
+
+62
+00:02:49,080 --> 00:02:52,980
+and I applied to be a student at Merced College
+
+63
+00:02:52,980 --> 00:02:55,770
+a couple, a few months ago.
+
+64
+00:02:55,770 --> 00:02:57,960
+I was kind of lost,
+
+65
+00:02:57,960 --> 00:03:01,267
+and I kind of sit back and I was like,
+
+66
+00:03:01,267 --> 00:03:03,870
+"How are my students that have never touched a computer
+
+67
+00:03:03,870 --> 00:03:05,940
+before gonna get through this?"
+
+68
+00:03:05,940 --> 00:03:09,033
+And so in some programs,
+
+69
+00:03:09,033 --> 00:03:11,310
+the ag tech program specifically,
+
+70
+00:03:11,310 --> 00:03:15,750
+it's very, very one-on-one with our support systems.
+
+71
+00:03:15,750 --> 00:03:19,680
+We know that's not an option for all students, though.
+
+72
+00:03:19,680 --> 00:03:23,370
+And so how can we cut down barriers for students?
+
+73
+00:03:23,370 --> 00:03:26,550
+One other barrier that I wanna share is,
+
+74
+00:03:26,550 --> 00:03:30,060
+you know, when the students get into our program
+
+75
+00:03:30,060 --> 00:03:32,970
+and they get through their very first competency,
+
+76
+00:03:32,970 --> 00:03:35,130
+which is digital literacy,
+
+77
+00:03:35,130 --> 00:03:37,800
+that's our major stress for some of our students.
+
+78
+00:03:37,800 --> 00:03:39,540
+And for some of them,
+
+79
+00:03:39,540 --> 00:03:41,010
+once they get halfway through that,
+
+80
+00:03:41,010 --> 00:03:46,010
+which, you know, could take roughly six to eight hours--
+
+81
+00:03:46,401 --> 00:03:48,870
+it could take six to eight hours for folks
+
+82
+00:03:48,870 --> 00:03:51,600
+that are traditional, know how to use computers.
+
+83
+00:03:51,600 --> 00:03:55,380
+But for some of these, it takes them two, three months.
+
+84
+00:03:55,380 --> 00:03:57,720
+After that, they're discouraged
+
+85
+00:03:57,720 --> 00:04:00,990
+and they said, "Is this how this is gonna be for the rest?"
+
+86
+00:04:00,990 --> 00:04:04,260
+And so we have support systems built in place.
+
+87
+00:04:04,260 --> 00:04:07,050
+I have two dedicated student support coordinators
+
+88
+00:04:07,050 --> 00:04:09,063
+that work with those students.
+
+89
+00:04:10,350 --> 00:04:11,730
+They're constantly calling.
+
+90
+00:04:11,730 --> 00:04:14,190
+They're saying, "Hey, I haven't seen that you've done
+
+91
+00:04:14,190 --> 00:04:16,290
+anything on Canvas for the last two weeks.
+
+92
+00:04:16,290 --> 00:04:17,827
+What's going on?"
+
+93
+00:04:17,827 --> 00:04:20,550
+"Sorry, I'm sorry, Ning, I am,
+
+94
+00:04:20,550 --> 00:04:22,440
+I'm in the middle of almond harvest right now.
+
+95
+00:04:22,440 --> 00:04:23,677
+I gotta take a step away."
+
+96
+00:04:23,677 --> 00:04:24,510
+"You got it.
+
+97
+00:04:24,510 --> 00:04:26,370
+We'll call you in another month or so."
+
+98
+00:04:26,370 --> 00:04:28,387
+Or we see students that,
+
+99
+00:04:28,387 --> 00:04:30,240
+"Hey, we see you haven't done anything
+
+100
+00:04:30,240 --> 00:04:31,140
+in the last couple weeks.
+
+101
+00:04:31,140 --> 00:04:32,437
+What's going on?"
+
+102
+00:04:32,437 --> 00:04:33,750
+"Well, I was scared to tell you,
+
+103
+00:04:33,750 --> 00:04:35,580
+but my computer broke."
+
+104
+00:04:35,580 --> 00:04:38,250
+And so it allows us,
+
+105
+00:04:38,250 --> 00:04:41,190
+those support coordinators have really allowed for us
+
+106
+00:04:41,190 --> 00:04:44,223
+to kind of decrease some of those barriers for the students.
+
+107
+00:04:45,390 --> 00:04:46,950
+Getting onto the college campus
+
+108
+00:04:46,950 --> 00:04:48,690
+the very first time is daunting.
+
+109
+00:04:48,690 --> 00:04:51,570
+And if you go to the wrong building,
+
+110
+00:04:51,570 --> 00:04:53,100
+you go to the wrong office,
+
+111
+00:04:53,100 --> 00:04:54,427
+for some of these students, they say,
+
+112
+00:04:54,427 --> 00:04:56,449
+"Hmm, too much.
+
+113
+00:04:56,449 --> 00:04:58,320
+I'm gonna go home, not gonna do it."
+
+114
+00:04:58,320 --> 00:04:59,820
+And so I have student support coordinators
+
+115
+00:04:59,820 --> 00:05:03,570
+that will meet the students at the local Starbucks
+
+116
+00:05:03,570 --> 00:05:04,890
+and say, "Hey, follow me in."
+
+117
+00:05:04,890 --> 00:05:07,200
+And so we've noticed that for a lot of these students.
+
+118
+00:05:07,200 --> 00:05:10,238
+So the farm laborers students,
+
+119
+00:05:10,238 --> 00:05:12,300
+they need more and more support.
+
+120
+00:05:12,300 --> 00:05:14,700
+And so, but once we get them in there
+
+121
+00:05:14,700 --> 00:05:16,380
+and they get some success,
+
+122
+00:05:16,380 --> 00:05:18,933
+they get through some of these competencies,
+
+123
+00:05:19,920 --> 00:05:21,780
+they find it really, really rewarding.
+
+124
+00:05:21,780 --> 00:05:23,040
+The one other thing is
+
+125
+00:05:23,040 --> 00:05:27,240
+that our industry partners have fully supported
+
+126
+00:05:27,240 --> 00:05:30,270
+their employees to be going through this program,
+
+127
+00:05:30,270 --> 00:05:33,180
+in which some of them have guaranteed
+
+128
+00:05:33,180 --> 00:05:35,580
+a dollar to $2 more an hour raise.
+
+129
+00:05:35,580 --> 00:05:39,510
+And for some of those students, that's huge.
+
+130
+00:05:39,510 --> 00:05:41,430
+For other students and other companies,
+
+131
+00:05:41,430 --> 00:05:46,343
+they've promised them to be on a supervisory role
+
+132
+00:05:46,343 --> 00:05:49,320
+or a managerial role, which, you know,
+
+133
+00:05:49,320 --> 00:05:50,700
+that's life-changing.
+
+134
+00:05:50,700 --> 00:05:51,840
+That's family changing.
+
+135
+00:05:51,840 --> 00:05:55,832
+And so it's an opportunity for us
+
+136
+00:05:55,832 --> 00:05:59,820
+and for those companies to really show the support
+
+137
+00:05:59,820 --> 00:06:01,117
+towards those students and say,
+
+138
+00:06:01,117 --> 00:06:05,739
+"Hey, you know, we understand that agriculture is changing."
+
+139
+00:06:05,739 --> 00:06:07,050
+'Cause it is.
+
+140
+00:06:07,050 --> 00:06:09,030
+I mean, when we look at the costs of labor,
+
+141
+00:06:09,030 --> 00:06:11,400
+when we talk about water efficiency,
+
+142
+00:06:11,400 --> 00:06:12,750
+when we talk about all these things,
+
+143
+00:06:12,750 --> 00:06:14,779
+things are changing.
+
+144
+00:06:14,779 --> 00:06:16,860
+And as we look at just, you know,
+
+145
+00:06:16,860 --> 00:06:19,440
+the harvesting equipment where, you know,
+
+146
+00:06:19,440 --> 00:06:23,040
+15 years ago we were reliant upon laborers
+
+147
+00:06:23,040 --> 00:06:25,140
+to handpick our, you know,
+
+148
+00:06:25,140 --> 00:06:27,480
+tomatoes or our bell peppers.
+
+149
+00:06:27,480 --> 00:06:30,693
+Now as we continue to evolve with ag tech,
+
+150
+00:06:31,708 --> 00:06:34,290
+we see a lot more equipment that's being involved.
+
+151
+00:06:34,290 --> 00:06:36,390
+A lot more autonomous equipment.
+
+152
+00:06:36,390 --> 00:06:40,867
+But what the employers are telling us is,
+
+153
+00:06:40,867 --> 00:06:42,990
+"We don't have people that can operate that equipment."
+
+154
+00:06:42,990 --> 00:06:44,040
+Now, you know, we've grown,
+
+155
+00:06:44,040 --> 00:06:47,430
+we've invested in some of this equipment,
+
+156
+00:06:47,430 --> 00:06:48,780
+but now what we're finding is
+
+157
+00:06:48,780 --> 00:06:51,150
+we don't have people that can, you know,
+
+158
+00:06:51,150 --> 00:06:52,500
+operate that equipment.
+
+159
+00:06:52,500 --> 00:06:56,520
+And so we're essentially upskilling those farm laborers
+
+160
+00:06:56,520 --> 00:06:58,770
+that were traditionally on their hands and knees
+
+161
+00:06:58,770 --> 00:07:01,080
+into now operating, you know,
+
+162
+00:07:01,080 --> 00:07:03,840
+a harvesting piece of equipment
+
+163
+00:07:03,840 --> 00:07:07,020
+or being able to sit behind a sorter,
+
+164
+00:07:07,020 --> 00:07:10,380
+an optical sorter, and be able to, you know,
+
+165
+00:07:10,380 --> 00:07:13,200
+they're able to be upskilled on something like that.
+
+166
+00:07:13,200 --> 00:07:14,520
+And it makes them a lot more valuable,
+
+167
+00:07:14,520 --> 00:07:17,103
+and in most cases, they're gonna make more money.
+
+168
+00:07:18,450 --> 00:07:20,760
+- I think there's a really important piece
+
+169
+00:07:20,760 --> 00:07:21,660
+as you were talking
+
+170
+00:07:21,660 --> 00:07:23,550
+kind of went through my head multiple times.
+
+171
+00:07:23,550 --> 00:07:27,060
+It's all about working smarter, not harder.
+
+172
+00:07:27,060 --> 00:07:28,500
+It's not taking the job away;
+
+173
+00:07:28,500 --> 00:07:30,930
+we're just having to think differently with the work.
+
+174
+00:07:30,930 --> 00:07:32,670
+And I think in ag we've seen this,
+
+175
+00:07:32,670 --> 00:07:34,110
+and even in manufacturing,
+
+176
+00:07:34,110 --> 00:07:37,500
+we've seen it in the way automation's come in;
+
+177
+00:07:37,500 --> 00:07:39,390
+the equipment we're using is changing.
+
+178
+00:07:39,390 --> 00:07:42,150
+It may not be changing at the speed of like,
+
+179
+00:07:42,150 --> 00:07:45,150
+you know, some of the more technical worlds
+
+180
+00:07:45,150 --> 00:07:46,710
+of like the microchip world.
+
+181
+00:07:46,710 --> 00:07:48,570
+It's not going as fast as that,
+
+182
+00:07:48,570 --> 00:07:49,770
+but it is changing,
+
+183
+00:07:49,770 --> 00:07:51,780
+and the skill sets that are needed,
+
+184
+00:07:51,780 --> 00:07:54,810
+some of those foundational, are needed there regardless.
+
+185
+00:07:54,810 --> 00:07:57,570
+And then you need to think about how that technology
+
+186
+00:07:57,570 --> 00:07:59,100
+is layering on top of it.
+
+187
+00:07:59,100 --> 00:08:01,410
+Our best mechanics come from our shop floor
+
+188
+00:08:01,410 --> 00:08:03,900
+because they understand the equipment that they run,
+
+189
+00:08:03,900 --> 00:08:07,140
+and then they become that qualified mechanic afterwards.
+
+190
+00:08:07,140 --> 00:08:09,570
+I was laughing about the two-factor authentication
+
+191
+00:08:09,570 --> 00:08:12,828
+because the other day I was trying to get SAP's Concur
+
+192
+00:08:12,828 --> 00:08:14,482
+on my phone app working.
+
+193
+00:08:14,482 --> 00:08:15,959
+You should have seen me,
+
+194
+00:08:15,959 --> 00:08:17,790
+and I work in technology a lot,
+
+195
+00:08:17,790 --> 00:08:19,200
+and I was like, "It is not working,
+
+196
+00:08:19,200 --> 00:08:20,520
+it's not going to my authenticator,
+
+197
+00:08:20,520 --> 00:08:22,890
+it's not going to this, what am I supposed to do?"
+
+198
+00:08:22,890 --> 00:08:24,900
+And it's like, "I can't go to my website
+
+199
+00:08:24,900 --> 00:08:26,070
+'cause I'm not supposed to be on it,
+
+200
+00:08:26,070 --> 00:08:27,450
+but I need to book a flight."
+
+201
+00:08:27,450 --> 00:08:29,040
+And it was like, "This is crazy."
+
+202
+00:08:29,040 --> 00:08:31,080
+And we get that in our everyday life,
+
+203
+00:08:31,080 --> 00:08:33,210
+and that frustration in our everyday life,
+
+204
+00:08:33,210 --> 00:08:34,500
+it's one of the biggest things
+
+205
+00:08:34,500 --> 00:08:36,630
+is about how to help that employee
+
+206
+00:08:36,630 --> 00:08:40,290
+and that barrier of how do we make it easier for them
+
+207
+00:08:40,290 --> 00:08:41,880
+as they're accessing this technology?
+
+208
+00:08:41,880 --> 00:08:45,030
+How do we give them the scary help guides,
+
+209
+00:08:45,030 --> 00:08:45,863
+I'm gonna call it,
+
+210
+00:08:45,863 --> 00:08:47,760
+rather than admitting that they don't know it?
+
+211
+00:08:47,760 --> 00:08:50,400
+How do we give them that subtle support?
+
+212
+00:08:50,400 --> 00:08:54,480
+So, you know, "Where do I get to learn about Excel
+
+213
+00:08:54,480 --> 00:08:56,310
+and how do a pivot table?
+
+214
+00:08:56,310 --> 00:08:58,950
+Oh, I can stick it in ChatGPT now, yay.
+
+215
+00:08:58,950 --> 00:09:00,840
+But how do I do it as well?"
+
+216
+00:09:00,840 --> 00:09:02,400
+Like, where are those tools
+
+217
+00:09:02,400 --> 00:09:04,560
+and leading them to those to help?
+
+218
+00:09:04,560 --> 00:09:05,940
+And that's what we found ourselves
+
+219
+00:09:05,940 --> 00:09:07,350
+in a learning function thinking about,
+
+220
+00:09:07,350 --> 00:09:09,300
+like, how do we pepper those in
+
+221
+00:09:09,300 --> 00:09:11,767
+to those resistors or also just like,
+
+222
+00:09:11,767 --> 00:09:13,350
+"Hey, this tool has some great ways
+
+223
+00:09:13,350 --> 00:09:15,690
+to go in there and find out how to..."
+
+224
+00:09:15,690 --> 00:09:17,220
+It doesn't mean it can do it all for you.
+
+225
+00:09:17,220 --> 00:09:19,573
+And I think that's what we've seen
+
+226
+00:09:19,573 --> 00:09:21,390
+as industry changes.
+
+227
+00:09:21,390 --> 00:09:22,597
+We've also seen the fear of,
+
+228
+00:09:22,597 --> 00:09:24,630
+"This is not my job, I dunno how to do it,
+
+229
+00:09:24,630 --> 00:09:25,767
+and this is not what I know,"
+
+230
+00:09:25,767 --> 00:09:28,890
+and we've had to just support them.
+
+231
+00:09:28,890 --> 00:09:30,390
+And sometimes it's that handholding
+
+232
+00:09:30,390 --> 00:09:33,000
+just to like how to turn that computer on,
+
+233
+00:09:33,000 --> 00:09:35,280
+how to navigate the screen,
+
+234
+00:09:35,280 --> 00:09:38,047
+or as we're putting in new technology into a line,
+
+235
+00:09:38,047 --> 00:09:39,330
+"This is not removing a job,
+
+236
+00:09:39,330 --> 00:09:41,340
+it's gonna kind of make your life easier
+
+237
+00:09:41,340 --> 00:09:43,710
+or you're gonna be doing less manual work."
+
+238
+00:09:43,710 --> 00:09:44,640
+That was probably the biggest
+
+239
+00:09:44,640 --> 00:09:48,900
+as we brought in automatic depalletizers and palletizers.
+
+240
+00:09:48,900 --> 00:09:53,340
+No longer are we manually moving rack stacks of glass;
+
+241
+00:09:53,340 --> 00:09:54,450
+the robots are doing it.
+
+242
+00:09:54,450 --> 00:09:57,120
+So now we're watching to see for the following.
+
+243
+00:09:57,120 --> 00:09:58,530
+Now, sometimes the quality defects
+
+244
+00:09:58,530 --> 00:10:00,000
+don't get caught quite as quickly,
+
+245
+00:10:00,000 --> 00:10:00,960
+but it's okay,
+
+246
+00:10:00,960 --> 00:10:02,820
+we still have to then build in those things.
+
+247
+00:10:02,820 --> 00:10:03,653
+So I think that's it.
+
+248
+00:10:03,653 --> 00:10:08,070
+It's really about, it's enhancing, it's not removing.
+
+249
+00:10:08,070 --> 00:10:09,750
+And I think that's the same with AI,
+
+250
+00:10:09,750 --> 00:10:11,700
+that's the same with, you know,
+
+251
+00:10:11,700 --> 00:10:13,110
+new technologies coming in.
+
+252
+00:10:13,110 --> 00:10:14,760
+It's about enhancement
+
+253
+00:10:14,760 --> 00:10:16,860
+and the foundational thinking still
+
+254
+00:10:16,860 --> 00:10:18,870
+and the building of critical thinking
+
+255
+00:10:18,870 --> 00:10:21,170
+when it comes to the more complex sides of it.
+
+256
+00:10:22,890 --> 00:10:24,180
+- Thank you both so much for sharing.
+
+257
+00:10:24,180 --> 00:10:25,770
+So many follow-up questions,
+
+258
+00:10:25,770 --> 00:10:28,200
+but I do wanna leave some time and space
+
+259
+00:10:28,200 --> 00:10:29,640
+for the audience to see
+
+260
+00:10:29,640 --> 00:10:31,740
+if there were any burning questions
+
+261
+00:10:31,740 --> 00:10:33,720
+that you wanted to ask our panelists
+
+262
+00:10:33,720 --> 00:10:35,520
+in the last several minutes we have.
+
+263
+00:10:38,070 --> 00:10:39,210
+Please go ahead.
+
+264
+00:10:39,210 --> 00:10:41,190
+- [Member] I just wonder, so you talked big picture,
+
+265
+00:10:41,190 --> 00:10:42,640
+but I'm just curious always
+
+266
+00:10:43,620 --> 00:10:46,320
+if you would all speak to how you use AI tools
+
+267
+00:10:46,320 --> 00:10:47,940
+in your own daily work.
+
+268
+00:10:47,940 --> 00:10:50,790
+Is it just Copilot through email?
+
+269
+00:10:50,790 --> 00:10:52,260
+Is anyone building Canvas?
+
+270
+00:10:52,260 --> 00:10:55,140
+Just how does it help you all make your life easier
+
+271
+00:10:55,140 --> 00:10:56,943
+to do the work you just described?
+
+272
+00:10:58,796 --> 00:11:01,230
+- Yeah, I do use it.
+
+273
+00:11:01,230 --> 00:11:06,230
+I use ChatGPT, and I am not afraid to say I do.
+
+274
+00:11:07,407 --> 00:11:11,573
+And I encourage a lot of my other colleagues
+
+275
+00:11:11,573 --> 00:11:13,170
+to utilize it as well
+
+276
+00:11:13,170 --> 00:11:15,930
+because it makes me work smarter.
+
+277
+00:11:15,930 --> 00:11:17,988
+Obviously, you know,
+
+278
+00:11:17,988 --> 00:11:21,690
+I've built up the memory on some of these things,
+
+279
+00:11:21,690 --> 00:11:26,137
+and so I've, you know, mentioned to my colleagues,
+
+280
+00:11:26,137 --> 00:11:29,250
+"Just don't, you know, when you ask a question,
+
+281
+00:11:29,250 --> 00:11:30,957
+make sure you proof it."
+
+282
+00:11:31,800 --> 00:11:34,230
+But as the more and more I've utilized it,
+
+283
+00:11:34,230 --> 00:11:37,380
+it makes my job much more simpler.
+
+284
+00:11:37,380 --> 00:11:40,290
+I've been working on several different MOUs,
+
+285
+00:11:40,290 --> 00:11:43,350
+and so being able to put a draft MOU together
+
+286
+00:11:43,350 --> 00:11:46,770
+and then work through it on other components,
+
+287
+00:11:46,770 --> 00:11:48,780
+I mean, it makes me--
+
+288
+00:11:48,780 --> 00:11:50,280
+I know we talked about, you know,
+
+289
+00:11:50,280 --> 00:11:52,920
+we work a lot smarter, not harder--
+
+290
+00:11:52,920 --> 00:11:55,323
+and so I use it every single day.
+
+291
+00:11:57,390 --> 00:12:00,240
+- Yeah, it's funny,
+
+292
+00:12:00,240 --> 00:12:02,640
+I used to lead the instructional design team
+
+293
+00:12:02,640 --> 00:12:04,170
+as one of my priorities,
+
+294
+00:12:04,170 --> 00:12:07,380
+and we talked a lot about utilization of that
+
+295
+00:12:07,380 --> 00:12:08,640
+when we were designing training
+
+296
+00:12:08,640 --> 00:12:11,460
+and where do you utilize AI to create it versus not.
+
+297
+00:12:11,460 --> 00:12:14,160
+And you can create a whole training program in AI,
+
+298
+00:12:14,160 --> 00:12:16,320
+but you still have to go back in
+
+299
+00:12:16,320 --> 00:12:17,580
+and make sure and validate.
+
+300
+00:12:17,580 --> 00:12:19,230
+And I think that's what we found
+
+301
+00:12:19,230 --> 00:12:22,470
+is we are using it as a foundation,
+
+302
+00:12:22,470 --> 00:12:24,303
+but it doesn't mean it's the final.
+
+303
+00:12:25,710 --> 00:12:27,390
+We are using AI voice
+
+304
+00:12:27,390 --> 00:12:29,040
+because that is so much easier.
+
+305
+00:12:29,040 --> 00:12:30,900
+It's so less time-consuming.
+
+306
+00:12:30,900 --> 00:12:33,060
+When you find the AI voice platforms
+
+307
+00:12:33,060 --> 00:12:35,280
+that work and sound real,
+
+308
+00:12:35,280 --> 00:12:37,020
+we're like with it, we'll use it.
+
+309
+00:12:37,020 --> 00:12:38,880
+And there's a couple that we've used for that
+
+310
+00:12:38,880 --> 00:12:40,470
+where we're like, "We like this AI,"
+
+311
+00:12:40,470 --> 00:12:42,930
+but we've purchased it for a month to see if we like it.
+
+312
+00:12:42,930 --> 00:12:45,030
+And then if we like the voices that are coming through
+
+313
+00:12:45,030 --> 00:12:46,740
+and they're not sounding robotic,
+
+314
+00:12:46,740 --> 00:12:48,240
+I love not having to record voice.
+
+315
+00:12:48,240 --> 00:12:49,260
+We'll have to listen to me.
+
+316
+00:12:49,260 --> 00:12:50,100
+I'm like, "Good.
+
+317
+00:12:50,100 --> 00:12:51,510
+I don't have to walk past someone's computer
+
+318
+00:12:51,510 --> 00:12:53,880
+where they're listening and I'm like, ugh, that's me."
+
+319
+00:12:53,880 --> 00:12:55,830
+So it's great in that side of it.
+
+320
+00:12:55,830 --> 00:12:56,790
+We've been able to remove,
+
+321
+00:12:56,790 --> 00:13:00,180
+and it's reduced time for our team members.
+
+322
+00:13:00,180 --> 00:13:03,090
+We've used it for translation for certain things,
+
+323
+00:13:03,090 --> 00:13:04,170
+but we've been very careful
+
+324
+00:13:04,170 --> 00:13:06,270
+'cause we usually want it court-appointed.
+
+325
+00:13:06,270 --> 00:13:09,060
+But it has helped where we don't need court-appointed.
+
+326
+00:13:09,060 --> 00:13:12,000
+And again, there's iffy around Spanish translations
+
+327
+00:13:12,000 --> 00:13:15,393
+and the ag industry Spanish; it's very different.
+
+328
+00:13:16,710 --> 00:13:17,670
+We use it,
+
+329
+00:13:17,670 --> 00:13:21,960
+I use it a lot with data to play with data and see
+
+330
+00:13:21,960 --> 00:13:24,450
+or if I've got multiple documents to summarize,
+
+331
+00:13:24,450 --> 00:13:26,220
+like, "Can you find me the trends?
+
+332
+00:13:26,220 --> 00:13:27,270
+Can you find me...?"
+
+333
+00:13:27,270 --> 00:13:29,580
+Again, I still need to do some reading.
+
+334
+00:13:29,580 --> 00:13:31,960
+So in my spare time, I guess
+
+335
+00:13:31,960 --> 00:13:33,810
+I do quite a lot of work for the state
+
+336
+00:13:33,810 --> 00:13:34,980
+in different areas,
+
+337
+00:13:34,980 --> 00:13:37,530
+and sometimes I get 150 pages to read,
+
+338
+00:13:37,530 --> 00:13:38,640
+and sometimes just putting it in
+
+339
+00:13:38,640 --> 00:13:42,420
+to see what the key themes are is really useful.
+
+340
+00:13:42,420 --> 00:13:44,610
+The other day I used it to write a marketing campaign.
+
+341
+00:13:44,610 --> 00:13:47,310
+I used Copilot to write a marketing campaign
+
+342
+00:13:47,310 --> 00:13:49,320
+for some training courses we created,
+
+343
+00:13:49,320 --> 00:13:51,030
+and I could literally,
+
+344
+00:13:51,030 --> 00:13:52,710
+'cause my creative brain was not there,
+
+345
+00:13:52,710 --> 00:13:55,740
+and I could literally pick the instructor guides.
+
+346
+00:13:55,740 --> 00:13:57,720
+So the facilitator guides that have the speed,
+
+347
+00:13:57,720 --> 00:13:59,700
+have the scripts and the timing
+
+348
+00:13:59,700 --> 00:14:01,110
+and the pictures of the slides,
+
+349
+00:14:01,110 --> 00:14:03,420
+and ask it to pull out like key learnings
+
+350
+00:14:03,420 --> 00:14:06,660
+or, "What are key business purposes behind this training?"
+
+351
+00:14:06,660 --> 00:14:07,740
+Even though I kind of knew
+
+352
+00:14:07,740 --> 00:14:10,080
+'cause I knew the purpose 'cause it was a project,
+
+353
+00:14:10,080 --> 00:14:12,030
+but I couldn't get creative in the writing of it.
+
+354
+00:14:12,030 --> 00:14:13,530
+It pulled pieces out for me
+
+355
+00:14:13,530 --> 00:14:15,720
+and made me think differently around it.
+
+356
+00:14:15,720 --> 00:14:17,520
+But it's about how you use it,
+
+357
+00:14:17,520 --> 00:14:19,020
+and that's how I'm finding it is, like,
+
+358
+00:14:19,020 --> 00:14:22,020
+I'm using it, but then I have to use my brain against it.
+
+359
+00:14:22,020 --> 00:14:23,460
+Or I have to--
+
+360
+00:14:23,460 --> 00:14:26,010
+I had one where the learning management system
+
+361
+00:14:26,010 --> 00:14:27,480
+was dumping a load of data,
+
+362
+00:14:27,480 --> 00:14:30,540
+and I was like, "I don't have time to pivot table this
+
+363
+00:14:30,540 --> 00:14:33,150
+into something pretty or to try and work it out."
+
+364
+00:14:33,150 --> 00:14:34,860
+We found that if we dump it into Copilot
+
+365
+00:14:34,860 --> 00:14:36,870
+and give it the correct prompts,
+
+366
+00:14:36,870 --> 00:14:39,120
+it would summarize all of it, and it was fantastic.
+
+367
+00:14:39,120 --> 00:14:40,920
+It was about movement data of team members,
+
+368
+00:14:40,920 --> 00:14:42,270
+and I had 500 team members.
+
+369
+00:14:42,270 --> 00:14:43,410
+I was looking at movement data of,
+
+370
+00:14:43,410 --> 00:14:44,820
+it was hurting my head,
+
+371
+00:14:44,820 --> 00:14:46,560
+and it was about timing, roles,
+
+372
+00:14:46,560 --> 00:14:49,800
+what was their progression from A to B to C.
+
+373
+00:14:49,800 --> 00:14:52,320
+And that did it for me much quicker
+
+374
+00:14:52,320 --> 00:14:54,540
+than it would've taken me to do it in another way
+
+375
+00:14:54,540 --> 00:14:56,250
+'cause it was data that you had to think about,
+
+376
+00:14:56,250 --> 00:14:57,960
+like, the formatting and all of that.
+
+377
+00:14:57,960 --> 00:15:01,920
+So I don't say I would use it 50% of my time at all,
+
+378
+00:15:01,920 --> 00:15:04,230
+but I use it in and out as I need to,
+
+379
+00:15:04,230 --> 00:15:07,890
+and I found I've had to get braver about it,
+
+380
+00:15:07,890 --> 00:15:08,730
+if that makes sense.
+
+381
+00:15:08,730 --> 00:15:09,577
+Like I've had to be like,
+
+382
+00:15:09,577 --> 00:15:10,980
+"I'm just gonna try it
+
+383
+00:15:10,980 --> 00:15:12,270
+if it doesn't give me anything."
+
+384
+00:15:12,270 --> 00:15:13,987
+But there are some things where I'm like,
+
+385
+00:15:13,987 --> 00:15:15,660
+"It doesn't make sense.
+
+386
+00:15:15,660 --> 00:15:19,740
+It's quicker just to write it than it is to put it in."
+
+387
+00:15:19,740 --> 00:15:21,780
+Whereas I know some people are putting everything in
+
+388
+00:15:21,780 --> 00:15:23,640
+and spitting it out and then submitting,
+
+389
+00:15:23,640 --> 00:15:25,890
+and I'm like, "Oh, I can tell you that's not your writing."
+
+390
+00:15:25,890 --> 00:15:27,120
+You know, just by the way it reads,
+
+391
+00:15:27,120 --> 00:15:28,290
+like every educator knows
+
+392
+00:15:28,290 --> 00:15:30,157
+when they can tell for plagiarism.
+
+393
+00:15:30,157 --> 00:15:31,680
+- "I hope this email finds you well."
+
+394
+00:15:31,680 --> 00:15:32,940
+- Yeah, exactly.
+
+395
+00:15:32,940 --> 00:15:33,773
+Or some of the others.
+
+396
+00:15:33,773 --> 00:15:35,490
+And I'm like, "Okay, this is..."
+
+397
+00:15:35,490 --> 00:15:37,620
+But I was writing something last night
+
+398
+00:15:37,620 --> 00:15:39,360
+and I was like, "I'm not that persuasive.
+
+399
+00:15:39,360 --> 00:15:41,130
+I wanted to make it persuasive to them.
+
+400
+00:15:41,130 --> 00:15:42,660
+I wanted them to like recognize something."
+
+401
+00:15:42,660 --> 00:15:43,790
+I was like, "I'm gonna put it in there."
+
+402
+00:15:43,790 --> 00:15:44,820
+It was an external thing,
+
+403
+00:15:44,820 --> 00:15:47,880
+and I was like, "I want them to realize."
+
+404
+00:15:47,880 --> 00:15:48,990
+And so I put it into chat,
+
+405
+00:15:48,990 --> 00:15:50,287
+I put it into Copilot and said,
+
+406
+00:15:50,287 --> 00:15:51,570
+"Summarize it for me."
+
+407
+00:15:51,570 --> 00:15:54,390
+I love it for meetings and summaries of meetings.
+
+408
+00:15:54,390 --> 00:15:56,700
+And we've been told, "Don't use Otter.ai."
+
+409
+00:15:56,700 --> 00:15:58,860
+We used to use Otter.ai for a lot of focus group work
+
+410
+00:15:58,860 --> 00:16:00,480
+and like facilitation things,
+
+411
+00:16:00,480 --> 00:16:02,130
+and they were talking about data security,
+
+412
+00:16:02,130 --> 00:16:03,360
+I have no idea.
+
+413
+00:16:03,360 --> 00:16:04,800
+They're now like, "Go to Copilot."
+
+414
+00:16:04,800 --> 00:16:07,170
+So that side, and I also watched a team,
+
+415
+00:16:07,170 --> 00:16:09,122
+and this is really creative.
+
+416
+00:16:09,122 --> 00:16:11,940
+They were a high-potential learning pro--
+
+417
+00:16:11,940 --> 00:16:13,650
+high-potential group,
+
+418
+00:16:13,650 --> 00:16:15,761
+and they were designing a product for market.
+
+419
+00:16:15,761 --> 00:16:19,770
+They got by, "Here's the market we're looking at,
+
+420
+00:16:19,770 --> 00:16:21,750
+here are the consumers we're looking at."
+
+421
+00:16:21,750 --> 00:16:26,100
+It came up with the packaging ideas for these products,
+
+422
+00:16:26,100 --> 00:16:29,100
+and it was amazing in what it did in like,
+
+423
+00:16:29,100 --> 00:16:30,540
+and they were using ChatGPT,
+
+424
+00:16:30,540 --> 00:16:33,510
+and it was amazing to see the designs
+
+425
+00:16:33,510 --> 00:16:34,590
+that were coming out of it.
+
+426
+00:16:34,590 --> 00:16:35,970
+They still needed a bit of tweaking,
+
+427
+00:16:35,970 --> 00:16:36,907
+and like one group said,
+
+428
+00:16:36,907 --> 00:16:38,400
+"Oh, I can tell that was an AI image."
+
+429
+00:16:38,400 --> 00:16:39,390
+And I was like, "How?"
+
+430
+00:16:39,390 --> 00:16:41,340
+And they kind of identified a couple of things
+
+431
+00:16:41,340 --> 00:16:43,110
+in that like demographic.
+
+432
+00:16:43,110 --> 00:16:46,596
+But it really helped us to like think outside the box
+
+433
+00:16:46,596 --> 00:16:48,210
+to something that's new.
+
+434
+00:16:48,210 --> 00:16:49,043
+That's that.
+
+435
+00:16:49,043 --> 00:16:50,760
+So I think it really depends,
+
+436
+00:16:50,760 --> 00:16:54,611
+but I would say people are using it 25% of the time.
+
+437
+00:16:54,611 --> 00:16:56,577
+Those that are using it more than that,
+
+438
+00:16:56,577 --> 00:16:57,750
+there's ways of knowing
+
+439
+00:16:57,750 --> 00:16:59,100
+that they're using it more than that,
+
+440
+00:16:59,100 --> 00:16:59,933
+and it's reflecting.
+
+441
+00:16:59,933 --> 00:17:02,550
+People are like, "Oh, I think just stuck it in Copilot,"
+
+442
+00:17:02,550 --> 00:17:03,750
+you know, in that way.
+
+443
+00:17:03,750 --> 00:17:05,314
+Does that help?
+
+444
+00:17:05,314 --> 00:17:08,790
+- I'll add from my perspective at Jobs for the Future,
+
+445
+00:17:08,790 --> 00:17:11,820
+I've been, I've sort of switched my philosophy
+
+446
+00:17:11,820 --> 00:17:12,930
+where I used to start off
+
+447
+00:17:12,930 --> 00:17:15,720
+with having different AI tools like Copilot
+
+448
+00:17:15,720 --> 00:17:18,630
+or ChatGPT create a first draft.
+
+449
+00:17:18,630 --> 00:17:21,660
+And I was realizing I was getting a lot of gobblygook
+
+450
+00:17:21,660 --> 00:17:23,100
+that didn't make a lot of sense.
+
+451
+00:17:23,100 --> 00:17:25,200
+So I've started off with drafting something myself
+
+452
+00:17:25,200 --> 00:17:27,127
+and then giving really specific commands of,
+
+453
+00:17:27,127 --> 00:17:29,580
+"Make it more persuasive, make it more pithy,
+
+454
+00:17:29,580 --> 00:17:31,290
+make it for a C-level executive,
+
+455
+00:17:31,290 --> 00:17:32,640
+put it in this voice."
+
+456
+00:17:32,640 --> 00:17:34,780
+- I asked it to make it non-AI the other day
+
+457
+00:17:34,780 --> 00:17:36,000
+after it being persuasive.
+
+458
+00:17:36,000 --> 00:17:38,309
+I said, "Now make it more human," or, "less AI."
+
+459
+00:17:38,309 --> 00:17:40,276
+It was amazing. It did it.
+
+460
+00:17:40,276 --> 00:17:41,790
+And I was like, "Okay, that sounds more like me.
+
+461
+00:17:41,790 --> 00:17:44,100
+You've taken it back from here to here."
+
+462
+00:17:44,100 --> 00:17:45,960
+But it's almost not being afraid.
+
+463
+00:17:45,960 --> 00:17:47,466
+Yeah, but I'm the same.
+
+464
+00:17:47,466 --> 00:17:48,994
+I don't write the first draft in it.
+
+465
+00:17:48,994 --> 00:17:50,340
+Yeah, it's the fine, fine-tuning.
+
+466
+00:17:50,340 --> 00:17:52,232
+- Yeah, that's exactly it.
+
+467
+00:17:52,232 --> 00:17:56,011
+But I think we're coming up on time.
+
+468
+00:17:56,011 --> 00:17:59,742
+Maybe the only thing standing between you and your break,
+
+469
+00:17:59,742 --> 00:18:03,240
+but wanted to really share my gratitude
+
+470
+00:18:03,240 --> 00:18:06,060
+to both Rebecca and Cody for sharing.
+
+471
+00:18:06,060 --> 00:18:07,590
+I think this was a really insightful panel,
+
+472
+00:18:07,590 --> 00:18:08,423
+so thank you so much.
+
+473
+00:18:08,423 --> 00:18:12,023
+Round of applause. (audience applauding)
+
+474
+00:18:13,260 --> 00:18:15,570
+And happy to answer more questions if folks have them.
+
+475
+00:18:15,570 --> 00:18:17,170
+Feel free to come up and see us.

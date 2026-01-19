@@ -1,0 +1,16 @@
+Using only the session transcripts, identify unmet needs expressed or implied by participants.
+
+Define an unmet need as a need that:
+- Is explicitly requested by audience members but not fully addressed, OR
+- Is implied by repeated questions, deflected answers, or consistently high-level discussion.
+
+For each unmet need identified, provide:
+- Description of the unmet need
+- Who appears to have the need (e.g., faculty, administrators, students, IT)
+- Session_IDs where the need appears
+- Evidence from transcripts (quotes or paraphrases)
+- Why this unmet need matters for future programming
+
+Base all conclusions strictly on transcript patterns. Do not introduce external standards or opinions.
+
+Return the output as a numbered list (1., 2., 3., ...). One finding per number.

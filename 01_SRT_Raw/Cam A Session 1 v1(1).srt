@@ -1,0 +1,5663 @@
+1
+00:00:05,070 --> 00:00:08,987
+(audience speaks indistinctly)
+
+2
+00:00:10,470 --> 00:00:13,350
+- Welcome, everybody. Thank you for being here.
+
+3
+00:00:13,350 --> 00:00:14,820
+If you're just walking in,
+
+4
+00:00:14,820 --> 00:00:17,160
+hopefully, you've seen your event app,
+
+5
+00:00:17,160 --> 00:00:18,960
+and you know that things were adjusted
+
+6
+00:00:18,960 --> 00:00:20,790
+and pushed back just a little bit
+
+7
+00:00:20,790 --> 00:00:24,690
+to accommodate for all the engaging dialogue and information
+
+8
+00:00:24,690 --> 00:00:26,100
+that we got, including...
+
+9
+00:00:26,100 --> 00:00:28,465
+How excited are you about the Google announcement?
+
+10
+00:00:28,465 --> 00:00:29,825
+- Whoo (applauds)! - Woo-hoo!
+
+11
+00:00:29,825 --> 00:00:30,917
+- I think that's gonna be a game changer,
+
+12
+00:00:30,917 --> 00:00:33,510
+and it gives us a lot of access
+
+13
+00:00:33,510 --> 00:00:37,320
+and some good things coming for our students.
+
+14
+00:00:37,320 --> 00:00:39,030
+So, thank you for joining us.
+
+15
+00:00:39,030 --> 00:00:42,570
+This is "The Practical Use of AI for College Workflows."
+
+16
+00:00:42,570 --> 00:00:44,520
+Again, if you're just joining us, we're start...
+
+17
+00:00:44,520 --> 00:00:46,110
+The panels right now in the morning
+
+18
+00:00:46,110 --> 00:00:48,450
+are from 11:30 to 12:30,
+
+19
+00:00:48,450 --> 00:00:50,670
+and lunch will be from 12:30 to 1:30,
+
+20
+00:00:50,670 --> 00:00:52,080
+so you'll still have time.
+
+21
+00:00:52,080 --> 00:00:54,690
+And right now, the afternoon schedule remains the same
+
+22
+00:00:54,690 --> 00:00:56,973
+as it was in your event app.
+
+23
+00:00:57,990 --> 00:00:59,610
+I wanna thank you all for joining us.
+
+24
+00:00:59,610 --> 00:01:01,590
+I wanna thank our panelists.
+
+25
+00:01:01,590 --> 00:01:05,100
+This is "Practical Use of AI for College Workflows."
+
+26
+00:01:05,100 --> 00:01:08,550
+I'll introduce them briefly in a moment.
+
+27
+00:01:08,550 --> 00:01:10,440
+But all our panelists' information
+
+28
+00:01:10,440 --> 00:01:11,940
+is in your app, so you can read
+
+29
+00:01:11,940 --> 00:01:16,230
+about their wonderful accomplishments and background.
+
+30
+00:01:16,230 --> 00:01:17,610
+But I wanna just take a moment
+
+31
+00:01:17,610 --> 00:01:19,860
+to let you know who we have here on the stage
+
+32
+00:01:19,860 --> 00:01:20,910
+before I get started.
+
+33
+00:01:20,910 --> 00:01:22,260
+We have Dave Johnston.
+
+34
+00:01:22,260 --> 00:01:26,100
+We have Jory Hadsell, Amanda Marshall, Joel Bennett,
+
+35
+00:01:26,100 --> 00:01:28,203
+Ger Xiong, and Allison Maricic,
+
+36
+00:01:29,130 --> 00:01:30,600
+and they will tell you where they're from.
+
+37
+00:01:30,600 --> 00:01:32,880
+You'll see that when they show their slides
+
+38
+00:01:32,880 --> 00:01:33,930
+in just a moment.
+
+39
+00:01:33,930 --> 00:01:35,070
+But we are here today
+
+40
+00:01:35,070 --> 00:01:38,430
+to continue the conversation that started in the morning
+
+41
+00:01:38,430 --> 00:01:40,200
+of what is the potential for AI
+
+42
+00:01:40,200 --> 00:01:41,397
+and how can it help us
+
+43
+00:01:41,397 --> 00:01:43,383
+and how can it help our students.
+
+44
+00:01:44,580 --> 00:01:48,690
+One of the things that we have been talking about around AI
+
+45
+00:01:48,690 --> 00:01:51,240
+is how do we build capacity, eh?
+
+46
+00:01:51,240 --> 00:01:54,870
+A lot of our colleges and institutions, we have processes.
+
+47
+00:01:54,870 --> 00:01:59,010
+We have workflows. We have problems with our workflows.
+
+48
+00:01:59,010 --> 00:02:01,350
+How do we make sure we build capacity
+
+49
+00:02:01,350 --> 00:02:05,340
+and work with AI to help us build that capacity?
+
+50
+00:02:05,340 --> 00:02:07,320
+And our panelists today are going to talk
+
+51
+00:02:07,320 --> 00:02:08,820
+about some use cases
+
+52
+00:02:08,820 --> 00:02:10,500
+and showcase what they're doing
+
+53
+00:02:10,500 --> 00:02:12,570
+at their colleges and institutions
+
+54
+00:02:12,570 --> 00:02:14,040
+in order to tell us
+
+55
+00:02:14,040 --> 00:02:16,140
+how they're building capacity
+
+56
+00:02:16,140 --> 00:02:17,730
+and helping their institution
+
+57
+00:02:17,730 --> 00:02:20,370
+with certain processes and workflows.
+
+58
+00:02:20,370 --> 00:02:21,750
+What we hope to do today
+
+59
+00:02:21,750 --> 00:02:24,690
+is highlight and showcase some of those use cases.
+
+60
+00:02:24,690 --> 00:02:29,490
+And then after the panelists present you with their ideas,
+
+61
+00:02:29,490 --> 00:02:31,110
+I'm gonna ask 'em some questions,
+
+62
+00:02:31,110 --> 00:02:32,940
+and time permitting, we'll let the audience
+
+63
+00:02:32,940 --> 00:02:34,590
+ask some questions, as well.
+
+64
+00:02:34,590 --> 00:02:36,780
+All right? So let's get started.
+
+65
+00:02:36,780 --> 00:02:39,363
+I'm gonna hand it off first to Dave Johnston.
+
+66
+00:02:40,470 --> 00:02:41,850
+- Good morning.
+
+67
+00:02:41,850 --> 00:02:43,870
+Hopefully, it's working. There we go.
+
+68
+00:02:43,870 --> 00:02:45,633
+Okay, fifty-fifty on the remote.
+
+69
+00:02:46,500 --> 00:02:47,700
+- Well, Dave, first of all,
+
+70
+00:02:47,700 --> 00:02:50,313
+as we're fifty-fifty on the remote, you can go head.
+
+71
+00:02:51,210 --> 00:02:52,740
+I know that when we talked you said
+
+72
+00:02:52,740 --> 00:02:56,070
+that your IT team was getting particularly overwhelmed,
+
+73
+00:02:56,070 --> 00:02:58,680
+especially around the start of a semester,
+
+74
+00:02:58,680 --> 00:03:02,370
+especially when there were a lot of common calls,
+
+75
+00:03:02,370 --> 00:03:05,160
+questions that were inundating your staff.
+
+76
+00:03:05,160 --> 00:03:08,073
+So based on that, what did you do to find a solution?
+
+77
+00:03:09,360 --> 00:03:10,590
+- Thank you, if you could advance,
+
+78
+00:03:10,590 --> 00:03:12,780
+since this wasn't (indistinct).
+
+79
+00:03:12,780 --> 00:03:17,306
+So, yeah, like all of you, there's never enough IT people,
+
+80
+00:03:17,306 --> 00:03:18,750
+and for Mendocino....
+
+81
+00:03:18,750 --> 00:03:19,800
+I'm at Mendocino College,
+
+82
+00:03:19,800 --> 00:03:22,170
+so we're about two hours north of San Francisco
+
+83
+00:03:22,170 --> 00:03:23,223
+up in the Redwoods.
+
+84
+00:03:24,360 --> 00:03:25,710
+We have...
+
+85
+00:03:25,710 --> 00:03:27,570
+The two weeks before the semester starts,
+
+86
+00:03:27,570 --> 00:03:30,210
+the two weeks after the semester starts,
+
+87
+00:03:30,210 --> 00:03:31,590
+nobody remembers their password,
+
+88
+00:03:31,590 --> 00:03:34,687
+so we're getting a million calls for password resets.
+
+89
+00:03:34,687 --> 00:03:36,360
+"I can't remember how to get on the Wi-Fi,
+
+90
+00:03:36,360 --> 00:03:37,440
+even though it was just on there
+
+91
+00:03:37,440 --> 00:03:39,870
+for the summer session," or in the spring.
+
+92
+00:03:39,870 --> 00:03:42,540
+And so we have this explosion of tickets.
+
+93
+00:03:42,540 --> 00:03:45,993
+And so we have a small IT team, small but mighty,
+
+94
+00:03:46,830 --> 00:03:48,900
+but we really need help.
+
+95
+00:03:48,900 --> 00:03:50,160
+And then the other issue, I think,
+
+96
+00:03:50,160 --> 00:03:53,670
+particularly, you know, post-pandemic, is this expectation
+
+97
+00:03:53,670 --> 00:03:58,350
+of support outside of the normal eight-to-five business day.
+
+98
+00:03:58,350 --> 00:04:01,950
+Our students now, you know, are calling the help desk
+
+99
+00:04:01,950 --> 00:04:03,120
+at two o'clock in the morning
+
+100
+00:04:03,120 --> 00:04:05,040
+and getting the answering machine.
+
+101
+00:04:05,040 --> 00:04:07,440
+And so that's been a challenge for us.
+
+102
+00:04:07,440 --> 00:04:09,540
+We've done some work with extended hours
+
+103
+00:04:09,540 --> 00:04:11,850
+to, you know, try to stagger our staff
+
+104
+00:04:11,850 --> 00:04:13,530
+so we can go into six or seven at night,
+
+105
+00:04:13,530 --> 00:04:15,840
+but obviously, we can't be there
+
+106
+00:04:15,840 --> 00:04:18,060
+when students are gonna be there.
+
+107
+00:04:18,060 --> 00:04:18,900
+And just this...
+
+108
+00:04:18,900 --> 00:04:20,190
+The techs spend an inordinate amount
+
+109
+00:04:20,190 --> 00:04:22,350
+of time at the beginning of the semester
+
+110
+00:04:22,350 --> 00:04:25,590
+on these just tier-one kind of tickets.
+
+111
+00:04:25,590 --> 00:04:27,690
+So what we did is...
+
+112
+00:04:27,690 --> 00:04:30,077
+I'll try this (indistinct). There I go!
+
+113
+00:04:30,077 --> 00:04:31,800
+So, we worked with Invoke Learning,
+
+114
+00:04:31,800 --> 00:04:33,870
+which is a partner we were already working with
+
+115
+00:04:33,870 --> 00:04:35,610
+on a data lakehouse.
+
+116
+00:04:35,610 --> 00:04:36,990
+And so they had a solution
+
+117
+00:04:36,990 --> 00:04:40,410
+that is basically a tech support bot.
+
+118
+00:04:40,410 --> 00:04:43,200
+The bot can handle phone calls and emails.
+
+119
+00:04:43,200 --> 00:04:46,140
+It can also do wonderful video conferences,
+
+120
+00:04:46,140 --> 00:04:47,670
+but I didn't wanna pay for the video,
+
+121
+00:04:47,670 --> 00:04:49,650
+so we do phone and email,
+
+122
+00:04:49,650 --> 00:04:52,590
+which is how our students are used to contacting us.
+
+123
+00:04:52,590 --> 00:04:54,450
+So the bot is integrated with our systems.
+
+124
+00:04:54,450 --> 00:04:58,290
+It can do password resets for students, and if...
+
+125
+00:04:58,290 --> 00:05:01,170
+It has a knowledge base of, you know, just all
+
+126
+00:05:01,170 --> 00:05:03,753
+the typical tier-one kinds of tickets that we get.
+
+127
+00:05:04,680 --> 00:05:06,810
+Additionally, if they can't help a student,
+
+128
+00:05:06,810 --> 00:05:09,540
+it can open a ticket in our ticket system,
+
+129
+00:05:09,540 --> 00:05:11,940
+and if it's during business hours,
+
+130
+00:05:11,940 --> 00:05:14,580
+it can transfer them to the human help desk.
+
+131
+00:05:14,580 --> 00:05:18,000
+So it's been a really nice addition for us.
+
+132
+00:05:18,000 --> 00:05:19,320
+And I think my...
+
+133
+00:05:19,320 --> 00:05:22,350
+The folks that normally handle those tier-one phone calls...
+
+134
+00:05:22,350 --> 00:05:24,570
+It's been a little quiet, a little bit eerie, for them,
+
+135
+00:05:24,570 --> 00:05:25,720
+I think, this semester.
+
+136
+00:05:26,970 --> 00:05:27,810
+The other thing, for us,
+
+137
+00:05:27,810 --> 00:05:29,200
+that's really been beneficial is we...
+
+138
+00:05:29,200 --> 00:05:31,620
+We're a Hispanic-serving institution.
+
+139
+00:05:31,620 --> 00:05:34,080
+About 38% of our students are Hispanic,
+
+140
+00:05:34,080 --> 00:05:36,780
+and we have one programmer analyst in my department
+
+141
+00:05:36,780 --> 00:05:38,190
+that speaks Spanish.
+
+142
+00:05:38,190 --> 00:05:39,810
+And so he was spending...
+
+143
+00:05:39,810 --> 00:05:42,030
+You know, we were coming to transfer people to him.
+
+144
+00:05:42,030 --> 00:05:44,430
+He doesn't really know how to answer those IT questions,
+
+145
+00:05:44,430 --> 00:05:46,030
+but at least, he speaks Spanish.
+
+146
+00:05:47,160 --> 00:05:48,120
+It was a challenge.
+
+147
+00:05:48,120 --> 00:05:49,590
+And so the nice thing about the bot
+
+148
+00:05:49,590 --> 00:05:51,510
+is that it does speak Spanish.
+
+149
+00:05:51,510 --> 00:05:53,370
+We actually had to iterate a while
+
+150
+00:05:53,370 --> 00:05:55,680
+to find a Spanish voice that we really liked.
+
+151
+00:05:55,680 --> 00:05:57,690
+I think one of the better ones that wasn't quite there
+
+152
+00:05:57,690 --> 00:06:00,000
+was the Swedish person speaking Spanish.
+
+153
+00:06:00,000 --> 00:06:02,253
+But anyway, we did finally get one we liked,
+
+154
+00:06:03,120 --> 00:06:04,260
+and we're in the process now.
+
+155
+00:06:04,260 --> 00:06:07,830
+We've worked with our ESL faculty
+
+156
+00:06:07,830 --> 00:06:09,690
+on identifying some additional languages.
+
+157
+00:06:09,690 --> 00:06:10,770
+So we'll be a...
+
+158
+00:06:10,770 --> 00:06:12,840
+The current model's there's 17 languages.
+
+159
+00:06:12,840 --> 00:06:16,590
+And so we're gonna bring in another six languages,
+
+160
+00:06:16,590 --> 00:06:19,743
+but for us, the Spanish was a huge piece.
+
+161
+00:06:21,270 --> 00:06:22,103
+And so I know...
+
+162
+00:06:22,103 --> 00:06:23,610
+There's probably questions about the nerdy bits.
+
+163
+00:06:23,610 --> 00:06:25,530
+So the way it works
+
+164
+00:06:25,530 --> 00:06:27,960
+is Invoke Learning basically spins up an instance
+
+165
+00:06:27,960 --> 00:06:28,793
+of the bot.
+
+166
+00:06:29,640 --> 00:06:32,160
+The bot connects to the existing data
+
+167
+00:06:32,160 --> 00:06:33,690
+we already had in the Invoke system,
+
+168
+00:06:33,690 --> 00:06:36,360
+so they created views specifically for the bot
+
+169
+00:06:36,360 --> 00:06:37,860
+to get the pieces of information needed,
+
+170
+00:06:37,860 --> 00:06:40,620
+like student ID, date of birth, phone numbers, emails,
+
+171
+00:06:40,620 --> 00:06:42,990
+those sorts of things.
+
+172
+00:06:42,990 --> 00:06:43,823
+It connects to Entra,
+
+173
+00:06:43,823 --> 00:06:46,980
+so it can go ahead and do the password reset.
+
+174
+00:06:46,980 --> 00:06:50,100
+Then we provided a knowledge base of information,
+
+175
+00:06:50,100 --> 00:06:52,230
+you know, PDFs, Word docs
+
+176
+00:06:52,230 --> 00:06:54,960
+of those typical kinds of questions and answers,
+
+177
+00:06:54,960 --> 00:06:57,180
+explaining the process for getting on the Wi-Fi,
+
+178
+00:06:57,180 --> 00:07:00,390
+explaining how to get into Canvas,
+
+179
+00:07:00,390 --> 00:07:01,890
+how to get through our SSO- - Sure. Thank you.
+
+180
+00:07:01,890 --> 00:07:03,360
+- self-service enrollment.
+
+181
+00:07:03,360 --> 00:07:05,280
+So all those kinds of things are in the knowledge base,
+
+182
+00:07:05,280 --> 00:07:06,113
+so it can-
+
+183
+00:07:06,113 --> 00:07:07,230
+- Thank you. - answer those questions
+
+184
+00:07:07,230 --> 00:07:08,190
+as well.
+
+185
+00:07:08,190 --> 00:07:10,680
+And as I mentioned, it connects to the ticket system,
+
+186
+00:07:10,680 --> 00:07:12,420
+uses the API to get there,
+
+187
+00:07:12,420 --> 00:07:13,770
+and if it needs to,
+
+188
+00:07:13,770 --> 00:07:16,200
+it'll transfer a call during business hours.
+
+189
+00:07:16,200 --> 00:07:19,620
+And so it's been a really nice system for us.
+
+190
+00:07:19,620 --> 00:07:21,090
+We've only been using it about a month,
+
+191
+00:07:21,090 --> 00:07:23,940
+so I'm hoping as we get into spring
+
+192
+00:07:23,940 --> 00:07:26,340
+we'll really see more of a benefit.
+
+193
+00:07:26,340 --> 00:07:28,410
+We do get students that wanna talk to a human,
+
+194
+00:07:28,410 --> 00:07:29,730
+and that that's okay,
+
+195
+00:07:29,730 --> 00:07:31,560
+but there's a large number of them
+
+196
+00:07:31,560 --> 00:07:33,000
+that do stick with the bot,
+
+197
+00:07:33,000 --> 00:07:34,500
+and there's actually been some...
+
+198
+00:07:34,500 --> 00:07:36,660
+We get to see all of the calls.
+
+199
+00:07:36,660 --> 00:07:39,090
+I can see the text. I can also listen recordings.
+
+200
+00:07:39,090 --> 00:07:41,250
+But there's been a few longer calls
+
+201
+00:07:41,250 --> 00:07:43,260
+where the student starts out frustrated
+
+202
+00:07:43,260 --> 00:07:45,180
+but by the end they're thanking the bot
+
+203
+00:07:45,180 --> 00:07:46,470
+for helping them with their problem.
+
+204
+00:07:46,470 --> 00:07:50,313
+And so it's nice to see those positive reactions, so yep.
+
+205
+00:07:51,870 --> 00:07:52,903
+- All right, thank you.
+
+206
+00:07:52,903 --> 00:07:54,510
+I think all of our institutions
+
+207
+00:07:54,510 --> 00:07:56,640
+have small but mighty IT teams
+
+208
+00:07:56,640 --> 00:08:01,640
+and could learn from this use how to build some capacity.
+
+209
+00:08:01,740 --> 00:08:03,390
+Jory, I know
+
+210
+00:08:03,390 --> 00:08:05,430
+that the California Community Colleges have been
+
+211
+00:08:05,430 --> 00:08:06,720
+in the news recently
+
+212
+00:08:06,720 --> 00:08:08,370
+around fraudulent students,
+
+213
+00:08:08,370 --> 00:08:11,490
+and I know that Foothill-De Anza had to tackle this problem.
+
+214
+00:08:11,490 --> 00:08:13,500
+So can you talk a little bit
+
+215
+00:08:13,500 --> 00:08:15,300
+about the problem that our district,
+
+216
+00:08:15,300 --> 00:08:17,370
+Foothill-De Anza Community College District, faced
+
+217
+00:08:17,370 --> 00:08:19,893
+and how you started to solve that and used AI?
+
+218
+00:08:20,820 --> 00:08:23,340
+- Sure, yeah. Good to see everyone here.
+
+219
+00:08:23,340 --> 00:08:25,680
+And obviously, I love workshops
+
+220
+00:08:25,680 --> 00:08:27,990
+that are focused on really practical solutions,
+
+221
+00:08:27,990 --> 00:08:29,190
+right, that solve problems,
+
+222
+00:08:29,190 --> 00:08:32,070
+so I'll kick off a little bit of a story,
+
+223
+00:08:32,070 --> 00:08:34,640
+and you might hear some different arcs to the story
+
+224
+00:08:34,640 --> 00:08:36,960
+as we kinda go down the line here.
+
+225
+00:08:36,960 --> 00:08:39,330
+But like many of our institutions,
+
+226
+00:08:39,330 --> 00:08:42,510
+at Foothill-De Anza, in January of 2024,
+
+227
+00:08:42,510 --> 00:08:45,723
+we were hit particularly hard with fraud.
+
+228
+00:08:46,980 --> 00:08:50,010
+It wasn't necessarily surprise, because we'd been hearing
+
+229
+00:08:50,010 --> 00:08:51,660
+from other institutions around the state.
+
+230
+00:08:51,660 --> 00:08:55,980
+There's, you know, the quiet whispers between CTOs
+
+231
+00:08:55,980 --> 00:08:59,640
+or between other leadership folks
+
+232
+00:08:59,640 --> 00:09:01,680
+where we knew that this was a problem.
+
+233
+00:09:01,680 --> 00:09:03,890
+And so timing-wise, you know,
+
+234
+00:09:03,890 --> 00:09:07,380
+we were seeing this surge of fraudulent applications
+
+235
+00:09:07,380 --> 00:09:09,840
+coming in to our institutions,
+
+236
+00:09:09,840 --> 00:09:12,360
+and we had just started on a different project,
+
+237
+00:09:12,360 --> 00:09:14,430
+in fact, working on a beta project
+
+238
+00:09:14,430 --> 00:09:17,370
+along with our friends here from West Valley-Mission
+
+239
+00:09:17,370 --> 00:09:20,130
+and Ivy Tech Community College as well.
+
+240
+00:09:20,130 --> 00:09:22,350
+But when this problem popped up...
+
+241
+00:09:22,350 --> 00:09:24,120
+I will never forget being in the meeting
+
+242
+00:09:24,120 --> 00:09:26,940
+with our admissions and financial aids officers
+
+243
+00:09:26,940 --> 00:09:28,650
+from our two colleges,
+
+244
+00:09:28,650 --> 00:09:31,380
+just saying, like, "Jory, we have to think differently
+
+245
+00:09:31,380 --> 00:09:32,670
+about how to solve this solution.
+
+246
+00:09:32,670 --> 00:09:34,530
+We're pulling our hair out.
+
+247
+00:09:34,530 --> 00:09:36,690
+We're exhausting our staff."
+
+248
+00:09:36,690 --> 00:09:38,443
+Oh thank you for...
+
+249
+00:09:38,443 --> 00:09:39,910
+I think I mighta messed it up.
+
+250
+00:09:39,910 --> 00:09:41,250
+Lemme go back to the problem.
+
+251
+00:09:41,250 --> 00:09:43,860
+See, don't let a technologist have a remote, 'cause...
+
+252
+00:09:43,860 --> 00:09:45,930
+Interesting things happening.
+
+253
+00:09:45,930 --> 00:09:49,200
+And so we talked with our partners at N2N.
+
+254
+00:09:49,200 --> 00:09:50,880
+We'd worked with N2N before
+
+255
+00:09:50,880 --> 00:09:52,980
+on the California Virtual Campus,
+
+256
+00:09:52,980 --> 00:09:55,560
+so nearly all of our colleges in the state
+
+257
+00:09:55,560 --> 00:09:57,653
+have an integration through N2N.
+
+258
+00:09:57,653 --> 00:09:59,370
+We said, "Gosh, can we leverage that
+
+259
+00:09:59,370 --> 00:10:01,320
+so that we could have a quick...
+
+260
+00:10:01,320 --> 00:10:02,670
+You know, get something in place.
+
+261
+00:10:02,670 --> 00:10:03,930
+Test it out quickly
+
+262
+00:10:03,930 --> 00:10:06,690
+without having to do a lotta deep infrastructural work."
+
+263
+00:10:06,690 --> 00:10:09,840
+And so we looked at, you know, the challenges,
+
+264
+00:10:09,840 --> 00:10:11,850
+whether it was students can't get their courses,
+
+265
+00:10:11,850 --> 00:10:14,190
+staff burning out, financial risk,
+
+266
+00:10:14,190 --> 00:10:17,430
+and reputational risk, right, for our colleges.
+
+267
+00:10:17,430 --> 00:10:19,710
+And so what we did
+
+268
+00:10:19,710 --> 00:10:22,650
+was we partnered with N2N.
+
+269
+00:10:22,650 --> 00:10:24,420
+We brought in our subject matter experts
+
+270
+00:10:24,420 --> 00:10:27,690
+from Student Services and from our IT staff.
+
+271
+00:10:27,690 --> 00:10:30,270
+Shout out to a couple of our staff who are in the room here.
+
+272
+00:10:30,270 --> 00:10:32,340
+I see Jarrick, and I see a few other folks
+
+273
+00:10:32,340 --> 00:10:34,650
+who worked heavily on this project.
+
+274
+00:10:34,650 --> 00:10:37,200
+And we said, "Okay, if we're gonna use AI,
+
+275
+00:10:37,200 --> 00:10:39,870
+what's the number-one thing we can do to train the model?
+
+276
+00:10:39,870 --> 00:10:41,850
+Let's use some historical data."
+
+277
+00:10:41,850 --> 00:10:44,820
+So we fed it a couple of years' worth of historical data
+
+278
+00:10:44,820 --> 00:10:46,680
+to be able to understand what some
+
+279
+00:10:46,680 --> 00:10:48,030
+of the patterns looked like.
+
+280
+00:10:48,030 --> 00:10:50,100
+We validated that with our staff
+
+281
+00:10:50,100 --> 00:10:51,660
+because they were on the front lines
+
+282
+00:10:51,660 --> 00:10:54,030
+and seeing on a daily basis
+
+283
+00:10:54,030 --> 00:10:57,600
+what the changing tactics were that were coming in.
+
+284
+00:10:57,600 --> 00:11:00,420
+And so as a result,
+
+285
+00:11:00,420 --> 00:11:01,740
+we got to a place
+
+286
+00:11:01,740 --> 00:11:03,390
+where we felt confident
+
+287
+00:11:03,390 --> 00:11:05,220
+that we could run this behind the scenes
+
+288
+00:11:05,220 --> 00:11:07,710
+for our fall registration last year.
+
+289
+00:11:07,710 --> 00:11:08,850
+We ran it side by side
+
+290
+00:11:08,850 --> 00:11:12,540
+with our in-house-developed legacy fraud model
+
+291
+00:11:12,540 --> 00:11:16,380
+and we actually discovered double the amount
+
+292
+00:11:16,380 --> 00:11:17,910
+of what we thought we had.
+
+293
+00:11:17,910 --> 00:11:19,560
+So that's the power of AI, being able
+
+294
+00:11:19,560 --> 00:11:22,740
+to look across these data sets and find these patterns.
+
+295
+00:11:22,740 --> 00:11:26,227
+So, through the collaboration, my friend Joel here said,
+
+296
+00:11:26,227 --> 00:11:28,653
+"You know what? We'll take that.
+
+297
+00:11:29,855 --> 00:11:31,620
+Right? And we'll test it."
+
+298
+00:11:31,620 --> 00:11:34,530
+And so we began this multi-district collaboration.
+
+299
+00:11:34,530 --> 00:11:36,810
+And then we had Santiago Canyon come on board,
+
+300
+00:11:36,810 --> 00:11:38,700
+and some other districts as well,
+
+301
+00:11:38,700 --> 00:11:41,250
+because there was this sort of quiet network
+
+302
+00:11:41,250 --> 00:11:43,380
+of all of us trying to share solutions.
+
+303
+00:11:43,380 --> 00:11:46,200
+So I think the story is, you know,
+
+304
+00:11:46,200 --> 00:11:47,910
+working with existing partners
+
+305
+00:11:47,910 --> 00:11:51,240
+if they have capabilities you can quickly leverage,
+
+306
+00:11:51,240 --> 00:11:55,470
+being able to move quickly
+
+307
+00:11:55,470 --> 00:11:57,840
+in a way that's thoughtful and careful
+
+308
+00:11:57,840 --> 00:11:59,610
+but with other partnerships.
+
+309
+00:11:59,610 --> 00:12:02,700
+We've benefited so much from knowing
+
+310
+00:12:02,700 --> 00:12:04,710
+that your district was seeing the same types
+
+311
+00:12:04,710 --> 00:12:06,360
+of results that we were seeing
+
+312
+00:12:06,360 --> 00:12:08,130
+and that others that came on afterward...
+
+313
+00:12:08,130 --> 00:12:11,730
+Like, it just continues to validate and improve the model.
+
+314
+00:12:11,730 --> 00:12:15,090
+And so today, we have, I believe,
+
+315
+00:12:15,090 --> 00:12:17,070
+83 colleges now in our system
+
+316
+00:12:17,070 --> 00:12:18,963
+that are using this solution,
+
+317
+00:12:18,963 --> 00:12:20,493
+the LightLeap solution.
+
+318
+00:12:22,050 --> 00:12:23,260
+It's just...
+
+319
+00:12:23,260 --> 00:12:25,260
+Like, sometimes, you find something that works,
+
+320
+00:12:25,260 --> 00:12:26,670
+and you go with it.
+
+321
+00:12:26,670 --> 00:12:29,133
+And so we've been really excited about that.
+
+322
+00:12:30,037 --> 00:12:32,280
+And so again, the cross-district piece is
+
+323
+00:12:32,280 --> 00:12:34,950
+critically important, and I just wanted to share that
+
+324
+00:12:34,950 --> 00:12:36,183
+as part of our journey.
+
+325
+00:12:37,110 --> 00:12:38,610
+- Thank you.
+
+326
+00:12:38,610 --> 00:12:40,290
+Amanda and Joel, I know
+
+327
+00:12:40,290 --> 00:12:43,270
+that West Valley-Mission Community College District
+
+328
+00:12:44,130 --> 00:12:46,620
+had this project that they were also working on,
+
+329
+00:12:46,620 --> 00:12:50,430
+but I know that you also saw some other needs
+
+330
+00:12:50,430 --> 00:12:52,320
+where you could use AI as a solution,
+
+331
+00:12:52,320 --> 00:12:55,470
+so lemme ask you: what made you wanna explore
+
+332
+00:12:55,470 --> 00:12:57,810
+using AI with your Student Services areas
+
+333
+00:12:57,810 --> 00:12:59,640
+and to support them?
+
+334
+00:12:59,640 --> 00:13:01,140
+- Yeah, great question. Thank you.
+
+335
+00:13:01,140 --> 00:13:03,780
+Hi, everyone. So, I'm Amanda Marshall.
+
+336
+00:13:03,780 --> 00:13:06,870
+I am the assistant director of our EOPS and CARE programs
+
+337
+00:13:06,870 --> 00:13:09,720
+at Mission College, right down the street.
+
+338
+00:13:09,720 --> 00:13:13,170
+And a couple years ago, when I came into my position,
+
+339
+00:13:13,170 --> 00:13:17,250
+I was kind of taking a landscape of the student journey
+
+340
+00:13:17,250 --> 00:13:20,280
+in terms of gaining access to our programs and services.
+
+341
+00:13:20,280 --> 00:13:23,310
+And so we have about 10 what we call success communities
+
+342
+00:13:23,310 --> 00:13:25,440
+so EOPS; TRIO; MESA;
+
+343
+00:13:25,440 --> 00:13:27,990
+our APIDA Affinity Groups, Umoja, Puente.
+
+344
+00:13:27,990 --> 00:13:30,240
+And then we also have our Basic Needs services,
+
+345
+00:13:30,240 --> 00:13:32,907
+our Career Center mental health services.
+
+346
+00:13:32,907 --> 00:13:35,940
+And so students were submitting different applications
+
+347
+00:13:35,940 --> 00:13:37,530
+for each program and service
+
+348
+00:13:37,530 --> 00:13:40,500
+or interest forms and then applications, right?
+
+349
+00:13:40,500 --> 00:13:43,080
+And then we were taking a very siloed approach
+
+350
+00:13:43,080 --> 00:13:44,670
+to determining eligibility
+
+351
+00:13:44,670 --> 00:13:46,410
+and communicating with students
+
+352
+00:13:46,410 --> 00:13:48,303
+and accepting them into programs.
+
+353
+00:13:49,530 --> 00:13:52,860
+So, this was, you know, creating duplication of services,
+
+354
+00:13:52,860 --> 00:13:53,980
+where we're serving lotta the same students.
+
+355
+00:13:53,980 --> 00:13:55,620
+We're not broadening our reach.
+
+356
+00:13:55,620 --> 00:13:58,050
+We don't really know who's eligible for our programs.
+
+357
+00:13:58,050 --> 00:14:00,240
+We're asking the students to jump through a lotta hoops
+
+358
+00:14:00,240 --> 00:14:03,210
+just to get, like, to the point of connection, right?
+
+359
+00:14:03,210 --> 00:14:07,320
+And so I actually created a centralized form
+
+360
+00:14:07,320 --> 00:14:09,660
+for all of our programs and services,
+
+361
+00:14:09,660 --> 00:14:11,880
+so we call it the Mission Support Form,
+
+362
+00:14:11,880 --> 00:14:14,580
+and we use kinda the lowest common denominator
+
+363
+00:14:14,580 --> 00:14:17,880
+of what everybody needs in terms of eligibility criteria.
+
+364
+00:14:17,880 --> 00:14:20,040
+And part of the difficulty, then,
+
+365
+00:14:20,040 --> 00:14:21,870
+in having students fill out that form
+
+366
+00:14:21,870 --> 00:14:24,870
+is, like, okay, there's also backend data that we need
+
+367
+00:14:24,870 --> 00:14:27,030
+and some of it is in CCApply
+
+368
+00:14:27,030 --> 00:14:28,740
+and some of it is in this other system
+
+369
+00:14:28,740 --> 00:14:29,910
+and some of it's over here.
+
+370
+00:14:29,910 --> 00:14:31,590
+And so we are tracking down
+
+371
+00:14:31,590 --> 00:14:33,030
+and accessing different systems
+
+372
+00:14:33,030 --> 00:14:35,340
+to try to find eligibility information.
+
+373
+00:14:35,340 --> 00:14:37,830
+And then we're still all working in silos, right?
+
+374
+00:14:37,830 --> 00:14:40,770
+So we've tried to combine it into this giant spreadsheet
+
+375
+00:14:40,770 --> 00:14:43,830
+where then people are deleting things and moving things
+
+376
+00:14:43,830 --> 00:14:44,910
+and things are getting lost
+
+377
+00:14:44,910 --> 00:14:46,380
+and people are super overwhelmed.
+
+378
+00:14:46,380 --> 00:14:47,700
+It's hard to keep track.
+
+379
+00:14:47,700 --> 00:14:49,200
+We had duplicate submissions.
+
+380
+00:14:49,200 --> 00:14:52,410
+We had, you know, people putting the wrong information,
+
+381
+00:14:52,410 --> 00:14:54,060
+the incorrect ID number, their...
+
+382
+00:14:54,060 --> 00:14:56,370
+You know, so we spent so much time
+
+383
+00:14:56,370 --> 00:14:58,320
+just trying to clean up data
+
+384
+00:14:58,320 --> 00:15:00,780
+and find accurate data to figure out
+
+385
+00:15:00,780 --> 00:15:03,090
+whether or not students were eligible for programs.
+
+386
+00:15:03,090 --> 00:15:05,850
+And then it took us so much longer to get back to them.
+
+387
+00:15:05,850 --> 00:15:08,220
+And when we did communicate, it was a lot of back and forth
+
+388
+00:15:08,220 --> 00:15:09,900
+of, like, "we still need pieces from you"
+
+389
+00:15:09,900 --> 00:15:11,520
+or "we need you to clarify this."
+
+390
+00:15:11,520 --> 00:15:15,060
+So it was taking very long to get students connected,
+
+391
+00:15:15,060 --> 00:15:16,770
+and we were literally looking at this
+
+392
+00:15:16,770 --> 00:15:19,050
+like "there has to be a better way," right?
+
+393
+00:15:19,050 --> 00:15:22,773
+So the solution was to integrate AI.
+
+394
+00:15:24,300 --> 00:15:27,180
+- Great, I'm Joel Bennett, director,
+
+395
+00:15:27,180 --> 00:15:29,220
+Educational Technology at West Valley-Mission.
+
+396
+00:15:29,220 --> 00:15:31,653
+So, typical problem, right?
+
+397
+00:15:32,940 --> 00:15:35,400
+We have college administrators and staff
+
+398
+00:15:35,400 --> 00:15:36,960
+struggling with our platforms,
+
+399
+00:15:36,960 --> 00:15:39,030
+like Banner and others, right,
+
+400
+00:15:39,030 --> 00:15:42,630
+so developing shadow IT processes
+
+401
+00:15:42,630 --> 00:15:46,050
+because the existing platforms don't work.
+
+402
+00:15:46,050 --> 00:15:47,310
+So what we wanted to do
+
+403
+00:15:47,310 --> 00:15:51,480
+was create a single pane of glass for these staff, right,
+
+404
+00:15:51,480 --> 00:15:53,070
+just the cognitive load
+
+405
+00:15:53,070 --> 00:15:54,900
+of having to go to Argos and Banner
+
+406
+00:15:54,900 --> 00:15:57,690
+and gather all this information.
+
+407
+00:15:57,690 --> 00:16:00,240
+Before they even talk to a student, they're exhausted
+
+408
+00:16:00,240 --> 00:16:02,790
+from just having to gather the data,
+
+409
+00:16:02,790 --> 00:16:05,100
+so the first piece was working with N2N
+
+410
+00:16:05,100 --> 00:16:08,760
+to develop a dashboard with all the data they need.
+
+411
+00:16:08,760 --> 00:16:10,530
+Then the second part was...
+
+412
+00:16:10,530 --> 00:16:14,220
+Okay, all these programs have key eligibility
+
+413
+00:16:14,220 --> 00:16:15,477
+to see if they're qualified or not.
+
+414
+00:16:15,477 --> 00:16:17,010
+And so we trained AI
+
+415
+00:16:17,010 --> 00:16:20,130
+to assess student data
+
+416
+00:16:20,130 --> 00:16:21,930
+and determine whether they're eligible,
+
+417
+00:16:21,930 --> 00:16:23,760
+so for TRIO,
+
+418
+00:16:23,760 --> 00:16:26,490
+they have to be a first-gen college student, right?
+
+419
+00:16:26,490 --> 00:16:28,170
+They have to be a STEM major.
+
+420
+00:16:28,170 --> 00:16:30,540
+We train the model on each one of these programs,
+
+421
+00:16:30,540 --> 00:16:32,940
+so now it can go through the student data
+
+422
+00:16:32,940 --> 00:16:35,107
+and determine and make an assessment:
+
+423
+00:16:35,107 --> 00:16:37,950
+"Is the student qualified or not qualified?"
+
+424
+00:16:37,950 --> 00:16:39,870
+And then let the advisors know,
+
+425
+00:16:39,870 --> 00:16:43,200
+and they can do the human assessment, right, verify.
+
+426
+00:16:43,200 --> 00:16:48,200
+And we flag those parts of any student's data that shows
+
+427
+00:16:48,240 --> 00:16:51,240
+that they're not qualified, they're not met, right?
+
+428
+00:16:51,240 --> 00:16:54,000
+So, great success there.
+
+429
+00:16:54,000 --> 00:16:56,220
+It goes through all kinds of student data,
+
+430
+00:16:56,220 --> 00:16:59,370
+GPA, majors, financial aid status,
+
+431
+00:16:59,370 --> 00:17:00,660
+'cause each one of these programs
+
+432
+00:17:00,660 --> 00:17:05,010
+has unique eligibility status, or requirements.
+
+433
+00:17:05,010 --> 00:17:07,230
+So again, advisors see
+
+434
+00:17:07,230 --> 00:17:10,530
+clear AI-generated breakdown of eligibility.
+
+435
+00:17:10,530 --> 00:17:12,120
+What's the impact? Right?
+
+436
+00:17:12,120 --> 00:17:13,980
+Now, Amanda and others can focus
+
+437
+00:17:13,980 --> 00:17:16,170
+on student outreach and communication
+
+438
+00:17:16,170 --> 00:17:17,730
+and providing the service,
+
+439
+00:17:17,730 --> 00:17:20,703
+not fiddling around and being overwhelmed by data.
+
+440
+00:17:21,660 --> 00:17:23,497
+And so just based on Amanda's assessment,
+
+441
+00:17:23,497 --> 00:17:26,820
+you know, this is saving her five hours a week.
+
+442
+00:17:26,820 --> 00:17:30,330
+There's 13 different advisors working on Mission Cares,
+
+443
+00:17:30,330 --> 00:17:33,510
+so once all 13 advisors are using it,
+
+444
+00:17:33,510 --> 00:17:36,990
+we're looking at saving 3,000 staff hours a year,
+
+445
+00:17:36,990 --> 00:17:38,733
+so there you go.
+
+446
+00:17:40,072 --> 00:17:41,253
+Oh, sorry.
+
+447
+00:17:43,230 --> 00:17:44,343
+I did the Jory.
+
+448
+00:17:45,650 --> 00:17:49,230
+Okay, so, yeah, this one, really, we kinda phrase this
+
+449
+00:17:49,230 --> 00:17:50,980
+as, you know, "what's the problem? What's the solution?"
+
+450
+00:17:50,980 --> 00:17:54,090
+But I also have "what's next?" right? Deeper integration.
+
+451
+00:17:54,090 --> 00:17:55,433
+So, we're working with specific programs
+
+452
+00:17:55,433 --> 00:17:59,190
+that we kind of didn't hit as well on the first phase,
+
+453
+00:17:59,190 --> 00:18:02,580
+so we're looking to pull in more data from Banner
+
+454
+00:18:02,580 --> 00:18:04,500
+to help some of the other programs.
+
+455
+00:18:04,500 --> 00:18:08,430
+We're working on making AI chat, right?
+
+456
+00:18:08,430 --> 00:18:10,770
+You can only fit so much data into a dashboard.
+
+457
+00:18:10,770 --> 00:18:13,027
+We want these advisors to be able to say,
+
+458
+00:18:13,027 --> 00:18:16,290
+"Tell me about Keith Smith.
+
+459
+00:18:16,290 --> 00:18:20,400
+Show me all the students that I have reached out to
+
+460
+00:18:20,400 --> 00:18:21,960
+that haven't responded,"
+
+461
+00:18:21,960 --> 00:18:25,440
+so that's what we're aiming next, yeah,
+
+462
+00:18:25,440 --> 00:18:27,840
+and then doing more early alert stuff,
+
+463
+00:18:27,840 --> 00:18:30,780
+reaching out proactively to students,
+
+464
+00:18:30,780 --> 00:18:32,070
+like, "You've registered?
+
+465
+00:18:32,070 --> 00:18:33,660
+Hey, you may be available to you.
+
+466
+00:18:33,660 --> 00:18:35,610
+Yes, based on the data we have on you,"
+
+467
+00:18:35,610 --> 00:18:37,573
+so there ya go.
+
+468
+00:18:38,640 --> 00:18:39,473
+- All right, thank you.
+
+469
+00:18:39,473 --> 00:18:41,790
+I think you guys can all sense a theme here.
+
+470
+00:18:41,790 --> 00:18:43,530
+Is this resonating with what's going on
+
+471
+00:18:43,530 --> 00:18:44,910
+at your institutions?
+
+472
+00:18:44,910 --> 00:18:49,080
+There's data validation, redundancies, duplication.
+
+473
+00:18:49,080 --> 00:18:51,120
+We're all facing these challenges.
+
+474
+00:18:51,120 --> 00:18:54,060
+And so I'll turn it over to you, Ger, right now.
+
+475
+00:18:54,060 --> 00:18:55,620
+What's happening at Palo Alto?
+
+476
+00:18:55,620 --> 00:18:57,780
+And what problem did your institution face?
+
+477
+00:18:57,780 --> 00:19:01,440
+And how are you going to use AI to solve that?
+
+478
+00:19:01,440 --> 00:19:02,273
+- Only during.
+
+479
+00:19:02,273 --> 00:19:03,106
+- Oh, whoops.
+
+480
+00:19:03,106 --> 00:19:04,050
+- Sorry. - (indistinct) clawing
+
+481
+00:19:04,050 --> 00:19:05,464
+to that. - Sorry.
+
+482
+00:19:05,464 --> 00:19:06,642
+- Claw it back.
+
+483
+00:19:06,642 --> 00:19:08,475
+- Who's a tech person?
+
+484
+00:19:09,356 --> 00:19:10,823
+- Thank you. Hi, good morning.
+
+485
+00:19:10,823 --> 00:19:14,580
+My name is Ger Xiong. I'm the dean of Student Services.
+
+486
+00:19:14,580 --> 00:19:17,880
+I oversee financial aid, admissions records, and counseling.
+
+487
+00:19:17,880 --> 00:19:19,890
+A bit of background about us.
+
+488
+00:19:19,890 --> 00:19:21,900
+Can you go back a little bit?
+
+489
+00:19:21,900 --> 00:19:24,510
+We are, like, the rural college.
+
+490
+00:19:24,510 --> 00:19:26,610
+We are located in Blythe, California,
+
+491
+00:19:26,610 --> 00:19:29,010
+right between border of California and Arizona.
+
+492
+00:19:29,010 --> 00:19:31,080
+We're just on the California side,
+
+493
+00:19:31,080 --> 00:19:34,650
+and we have about 2,500 FTES,
+
+494
+00:19:34,650 --> 00:19:39,450
+and that equates to about 26,000 enrollments.
+
+495
+00:19:39,450 --> 00:19:41,160
+Half of our student population
+
+496
+00:19:41,160 --> 00:19:44,190
+are incarcerated Rising Scholars.
+
+497
+00:19:44,190 --> 00:19:49,190
+We serve six CDCR locations in the state of California,
+
+498
+00:19:51,060 --> 00:19:52,170
+three in SoCal
+
+499
+00:19:52,170 --> 00:19:55,170
+and then, of course, three in Northern California.
+
+500
+00:19:55,170 --> 00:19:58,227
+And of course, about 35 to 40% of our students
+
+501
+00:19:58,227 --> 00:20:00,783
+are are also Fire Science students,
+
+502
+00:20:02,070 --> 00:20:06,030
+meaning, especially for our Rising Scholars students,
+
+503
+00:20:06,030 --> 00:20:08,490
+they don't have internet access, right?
+
+504
+00:20:08,490 --> 00:20:11,190
+We are paper-based.
+
+505
+00:20:11,190 --> 00:20:15,150
+Everything is manual. We mail them our paper applications.
+
+506
+00:20:15,150 --> 00:20:16,530
+They mail it back to us.
+
+507
+00:20:16,530 --> 00:20:18,510
+If there's errors or you can't read it,
+
+508
+00:20:18,510 --> 00:20:20,740
+we mail it back to them to correct it.
+
+509
+00:20:20,740 --> 00:20:23,190
+By the time it gets back to us,
+
+510
+00:20:23,190 --> 00:20:25,770
+classes are no longer available for them to register.
+
+511
+00:20:25,770 --> 00:20:28,140
+It's a heavy manual process.
+
+512
+00:20:28,140 --> 00:20:29,670
+And so when I came in
+
+513
+00:20:29,670 --> 00:20:32,640
+along with my vice president, Clint Cowden,
+
+514
+00:20:32,640 --> 00:20:34,860
+we had a half-day session with A and R,
+
+515
+00:20:34,860 --> 00:20:38,400
+and we found out that the biggest struggle and challenge
+
+516
+00:20:38,400 --> 00:20:39,960
+that we had with admissions records
+
+517
+00:20:39,960 --> 00:20:41,760
+is this manual process
+
+518
+00:20:41,760 --> 00:20:45,000
+of entering everything paper-based into Colleague
+
+519
+00:20:45,000 --> 00:20:46,290
+line by line.
+
+520
+00:20:46,290 --> 00:20:49,173
+That just took up a whole lot of time.
+
+521
+00:20:50,400 --> 00:20:53,820
+On average, we have about 500 applications annually.
+
+522
+00:20:53,820 --> 00:20:56,880
+For peak seasons, we have about 800.
+
+523
+00:20:56,880 --> 00:21:01,470
+And key issues that we have:
+
+524
+00:21:01,470 --> 00:21:03,090
+bad handwriting, right?
+
+525
+00:21:03,090 --> 00:21:05,400
+If a student puts down, "I'm in Yard A,"
+
+526
+00:21:05,400 --> 00:21:08,430
+we can see that and say, "Maybe that says Yard F,"
+
+527
+00:21:08,430 --> 00:21:11,070
+or sometimes, instead of putting the yard location,
+
+528
+00:21:11,070 --> 00:21:14,403
+they put, "Prison" or "CDCR," whatever it is, right?
+
+529
+00:21:15,300 --> 00:21:18,990
+There's also human errors in entering in this data.
+
+530
+00:21:18,990 --> 00:21:20,280
+It's extremely time-consuming
+
+531
+00:21:20,280 --> 00:21:24,753
+and also essentially just not an efficient workflow, right?
+
+532
+00:21:25,650 --> 00:21:28,770
+There's also implications of data integrity,
+
+533
+00:21:28,770 --> 00:21:32,343
+and that really impacts our IR office as well.
+
+534
+00:21:33,720 --> 00:21:36,090
+So, one of the things that we did...
+
+535
+00:21:36,090 --> 00:21:40,650
+And luckily, we actually met N2N at a different conference
+
+536
+00:21:40,650 --> 00:21:43,260
+sometime last year or about last year,
+
+537
+00:21:43,260 --> 00:21:47,793
+and in talking about these sorts of challenges, we thought,
+
+538
+00:21:50,497 --> 00:21:53,313
+"Let's look at N2N," essentially.
+
+539
+00:21:55,391 --> 00:21:57,420
+What N2N has done for us
+
+540
+00:21:57,420 --> 00:22:01,080
+is better streamline our process, right?
+
+541
+00:22:01,080 --> 00:22:03,420
+So when we get these stacks of applications
+
+542
+00:22:03,420 --> 00:22:05,160
+that come in on a weekly basis,
+
+543
+00:22:05,160 --> 00:22:07,980
+we scan it up to our N2N platform.
+
+544
+00:22:07,980 --> 00:22:11,880
+From there, they then extract these handwritten data
+
+545
+00:22:11,880 --> 00:22:15,003
+into our SIS system directly.
+
+546
+00:22:16,440 --> 00:22:17,850
+When they're able to do that,
+
+547
+00:22:17,850 --> 00:22:19,350
+when the staff opens it up,
+
+548
+00:22:19,350 --> 00:22:21,480
+we can compare the scanned documents
+
+549
+00:22:21,480 --> 00:22:24,000
+with what's populated,
+
+550
+00:22:24,000 --> 00:22:26,160
+and there's actually an accuracy meter.
+
+551
+00:22:26,160 --> 00:22:28,953
+So say, for example, the name is like 90% accurate.
+
+552
+00:22:29,850 --> 00:22:32,280
+Generally, 90% accurate, in my mind, is pretty accurate.
+
+553
+00:22:32,280 --> 00:22:34,890
+If it's like 85 or 80 or below,
+
+554
+00:22:34,890 --> 00:22:36,450
+we double-check those, right?
+
+555
+00:22:36,450 --> 00:22:39,600
+And staff essentially goes and just compares it, checks it,
+
+556
+00:22:39,600 --> 00:22:44,600
+and finally, like, approve the information.
+
+557
+00:22:46,470 --> 00:22:49,950
+We went live about like three to four weeks ago,
+
+558
+00:22:49,950 --> 00:22:51,570
+and thus far, it's been the most exciting thing
+
+559
+00:22:51,570 --> 00:22:52,890
+for our staff
+
+560
+00:22:52,890 --> 00:22:55,620
+because, again, it really has cut down the manual process
+
+561
+00:22:55,620 --> 00:22:57,917
+of these applications that come in.
+
+562
+00:22:57,917 --> 00:23:01,620
+And so we're doing it for our Rising Scholars population
+
+563
+00:23:01,620 --> 00:23:04,050
+and also for our Fire Science population.
+
+564
+00:23:04,050 --> 00:23:06,900
+And I must say, for our Fire Science population,
+
+565
+00:23:06,900 --> 00:23:08,700
+you would think, "Well, they are firefighters.
+
+566
+00:23:08,700 --> 00:23:10,710
+You know, they have open access to internet.
+
+567
+00:23:10,710 --> 00:23:12,390
+They can do this in CCApply";
+
+568
+00:23:12,390 --> 00:23:16,260
+however, the preference is paper, right?
+
+569
+00:23:16,260 --> 00:23:17,700
+And we have to be good stewards,
+
+570
+00:23:17,700 --> 00:23:19,860
+and we have to provide excellent customer service
+
+571
+00:23:19,860 --> 00:23:22,890
+'cause we're talking about at least 1,000 FTES.
+
+572
+00:23:22,890 --> 00:23:26,730
+If we lose Fire Science, that's impacting jobs, right?
+
+573
+00:23:26,730 --> 00:23:29,817
+And so they have been very vocal about "you know what?
+
+574
+00:23:29,817 --> 00:23:32,520
+Our firefighters are good with paper applications.
+
+575
+00:23:32,520 --> 00:23:33,353
+They're better with that."
+
+576
+00:23:33,353 --> 00:23:36,750
+And so we have continued to use paper applications for them.
+
+577
+00:23:36,750 --> 00:23:38,220
+But again, I think our...
+
+578
+00:23:38,220 --> 00:23:41,490
+And finding N2N as a solution to process this
+
+579
+00:23:41,490 --> 00:23:43,680
+has been night and day for us.
+
+580
+00:23:43,680 --> 00:23:45,390
+And so we're just really thrilled
+
+581
+00:23:45,390 --> 00:23:47,313
+to really showcase that here.
+
+582
+00:23:48,930 --> 00:23:49,770
+- Thank you, Ger.
+
+583
+00:23:49,770 --> 00:23:51,840
+I think this is a great example again
+
+584
+00:23:51,840 --> 00:23:54,630
+of how are we utilizing AI
+
+585
+00:23:54,630 --> 00:23:57,570
+to still meet students where they are,
+
+586
+00:23:57,570 --> 00:24:01,890
+because if they don't have the resources they're gone
+
+587
+00:24:01,890 --> 00:24:03,900
+and we still want to impact them.
+
+588
+00:24:03,900 --> 00:24:05,490
+And so meeting them where they are
+
+589
+00:24:05,490 --> 00:24:08,700
+but still finding solutions for our employees
+
+590
+00:24:08,700 --> 00:24:09,840
+is really important.
+
+591
+00:24:09,840 --> 00:24:11,880
+And Allison, I believe
+
+592
+00:24:11,880 --> 00:24:15,000
+you, also at Santiago Canyon, had some issues
+
+593
+00:24:15,000 --> 00:24:17,070
+with manual entry and delays.
+
+594
+00:24:17,070 --> 00:24:18,690
+And so I'll hand it to you.
+
+595
+00:24:18,690 --> 00:24:20,673
+I'll be the remote right now.
+
+596
+00:24:22,080 --> 00:24:25,740
+- I just wanna say to my fellow panelists and the audience,
+
+597
+00:24:25,740 --> 00:24:28,770
+this is my clicker that I offered to share,
+
+598
+00:24:28,770 --> 00:24:31,773
+and obviously, that was a bad idea, so sorry.
+
+599
+00:24:31,773 --> 00:24:34,350
+Thought I was being helpful, but it's okay.
+
+600
+00:24:34,350 --> 00:24:37,170
+We can just keep with our normal process.
+
+601
+00:24:37,170 --> 00:24:39,030
+Hello, everyone, my name is Allison Maricic.
+
+602
+00:24:39,030 --> 00:24:41,400
+I'm the counselor/coordinator
+
+603
+00:24:41,400 --> 00:24:44,370
+of Apprenticeship at Santiago Canyon College.
+
+604
+00:24:44,370 --> 00:24:46,320
+So, when I came into my role...
+
+605
+00:24:46,320 --> 00:24:47,640
+My position is very new,
+
+606
+00:24:47,640 --> 00:24:50,430
+so I came into my position last year,
+
+607
+00:24:50,430 --> 00:24:52,290
+and one of the things that I noticed
+
+608
+00:24:52,290 --> 00:24:54,630
+as I was kind of taking the lay of the land,
+
+609
+00:24:54,630 --> 00:24:56,190
+as we talked about earlier,
+
+610
+00:24:56,190 --> 00:24:58,650
+is where were some of the gaps
+
+611
+00:24:58,650 --> 00:25:03,330
+in terms of how people are evaluated in terms of our numbers
+
+612
+00:25:03,330 --> 00:25:05,100
+and how we're serving our students.
+
+613
+00:25:05,100 --> 00:25:07,020
+So one of the biggest gaps that I found
+
+614
+00:25:07,020 --> 00:25:09,570
+was that our apprenticeship students,
+
+615
+00:25:09,570 --> 00:25:12,330
+which encompasses a big part
+
+616
+00:25:12,330 --> 00:25:13,800
+of our population as a campus...
+
+617
+00:25:13,800 --> 00:25:15,480
+We're a big apprenticeship program
+
+618
+00:25:15,480 --> 00:25:16,500
+at Santiago Canyon College,
+
+619
+00:25:16,500 --> 00:25:18,750
+for those of you that don't know,
+
+620
+00:25:18,750 --> 00:25:20,910
+and our students' numbers
+
+621
+00:25:20,910 --> 00:25:22,260
+when we look at our graduation rates
+
+622
+00:25:22,260 --> 00:25:25,950
+weren't reflecting what our students were actually doing
+
+623
+00:25:25,950 --> 00:25:29,220
+at their training centers and journeying out, right?
+
+624
+00:25:29,220 --> 00:25:31,830
+So I was like, "Well, why isn't this happening?
+
+625
+00:25:31,830 --> 00:25:34,560
+Why don't we see these reflections of that?"
+
+626
+00:25:34,560 --> 00:25:35,970
+And one of the things that we found
+
+627
+00:25:35,970 --> 00:25:39,570
+was that the manual process, right,
+
+628
+00:25:39,570 --> 00:25:41,610
+of going into evaluating
+
+629
+00:25:41,610 --> 00:25:45,810
+the graduation and the completion of the students
+
+630
+00:25:45,810 --> 00:25:48,120
+was very time-consuming.
+
+631
+00:25:48,120 --> 00:25:51,273
+Because of the nature of traditional trades,
+
+632
+00:25:52,470 --> 00:25:55,170
+the training is typically done offsite, right?
+
+633
+00:25:55,170 --> 00:25:56,280
+It's not done at our college.
+
+634
+00:25:56,280 --> 00:25:57,990
+It's done through the training centers
+
+635
+00:25:57,990 --> 00:25:59,670
+of the different locations:
+
+636
+00:25:59,670 --> 00:26:02,010
+carpentry, electrician, for example.
+
+637
+00:26:02,010 --> 00:26:04,710
+And one of the things that happens
+
+638
+00:26:04,710 --> 00:26:07,890
+is that that information is sent
+
+639
+00:26:07,890 --> 00:26:10,380
+through a very old-school process
+
+640
+00:26:10,380 --> 00:26:11,670
+of how the training trust like
+
+641
+00:26:11,670 --> 00:26:13,170
+to send their information over to us.
+
+642
+00:26:13,170 --> 00:26:16,350
+And then we have to manually input that information.
+
+643
+00:26:16,350 --> 00:26:18,180
+And then from there, at the end,
+
+644
+00:26:18,180 --> 00:26:19,980
+students end up with two transcripts,
+
+645
+00:26:19,980 --> 00:26:23,250
+one from the training trust and then one from our college,
+
+646
+00:26:23,250 --> 00:26:26,400
+where our transcript at the end wasn't always reflective
+
+647
+00:26:26,400 --> 00:26:29,370
+of what they actually did in their training,
+
+648
+00:26:29,370 --> 00:26:31,047
+so we had to find a solution.
+
+649
+00:26:31,047 --> 00:26:33,840
+And so one of the things that we found
+
+650
+00:26:33,840 --> 00:26:36,030
+was that my counselor and my colleagues were
+
+651
+00:26:36,030 --> 00:26:38,340
+spending hours to, sometimes, weeks
+
+652
+00:26:38,340 --> 00:26:40,620
+processing one student,
+
+653
+00:26:40,620 --> 00:26:43,080
+so when we have thousands...
+
+654
+00:26:43,080 --> 00:26:44,610
+Right now, we have a population
+
+655
+00:26:44,610 --> 00:26:49,050
+of a little over 5,000 current apprentices at our campus.
+
+656
+00:26:49,050 --> 00:26:50,910
+Those students are graduating all of the time,
+
+657
+00:26:50,910 --> 00:26:53,040
+and our numbers were not reflecting that.
+
+658
+00:26:53,040 --> 00:26:56,640
+So luckily, we were able to connect and collaborate with N2N
+
+659
+00:26:56,640 --> 00:26:58,860
+and talk about this particular issue
+
+660
+00:26:58,860 --> 00:27:01,750
+and what we can do to help kind of bring forward
+
+661
+00:27:02,610 --> 00:27:04,560
+their platform and their model
+
+662
+00:27:04,560 --> 00:27:07,740
+to help us kind of break through these barriers,
+
+663
+00:27:07,740 --> 00:27:10,380
+these, like, manual processing bottlenecks,
+
+664
+00:27:10,380 --> 00:27:13,143
+very similar things to what my colleagues have shared,
+
+665
+00:27:14,220 --> 00:27:16,800
+so that our students can get the certificates
+
+666
+00:27:16,800 --> 00:27:18,450
+that they deserve, right?
+
+667
+00:27:18,450 --> 00:27:20,940
+They are eligible for a certificate of achievement,
+
+668
+00:27:20,940 --> 00:27:22,260
+and they also have the ability
+
+669
+00:27:22,260 --> 00:27:24,060
+to get an associate's degree
+
+670
+00:27:24,060 --> 00:27:25,230
+in their apprenticeship programs
+
+671
+00:27:25,230 --> 00:27:26,970
+if they have general education,
+
+672
+00:27:26,970 --> 00:27:29,160
+and the students were just not getting the right access,
+
+673
+00:27:29,160 --> 00:27:31,320
+even though they had completed the programs.
+
+674
+00:27:31,320 --> 00:27:34,860
+So we were able to first kind of see...
+
+675
+00:27:34,860 --> 00:27:36,000
+Well, what can we do?
+
+676
+00:27:36,000 --> 00:27:37,830
+How can we kind of break down this process?
+
+677
+00:27:37,830 --> 00:27:41,400
+Well, in our collaboration, our proposed solution...
+
+678
+00:27:41,400 --> 00:27:44,010
+I'll say that, out of, I think, everyone here,
+
+679
+00:27:44,010 --> 00:27:45,570
+we have not yet gone live.
+
+680
+00:27:45,570 --> 00:27:48,000
+So, we are still kind of in the planning stages,
+
+681
+00:27:48,000 --> 00:27:52,080
+but we're very close to being able to kind of test this out.
+
+682
+00:27:52,080 --> 00:27:54,570
+But we're really excited about what we see so far
+
+683
+00:27:54,570 --> 00:27:56,940
+in terms of what we will be able to do
+
+684
+00:27:56,940 --> 00:27:59,040
+with this integration,
+
+685
+00:27:59,040 --> 00:28:01,980
+and I think this has a lot of amazing implications
+
+686
+00:28:01,980 --> 00:28:03,210
+for many of your colleges
+
+687
+00:28:03,210 --> 00:28:05,760
+if we think about just transcript evaluation
+
+688
+00:28:05,760 --> 00:28:06,900
+as a whole, right?
+
+689
+00:28:06,900 --> 00:28:09,660
+All of us get other college transcripts,
+
+690
+00:28:09,660 --> 00:28:11,430
+whether you have apprenticeship programs or not,
+
+691
+00:28:11,430 --> 00:28:14,820
+that you have to figure out how they fit into your programs,
+
+692
+00:28:14,820 --> 00:28:18,000
+so this has amazing implications for everyone.
+
+693
+00:28:18,000 --> 00:28:19,950
+But for us, what the...
+
+694
+00:28:19,950 --> 00:28:20,820
+One of the great things
+
+695
+00:28:20,820 --> 00:28:24,120
+that the model and the platform is able to bring to us
+
+696
+00:28:24,120 --> 00:28:26,430
+is that it brings everything to one place.
+
+697
+00:28:26,430 --> 00:28:28,560
+So one of the things that is difficult
+
+698
+00:28:28,560 --> 00:28:31,830
+is that we, again, have these outside transcripts.
+
+699
+00:28:31,830 --> 00:28:35,280
+We have, you know, missing information.
+
+700
+00:28:35,280 --> 00:28:36,230
+And so it's able to
+
+701
+00:28:39,492 --> 00:28:41,640
+bring it all forward into one place
+
+702
+00:28:41,640 --> 00:28:44,550
+so we can see all of the information together.
+
+703
+00:28:44,550 --> 00:28:47,610
+One of the other great things that this has helped us do
+
+704
+00:28:47,610 --> 00:28:50,160
+is kind of look at our internal processes
+
+705
+00:28:50,160 --> 00:28:52,650
+is how can we better support our students
+
+706
+00:28:52,650 --> 00:28:54,540
+and how can we break down some of the barriers
+
+707
+00:28:54,540 --> 00:28:57,690
+of how we're processing paperwork just for graduation.
+
+708
+00:28:57,690 --> 00:28:59,370
+So I would say, on a side note,
+
+709
+00:28:59,370 --> 00:29:02,760
+that's been an amazing thing, to be able to connect
+
+710
+00:29:02,760 --> 00:29:05,070
+with all of the different departments on our campus
+
+711
+00:29:05,070 --> 00:29:08,070
+that connect students to completing their program,
+
+712
+00:29:08,070 --> 00:29:10,980
+and we've been able to collaborate
+
+713
+00:29:10,980 --> 00:29:15,390
+and take out multiple forms,
+
+714
+00:29:15,390 --> 00:29:18,060
+where now it's just one single form.
+
+715
+00:29:18,060 --> 00:29:20,553
+And so now we're able to use that one single form
+
+716
+00:29:20,553 --> 00:29:24,120
+that now combines multiple forms that we had do in the past
+
+717
+00:29:24,120 --> 00:29:25,620
+within this integration
+
+718
+00:29:25,620 --> 00:29:27,630
+so that all of the information is on one page.
+
+719
+00:29:27,630 --> 00:29:30,090
+And that took our campus to really be on board
+
+720
+00:29:30,090 --> 00:29:32,700
+with how can we better support our internal process
+
+721
+00:29:32,700 --> 00:29:33,993
+so that this could work.
+
+722
+00:29:35,070 --> 00:29:38,100
+It goes both ways. And so yes, the technology helps.
+
+723
+00:29:38,100 --> 00:29:39,300
+But we also have to be open
+
+724
+00:29:39,300 --> 00:29:42,270
+to how do we envision this change
+
+725
+00:29:42,270 --> 00:29:43,860
+and what do we need to do as a campus
+
+726
+00:29:43,860 --> 00:29:45,510
+to kind of think about what we can do
+
+727
+00:29:45,510 --> 00:29:47,820
+just within our daily work.
+
+728
+00:29:47,820 --> 00:29:49,980
+And so with that, the other piece
+
+729
+00:29:49,980 --> 00:29:51,510
+that we were able to really think about, too,
+
+730
+00:29:51,510 --> 00:29:54,630
+is integrating CPL, credit for prior learning.
+
+731
+00:29:54,630 --> 00:29:55,830
+So, one of the things
+
+732
+00:29:55,830 --> 00:29:59,850
+that we built into this process, as well, is...
+
+733
+00:29:59,850 --> 00:30:01,860
+For our apprenticeship students,
+
+734
+00:30:01,860 --> 00:30:03,060
+one of the things that happens
+
+735
+00:30:03,060 --> 00:30:08,060
+is that the training trust does CPL,
+
+736
+00:30:08,070 --> 00:30:10,680
+and they've been doing CPL for a long time,
+
+737
+00:30:10,680 --> 00:30:12,840
+way longer than we even been thinking about it.
+
+738
+00:30:12,840 --> 00:30:15,570
+When a student goes into a carpentry training trust
+
+739
+00:30:15,570 --> 00:30:16,980
+to be indentured,
+
+740
+00:30:16,980 --> 00:30:19,290
+they are evaluated on their previous work experience,
+
+741
+00:30:19,290 --> 00:30:22,803
+and they can skip levels, right, and then indenture out.
+
+742
+00:30:23,670 --> 00:30:27,030
+We didn't have a process in place for those gaps,
+
+743
+00:30:27,030 --> 00:30:28,770
+when the students didn't have that coursework
+
+744
+00:30:28,770 --> 00:30:29,760
+when they indentured higher.
+
+745
+00:30:29,760 --> 00:30:31,590
+So now within this system
+
+746
+00:30:31,590 --> 00:30:33,600
+and now within this integration with N2N,
+
+747
+00:30:33,600 --> 00:30:38,100
+we're able to build, within that, again, singlized form, CPL
+
+748
+00:30:38,100 --> 00:30:40,110
+into this process, so it's really exciting we're able
+
+749
+00:30:40,110 --> 00:30:42,900
+to kind of, again, bring in a lot of internal processes
+
+750
+00:30:42,900 --> 00:30:46,020
+plus build this through, so we're excited.
+
+751
+00:30:46,020 --> 00:30:47,880
+The other piece that's really cool about this,
+
+752
+00:30:47,880 --> 00:30:49,890
+that was probably the best thing
+
+753
+00:30:49,890 --> 00:30:53,010
+that Kiran showed us, at N2N, recently...
+
+754
+00:30:53,010 --> 00:30:55,440
+His team was able to show us that our internal form
+
+755
+00:30:55,440 --> 00:30:58,740
+that we created to graduate students that minimized...
+
+756
+00:30:58,740 --> 00:31:01,880
+The system is actually able to automate all
+
+757
+00:31:01,880 --> 00:31:04,470
+of the fields and information within that PDF
+
+758
+00:31:04,470 --> 00:31:07,830
+so that everything is be able to be verified and checked
+
+759
+00:31:07,830 --> 00:31:09,600
+but can be sent over
+
+760
+00:31:09,600 --> 00:31:11,310
+directly to our admissions and records team
+
+761
+00:31:11,310 --> 00:31:12,960
+once our counselors have reviewed it
+
+762
+00:31:12,960 --> 00:31:17,220
+so taking down a lot of not only processing steps
+
+763
+00:31:17,220 --> 00:31:19,200
+but people that have to kind of stop
+
+764
+00:31:19,200 --> 00:31:20,790
+and check each of these different levels.
+
+765
+00:31:20,790 --> 00:31:22,830
+So we're really excited.
+
+766
+00:31:22,830 --> 00:31:25,710
+Stay tuned as we, you know, have the opportunity
+
+767
+00:31:25,710 --> 00:31:27,930
+to kind of see what the outcomes will be
+
+768
+00:31:27,930 --> 00:31:30,000
+and what we're able to build this from moving forward,
+
+769
+00:31:30,000 --> 00:31:32,190
+but I think a lotta of great implications
+
+770
+00:31:32,190 --> 00:31:33,440
+for everyone in the room.
+
+771
+00:31:34,860 --> 00:31:36,993
+- Thank you. Thank you all for sharing.
+
+772
+00:31:37,920 --> 00:31:40,560
+I hope this is starting to give you ideas of where some
+
+773
+00:31:40,560 --> 00:31:43,680
+of your pain points and processes
+
+774
+00:31:43,680 --> 00:31:46,620
+might benefit from some AI solutions,
+
+775
+00:31:46,620 --> 00:31:47,547
+but I wanna throw this question out
+
+776
+00:31:47,547 --> 00:31:51,000
+because some of you touched on it a little bit.
+
+777
+00:31:51,000 --> 00:31:55,890
+We all know at our institutions that change is hard.
+
+778
+00:31:55,890 --> 00:31:58,560
+It's hard to get people to do things differently.
+
+779
+00:31:58,560 --> 00:32:00,760
+Are you from an institution where it's easy?
+
+780
+00:32:02,367 --> 00:32:05,343
+Oh, I was hoping we'd have some examples.
+
+781
+00:32:06,510 --> 00:32:08,790
+Change is hard, so I'm gonna ask...
+
+782
+00:32:08,790 --> 00:32:10,620
+I'm just gonna throw it out to the panelists.
+
+783
+00:32:10,620 --> 00:32:12,120
+Knowing that change is hard
+
+784
+00:32:12,120 --> 00:32:14,100
+and even though you're doing something
+
+785
+00:32:14,100 --> 00:32:16,620
+or trying to deploy a solution
+
+786
+00:32:16,620 --> 00:32:18,030
+or develop a solution
+
+787
+00:32:18,030 --> 00:32:20,970
+that will help build capacity and improve workloads,
+
+788
+00:32:20,970 --> 00:32:23,310
+what challenges or roadblocks did you face?
+
+789
+00:32:23,310 --> 00:32:26,673
+And how did you overcome that to help move people along?
+
+790
+00:32:28,800 --> 00:32:31,650
+- Yeah, so I think one of the key challenges
+
+791
+00:32:31,650 --> 00:32:33,840
+is this technology is new
+
+792
+00:32:33,840 --> 00:32:37,320
+and some key stakeholders within our organization
+
+793
+00:32:37,320 --> 00:32:39,600
+have been used to building, or buying, stuff
+
+794
+00:32:39,600 --> 00:32:41,730
+that's basically shelfware, right?
+
+795
+00:32:41,730 --> 00:32:46,730
+But this solution was custom built with a trusted partner,
+
+796
+00:32:46,980 --> 00:32:49,113
+but it took some time to develop,
+
+797
+00:32:50,448 --> 00:32:53,070
+and that was a key thing to overcome.
+
+798
+00:32:53,070 --> 00:32:54,660
+We had a few false starts.
+
+799
+00:32:54,660 --> 00:32:55,890
+But then we got some buy-in
+
+800
+00:32:55,890 --> 00:32:58,470
+from the president of Mission College,
+
+801
+00:32:58,470 --> 00:33:01,020
+and that helped kind of push it forward for us, so.
+
+802
+00:33:07,860 --> 00:33:08,943
+- Well, I'll go next.
+
+803
+00:33:11,040 --> 00:33:14,940
+Yeah, I think that one of the components
+
+804
+00:33:14,940 --> 00:33:16,740
+in this project and in others
+
+805
+00:33:16,740 --> 00:33:20,670
+is we have a lotta really dedicated professional staff
+
+806
+00:33:20,670 --> 00:33:22,770
+at our colleges, who...
+
+807
+00:33:22,770 --> 00:33:23,873
+You know, some of...
+
+808
+00:33:23,873 --> 00:33:25,920
+I kinda think about it like the middle layer
+
+809
+00:33:25,920 --> 00:33:26,820
+of our institutions,
+
+810
+00:33:26,820 --> 00:33:29,610
+where a lotta these processes are handled.
+
+811
+00:33:29,610 --> 00:33:30,960
+They've evolved over time,
+
+812
+00:33:30,960 --> 00:33:34,200
+and our professional staff have a lotta pride
+
+813
+00:33:34,200 --> 00:33:35,610
+in the work that they're doing
+
+814
+00:33:35,610 --> 00:33:39,240
+and their ability to support some of these processes
+
+815
+00:33:39,240 --> 00:33:42,270
+that, frankly, they probably don't even like,
+
+816
+00:33:42,270 --> 00:33:45,330
+but they're able to hold up the layers of the cake.
+
+817
+00:33:45,330 --> 00:33:48,120
+And so I think one of the components of that
+
+818
+00:33:48,120 --> 00:33:51,990
+was being able to present them
+
+819
+00:33:51,990 --> 00:33:55,920
+with a solution, or a proposed solution,
+
+820
+00:33:55,920 --> 00:34:00,480
+that would, like, functionally ease their workload, right,
+
+821
+00:34:00,480 --> 00:34:03,750
+being able to give them something very practical
+
+822
+00:34:03,750 --> 00:34:06,030
+that had a real impact on how they do their job
+
+823
+00:34:06,030 --> 00:34:07,200
+and to let them focus
+
+824
+00:34:07,200 --> 00:34:10,770
+on other areas of their job they'd rather do,
+
+825
+00:34:10,770 --> 00:34:12,210
+whether it's interacting with students
+
+826
+00:34:12,210 --> 00:34:14,880
+or whether it's providing other services.
+
+827
+00:34:14,880 --> 00:34:16,230
+So I think that's a really...
+
+828
+00:34:16,230 --> 00:34:18,150
+That was a real key takeaway for me
+
+829
+00:34:18,150 --> 00:34:22,590
+was, you know, we can go to AI conferences,
+
+830
+00:34:22,590 --> 00:34:25,050
+we can talk about academic integrity issues, we could talk
+
+831
+00:34:25,050 --> 00:34:30,050
+about the big front-of-the-line kinda items.
+
+832
+00:34:30,540 --> 00:34:32,340
+But from a really practical standpoint,
+
+833
+00:34:32,340 --> 00:34:34,470
+I think just finding tweaks and things
+
+834
+00:34:34,470 --> 00:34:36,690
+that can help people do their job more effectively
+
+835
+00:34:36,690 --> 00:34:37,650
+and allow them...
+
+836
+00:34:37,650 --> 00:34:40,740
+I'm super impressed by your solution, right,
+
+837
+00:34:40,740 --> 00:34:42,007
+to be able to say,
+
+838
+00:34:42,007 --> 00:34:43,740
+"Hey, this is also helping our students,
+
+839
+00:34:43,740 --> 00:34:46,470
+like, get their credential faster," right?
+
+840
+00:34:46,470 --> 00:34:47,720
+So everyone (indistinct).
+
+841
+00:34:50,240 --> 00:34:52,490
+- Yeah, I was just gonna say, the other piece
+
+842
+00:34:53,479 --> 00:34:55,740
+when we talk about roadblocks,
+
+843
+00:34:55,740 --> 00:34:56,970
+and I think I've noticed this
+
+844
+00:34:56,970 --> 00:34:58,080
+with some of my colleagues as well,
+
+845
+00:34:58,080 --> 00:35:00,030
+is that, sometimes, it's within our institution
+
+846
+00:35:00,030 --> 00:35:03,240
+but then also outside of our, like, institution, right?
+
+847
+00:35:03,240 --> 00:35:06,500
+Like, we're taking in, for example...
+
+848
+00:35:07,740 --> 00:35:09,270
+For apprenticeship, right, there's a lot
+
+849
+00:35:09,270 --> 00:35:11,490
+of different programs and people,
+
+850
+00:35:11,490 --> 00:35:13,260
+and they have their own processes
+
+851
+00:35:13,260 --> 00:35:14,460
+and how they run things
+
+852
+00:35:14,460 --> 00:35:18,750
+and ways that they wanna potentially modernize or not.
+
+853
+00:35:18,750 --> 00:35:20,760
+So how can we adjust to that
+
+854
+00:35:20,760 --> 00:35:22,980
+while still serving our students?
+
+855
+00:35:22,980 --> 00:35:24,330
+I think all of us have kinda shown
+
+856
+00:35:24,330 --> 00:35:26,430
+how we can kind of find "okay, well,
+
+857
+00:35:26,430 --> 00:35:28,920
+this has been a problem for a long time.
+
+858
+00:35:28,920 --> 00:35:30,690
+This is something that we can do about it,"
+
+859
+00:35:30,690 --> 00:35:33,650
+where before these tools came about
+
+860
+00:35:33,650 --> 00:35:35,220
+we really didn't have a lot of options.
+
+861
+00:35:35,220 --> 00:35:37,570
+We just kinda had to make use with what we had.
+
+862
+00:35:38,910 --> 00:35:41,750
+- I think one of the challenges that we're facing is...
+
+863
+00:35:42,900 --> 00:35:45,810
+I'm gonna blame it on the old web chat bot we had.
+
+864
+00:35:45,810 --> 00:35:47,730
+It wasn't very good.
+
+865
+00:35:47,730 --> 00:35:50,700
+So, I think it got a reputation of not being helpful.
+
+866
+00:35:50,700 --> 00:35:51,870
+We've actually replaced that now,
+
+867
+00:35:51,870 --> 00:35:54,420
+so we have a different web chat now, which is now helpful.
+
+868
+00:35:54,420 --> 00:35:59,420
+But I think people calling into the AI tech support bot...
+
+869
+00:35:59,730 --> 00:36:02,040
+I think they're jumping to human faster,
+
+870
+00:36:02,040 --> 00:36:03,870
+and I think it's probably because of experiences
+
+871
+00:36:03,870 --> 00:36:05,190
+with the web chat bot,
+
+872
+00:36:05,190 --> 00:36:07,350
+not realizing it's different technology.
+
+873
+00:36:07,350 --> 00:36:09,300
+So I think part of our challenge
+
+874
+00:36:09,300 --> 00:36:12,670
+is gonna be to overcome that immediate go-to-human
+
+875
+00:36:13,560 --> 00:36:17,190
+and to have it get a reputation across campus
+
+876
+00:36:17,190 --> 00:36:18,840
+that it's helpful and useful,
+
+877
+00:36:18,840 --> 00:36:21,333
+and I think, over time, we'll accomplish that.
+
+878
+00:36:25,230 --> 00:36:27,630
+- As everybody's here at this conference,
+
+879
+00:36:27,630 --> 00:36:28,980
+you're going to be exposed
+
+880
+00:36:28,980 --> 00:36:31,920
+to a lot of different solutions and products.
+
+881
+00:36:31,920 --> 00:36:35,070
+If you checked out the Futures Hub downstairs,
+
+882
+00:36:35,070 --> 00:36:36,555
+you'll see we have a lot of vendors.
+
+883
+00:36:36,555 --> 00:36:38,790
+And so there are a lotta options out there
+
+884
+00:36:38,790 --> 00:36:40,740
+for how to solve the pain points
+
+885
+00:36:40,740 --> 00:36:44,193
+that institutions are feeling and having.
+
+886
+00:36:45,690 --> 00:36:48,420
+Sometimes, it becomes then a patchwork
+
+887
+00:36:48,420 --> 00:36:50,700
+of having different solutions,
+
+888
+00:36:50,700 --> 00:36:52,440
+so I wanna either throw this out
+
+889
+00:36:52,440 --> 00:36:54,090
+to all of you or maybe the CTOs,
+
+890
+00:36:54,090 --> 00:36:55,410
+I don't know, whoever wants to answer.
+
+891
+00:36:55,410 --> 00:36:59,850
+But how does your particular project right now...
+
+892
+00:36:59,850 --> 00:37:04,110
+How does it or how will it fit into a broader AI strategy?
+
+893
+00:37:04,110 --> 00:37:06,600
+And has your institution addressed that?
+
+894
+00:37:06,600 --> 00:37:08,343
+Or is it addressing that?
+
+895
+00:37:11,040 --> 00:37:12,990
+- Mainly, our faculty's ignoring AI
+
+896
+00:37:12,990 --> 00:37:14,340
+and hoping it will go away.
+
+897
+00:37:15,660 --> 00:37:17,073
+- It's a strategy still.
+
+898
+00:37:18,270 --> 00:37:19,660
+May not be a great one, but
+
+899
+00:37:20,580 --> 00:37:21,686
+still a- - So still working on that.
+
+900
+00:37:21,686 --> 00:37:26,080
+But I think, you know, we have done a lotta work on
+
+901
+00:37:28,440 --> 00:37:30,780
+getting students to help when they need the help
+
+902
+00:37:30,780 --> 00:37:32,520
+in the way that they need help.
+
+903
+00:37:32,520 --> 00:37:33,990
+And so I think, for us,
+
+904
+00:37:33,990 --> 00:37:36,630
+this bot was kind of the natural progression
+
+905
+00:37:36,630 --> 00:37:38,610
+of the efforts we've made in expanding hours
+
+906
+00:37:38,610 --> 00:37:41,160
+and doing, you know, drop-in support
+
+907
+00:37:41,160 --> 00:37:42,900
+and some the other things that we've done,
+
+908
+00:37:42,900 --> 00:37:45,570
+so it's been kind of that natural progression.
+
+909
+00:37:45,570 --> 00:37:48,060
+And actually, since we've done this,
+
+910
+00:37:48,060 --> 00:37:50,677
+our VP of Student Services has actually come to me and said,
+
+911
+00:37:50,677 --> 00:37:52,530
+"What would it take to do this same thing
+
+912
+00:37:52,530 --> 00:37:55,110
+in admissions and records and financial aid?"
+
+913
+00:37:55,110 --> 00:37:57,660
+And so we're starting to have those conversations
+
+914
+00:37:57,660 --> 00:38:00,270
+to see how we can expand the scope of the bot
+
+915
+00:38:00,270 --> 00:38:01,443
+to more departments.
+
+916
+00:38:04,530 --> 00:38:05,943
+- Anyone else tackle that?
+
+917
+00:38:05,943 --> 00:38:07,112
+- I'll bite.
+
+918
+00:38:07,112 --> 00:38:08,997
+- Okay, thank you.
+
+919
+00:38:08,997 --> 00:38:11,700
+- No, I'm watching what Dave's doing at Mendocino,
+
+920
+00:38:11,700 --> 00:38:14,430
+and I'm like, "Why didn't we think of that?" right?
+
+921
+00:38:14,430 --> 00:38:16,770
+So there is a lotta this sharing that happens,
+
+922
+00:38:16,770 --> 00:38:18,590
+and I'm super privileged to be able
+
+923
+00:38:18,590 --> 00:38:20,643
+to learn from smart people like him.
+
+924
+00:38:21,600 --> 00:38:25,230
+I think that, from my perspective,
+
+925
+00:38:25,230 --> 00:38:28,380
+even if you don't know exactly where you're gonna start,
+
+926
+00:38:28,380 --> 00:38:29,670
+your institution can start
+
+927
+00:38:29,670 --> 00:38:32,760
+putting some of the fundamental pieces in place, right?
+
+928
+00:38:32,760 --> 00:38:35,820
+We started about a year ago, maybe a year and a half ago,
+
+929
+00:38:35,820 --> 00:38:38,820
+just knowing that we had too many data silos,
+
+930
+00:38:38,820 --> 00:38:40,530
+and we were gonna wanna use AI.
+
+931
+00:38:40,530 --> 00:38:42,690
+But you know, where's that gonna happen?
+
+932
+00:38:42,690 --> 00:38:45,210
+Where are we gonna have sorta the coalition
+
+933
+00:38:45,210 --> 00:38:47,490
+of the willing that wanna jump in?
+
+934
+00:38:47,490 --> 00:38:50,340
+And so being able to make sure
+
+935
+00:38:50,340 --> 00:38:52,890
+when you do take a leap with a product
+
+936
+00:38:52,890 --> 00:38:56,370
+that you have access to the data easily, right?
+
+937
+00:38:56,370 --> 00:39:00,480
+So we started consolidating our data into an infrastructure
+
+938
+00:39:00,480 --> 00:39:03,360
+where, you know, we could easily API into that.
+
+939
+00:39:03,360 --> 00:39:05,310
+We could be able to have that interoperability
+
+940
+00:39:05,310 --> 00:39:07,650
+between products, so I think that's...
+
+941
+00:39:07,650 --> 00:39:08,800
+That's really important
+
+942
+00:39:09,930 --> 00:39:11,830
+because there are
+
+943
+00:39:13,152 --> 00:39:15,210
+multiple players, right, in your institution
+
+944
+00:39:15,210 --> 00:39:16,980
+that are gonna have different visions
+
+945
+00:39:16,980 --> 00:39:17,940
+of what they wanna have happen.
+
+946
+00:39:17,940 --> 00:39:20,910
+But I love the example of "hey, you know"...
+
+947
+00:39:20,910 --> 00:39:23,100
+I don't wanna call out, you know, anyone in my own district,
+
+948
+00:39:23,100 --> 00:39:26,520
+but we have phone trees still, right, in certain areas,
+
+949
+00:39:26,520 --> 00:39:27,390
+and it's like, "Oh, I'd love
+
+950
+00:39:27,390 --> 00:39:28,500
+to get rid of those phone tree."
+
+951
+00:39:28,500 --> 00:39:31,890
+No one thinks that's a great experience for students,
+
+952
+00:39:31,890 --> 00:39:34,053
+so I'm gonna totally steal your idea, Dave.
+
+953
+00:39:38,070 --> 00:39:39,330
+- All right, I'll throw another question.
+
+954
+00:39:39,330 --> 00:39:42,540
+So Allison, Ger, Amanda,
+
+955
+00:39:42,540 --> 00:39:45,270
+you've talked about how you're directly serving students,
+
+956
+00:39:45,270 --> 00:39:47,160
+meeting them where they are.
+
+957
+00:39:47,160 --> 00:39:48,900
+At this point with your solution,
+
+958
+00:39:48,900 --> 00:39:50,370
+what lessons have you learned?
+
+959
+00:39:50,370 --> 00:39:52,290
+And what are next steps for you?
+
+960
+00:39:52,290 --> 00:39:55,500
+Because some of you have, like, really changed the way
+
+961
+00:39:55,500 --> 00:39:56,673
+that you're operating.
+
+962
+00:39:57,660 --> 00:39:59,823
+What are some lessons and next steps?
+
+963
+00:40:01,230 --> 00:40:04,470
+- Yeah, I think that one of our next steps
+
+964
+00:40:04,470 --> 00:40:07,140
+is to really do some analytical data
+
+965
+00:40:07,140 --> 00:40:11,340
+on how much this has, like, improved our process,
+
+966
+00:40:11,340 --> 00:40:14,490
+because we've seen some very tangible results,
+
+967
+00:40:14,490 --> 00:40:17,643
+even in the first, you know, semester of rolling it out.
+
+968
+00:40:18,840 --> 00:40:20,790
+Just shortening up the time
+
+969
+00:40:20,790 --> 00:40:22,350
+that students are hearing back from us,
+
+970
+00:40:22,350 --> 00:40:25,860
+they're able to get connected so much faster to services.
+
+971
+00:40:25,860 --> 00:40:28,710
+We've also been able to reduce by about 10%
+
+972
+00:40:28,710 --> 00:40:31,560
+the amount of students who are enrolling in the college
+
+973
+00:40:31,560 --> 00:40:33,960
+and then never registering for classes
+
+974
+00:40:33,960 --> 00:40:36,180
+or applying for financial aid,
+
+975
+00:40:36,180 --> 00:40:37,980
+because we're identifying them early
+
+976
+00:40:37,980 --> 00:40:39,270
+when they apply to the form
+
+977
+00:40:39,270 --> 00:40:40,620
+and we're reaching out to them.
+
+978
+00:40:40,620 --> 00:40:42,720
+We have a dedicated liaison in financial aid
+
+979
+00:40:42,720 --> 00:40:44,010
+that I work with,
+
+980
+00:40:44,010 --> 00:40:46,200
+where, you know, we're talking every day,
+
+981
+00:40:46,200 --> 00:40:47,640
+looking at the student's eligibility
+
+982
+00:40:47,640 --> 00:40:48,930
+because they've reached out, right?
+
+983
+00:40:48,930 --> 00:40:52,590
+And so we're closing all of those loops at the same time
+
+984
+00:40:52,590 --> 00:40:54,900
+and really working in a connected way
+
+985
+00:40:54,900 --> 00:40:56,490
+to make sure that those students get connected
+
+986
+00:40:56,490 --> 00:40:58,110
+to those services, so we're really...
+
+987
+00:40:58,110 --> 00:41:00,120
+We're seeing improvements there,
+
+988
+00:41:00,120 --> 00:41:03,270
+and we're also, you know, intentionally making connections
+
+989
+00:41:03,270 --> 00:41:05,850
+to our new student equity plan at the college, as well,
+
+990
+00:41:05,850 --> 00:41:08,610
+and seeing how it's helping to advance
+
+991
+00:41:08,610 --> 00:41:12,180
+specific disproportionate-impact-gap-closing
+
+992
+00:41:12,180 --> 00:41:13,620
+that we're looking to do, as well.
+
+993
+00:41:13,620 --> 00:41:16,960
+So I think those are some next steps that we're looking at
+
+994
+00:41:18,060 --> 00:41:19,530
+because it's just improved our process
+
+995
+00:41:19,530 --> 00:41:20,700
+so much across the board.
+
+996
+00:41:20,700 --> 00:41:23,100
+So, I think something that has been super helpful
+
+997
+00:41:23,100 --> 00:41:25,020
+for me in general, like, in saving time
+
+998
+00:41:25,020 --> 00:41:26,700
+is the communication templates
+
+999
+00:41:26,700 --> 00:41:28,530
+that we have automatically populated.
+
+1000
+00:41:28,530 --> 00:41:30,240
+I spend so much time on email
+
+1001
+00:41:30,240 --> 00:41:32,220
+going back and forth with students,
+
+1002
+00:41:32,220 --> 00:41:35,700
+and in our system, we actually just have a notify button,
+
+1003
+00:41:35,700 --> 00:41:38,130
+where I just pick a prepopulated template
+
+1004
+00:41:38,130 --> 00:41:39,450
+and I send it out to the student.
+
+1005
+00:41:39,450 --> 00:41:40,800
+And then there's a reply-to field
+
+1006
+00:41:40,800 --> 00:41:42,360
+that automatically comes back to my email
+
+1007
+00:41:42,360 --> 00:41:43,710
+if they wanna reach out.
+
+1008
+00:41:43,710 --> 00:41:46,170
+And it's just honestly revolutionized the way
+
+1009
+00:41:46,170 --> 00:41:47,003
+that we connect with students,
+
+1010
+00:41:47,003 --> 00:41:48,510
+and it's something so simple,
+
+1011
+00:41:48,510 --> 00:41:51,210
+but I can't wait to roll that out to other departments
+
+1012
+00:41:51,210 --> 00:41:52,860
+so that it's freeing up time for them
+
+1013
+00:41:52,860 --> 00:41:55,590
+to actually help resolve the student's issue
+
+1014
+00:41:55,590 --> 00:41:58,740
+instead of drafting continuous emails to various students
+
+1015
+00:41:58,740 --> 00:42:00,990
+and not really having a place where they can track
+
+1016
+00:42:00,990 --> 00:42:02,460
+who they've reached out to for what.
+
+1017
+00:42:02,460 --> 00:42:05,823
+So this has been, like, absolute game changer for us.
+
+1018
+00:42:09,390 --> 00:42:14,310
+- I think, for us, we are doing baby steps, for sure.
+
+1019
+00:42:14,310 --> 00:42:16,830
+Like I said, we went live about a few weeks ago,
+
+1020
+00:42:16,830 --> 00:42:19,680
+and we've been meeting with the N2N team
+
+1021
+00:42:19,680 --> 00:42:21,780
+almost on a weekly basis or biweekly basis
+
+1022
+00:42:21,780 --> 00:42:24,360
+to kinda give feedback, right, on how do we...
+
+1023
+00:42:24,360 --> 00:42:27,210
+Say, for example, if we scan a zip code.
+
+1024
+00:42:27,210 --> 00:42:30,150
+That should automatically populate the city as well,
+
+1025
+00:42:30,150 --> 00:42:32,090
+things like that, so essentially,
+
+1026
+00:42:32,090 --> 00:42:34,440
+it just refining the process.
+
+1027
+00:42:34,440 --> 00:42:37,980
+We understand that it won't be perfect yet, right?
+
+1028
+00:42:37,980 --> 00:42:41,100
+And so I think, sometimes, on our campus,
+
+1029
+00:42:41,100 --> 00:42:44,880
+there's this fear of, like, how do we jump
+
+1030
+00:42:44,880 --> 00:42:46,740
+onto a software or a product
+
+1031
+00:42:46,740 --> 00:42:48,660
+if it's not perfect yet, right?
+
+1032
+00:42:48,660 --> 00:42:53,250
+But I think that it kind of hinders a lot
+
+1033
+00:42:53,250 --> 00:42:54,600
+of the progress that we've been through.
+
+1034
+00:42:54,600 --> 00:42:56,880
+And so I think, for us, it's really
+
+1035
+00:42:56,880 --> 00:42:59,100
+trying to change that culture and change that mindset
+
+1036
+00:42:59,100 --> 00:43:00,180
+of saying, "Hey, you know what?
+
+1037
+00:43:00,180 --> 00:43:01,740
+Let's go ahead and adopt this."
+
+1038
+00:43:01,740 --> 00:43:06,600
+And it's a pilot semester for us. And so that's exciting.
+
+1039
+00:43:06,600 --> 00:43:08,640
+On a more different note,
+
+1040
+00:43:08,640 --> 00:43:12,000
+next steps also for my VP and higher up.
+
+1041
+00:43:12,000 --> 00:43:13,810
+It's also a question for
+
+1042
+00:43:15,300 --> 00:43:18,060
+our CSEA union as well.
+
+1043
+00:43:18,060 --> 00:43:20,610
+We are a union-heavy campus, right?
+
+1044
+00:43:20,610 --> 00:43:23,220
+And although I don't sit in these meetings,
+
+1045
+00:43:23,220 --> 00:43:26,520
+I do not doubt that these conversations are coming up
+
+1046
+00:43:26,520 --> 00:43:28,650
+about fears of, like, "is this going
+
+1047
+00:43:28,650 --> 00:43:30,810
+to replace our jobs essentially?" right?
+
+1048
+00:43:30,810 --> 00:43:34,893
+And so again, fortunately, I'm not in those meetings,
+
+1049
+00:43:35,999 --> 00:43:39,763
+but you know, I think, for me, at least on daily basis,
+
+1050
+00:43:41,730 --> 00:43:45,150
+when I meet with my staff members who are in these unions,
+
+1051
+00:43:45,150 --> 00:43:48,720
+it's benefiting them, or it's benefiting the way in which
+
+1052
+00:43:48,720 --> 00:43:50,910
+they do their work, and it's a lot more efficient for them.
+
+1053
+00:43:50,910 --> 00:43:53,310
+So we are certainly taking baby steps
+
+1054
+00:43:53,310 --> 00:43:56,883
+and approaching it very carefully, as well, so.
+
+1055
+00:43:59,010 --> 00:44:03,840
+- Yeah, so, I think, similarly, we have not yet gone live,
+
+1056
+00:44:03,840 --> 00:44:06,270
+so I think, for us, we're excited
+
+1057
+00:44:06,270 --> 00:44:09,210
+to, like, initiate that process and kind of see.
+
+1058
+00:44:09,210 --> 00:44:11,880
+I have a specific test group that we're working with.
+
+1059
+00:44:11,880 --> 00:44:13,590
+So, I spoke earlier
+
+1060
+00:44:13,590 --> 00:44:15,600
+about, like, changing our internal processes
+
+1061
+00:44:15,600 --> 00:44:16,770
+and building a lot of things,
+
+1062
+00:44:16,770 --> 00:44:18,810
+like CPL and other things, into it.
+
+1063
+00:44:18,810 --> 00:44:21,570
+So, myself and a colleague this summer,
+
+1064
+00:44:21,570 --> 00:44:25,470
+we had 600-plus students that we needed to evaluate
+
+1065
+00:44:25,470 --> 00:44:28,440
+for just one of our programs, which was carpentry.
+
+1066
+00:44:28,440 --> 00:44:30,120
+This one tends to be the most complicated
+
+1067
+00:44:30,120 --> 00:44:33,930
+because they have the most courses to evaluate,
+
+1068
+00:44:33,930 --> 00:44:37,080
+and over the course of the two months in the summer,
+
+1069
+00:44:37,080 --> 00:44:38,700
+we were only able to get through half
+
+1070
+00:44:38,700 --> 00:44:39,810
+when we were doing it manually,
+
+1071
+00:44:39,810 --> 00:44:42,240
+so we did over 300.
+
+1072
+00:44:42,240 --> 00:44:46,230
+So we have the next 300 that we still need to evaluate.
+
+1073
+00:44:46,230 --> 00:44:47,070
+And so we wanna...
+
+1074
+00:44:47,070 --> 00:44:49,770
+So we're connecting, and that's gonna be our first group
+
+1075
+00:44:49,770 --> 00:44:52,920
+that we're gonna go live with so that we can see,
+
+1076
+00:44:52,920 --> 00:44:56,370
+you know, in terms of testing it directly,
+
+1077
+00:44:56,370 --> 00:44:57,840
+same group of students,
+
+1078
+00:44:57,840 --> 00:44:59,730
+us doing it manually as the counselors,
+
+1079
+00:44:59,730 --> 00:45:01,140
+and then utilizing N2N,
+
+1080
+00:45:01,140 --> 00:45:03,210
+how can we kind of see the benefit
+
+1081
+00:45:03,210 --> 00:45:06,120
+of time and integration in all these different areas?
+
+1082
+00:45:06,120 --> 00:45:08,580
+So we're really excited for that.
+
+1083
+00:45:08,580 --> 00:45:10,220
+And then I think just...
+
+1084
+00:45:11,550 --> 00:45:14,400
+I think, similarly, overcoming the fear
+
+1085
+00:45:14,400 --> 00:45:18,270
+of it not being 100% accurate...
+
+1086
+00:45:18,270 --> 00:45:21,420
+When we're talking about transcript evaluation,
+
+1087
+00:45:21,420 --> 00:45:24,750
+there's so much detail that it needs to be accurate, right,
+
+1088
+00:45:24,750 --> 00:45:26,130
+like so many of these other areas.
+
+1089
+00:45:26,130 --> 00:45:27,690
+And so how do we overcome the fact
+
+1090
+00:45:27,690 --> 00:45:30,090
+that we know it's never gonna be 100%
+
+1091
+00:45:30,090 --> 00:45:33,720
+but building into our process of verification and accuracy
+
+1092
+00:45:33,720 --> 00:45:35,880
+everything that we've been talking about with AI
+
+1093
+00:45:35,880 --> 00:45:38,550
+and just understanding the benefits
+
+1094
+00:45:38,550 --> 00:45:39,840
+of all of these other areas,
+
+1095
+00:45:39,840 --> 00:45:42,420
+building that into it, and just overall building that
+
+1096
+00:45:42,420 --> 00:45:43,713
+with the campus culture?
+
+1097
+00:45:46,050 --> 00:45:47,130
+- Thank you.
+
+1098
+00:45:47,130 --> 00:45:49,230
+We do have time before I throw you
+
+1099
+00:45:49,230 --> 00:45:51,120
+the last question that I have for you.
+
+1100
+00:45:51,120 --> 00:45:53,040
+If anybody in the audience has a question,
+
+1101
+00:45:53,040 --> 00:45:55,110
+we have time for a question or two.
+
+1102
+00:45:55,110 --> 00:45:56,793
+Does anyone wanna ask anything?
+
+1103
+00:45:57,840 --> 00:45:59,340
+Yes, go ahead.
+
+1104
+00:45:59,340 --> 00:46:00,810
+- [Audience Member] Hi.
+
+1105
+00:46:00,810 --> 00:46:02,650
+When you were talking about fear there,
+
+1106
+00:46:02,650 --> 00:46:04,653
+there was a really interesting,
+
+1107
+00:46:06,870 --> 00:46:09,183
+you know, webinar, basically, that said,
+
+1108
+00:46:10,477 --> 00:46:12,690
+"AI probably won't take your position,
+
+1109
+00:46:12,690 --> 00:46:16,107
+but someone who knows AI probably will."
+
+1110
+00:46:17,400 --> 00:46:18,720
+That always resonates with me.
+
+1111
+00:46:18,720 --> 00:46:19,677
+I thought that was interesting.
+
+1112
+00:46:19,677 --> 00:46:22,710
+But my question is more about counseling,
+
+1113
+00:46:22,710 --> 00:46:26,040
+and I was wondering, has anyone integrated DegreeWorks
+
+1114
+00:46:26,040 --> 00:46:28,590
+and analyzing patterns
+
+1115
+00:46:28,590 --> 00:46:32,880
+on how students take courses to finish...
+
+1116
+00:46:32,880 --> 00:46:36,180
+Recently, I had quite a few English students coming in
+
+1117
+00:46:36,180 --> 00:46:37,950
+for a full literature class
+
+1118
+00:46:37,950 --> 00:46:40,020
+that said, "Hey, I need this
+
+1119
+00:46:40,020 --> 00:46:42,270
+for my graduation this semester."
+
+1120
+00:46:42,270 --> 00:46:43,560
+And I said, "Okay, you know, let's look
+
+1121
+00:46:43,560 --> 00:46:45,960
+at what you've taken and everything."
+
+1122
+00:46:45,960 --> 00:46:48,810
+And I realized that half of 'em
+
+1123
+00:46:48,810 --> 00:46:50,970
+really didn't need that to graduate.
+
+1124
+00:46:50,970 --> 00:46:51,807
+They thought they did,
+
+1125
+00:46:51,807 --> 00:46:54,780
+but they didn't understand their degree pattern
+
+1126
+00:46:54,780 --> 00:46:58,467
+and that there were six courses that they could take,
+
+1127
+00:46:58,467 --> 00:47:01,137
+and they just needed two for the elective.
+
+1128
+00:47:01,137 --> 00:47:04,770
+But one of 'em resonated with me because they had waited
+
+1129
+00:47:04,770 --> 00:47:08,700
+until the very last semester before they graduated
+
+1130
+00:47:08,700 --> 00:47:12,180
+and just didn't realize the historical pattern
+
+1131
+00:47:12,180 --> 00:47:14,640
+of how often these are rotated.
+
+1132
+00:47:14,640 --> 00:47:16,260
+They're not offered every semester,
+
+1133
+00:47:16,260 --> 00:47:17,220
+and there's a two-year plan,
+
+1134
+00:47:17,220 --> 00:47:20,700
+but if you miss, you know, a key semester,
+
+1135
+00:47:20,700 --> 00:47:22,790
+then you're not gonna graduate for two years.
+
+1136
+00:47:22,790 --> 00:47:25,140
+So I'm wondering, is there some sort of effort
+
+1137
+00:47:25,140 --> 00:47:28,440
+to create some sort of a agent or bot
+
+1138
+00:47:28,440 --> 00:47:32,901
+where the student could analyze what classes they're taking
+
+1139
+00:47:32,901 --> 00:47:37,067
+and maybe even ping a counselor if someone is offtrack.
+
+1140
+00:47:37,067 --> 00:47:40,050
+- Before you answer that, lemme just summarize the question
+
+1141
+00:47:40,050 --> 00:47:41,010
+for those in the back.
+
+1142
+00:47:41,010 --> 00:47:42,237
+- [Audience Member] I was rambling. Sorry.
+
+1143
+00:47:42,237 --> 00:47:43,233
+- No, it's fine.
+
+1144
+00:47:44,460 --> 00:47:46,200
+I hope I summarize it accurately.
+
+1145
+00:47:46,200 --> 00:47:49,200
+The question is around solutions that might integrate
+
+1146
+00:47:49,200 --> 00:47:51,510
+either DegreeWorks or degree requirements
+
+1147
+00:47:51,510 --> 00:47:54,510
+so that students who might miss requirements
+
+1148
+00:47:54,510 --> 00:47:56,190
+and have to then catch up quickly,
+
+1149
+00:47:56,190 --> 00:47:57,777
+if there's a solution to address that.
+
+1150
+00:47:57,777 --> 00:48:00,093
+Is that close enough? Okay.
+
+1151
+00:48:02,130 --> 00:48:04,473
+- I could take that, if you will.
+
+1152
+00:48:04,473 --> 00:48:08,697
+Everyone, my name's Kiran Kodithala, founder and CEO.
+
+1153
+00:48:08,697 --> 00:48:10,009
+- Here.
+
+1154
+00:48:10,009 --> 00:48:11,918
+- Hello, everyone, my name is Kiran Kodithala,
+
+1155
+00:48:11,918 --> 00:48:14,790
+founder and CEO of N2N, LightLeapAI platform.
+
+1156
+00:48:14,790 --> 00:48:17,160
+So, couple of things to answer your question.
+
+1157
+00:48:17,160 --> 00:48:19,380
+Yes, as part of the apprenticeship tracking,
+
+1158
+00:48:19,380 --> 00:48:20,890
+it does have what's
+
+1159
+00:48:21,990 --> 00:48:23,670
+in unofficial degree audit.
+
+1160
+00:48:23,670 --> 00:48:25,710
+It does not use DegreeWorks,
+
+1161
+00:48:25,710 --> 00:48:28,470
+and I'll kind of back into that in a minute.
+
+1162
+00:48:28,470 --> 00:48:33,150
+But we can use DegreeWorks APIs if that's what you want.
+
+1163
+00:48:33,150 --> 00:48:33,983
+The other part...
+
+1164
+00:48:33,983 --> 00:48:34,893
+Where's Gary?
+
+1165
+00:48:35,730 --> 00:48:36,960
+- Back. - Oh, there's Gary.
+
+1166
+00:48:36,960 --> 00:48:40,260
+So, we're working on other very exciting stuff
+
+1167
+00:48:40,260 --> 00:48:42,240
+with Kern Community College District
+
+1168
+00:48:42,240 --> 00:48:43,860
+on Guided Pathways integration
+
+1169
+00:48:43,860 --> 00:48:46,650
+that would solve exactly what you talking about,
+
+1170
+00:48:46,650 --> 00:48:49,920
+where we have built a...
+
+1171
+00:48:49,920 --> 00:48:52,950
+How many of you use "Waze" for maps? Right?
+
+1172
+00:48:52,950 --> 00:48:56,910
+So the idea about "Waze" that when compared to "Google Maps"
+
+1173
+00:48:56,910 --> 00:48:58,050
+is "Google Maps" had to go
+
+1174
+00:48:58,050 --> 00:49:02,730
+and build a very complex billions-of-dollars architecture
+
+1175
+00:49:02,730 --> 00:49:05,310
+to pull all the data and build out the maps
+
+1176
+00:49:05,310 --> 00:49:07,860
+but with "Waze" you are just calling other people
+
+1177
+00:49:07,860 --> 00:49:10,110
+that are trying to go for destination A to B.
+
+1178
+00:49:10,110 --> 00:49:12,570
+So Guided Pathways is almost exactly like that,
+
+1179
+00:49:12,570 --> 00:49:13,680
+where it looks
+
+1180
+00:49:13,680 --> 00:49:16,980
+at what other students are doing, very similar to you,
+
+1181
+00:49:16,980 --> 00:49:21,060
+but also what they were doing in that trajectory,
+
+1182
+00:49:21,060 --> 00:49:22,650
+with respect time dimension.
+
+1183
+00:49:22,650 --> 00:49:25,290
+So this why we are trying to shy away
+
+1184
+00:49:25,290 --> 00:49:29,040
+from DegreeWorks or other traditional degree audit systems.
+
+1185
+00:49:29,040 --> 00:49:33,510
+We're trying to build a historical database-modeling system.
+
+1186
+00:49:33,510 --> 00:49:36,990
+Definitely look me up at our booth, or talk to Gary
+
+1187
+00:49:36,990 --> 00:49:39,659
+because he's kind of my coconspirator
+
+1188
+00:49:39,659 --> 00:49:41,460
+slash (indistinct) here.
+
+1189
+00:49:41,460 --> 00:49:42,750
+He can explain this better than me.
+
+1190
+00:49:42,750 --> 00:49:44,650
+But yeah, let's definitely talk, yeah.
+
+1191
+00:49:46,440 --> 00:49:49,593
+- That booth is in the Futures Hub at N10 downstairs, so.
+
+1192
+00:49:52,290 --> 00:49:54,033
+All right, any other questions?
+
+1193
+00:49:55,830 --> 00:49:56,910
+Yes, go ahead.
+
+1194
+00:49:56,910 --> 00:49:59,250
+- [Audience Member] I just had a question regarding funding,
+
+1195
+00:49:59,250 --> 00:50:02,940
+because I know that's a topic of conversation.
+
+1196
+00:50:02,940 --> 00:50:06,180
+What type of planning processes are you embedding
+
+1197
+00:50:06,180 --> 00:50:10,710
+to ensure that some of these practices are sustainable?
+
+1198
+00:50:10,710 --> 00:50:11,580
+Because I know that that's...
+
+1199
+00:50:11,580 --> 00:50:13,267
+Some of the challenges that we're facing is...
+
+1200
+00:50:13,267 --> 00:50:15,600
+You know, we get really excited
+
+1201
+00:50:15,600 --> 00:50:18,300
+with all this information and technology,
+
+1202
+00:50:18,300 --> 00:50:20,250
+but if you look into the futures,
+
+1203
+00:50:20,250 --> 00:50:23,100
+and that might be one year, three years, or five years,
+
+1204
+00:50:23,100 --> 00:50:25,683
+have you started thinking about that?
+
+1205
+00:50:25,683 --> 00:50:29,120
+Or what are your planning processes with that?
+
+1206
+00:50:29,120 --> 00:50:32,610
+- So the question is around funding and planning processes
+
+1207
+00:50:32,610 --> 00:50:35,283
+to build in sustainability with these solutions.
+
+1208
+00:50:40,226 --> 00:50:41,059
+- I think we're the practical- - Stunned silence?
+
+1209
+00:50:41,059 --> 00:50:42,824
+- We're the practical users, right?
+
+1210
+00:50:42,824 --> 00:50:44,940
+And so we're the ones that helped kinda build it.
+
+1211
+00:50:44,940 --> 00:50:49,200
+I think those tend to be higher-up decisions.
+
+1212
+00:50:49,200 --> 00:50:50,190
+I know it was for me.
+
+1213
+00:50:50,190 --> 00:50:51,810
+My president was very excited,
+
+1214
+00:50:51,810 --> 00:50:53,880
+and well, I was like, "Yes, thank you,"
+
+1215
+00:50:53,880 --> 00:50:56,763
+so I think that's probably you.
+
+1216
+00:50:59,130 --> 00:51:00,563
+- So, just to kick us off,
+
+1217
+00:51:00,563 --> 00:51:03,300
+we used COVID funding to do the pilot,
+
+1218
+00:51:03,300 --> 00:51:05,670
+And so you know, right now,
+
+1219
+00:51:05,670 --> 00:51:08,943
+we get fraud for $3,000 per campus.
+
+1220
+00:51:10,080 --> 00:51:12,960
+Most of the cost's covered by the state chancellor's office,
+
+1221
+00:51:12,960 --> 00:51:14,190
+so that's great.
+
+1222
+00:51:14,190 --> 00:51:16,320
+But it's just a proven solution, right?
+
+1223
+00:51:16,320 --> 00:51:19,020
+We're gonna potentially save 3,000 hours.
+
+1224
+00:51:19,020 --> 00:51:21,420
+And then it just becomes a priority for the president
+
+1225
+00:51:21,420 --> 00:51:24,540
+of, you know, "this is a valued service you provide,
+
+1226
+00:51:24,540 --> 00:51:27,240
+and we're doing it faster, better,
+
+1227
+00:51:27,240 --> 00:51:28,920
+and less work for your staff,"
+
+1228
+00:51:28,920 --> 00:51:30,783
+so it's kinda the priority, yeah.
+
+1229
+00:51:31,860 --> 00:51:33,420
+- Yeah, I would totally echo that,
+
+1230
+00:51:33,420 --> 00:51:36,060
+and I think, you know, as a CTO, I try to...
+
+1231
+00:51:36,060 --> 00:51:38,790
+You know, you plan for things that aren't planned, right?
+
+1232
+00:51:38,790 --> 00:51:41,430
+So do you have some kind of innovation fund
+
+1233
+00:51:41,430 --> 00:51:42,960
+or some COVID money
+
+1234
+00:51:42,960 --> 00:51:47,280
+or some pocket you can pull, you know, some resources out of
+
+1235
+00:51:47,280 --> 00:51:49,740
+to run these proofs of concept.
+
+1236
+00:51:49,740 --> 00:51:52,860
+Often, you can, you know, kinda negotiate that, too,
+
+1237
+00:51:52,860 --> 00:51:55,650
+if it's something new that you're doing.
+
+1238
+00:51:55,650 --> 00:51:57,270
+And then in terms of sustainability, though,
+
+1239
+00:51:57,270 --> 00:51:58,590
+you bring up a really good point,
+
+1240
+00:51:58,590 --> 00:52:02,100
+which is the life cycle
+
+1241
+00:52:02,100 --> 00:52:04,440
+for so many technology solutions
+
+1242
+00:52:04,440 --> 00:52:06,690
+is now so much shorter than it used to be,
+
+1243
+00:52:06,690 --> 00:52:09,900
+so it's not "hey, we're gonna adopt something,
+
+1244
+00:52:09,900 --> 00:52:11,340
+you know, a new degree audit system,
+
+1245
+00:52:11,340 --> 00:52:14,520
+and we're gonna use it for five to seven or 10 years."
+
+1246
+00:52:14,520 --> 00:52:16,710
+That whole life cycle's just so much shorter
+
+1247
+00:52:16,710 --> 00:52:18,870
+because of the evolution of AI and technology,
+
+1248
+00:52:18,870 --> 00:52:21,760
+so that's part of the digital transformation effort
+
+1249
+00:52:23,270 --> 00:52:25,620
+is, you know, helping the team,
+
+1250
+00:52:25,620 --> 00:52:29,220
+both your IT team but also your functional users,
+
+1251
+00:52:29,220 --> 00:52:32,940
+to recognize we have to approach this differently.
+
+1252
+00:52:32,940 --> 00:52:35,010
+We have to be a little bit more open
+
+1253
+00:52:35,010 --> 00:52:38,820
+to solutions that, you know, maybe we haven't used before
+
+1254
+00:52:38,820 --> 00:52:41,130
+or kind of not hold on,
+
+1255
+00:52:41,130 --> 00:52:43,680
+like we have to so many of the technology solutions
+
+1256
+00:52:43,680 --> 00:52:44,597
+in the (indistinct).
+
+1257
+00:52:47,850 --> 00:52:50,070
+- All right, so the last question is
+
+1258
+00:52:50,070 --> 00:52:52,473
+for all of you or whoever wants to answer.
+
+1259
+00:52:54,270 --> 00:52:55,560
+Are you volunteering Dave first?
+
+1260
+00:52:55,560 --> 00:52:57,750
+- I am. - Okay, so I guess for Dave
+
+1261
+00:52:57,750 --> 00:52:59,730
+to start, okay.
+
+1262
+00:52:59,730 --> 00:53:03,510
+We have a lot of institutional leaders here in the room.
+
+1263
+00:53:03,510 --> 00:53:05,850
+Everybody probably has a pain point.
+
+1264
+00:53:05,850 --> 00:53:10,320
+Everybody has a lens with which they view their institution
+
+1265
+00:53:10,320 --> 00:53:13,140
+and can see that, yes, we need these solutions.
+
+1266
+00:53:13,140 --> 00:53:15,487
+Somebody raised funding could be an issue:
+
+1267
+00:53:15,487 --> 00:53:19,380
+"How do you even do all of these things and move change?"
+
+1268
+00:53:19,380 --> 00:53:22,080
+So I'll ask you this: what advice do you have
+
+1269
+00:53:22,080 --> 00:53:24,690
+for all of these institutional leaders
+
+1270
+00:53:24,690 --> 00:53:26,490
+who are facing similar problems
+
+1271
+00:53:26,490 --> 00:53:28,260
+or can see some of these themes
+
+1272
+00:53:28,260 --> 00:53:30,210
+coming up at their institution?
+
+1273
+00:53:30,210 --> 00:53:31,770
+What advice do you have
+
+1274
+00:53:31,770 --> 00:53:33,840
+so that they can try to build some capacity
+
+1275
+00:53:33,840 --> 00:53:34,953
+in their institution?
+
+1276
+00:53:36,150 --> 00:53:39,510
+- Yeah, I think, you know, starting with a pilot project,
+
+1277
+00:53:39,510 --> 00:53:40,920
+starting with a proof of concept,
+
+1278
+00:53:40,920 --> 00:53:44,040
+starting with something small that you can do,
+
+1279
+00:53:44,040 --> 00:53:46,020
+'cause we all have a million pain points
+
+1280
+00:53:46,020 --> 00:53:48,450
+but maybe there's one that you can find
+
+1281
+00:53:48,450 --> 00:53:52,560
+that you can focus on if it's a relatively low lift
+
+1282
+00:53:52,560 --> 00:53:55,080
+but you can show some success.
+
+1283
+00:53:55,080 --> 00:53:57,810
+But that success, I think, helps not only your internal team
+
+1284
+00:53:57,810 --> 00:53:59,400
+feel good about what you're doing,
+
+1285
+00:53:59,400 --> 00:54:01,010
+but also, it helps then to open the eyes
+
+1286
+00:54:01,010 --> 00:54:03,840
+of the functional users: "Oh, gee, they did that?
+
+1287
+00:54:03,840 --> 00:54:06,360
+And that was kind of easy, and it works very well now.
+
+1288
+00:54:06,360 --> 00:54:07,193
+I have this other thing.
+
+1289
+00:54:07,193 --> 00:54:08,940
+Can you help me with that?" I think.
+
+1290
+00:54:08,940 --> 00:54:13,200
+And as IT working collaboratively with the functional teams
+
+1291
+00:54:13,200 --> 00:54:15,750
+to try to kinda help find those solutions-
+
+1292
+00:54:15,750 --> 00:54:16,583
+- Why you hiding all the time? - for those things
+
+1293
+00:54:16,583 --> 00:54:18,150
+and, like said, starting small
+
+1294
+00:54:18,150 --> 00:54:20,463
+and kind of working out from the center.
+
+1295
+00:54:22,050 --> 00:54:23,280
+- Just going down the line.
+
+1296
+00:54:23,280 --> 00:54:24,113
+Okay? - Go down the line, yes.
+
+1297
+00:54:24,113 --> 00:54:26,430
+- All right, we'll do it that way. No, I agree with that.
+
+1298
+00:54:26,430 --> 00:54:28,710
+I think finding, again, some really practical...
+
+1299
+00:54:28,710 --> 00:54:30,510
+Doesn't have to be a huge lift
+
+1300
+00:54:30,510 --> 00:54:34,590
+but a way you can make some of your employees' life
+
+1301
+00:54:34,590 --> 00:54:36,000
+just a little easier.
+
+1302
+00:54:36,000 --> 00:54:38,430
+And then it's amazing how folks will start
+
+1303
+00:54:38,430 --> 00:54:40,033
+to come outta the woodwork,
+
+1304
+00:54:40,033 --> 00:54:41,880
+go, "Hey, you know, I have this idea.
+
+1305
+00:54:41,880 --> 00:54:43,920
+Could we do this with AI?"
+
+1306
+00:54:43,920 --> 00:54:45,630
+And I find that those...
+
+1307
+00:54:45,630 --> 00:54:48,810
+Like, pay attention to those conversations, right?
+
+1308
+00:54:48,810 --> 00:54:51,870
+Because that's where the real nuggets come from
+
+1309
+00:54:51,870 --> 00:54:53,190
+as folks start thinking about that
+
+1310
+00:54:53,190 --> 00:54:54,833
+and coming forward with those ideas.
+
+1311
+00:54:56,790 --> 00:54:57,817
+- Yeah, I would add to that.
+
+1312
+00:54:57,817 --> 00:55:01,680
+You know, it's a very intentional change management process
+
+1313
+00:55:01,680 --> 00:55:02,607
+when you're working with staff.
+
+1314
+00:55:02,607 --> 00:55:05,970
+And so I think the thing that was most effective for me
+
+1315
+00:55:05,970 --> 00:55:09,600
+was meeting with each stakeholder individually
+
+1316
+00:55:09,600 --> 00:55:12,360
+and giving them that time and attention,
+
+1317
+00:55:12,360 --> 00:55:15,390
+being really curious about their existing process,
+
+1318
+00:55:15,390 --> 00:55:18,270
+and showing respect for that process, right,
+
+1319
+00:55:18,270 --> 00:55:20,493
+'cause you're asking them to let go of it.
+
+1320
+00:55:21,510 --> 00:55:23,790
+So I think, you know, showing respect for that process
+
+1321
+00:55:23,790 --> 00:55:27,450
+and really using that individual one-on-one space
+
+1322
+00:55:27,450 --> 00:55:28,680
+to get their buy-in
+
+1323
+00:55:28,680 --> 00:55:31,710
+and really sell them on the vision for what's coming,
+
+1324
+00:55:31,710 --> 00:55:33,960
+because I think it can be hard
+
+1325
+00:55:33,960 --> 00:55:36,270
+to go into a meeting with a bunch of people
+
+1326
+00:55:36,270 --> 00:55:37,807
+and share this vision and some people are like,
+
+1327
+00:55:37,807 --> 00:55:39,750
+"I don't get it. I don't see it.
+
+1328
+00:55:39,750 --> 00:55:41,010
+I don't understand. But what if...
+
+1329
+00:55:41,010 --> 00:55:42,930
+I'm doing this now. And how's that gonna work?
+
+1330
+00:55:42,930 --> 00:55:44,730
+And they didn't think of this."
+
+1331
+00:55:44,730 --> 00:55:47,610
+So starting with those individual conversations
+
+1332
+00:55:47,610 --> 00:55:49,590
+and really getting everyone on board
+
+1333
+00:55:49,590 --> 00:55:51,750
+and showing them kind of what our vision was
+
+1334
+00:55:51,750 --> 00:55:53,970
+and, you know, expressing our commitment
+
+1335
+00:55:53,970 --> 00:55:56,610
+to being very collaborative and iterative with that process
+
+1336
+00:55:56,610 --> 00:55:58,830
+and making sure that their needs are gonna get met
+
+1337
+00:55:58,830 --> 00:56:01,290
+and we're not gonna leave anything behind,
+
+1338
+00:56:01,290 --> 00:56:02,940
+I think, really helped us have a lot
+
+1339
+00:56:02,940 --> 00:56:04,950
+of buy-in, support, and enthusiasm
+
+1340
+00:56:04,950 --> 00:56:07,700
+from all of the stakeholders that we were working with.
+
+1341
+00:56:09,660 --> 00:56:11,940
+- Yeah, and then from my experience,
+
+1342
+00:56:11,940 --> 00:56:16,740
+I think choosing partners within the college or district
+
+1343
+00:56:16,740 --> 00:56:18,840
+that, you know, will show up to the project,
+
+1344
+00:56:18,840 --> 00:56:20,550
+that are engaged in their own work,
+
+1345
+00:56:20,550 --> 00:56:23,133
+and that like to problem-solve.
+
+1346
+00:56:24,090 --> 00:56:25,950
+And then the other piece is...
+
+1347
+00:56:25,950 --> 00:56:30,950
+I'd say utilize the people on this panel. Like, it comes...
+
+1348
+00:56:31,140 --> 00:56:33,570
+In terms of, you know, selling an idea
+
+1349
+00:56:33,570 --> 00:56:35,580
+to folks on your campus,
+
+1350
+00:56:35,580 --> 00:56:38,790
+if it comes from other leaders on campuses,
+
+1351
+00:56:38,790 --> 00:56:41,070
+it may get buy-in
+
+1352
+00:56:41,070 --> 00:56:43,020
+better than, say, coming from a vendor.
+
+1353
+00:56:46,350 --> 00:56:50,160
+- I think, for us, it's working in small groups.
+
+1354
+00:56:50,160 --> 00:56:52,773
+I think smaller groups can get a lot more work done.
+
+1355
+00:56:53,700 --> 00:56:55,560
+And it sounds cliche,
+
+1356
+00:56:55,560 --> 00:56:57,393
+but I think, sometimes, the hardest step is really
+
+1357
+00:56:57,393 --> 00:56:59,160
+just that first step.
+
+1358
+00:56:59,160 --> 00:57:01,593
+And now that we've gone live,
+
+1359
+00:57:03,720 --> 00:57:08,130
+again, I think that kinda eased in some of the fears
+
+1360
+00:57:08,130 --> 00:57:10,143
+that we had, or staff, right?
+
+1361
+00:57:11,190 --> 00:57:12,780
+I think I always encourage my staff,
+
+1362
+00:57:12,780 --> 00:57:14,730
+like, "Are we making decisions out of fear?
+
+1363
+00:57:14,730 --> 00:57:17,430
+Or are we making decisions of the unknown?
+
+1364
+00:57:17,430 --> 00:57:20,040
+And is the unknown fear? And why is that?"
+
+1365
+00:57:20,040 --> 00:57:21,947
+And so I think...
+
+1366
+00:57:21,947 --> 00:57:24,000
+Again, having daily check-ins
+
+1367
+00:57:24,000 --> 00:57:25,950
+with the staff and also with our partners...
+
+1368
+00:57:25,950 --> 00:57:28,680
+I think having really good communication with partners
+
+1369
+00:57:28,680 --> 00:57:31,620
+is something that's been really reassuring for us.
+
+1370
+00:57:31,620 --> 00:57:33,870
+I'm not a tech or a AI person at all,
+
+1371
+00:57:33,870 --> 00:57:35,640
+and having them kinda explain things to me
+
+1372
+00:57:35,640 --> 00:57:37,440
+in layman terms...
+
+1373
+00:57:37,440 --> 00:57:40,163
+That's been really, really helpful for me and my staff, so.
+
+1374
+00:57:42,210 --> 00:57:43,043
+- I'll keep mine brief.
+
+1375
+00:57:43,043 --> 00:57:46,110
+I know you all are getting antsy for lunch.
+
+1376
+00:57:46,110 --> 00:57:47,190
+My stomach's grumbling, too,
+
+1377
+00:57:47,190 --> 00:57:51,093
+so I'll say, as a counselor, for me,
+
+1378
+00:57:52,650 --> 00:57:54,300
+going back to the why
+
+1379
+00:57:54,300 --> 00:57:58,620
+of is this going to support students and their experience
+
+1380
+00:57:58,620 --> 00:57:59,910
+in a positive way,
+
+1381
+00:57:59,910 --> 00:58:01,413
+if that answer is yes,
+
+1382
+00:58:02,760 --> 00:58:04,530
+then that's what you need, right?
+
+1383
+00:58:04,530 --> 00:58:05,550
+Like, that's the motivation,
+
+1384
+00:58:05,550 --> 00:58:07,350
+and we all know that, right?
+
+1385
+00:58:07,350 --> 00:58:08,700
+We're here to serve our students,
+
+1386
+00:58:08,700 --> 00:58:10,830
+and if there's something within our institutions
+
+1387
+00:58:10,830 --> 00:58:12,390
+that makes things more difficult for them
+
+1388
+00:58:12,390 --> 00:58:15,300
+to be successful or to be able to get what it is
+
+1389
+00:58:15,300 --> 00:58:18,540
+that they earned and deserve, in my case,
+
+1390
+00:58:18,540 --> 00:58:20,970
+how can we take away some of those hurdles, right?
+
+1391
+00:58:20,970 --> 00:58:22,140
+And everything that we've talked about
+
+1392
+00:58:22,140 --> 00:58:23,850
+and all of our different programs are all different,
+
+1393
+00:58:23,850 --> 00:58:26,130
+but they're all about breaking those barriers.
+
+1394
+00:58:26,130 --> 00:58:28,230
+And so if that serves the student experience
+
+1395
+00:58:28,230 --> 00:58:29,130
+in a positive way,
+
+1396
+00:58:29,130 --> 00:58:31,380
+like, pff, you have all...
+
+1397
+00:58:31,380 --> 00:58:32,910
+All of that is always gonna serve you
+
+1398
+00:58:32,910 --> 00:58:34,533
+in completing your goals.
+
+1399
+00:58:36,210 --> 00:58:37,830
+- Well, I wanna thank all of the panelists.
+
+1400
+00:58:37,830 --> 00:58:40,320
+Thank you so much for sharing about what you're doing
+
+1401
+00:58:40,320 --> 00:58:43,983
+at your institution. (audience applauds)
+
+1402
+00:58:45,748 --> 00:58:48,193
+Thank you to our leaders and our audience here.
+
+1403
+00:58:48,193 --> 00:58:50,940
+I hope that this has sparked some ideas for you
+
+1404
+00:58:50,940 --> 00:58:53,250
+and you have some takeaways of maybe where you're going
+
+1405
+00:58:53,250 --> 00:58:56,100
+to engage in some dialogue at your institutions.
+
+1406
+00:58:56,100 --> 00:58:59,850
+And you have some resources up here if you need some help.
+
+1407
+00:58:59,850 --> 00:59:02,130
+Sorry for volunteering you. (laughs)
+
+1408
+00:59:02,130 --> 00:59:03,210
+But thank you again,
+
+1409
+00:59:03,210 --> 00:59:06,030
+and lunch is downstairs in the Futures Hub,
+
+1410
+00:59:06,030 --> 00:59:08,340
+and enjoy the rest of the conference.
+
+1411
+00:59:08,340 --> 00:59:09,173
+Thank you.
+
+1412
+00:59:10,185 --> 00:59:12,852
+- [Technician] Oh, check, check.
+
+1413
+00:59:19,017 --> 00:59:21,023
+- [Audience Member] Quite a bit.
+
+1414
+00:59:21,023 --> 00:59:21,856
+- [Technician] Anybody there?
+
+1415
+00:59:21,856 --> 00:59:24,331
+- [Audience Member] Hi!
+
+1416
+00:59:24,331 --> 00:59:26,208
+- [Technician] Oh, heck yeah. My room is done.

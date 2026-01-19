@@ -1,0 +1,13 @@
+Extract and analyze audience questions across all session transcripts.
+
+Group questions into recurring clusters based on shared intent or underlying need.
+
+For each question cluster, provide:
+- Cluster label
+- Description of the underlying need or concern
+- Session_IDs where the question appears
+- 1–2 example question excerpts or paraphrases with Session_ID references
+
+Do not list every individual question. Focus on recurring patterns grounded in transcript evidence. Use only the provided transcripts.
+
+Return the output as a numbered list (1., 2., 3., ...). One finding per number.

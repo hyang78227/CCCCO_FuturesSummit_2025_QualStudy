@@ -1,0 +1,6387 @@
+1
+00:00:05,280 --> 00:00:08,850
+- All right, as the famous singer Pink said,
+
+2
+00:00:08,850 --> 00:00:10,950
+let's get this party started.
+
+3
+00:00:10,950 --> 00:00:14,940
+So, hi everybody, I'm Kevin Kelly.
+
+4
+00:00:14,940 --> 00:00:18,450
+I'm the Interim Executive Director for the Digital Center
+
+5
+00:00:18,450 --> 00:00:20,490
+for Innovation Transformation and Equity.
+
+6
+00:00:20,490 --> 00:00:22,710
+We're one of the co-hosts of this summit
+
+7
+00:00:22,710 --> 00:00:25,830
+and we're so happy that you all joined us today.
+
+8
+00:00:25,830 --> 00:00:27,360
+You are in for a treat.
+
+9
+00:00:27,360 --> 00:00:30,150
+We have an amazing panel of super bright people
+
+10
+00:00:30,150 --> 00:00:33,660
+and I'm just here to guide the conversation
+
+11
+00:00:33,660 --> 00:00:37,140
+from planning to practice, robotics and automation
+
+12
+00:00:37,140 --> 00:00:40,053
+shaping the next generation workforces.
+
+13
+00:00:42,090 --> 00:00:44,860
+So our cast of characters here
+
+14
+00:00:46,290 --> 00:00:50,940
+include Mike Appio, Carol Reiley, Roger Tadajewski,
+
+15
+00:00:50,940 --> 00:00:52,350
+and Richard Chapman.
+
+16
+00:00:52,350 --> 00:00:55,860
+And I'm gonna ask them to each introduce themselves,
+
+17
+00:00:55,860 --> 00:00:59,580
+I've given them all license if they wished to have a couple
+
+18
+00:00:59,580 --> 00:01:02,820
+of slides to talk a little bit about their backgrounds
+
+19
+00:01:02,820 --> 00:01:04,470
+and the projects they're working on.
+
+20
+00:01:04,470 --> 00:01:05,850
+And then we'll dive into questions.
+
+21
+00:01:05,850 --> 00:01:07,550
+So I'm gonna hand it over to Mike.
+
+22
+00:01:09,150 --> 00:01:11,820
+- Hello, my name is Mike Appio. I'm from DeAnza College.
+
+23
+00:01:11,820 --> 00:01:14,250
+I'm gonna kind of set the tone here a little bit of
+
+24
+00:01:14,250 --> 00:01:15,747
+where we came from, where we wanna be
+
+25
+00:01:15,747 --> 00:01:18,750
+and how this really affects the industrial
+
+26
+00:01:18,750 --> 00:01:20,580
+automation program that we wanna do.
+
+27
+00:01:20,580 --> 00:01:21,930
+My aspect's gonna be from we're
+
+28
+00:01:21,930 --> 00:01:23,250
+at kind of the infancy stage.
+
+29
+00:01:23,250 --> 00:01:26,040
+Now up here, it's a very established program,
+
+30
+00:01:26,040 --> 00:01:27,120
+now you're seeing that lab.
+
+31
+00:01:27,120 --> 00:01:28,590
+So that's what that lab looked like
+
+32
+00:01:28,590 --> 00:01:30,450
+when I came there in 2008.
+
+33
+00:01:30,450 --> 00:01:33,030
+We had 10 manual machines and two simulators.
+
+34
+00:01:33,030 --> 00:01:36,180
+The program has evolved to multi-axis machining,
+
+35
+00:01:36,180 --> 00:01:38,280
+robotics cells, additive manufacturing
+
+36
+00:01:38,280 --> 00:01:40,530
+program with six classes.
+
+37
+00:01:40,530 --> 00:01:42,630
+So over the years, it's really evolved.
+
+38
+00:01:42,630 --> 00:01:45,030
+So our success back there is what I wanna do.
+
+39
+00:01:45,030 --> 00:01:48,270
+And once again, we're on the infancy stage of starting one,
+
+40
+00:01:48,270 --> 00:01:52,380
+but yet we're very well established in the financial stage.
+
+41
+00:01:52,380 --> 00:01:53,580
+So we'll fill in the blanks.
+
+42
+00:01:53,580 --> 00:01:56,400
+And now industrial automation technology is gonna be our
+
+43
+00:01:56,400 --> 00:01:59,050
+strong point in the future of what we're working for.
+
+44
+00:02:01,110 --> 00:02:03,150
+Now, going back to this really quickly is
+
+45
+00:02:03,150 --> 00:02:04,380
+we do these programs already.
+
+46
+00:02:04,380 --> 00:02:06,630
+It'd be advanced manufacturing quality technician
+
+47
+00:02:06,630 --> 00:02:07,980
+additive manufacturing.
+
+48
+00:02:07,980 --> 00:02:11,100
+Our expansion recently has been multi-axis CNC machining
+
+49
+00:02:11,100 --> 00:02:13,530
+and I'll go back that, but our way into automation was
+
+50
+00:02:13,530 --> 00:02:15,960
+robotic work cells with Fenical arms
+
+51
+00:02:15,960 --> 00:02:17,670
+and things of that nature, which is a great
+
+52
+00:02:17,670 --> 00:02:19,170
+segue into the automation.
+
+53
+00:02:19,170 --> 00:02:20,790
+Our problem was we needed technicians
+
+54
+00:02:20,790 --> 00:02:23,553
+to fix these robots and run the equipment.
+
+55
+00:02:24,780 --> 00:02:28,500
+Our program now, and as you'll talk later,
+
+56
+00:02:28,500 --> 00:02:30,420
+and I definitely wanna get a shout out to Richard,
+
+57
+00:02:30,420 --> 00:02:32,190
+'cause Richard at Hartnell has been kind
+
+58
+00:02:32,190 --> 00:02:35,130
+of the base agriculture that we're in the tech area.
+
+59
+00:02:35,130 --> 00:02:36,690
+But we're gonna start a program
+
+60
+00:02:36,690 --> 00:02:38,850
+and talk later about some industrial automation systems
+
+61
+00:02:38,850 --> 00:02:41,790
+with Festo and are aligned in industry recognized
+
+62
+00:02:41,790 --> 00:02:44,460
+certifications, which they'll cover here with NC3
+
+63
+00:02:44,460 --> 00:02:47,110
+as a start, which is a great, great start to do that.
+
+64
+00:02:48,606 --> 00:02:49,620
+I'm gonna move in.
+
+65
+00:02:49,620 --> 00:02:51,780
+Now as we get going on this,
+
+66
+00:02:51,780 --> 00:02:52,890
+we have the plan to move it.
+
+67
+00:02:52,890 --> 00:02:57,150
+We have Festo NC3s to start out our program along things,
+
+68
+00:02:57,150 --> 00:02:58,470
+just to give you an idea of the innovation
+
+69
+00:02:58,470 --> 00:03:00,840
+that we've had and how it's financed was
+
+70
+00:03:00,840 --> 00:03:03,107
+many years through CACT, this is going way back,
+
+71
+00:03:03,107 --> 00:03:06,000
+DeAnza actually had a full blown
+
+72
+00:03:06,000 --> 00:03:08,550
+industrial automation program in the late
+
+73
+00:03:08,550 --> 00:03:09,600
+nineties and two thousands.
+
+74
+00:03:09,600 --> 00:03:12,120
+But I believe it was so far ahead of its time
+
+75
+00:03:12,120 --> 00:03:13,770
+that it wasn't successful.
+
+76
+00:03:13,770 --> 00:03:15,570
+But we do have that background.
+
+77
+00:03:15,570 --> 00:03:17,760
+We do have other people that found a foundation
+
+78
+00:03:17,760 --> 00:03:19,990
+that over a million dollars put in the program.
+
+79
+00:03:19,990 --> 00:03:22,260
+Lemme talk a little about the NSFAT grant,
+
+80
+00:03:22,260 --> 00:03:25,240
+which is a great way to segue into
+
+81
+00:03:26,730 --> 00:03:28,860
+automation and professional development.
+
+82
+00:03:28,860 --> 00:03:31,260
+Our grant was actually based on professional
+
+83
+00:03:31,260 --> 00:03:33,360
+development and professional development
+
+84
+00:03:33,360 --> 00:03:34,440
+instructors and offering it.
+
+85
+00:03:34,440 --> 00:03:35,790
+And through our discussions up here,
+
+86
+00:03:35,790 --> 00:03:38,250
+what we really talked about was the money it takes
+
+87
+00:03:38,250 --> 00:03:39,840
+for professional development is a whole 'nother
+
+88
+00:03:39,840 --> 00:03:41,283
+funding source to do that.
+
+89
+00:03:42,240 --> 00:03:43,942
+So our NSF pathways,
+
+90
+00:03:43,942 --> 00:03:45,870
+we did something called a Built program.
+
+91
+00:03:45,870 --> 00:03:48,180
+I dunno if you're familiar with that throughout the country.
+
+92
+00:03:48,180 --> 00:03:51,150
+Part of getting this program going is you have
+
+93
+00:03:51,150 --> 00:03:52,470
+to have a solid advisory.
+
+94
+00:03:52,470 --> 00:03:54,300
+I think everybody knows that, we don't need an advisory
+
+95
+00:03:54,300 --> 00:03:55,590
+committee that shows up for 10 minutes.
+
+96
+00:03:55,590 --> 00:03:58,230
+You have cookies, go home. It has to be as serious.
+
+97
+00:03:58,230 --> 00:04:01,050
+So this Built was part of NSF and people can do this.
+
+98
+00:04:01,050 --> 00:04:03,660
+It was live, This Built program, and I'll speak about it
+
+99
+00:04:03,660 --> 00:04:05,610
+'cause we're doing with industrial automation.
+
+100
+00:04:05,610 --> 00:04:08,400
+We did it with our additive was these were live,
+
+101
+00:04:08,400 --> 00:04:11,010
+these people were live, we had a hundred KSAs,
+
+102
+00:04:11,010 --> 00:04:13,470
+and they were live and they were voting on their phone.
+
+103
+00:04:13,470 --> 00:04:17,160
+So we did not invite instructors, only industry
+
+104
+00:04:17,160 --> 00:04:19,290
+specialists from NASA, from,
+
+105
+00:04:19,290 --> 00:04:20,730
+you name it, through the Bay area.
+
+106
+00:04:20,730 --> 00:04:22,290
+And they voted live on
+
+107
+00:04:22,290 --> 00:04:23,850
+what they thought we should be teaching.
+
+108
+00:04:23,850 --> 00:04:26,400
+And the unique thing was then I brought it to my instructors
+
+109
+00:04:26,400 --> 00:04:28,200
+and thought what they should be teaching.
+
+110
+00:04:28,200 --> 00:04:31,980
+And surprisingly, there was a difference,
+
+111
+00:04:31,980 --> 00:04:33,723
+surprisingly okay?
+
+112
+00:04:34,650 --> 00:04:36,390
+But nonetheless, we're gonna do
+
+113
+00:04:36,390 --> 00:04:38,730
+with all our programs coming up this same way.
+
+114
+00:04:38,730 --> 00:04:39,750
+And it's really neat.
+
+115
+00:04:39,750 --> 00:04:41,880
+It's a deal where they're voting one through four
+
+116
+00:04:41,880 --> 00:04:43,410
+and every KSA I could possibly come
+
+117
+00:04:43,410 --> 00:04:44,400
+up through this whole program.
+
+118
+00:04:44,400 --> 00:04:45,870
+So we'll build that.
+
+119
+00:04:45,870 --> 00:04:48,603
+I truly believe if you're gonna be successful,
+
+120
+00:04:49,811 --> 00:04:50,700
+you know, more than just talking
+
+121
+00:04:50,700 --> 00:04:52,590
+to your advisory once in a while
+
+122
+00:04:52,590 --> 00:04:55,410
+or going visit tours, they have to be connected, I mean,
+
+123
+00:04:55,410 --> 00:04:58,080
+forced connected to make that work.
+
+124
+00:04:58,080 --> 00:04:59,790
+So as far as some of the other stuff we're working on
+
+125
+00:04:59,790 --> 00:05:01,920
+a little bit, we have an IDRC grant,
+
+126
+00:05:01,920 --> 00:05:04,320
+which is gonna help us put equipment into the program.
+
+127
+00:05:04,320 --> 00:05:05,370
+We have other grants there,
+
+128
+00:05:05,370 --> 00:05:09,120
+advanced manufacturing partnerships that is a combination
+
+129
+00:05:09,120 --> 00:05:12,270
+of automation technicians and machinists.
+
+130
+00:05:12,270 --> 00:05:13,830
+So I think the goal, where I'm coming from
+
+131
+00:05:13,830 --> 00:05:15,990
+and what we're doing is how every one of our programs,
+
+132
+00:05:15,990 --> 00:05:18,630
+whether I can put automation into 3D printing,
+
+133
+00:05:18,630 --> 00:05:21,630
+which I think I can, automation into CNC machining
+
+134
+00:05:21,630 --> 00:05:24,270
+or the basic, if you don't have a technician
+
+135
+00:05:24,270 --> 00:05:26,850
+that could fix anything, then the rest of the areas are kind
+
+136
+00:05:26,850 --> 00:05:28,830
+of, kind of worthless there.
+
+137
+00:05:28,830 --> 00:05:31,710
+So that's kind of our approach to it
+
+138
+00:05:31,710 --> 00:05:34,170
+and where we wanna be funding wise
+
+139
+00:05:34,170 --> 00:05:36,720
+and what our plans are.
+
+140
+00:05:36,720 --> 00:05:39,960
+And obviously with NC3 and Festo starting us out,
+
+141
+00:05:39,960 --> 00:05:42,183
+we have an awesome foundation.
+
+142
+00:05:43,830 --> 00:05:45,180
+Sorry.
+
+143
+00:05:45,180 --> 00:05:47,673
+- So next we'll hear from Carol,
+
+144
+00:05:51,210 --> 00:05:53,310
+and there's a mic right there next to you.
+
+145
+00:05:54,150 --> 00:05:55,920
+- Hi, my name is Carol Reiley.
+
+146
+00:05:55,920 --> 00:05:58,080
+I'm known as the Mother of Robots.
+
+147
+00:05:58,080 --> 00:05:59,907
+For the past 20 years I've been working in AI
+
+148
+00:05:59,907 --> 00:06:03,750
+and robotics from, I think just doing lots
+
+149
+00:06:03,750 --> 00:06:07,170
+of different industries from Lansing and AIR Robotics.
+
+150
+00:06:07,170 --> 00:06:10,680
+I spent a long time in healthcare, you know, wanting
+
+151
+00:06:10,680 --> 00:06:12,240
+to bring a robot into every hospital.
+
+152
+00:06:12,240 --> 00:06:16,920
+I was at Intuitive Surgical, I was an instructor at Hopkins
+
+153
+00:06:16,920 --> 00:06:20,310
+and working at Intuitive to try to develop the pedagogy
+
+154
+00:06:20,310 --> 00:06:23,700
+of like, what does surgical training look like
+
+155
+00:06:23,700 --> 00:06:26,850
+and how do you standardize it globally?
+
+156
+00:06:26,850 --> 00:06:31,850
+And then, I had a shift where I was working on
+
+157
+00:06:31,980 --> 00:06:34,260
+what I could be more disruptive than healthcare,
+
+158
+00:06:34,260 --> 00:06:36,480
+which is self-driving cars.
+
+159
+00:06:36,480 --> 00:06:40,410
+So I had founded a company called Drive.ai
+
+160
+00:06:40,410 --> 00:06:43,623
+that was acquired by Apple in 2019.
+
+161
+00:06:44,550 --> 00:06:47,820
+And for the past five years have been working in the AI
+
+162
+00:06:47,820 --> 00:06:50,220
+and creativity space since I had believed that
+
+163
+00:06:50,220 --> 00:06:55,220
+that was an area that seem to be the core of humanity
+
+164
+00:06:55,327 --> 00:06:57,750
+and the thing that humans should try
+
+165
+00:06:57,750 --> 00:06:59,100
+to protect in the values.
+
+166
+00:06:59,100 --> 00:07:01,110
+So we work with the San Francisco Symphony
+
+167
+00:07:01,110 --> 00:07:03,080
+to curate tech programs.
+
+168
+00:07:03,080 --> 00:07:07,000
+So like how do humans and robots work together
+
+169
+00:07:07,920 --> 00:07:09,990
+and develop things that they couldn't independently?
+
+170
+00:07:09,990 --> 00:07:13,440
+So I think robots help people scale, to pick up boulders.
+
+171
+00:07:13,440 --> 00:07:15,540
+They can scale down to do microsurgery,
+
+172
+00:07:15,540 --> 00:07:16,980
+get rid of hand tremor reduction.
+
+173
+00:07:16,980 --> 00:07:19,830
+So how do you utilize and couple these two things
+
+174
+00:07:19,830 --> 00:07:24,830
+to make humans super creative, super strong, super anything.
+
+175
+00:07:24,960 --> 00:07:28,170
+So for the last five years, I've really been exploring
+
+176
+00:07:28,170 --> 00:07:29,760
+the arts space.
+
+177
+00:07:29,760 --> 00:07:31,620
+I work with the Exploratorium
+
+178
+00:07:31,620 --> 00:07:35,100
+to develop their new initiatives wing for AI.
+
+179
+00:07:35,100 --> 00:07:37,320
+I have an exhibit there right now.
+
+180
+00:07:37,320 --> 00:07:41,760
+And then I worked with the symphony and OpenAI
+
+181
+00:07:41,760 --> 00:07:43,950
+before it became OpenAI,
+
+182
+00:07:43,950 --> 00:07:47,730
+and have a Grammy nomination for an AI produced track.
+
+183
+00:07:47,730 --> 00:07:51,060
+So I think there's this interesting space as we're getting
+
+184
+00:07:51,060 --> 00:07:53,943
+so disruptive in both robotics and AI.
+
+185
+00:07:54,810 --> 00:07:57,663
+And if you go to the next slide, I think, you know, it's,
+
+186
+00:07:59,640 --> 00:08:02,370
+yeah, or even the one after that.
+
+187
+00:08:02,370 --> 00:08:04,680
+Yeah. So I just feel like now is the time.
+
+188
+00:08:04,680 --> 00:08:05,670
+I think there's been a shift.
+
+189
+00:08:05,670 --> 00:08:09,273
+It was like robotics in the 2010s that have been really,
+
+190
+00:08:10,830 --> 00:08:12,900
+and then there was a maker movement of 3D printing
+
+191
+00:08:12,900 --> 00:08:14,730
+and additive manufacturing, which had a wave.
+
+192
+00:08:14,730 --> 00:08:18,870
+And then deep learning really disrupted the AI field.
+
+193
+00:08:18,870 --> 00:08:20,160
+So it swung back to software.
+
+194
+00:08:20,160 --> 00:08:22,200
+And then I think now we're seeing the rise again
+
+195
+00:08:22,200 --> 00:08:23,580
+of robotics and automation.
+
+196
+00:08:23,580 --> 00:08:26,583
+So those are just my observations on that side. Thank you.
+
+197
+00:08:28,380 --> 00:08:30,783
+- Thanks Carol. And now we'll hear from Roger.
+
+198
+00:08:33,930 --> 00:08:35,640
+- Thank you Kevin.
+
+199
+00:08:35,640 --> 00:08:37,710
+I'm Roger Tadajewski, Executive Director
+
+200
+00:08:37,710 --> 00:08:40,620
+for the National Coalition of Certification Centers,
+
+201
+00:08:40,620 --> 00:08:42,450
+otherwise known as NC3.
+
+202
+00:08:42,450 --> 00:08:45,360
+And we were brought together by you all,
+
+203
+00:08:45,360 --> 00:08:49,830
+by community college presidents back in 2008, 2009,
+
+204
+00:08:49,830 --> 00:08:53,190
+came together to start to look at
+
+205
+00:08:53,190 --> 00:08:55,770
+how can education as a whole,
+
+206
+00:08:55,770 --> 00:08:59,220
+but just not at community colleges, but at high schools,
+
+207
+00:08:59,220 --> 00:09:01,950
+how do we really truly come together
+
+208
+00:09:01,950 --> 00:09:03,060
+if we're going to develop
+
+209
+00:09:03,060 --> 00:09:06,810
+and talk about industry recognized, industry developed
+
+210
+00:09:06,810 --> 00:09:09,300
+competency-based certifications, how do we do that?
+
+211
+00:09:09,300 --> 00:09:12,960
+And then how do we also work with the boards
+
+212
+00:09:12,960 --> 00:09:16,470
+of trustees, leadership all the way to the instructors,
+
+213
+00:09:16,470 --> 00:09:21,240
+so that we can drive and help that alignment with industry.
+
+214
+00:09:21,240 --> 00:09:23,910
+On the flip side of that is, if we could put that together,
+
+215
+00:09:23,910 --> 00:09:27,390
+our thought was back in 2008 to the how can we then work
+
+216
+00:09:27,390 --> 00:09:30,570
+with global leading industries
+
+217
+00:09:30,570 --> 00:09:33,090
+to help us develop those core competence,
+
+218
+00:09:33,090 --> 00:09:37,260
+those course certifications that are gonna be important
+
+219
+00:09:37,260 --> 00:09:40,260
+as they were then, as they are now to help drive
+
+220
+00:09:40,260 --> 00:09:43,590
+and build the infrastructure that we,
+
+221
+00:09:43,590 --> 00:09:45,960
+as we know we need always in the United States.
+
+222
+00:09:45,960 --> 00:09:49,170
+But most certainly as we continue to update,
+
+223
+00:09:49,170 --> 00:09:51,630
+whether it's our roads or technologies,
+
+224
+00:09:51,630 --> 00:09:55,800
+and we think about AI and energy and those pieces,
+
+225
+00:09:55,800 --> 00:09:57,570
+and how do we do all those things?
+
+226
+00:09:57,570 --> 00:10:00,750
+Well, you still need electricians and plumbers.
+
+227
+00:10:00,750 --> 00:10:04,300
+So as you look at the slide, every one of those companies
+
+228
+00:10:05,400 --> 00:10:09,030
+have over a hundred years of being up
+
+229
+00:10:09,030 --> 00:10:10,440
+in that upper fourth quadrant
+
+230
+00:10:10,440 --> 00:10:15,240
+of bringing new technologies into the global workspace.
+
+231
+00:10:15,240 --> 00:10:18,870
+So if you think about Lincoln Electric or Thermo King,
+
+232
+00:10:18,870 --> 00:10:21,870
+any of them, those are all corporations
+
+233
+00:10:21,870 --> 00:10:25,290
+that continue to lead in their areas.
+
+234
+00:10:25,290 --> 00:10:29,250
+So they are our key partners with us.
+
+235
+00:10:29,250 --> 00:10:31,920
+And then of course on, you know, if we just take Festo,
+
+236
+00:10:31,920 --> 00:10:33,630
+we were thinking about Festo
+
+237
+00:10:33,630 --> 00:10:36,610
+and you think about the food packaging, the biomedical
+
+238
+00:10:37,770 --> 00:10:39,600
+general manufacturing and those things,
+
+239
+00:10:39,600 --> 00:10:42,750
+probably in the United States in food and food packaging,
+
+240
+00:10:42,750 --> 00:10:47,430
+probably 80 or 85% of all food and food packaging
+
+241
+00:10:47,430 --> 00:10:49,680
+is probably done with Festo technology.
+
+242
+00:10:49,680 --> 00:10:52,770
+So think about everything under Coke or Pepsi
+
+243
+00:10:52,770 --> 00:10:55,347
+or Nestle's or all those that that is,
+
+244
+00:10:55,347 --> 00:10:58,200
+and that whole supply chain is being utilized in there.
+
+245
+00:10:58,200 --> 00:10:59,970
+And that continues to evolve.
+
+246
+00:10:59,970 --> 00:11:03,780
+So we work with them to bring those certifications
+
+247
+00:11:03,780 --> 00:11:06,750
+to light and then be able to deliver them
+
+248
+00:11:06,750 --> 00:11:08,190
+through great schools.
+
+249
+00:11:08,190 --> 00:11:10,890
+Like you'll hear from Hartnell and Foothills
+
+250
+00:11:10,890 --> 00:11:12,360
+that we are developing that
+
+251
+00:11:12,360 --> 00:11:15,630
+that can be delivered directly to the schools.
+
+252
+00:11:15,630 --> 00:11:17,940
+I won't go a whole lot in detail into it,
+
+253
+00:11:17,940 --> 00:11:22,940
+but just to give our audience some idea of,
+
+254
+00:11:23,070 --> 00:11:25,230
+when I talk about industry certifications,
+
+255
+00:11:25,230 --> 00:11:28,560
+these are the design and architecture
+
+256
+00:11:28,560 --> 00:11:29,970
+to each one of them are designed
+
+257
+00:11:29,970 --> 00:11:32,910
+so you can embed them into your for-credit program,
+
+258
+00:11:32,910 --> 00:11:35,040
+you can put 'em into a non-credit program,
+
+259
+00:11:35,040 --> 00:11:39,150
+you can put 'em into adult ed, apprenticeships,
+
+260
+00:11:39,150 --> 00:11:41,430
+dual enrollment, all those pieces that
+
+261
+00:11:41,430 --> 00:11:44,640
+that structure is already there and is operating.
+
+262
+00:11:44,640 --> 00:11:48,420
+So fast forward to 2025,
+
+263
+00:11:48,420 --> 00:11:51,780
+we have a little over 200 plus certifications
+
+264
+00:11:51,780 --> 00:11:53,040
+that are in our portfolio.
+
+265
+00:11:53,040 --> 00:11:56,253
+Again, all developed by industry.
+
+266
+00:11:57,090 --> 00:12:01,740
+And then those certifications then are also
+
+267
+00:12:01,740 --> 00:12:03,000
+underwritten by industry,
+
+268
+00:12:03,000 --> 00:12:06,600
+so they can be delivered without cost to your student.
+
+269
+00:12:06,600 --> 00:12:08,460
+So as you invest in your technology,
+
+270
+00:12:08,460 --> 00:12:10,680
+your professional development, those certifications
+
+271
+00:12:10,680 --> 00:12:12,660
+that you issue to your students,
+
+272
+00:12:12,660 --> 00:12:14,490
+there is not an additional cost there,
+
+273
+00:12:14,490 --> 00:12:18,180
+because the big picture goal is how do we help every student
+
+274
+00:12:18,180 --> 00:12:21,210
+in our communities be part of that social economic fabric?
+
+275
+00:12:21,210 --> 00:12:22,800
+And that's one of the things
+
+276
+00:12:22,800 --> 00:12:25,710
+that every one of these corporations are part of.
+
+277
+00:12:25,710 --> 00:12:26,543
+Next slide.
+
+278
+00:12:28,290 --> 00:12:30,330
+Just to give you a little bit of breadth and scope,
+
+279
+00:12:30,330 --> 00:12:32,790
+we operate in all 50 states,
+
+280
+00:12:32,790 --> 00:12:36,360
+a little over 600 plus community colleges.
+
+281
+00:12:36,360 --> 00:12:40,380
+We're right at almost 2000 K through 12 schools
+
+282
+00:12:40,380 --> 00:12:45,000
+that are operating as well as universities in Canada,
+
+283
+00:12:45,000 --> 00:12:48,330
+Jamaica, Puerto Rico and so forth that we're doing that.
+
+284
+00:12:48,330 --> 00:12:52,200
+So part of what I do want to touch on is is
+
+285
+00:12:52,200 --> 00:12:53,730
+great we hear about AI, right?
+
+286
+00:12:53,730 --> 00:12:55,440
+We're building all these things,
+
+287
+00:12:55,440 --> 00:12:57,360
+but what does that mean to you?
+
+288
+00:12:57,360 --> 00:13:00,360
+Do we have any college presidents in the room with us today?
+
+289
+00:13:01,560 --> 00:13:05,370
+Facilities, strategists, those kind of things.
+
+290
+00:13:05,370 --> 00:13:08,820
+Well, we're thinking about upgrades to our programs.
+
+291
+00:13:08,820 --> 00:13:13,080
+Yes, you can go update just like Mike is doing here,
+
+292
+00:13:13,080 --> 00:13:14,520
+but what we also gotta make sure is
+
+293
+00:13:14,520 --> 00:13:18,060
+that we include our facilities people
+
+294
+00:13:18,060 --> 00:13:19,440
+and our industry people.
+
+295
+00:13:19,440 --> 00:13:24,440
+Because the electricity that's coming into our colleges
+
+296
+00:13:25,290 --> 00:13:27,120
+and into our buildings that might have been built
+
+297
+00:13:27,120 --> 00:13:29,460
+in the sixties and seventies with one purpose
+
+298
+00:13:29,460 --> 00:13:32,310
+and an idea back then for 20 or 30 years.
+
+299
+00:13:32,310 --> 00:13:35,400
+There's a lot of infrastructure pieces that you need
+
+300
+00:13:35,400 --> 00:13:38,820
+to also be planning for today, but also in the future.
+
+301
+00:13:38,820 --> 00:13:41,910
+So, and it's not always about new buildings.
+
+302
+00:13:41,910 --> 00:13:44,610
+We can take and we work across the country,
+
+303
+00:13:44,610 --> 00:13:48,330
+we probably helped 400 plus colleges upgrade,
+
+304
+00:13:48,330 --> 00:13:51,840
+whether it's their HVAC programs, their refrigeration,
+
+305
+00:13:51,840 --> 00:13:52,890
+their welding programs.
+
+306
+00:13:52,890 --> 00:13:57,890
+So for example, this one here at Wichita is a building
+
+307
+00:13:57,900 --> 00:14:01,050
+that was built probably in the sixties,
+
+308
+00:14:01,050 --> 00:14:04,200
+but now it is a full fledged building automation system
+
+309
+00:14:04,200 --> 00:14:08,010
+controls lab, a learning lab where students not only
+
+310
+00:14:08,010 --> 00:14:11,280
+are learning the technology, but as the building changes
+
+311
+00:14:11,280 --> 00:14:12,870
+temperature, again, it's Wichita.
+
+312
+00:14:12,870 --> 00:14:16,110
+So there's days that it's a 108 degrees there.
+
+313
+00:14:16,110 --> 00:14:18,540
+How does that impact the environment and the classroom?
+
+314
+00:14:18,540 --> 00:14:22,680
+So students are getting real world activities every day
+
+315
+00:14:22,680 --> 00:14:23,880
+in there as they're going
+
+316
+00:14:23,880 --> 00:14:25,110
+through these certifications.
+
+317
+00:14:25,110 --> 00:14:25,943
+Next slide.
+
+318
+00:14:29,070 --> 00:14:33,750
+So this is Patrick and Henry in Virginia,
+
+319
+00:14:33,750 --> 00:14:36,780
+just outside of Dansville, this building here,
+
+320
+00:14:36,780 --> 00:14:40,710
+if you would go back about 10 years, 2010, 2011,
+
+321
+00:14:40,710 --> 00:14:44,430
+it was actually a NASCAR race car engine facility,
+
+322
+00:14:44,430 --> 00:14:47,130
+where they were building race car engines in,
+
+323
+00:14:47,130 --> 00:14:50,130
+and there was some combining of race car teams.
+
+324
+00:14:50,130 --> 00:14:52,050
+This building became available.
+
+325
+00:14:52,050 --> 00:14:55,620
+It did not look like this internally when they got it.
+
+326
+00:14:55,620 --> 00:15:00,620
+But like I say, we worked with a general contractor,
+
+327
+00:15:01,080 --> 00:15:02,460
+they did a lot of power washing,
+
+328
+00:15:02,460 --> 00:15:05,220
+cleaned it all up, and here's a great building
+
+329
+00:15:05,220 --> 00:15:06,657
+that had great bones, all that to it.
+
+330
+00:15:06,657 --> 00:15:11,280
+And now is one of our most advanced level three
+
+331
+00:15:11,280 --> 00:15:14,553
+robotics human machine interaction labs in the country.
+
+332
+00:15:15,570 --> 00:15:17,430
+So they are working directly.
+
+333
+00:15:17,430 --> 00:15:22,430
+And again, you know, as Carol touched on robotics
+
+334
+00:15:22,500 --> 00:15:26,130
+and healthcare, we think about our hospitals,
+
+335
+00:15:26,130 --> 00:15:29,760
+the infrastructure, the HVAC, the plumbing, the water,
+
+336
+00:15:29,760 --> 00:15:32,460
+whether it's data centers, hospitals,
+
+337
+00:15:32,460 --> 00:15:34,980
+our housing updates, all those things,
+
+338
+00:15:34,980 --> 00:15:39,840
+this core infrastructure right now in the United States has,
+
+339
+00:15:39,840 --> 00:15:42,960
+you know, close to 2 million jobs that
+
+340
+00:15:42,960 --> 00:15:45,030
+whether you're a contractor for buildings,
+
+341
+00:15:45,030 --> 00:15:49,890
+upgrading facilities, infrastructure of our roads
+
+342
+00:15:49,890 --> 00:15:53,400
+and bridges, all those things that are being built
+
+343
+00:15:53,400 --> 00:15:56,100
+are gonna be tremendous.
+
+344
+00:15:56,100 --> 00:16:00,210
+But the key thing that training all that will come
+
+345
+00:16:00,210 --> 00:16:02,790
+through you through the community colleges.
+
+346
+00:16:02,790 --> 00:16:03,960
+That is the only place
+
+347
+00:16:03,960 --> 00:16:05,970
+that it is being delivered can be delivered
+
+348
+00:16:05,970 --> 00:16:07,350
+and will be delivered in the future.
+
+349
+00:16:07,350 --> 00:16:11,550
+So we are working tirelessly across the country.
+
+350
+00:16:11,550 --> 00:16:13,920
+And then again with dual enrollment,
+
+351
+00:16:13,920 --> 00:16:17,130
+we are doing some projects even with middle school math
+
+352
+00:16:17,130 --> 00:16:20,250
+and science teachers to introduce them to the basic
+
+353
+00:16:20,250 --> 00:16:23,340
+of robotics and what are those key competencies that math,
+
+354
+00:16:23,340 --> 00:16:26,010
+hydraulics, physics that apply to that.
+
+355
+00:16:26,010 --> 00:16:28,620
+So students get engaged, their parents get engaged,
+
+356
+00:16:28,620 --> 00:16:31,020
+community can help drive that piece.
+
+357
+00:16:31,020 --> 00:16:33,620
+So I think that's the last slide, right? Yeah. Okay.
+
+358
+00:16:35,310 --> 00:16:38,070
+- Alright. Last but not least, let's hear from Richard.
+
+359
+00:16:38,070 --> 00:16:39,300
+- Yeah, hello Richard Chapman.
+
+360
+00:16:39,300 --> 00:16:41,190
+I teach agricultural engineering
+
+361
+00:16:41,190 --> 00:16:44,880
+and advanced manufacturing at Hartnell College in Salinas
+
+362
+00:16:44,880 --> 00:16:47,040
+in Monterey County.
+
+363
+00:16:47,040 --> 00:16:50,310
+And as far as I know, we are the first
+
+364
+00:16:50,310 --> 00:16:53,160
+and still only agricultural mechatronics associates
+
+365
+00:16:53,160 --> 00:16:54,960
+degree in the state.
+
+366
+00:16:54,960 --> 00:16:57,030
+And so what I'm doing is, well,
+
+367
+00:16:57,030 --> 00:16:59,640
+when they hired me a few years ago, five years ago now,
+
+368
+00:16:59,640 --> 00:17:01,560
+we did what's called a Dacom.
+
+369
+00:17:01,560 --> 00:17:04,310
+We got representatives from all
+
+370
+00:17:04,310 --> 00:17:08,100
+of our major agricultural companies in our community,
+
+371
+00:17:08,100 --> 00:17:09,780
+the top employers and said,
+
+372
+00:17:09,780 --> 00:17:12,390
+if you could design your perfect technician,
+
+373
+00:17:12,390 --> 00:17:14,280
+what are the skills and abilities and tools
+
+374
+00:17:14,280 --> 00:17:15,510
+and just everything they need to know
+
+375
+00:17:15,510 --> 00:17:17,280
+and do to perform their job.
+
+376
+00:17:17,280 --> 00:17:20,400
+And then we worked our way backwards into, you know,
+
+377
+00:17:20,400 --> 00:17:24,150
+getting some objectives and outcomes for the program.
+
+378
+00:17:24,150 --> 00:17:27,370
+And then I went to work on developing courses
+
+379
+00:17:28,830 --> 00:17:30,570
+and updating my degree in the program.
+
+380
+00:17:30,570 --> 00:17:34,437
+And that connected us with NC3 through
+
+381
+00:17:34,437 --> 00:17:36,180
+the equipment distributor.
+
+382
+00:17:36,180 --> 00:17:40,920
+And you know, there was other distributors that did bids
+
+383
+00:17:40,920 --> 00:17:42,953
+to outfit our shop with equipment.
+
+384
+00:17:42,953 --> 00:17:44,790
+We talk about shop upgrades.
+
+385
+00:17:44,790 --> 00:17:46,920
+If you were to walk into my, my shop when I was hired,
+
+386
+00:17:46,920 --> 00:17:48,600
+it was like a sheet metal shop.
+
+387
+00:17:48,600 --> 00:17:50,340
+Like they were sheet metal and cutting sheet metal
+
+388
+00:17:50,340 --> 00:17:53,160
+and like there's not a lot of jobs in agriculture,
+
+389
+00:17:53,160 --> 00:17:55,320
+where you're, you know, maybe for making gutters
+
+390
+00:17:55,320 --> 00:17:56,850
+or something, but that's not ag, you know,
+
+391
+00:17:56,850 --> 00:17:58,607
+so it was very interesting.
+
+392
+00:17:58,607 --> 00:18:03,090
+It was very 1980s. And so we did a big upgrade.
+
+393
+00:18:03,090 --> 00:18:06,357
+And the beauty about partnering with NC3
+
+394
+00:18:06,357 --> 00:18:08,940
+and their partner Festo is like Roger said,
+
+395
+00:18:08,940 --> 00:18:12,960
+most automation equipment and processing
+
+396
+00:18:12,960 --> 00:18:16,320
+and some of the outdoor automation is made by Festo.
+
+397
+00:18:16,320 --> 00:18:18,150
+And so when you use the Festo training equipment,
+
+398
+00:18:18,150 --> 00:18:20,490
+they're hands-on with the exact same parts
+
+399
+00:18:20,490 --> 00:18:23,460
+that they're gonna be hands-on in the real world,
+
+400
+00:18:23,460 --> 00:18:24,620
+which is really cool.
+
+401
+00:18:24,620 --> 00:18:25,530
+You know, you get other training equipment,
+
+402
+00:18:25,530 --> 00:18:27,130
+that's not necessarily the case.
+
+403
+00:18:29,643 --> 00:18:31,230
+It's a reduced version for education,
+
+404
+00:18:31,230 --> 00:18:33,960
+not necessarily the real part numbers that match,
+
+405
+00:18:33,960 --> 00:18:36,000
+same catalog, same everything.
+
+406
+00:18:36,000 --> 00:18:37,110
+So that was a huge benefit,
+
+407
+00:18:37,110 --> 00:18:39,690
+but took the information from that Dacom,
+
+408
+00:18:39,690 --> 00:18:42,300
+created a new sequence of courses.
+
+409
+00:18:42,300 --> 00:18:44,250
+This is my first community college job as well.
+
+410
+00:18:44,250 --> 00:18:47,157
+So learning the new world of community college
+
+411
+00:18:47,157 --> 00:18:50,820
+and the requirements there, you know, really trying
+
+412
+00:18:50,820 --> 00:18:54,120
+to meet the community's needs, you know,
+
+413
+00:18:54,120 --> 00:18:56,070
+'cause they have a lot of needs.
+
+414
+00:18:56,070 --> 00:18:57,810
+But to get that down into a two year degree
+
+415
+00:18:57,810 --> 00:18:59,760
+with general education requirements
+
+416
+00:18:59,760 --> 00:19:00,593
+and all that kind of stuff.
+
+417
+00:19:00,593 --> 00:19:04,440
+So, and then another unique situation that we deal
+
+418
+00:19:04,440 --> 00:19:06,990
+with in Salinas, you know, the type of crops
+
+419
+00:19:06,990 --> 00:19:10,710
+that we grow are very labor intensive.
+
+420
+00:19:10,710 --> 00:19:13,470
+So any company's trying to improve efficiency, well,
+
+421
+00:19:13,470 --> 00:19:16,230
+labor being a potential issue there,
+
+422
+00:19:16,230 --> 00:19:19,050
+especially when they can't fill all the jobs.
+
+423
+00:19:19,050 --> 00:19:21,000
+There's more jobs and they have people.
+
+424
+00:19:21,000 --> 00:19:23,280
+And then the food safety side of this as well.
+
+425
+00:19:23,280 --> 00:19:27,300
+Food safety is extremely important in
+
+426
+00:19:27,300 --> 00:19:28,740
+what we call specialty crops here
+
+427
+00:19:28,740 --> 00:19:29,940
+veggies and leafy greens,
+
+428
+00:19:29,940 --> 00:19:32,640
+'cause there's usually not what we call a kill step.
+
+429
+00:19:32,640 --> 00:19:34,020
+You know, those are things that are not cooked.
+
+430
+00:19:34,020 --> 00:19:36,390
+If you're making a salad, there's nothing,
+
+431
+00:19:36,390 --> 00:19:38,940
+you know, killing pathogens and stuff like that.
+
+432
+00:19:38,940 --> 00:19:39,773
+It's not cooked.
+
+433
+00:19:40,950 --> 00:19:42,960
+So you mentioned the clean room and medical stuff.
+
+434
+00:19:42,960 --> 00:19:45,690
+Well, agriculture and post harvest processing has its
+
+435
+00:19:45,690 --> 00:19:47,580
+own clean room type thing
+
+436
+00:19:47,580 --> 00:19:50,373
+and good agricultural practices that we have to follow.
+
+437
+00:19:51,480 --> 00:19:52,830
+And then to make things even more fun
+
+438
+00:19:52,830 --> 00:19:56,700
+during the winter months, they uninstall and pack up
+
+439
+00:19:56,700 --> 00:19:58,530
+and ship all this processing equipment
+
+440
+00:19:58,530 --> 00:20:00,840
+to Southern California and Arizona
+
+441
+00:20:00,840 --> 00:20:03,810
+'cause the growing season goes down there.
+
+442
+00:20:03,810 --> 00:20:06,090
+So that just makes things even more interesting, you know,
+
+443
+00:20:06,090 --> 00:20:09,930
+as far as reinstalling and recalibrating and plumbing
+
+444
+00:20:09,930 --> 00:20:11,490
+and electrical and anchoring
+
+445
+00:20:11,490 --> 00:20:13,050
+and all that kind of stuff.
+
+446
+00:20:13,050 --> 00:20:14,823
+All that equipment twice a year.
+
+447
+00:20:16,380 --> 00:20:18,150
+So I was able to take all that feedback
+
+448
+00:20:18,150 --> 00:20:20,130
+and create a sequence of classes.
+
+449
+00:20:20,130 --> 00:20:25,020
+And then considering the migrant workers that are part
+
+450
+00:20:25,020 --> 00:20:27,600
+of this, you know, they would really struggle
+
+451
+00:20:27,600 --> 00:20:29,700
+with a 16 week class.
+
+452
+00:20:29,700 --> 00:20:32,487
+So I took my 16 week classes
+
+453
+00:20:32,487 --> 00:20:34,740
+and my first two levels broke 'em down into two
+
+454
+00:20:34,740 --> 00:20:37,473
+eight week classes, two units each kind of a thing.
+
+455
+00:20:38,476 --> 00:20:39,870
+And so that way when the one class ends in the middle
+
+456
+00:20:39,870 --> 00:20:42,540
+of October and they're starting to transition to Yuma,
+
+457
+00:20:42,540 --> 00:20:45,180
+Arizona, they don't fail a 16 week class.
+
+458
+00:20:45,180 --> 00:20:47,130
+They actually pass the first class.
+
+459
+00:20:47,130 --> 00:20:49,800
+When they come back, they have the opportunity in March
+
+460
+00:20:49,800 --> 00:20:51,240
+to take the second level class.
+
+461
+00:20:51,240 --> 00:20:52,920
+So they're not just dead in the water.
+
+462
+00:20:52,920 --> 00:20:55,410
+They actually have the opportunity to continue
+
+463
+00:20:55,410 --> 00:20:57,210
+through their education and upskill.
+
+464
+00:20:58,087 --> 00:21:00,210
+And those classes, each being 72 hours also make it
+
+465
+00:21:00,210 --> 00:21:02,730
+really well for dual enrollment in high schools,
+
+466
+00:21:02,730 --> 00:21:04,890
+you know, one period and one semester,
+
+467
+00:21:04,890 --> 00:21:07,980
+72 hours is just about right as opposed
+
+468
+00:21:07,980 --> 00:21:10,860
+to a full 144 hour class in one semester.
+
+469
+00:21:10,860 --> 00:21:13,740
+They couldn't do that without multiple periods, which a lot
+
+470
+00:21:13,740 --> 00:21:15,150
+of high schools don't have the flexibility
+
+471
+00:21:15,150 --> 00:21:18,303
+to do two period blocks with their classes.
+
+472
+00:21:20,400 --> 00:21:22,950
+So that's pretty much where we're at.
+
+473
+00:21:22,950 --> 00:21:25,050
+Again, right now, really focus on the post harvest
+
+474
+00:21:25,050 --> 00:21:26,160
+value added technology.
+
+475
+00:21:26,160 --> 00:21:29,520
+So think bag salad, the automation technology
+
+476
+00:21:29,520 --> 00:21:31,800
+that goes into a bag salad or a veggie tray
+
+477
+00:21:31,800 --> 00:21:33,690
+or some of that value added stuff.
+
+478
+00:21:33,690 --> 00:21:36,120
+But really starting to explore now into the outdoor
+
+479
+00:21:36,120 --> 00:21:40,440
+automation principles of smart manufacturing and farming.
+
+480
+00:21:40,440 --> 00:21:42,270
+Starting a small partnership with John Deere
+
+481
+00:21:42,270 --> 00:21:43,800
+where they talked about digital twin
+
+482
+00:21:43,800 --> 00:21:44,880
+in their fields and stuff.
+
+483
+00:21:44,880 --> 00:21:47,520
+So pretty cool mapping your fields and stuff
+
+484
+00:21:47,520 --> 00:21:49,980
+and using principles, smart manufacturing,
+
+485
+00:21:49,980 --> 00:21:53,040
+automated harvesting, automated thinning
+
+486
+00:21:53,040 --> 00:21:55,530
+and weeding machines, that kind of stuff.
+
+487
+00:21:55,530 --> 00:21:58,110
+So single person department right now.
+
+488
+00:21:58,110 --> 00:21:59,190
+So it's a lot on my plate,
+
+489
+00:21:59,190 --> 00:22:02,433
+but definitely looking to expand as well.
+
+490
+00:22:03,450 --> 00:22:06,270
+- Fantastic, so you can see we have quite a variety
+
+491
+00:22:06,270 --> 00:22:09,060
+of backgrounds represented here.
+
+492
+00:22:09,060 --> 00:22:12,630
+And when we come to our questions, we wanted to start with,
+
+493
+00:22:12,630 --> 00:22:17,220
+and some of this has been covered a little bit by our panel,
+
+494
+00:22:17,220 --> 00:22:19,080
+but I want to put it out there.
+
+495
+00:22:19,080 --> 00:22:22,890
+So where are we now with respect to robotics, automation,
+
+496
+00:22:22,890 --> 00:22:25,593
+the impact of AI on those?
+
+497
+00:22:26,910 --> 00:22:31,110
+Give us an idea of basically how you see the industry
+
+498
+00:22:31,110 --> 00:22:34,260
+and then later on we'll get to where it's headed.
+
+499
+00:22:34,260 --> 00:22:37,110
+So maybe let's, since we finished with you,
+
+500
+00:22:37,110 --> 00:22:38,790
+Richard, let's start with you this time.
+
+501
+00:22:38,790 --> 00:22:42,000
+- Yeah so where we are currently in agriculture,
+
+502
+00:22:42,000 --> 00:22:44,670
+I mentioned about the labor challenges right now
+
+503
+00:22:44,670 --> 00:22:49,670
+in the tasks like thinning and harvesting.
+
+504
+00:22:50,040 --> 00:22:54,180
+So where we see the companies going right now is investing
+
+505
+00:22:54,180 --> 00:22:57,330
+and researching into automation technology
+
+506
+00:22:57,330 --> 00:22:58,680
+in the growing practices.
+
+507
+00:22:58,680 --> 00:23:01,230
+You know, the post-harvest technology,
+
+508
+00:23:01,230 --> 00:23:02,610
+like the bag salad type stuff
+
+509
+00:23:02,610 --> 00:23:05,280
+that's been automated since inception essentially.
+
+510
+00:23:05,280 --> 00:23:08,100
+And they're adding more automation palletization
+
+511
+00:23:08,100 --> 00:23:09,630
+with robots and stuff like that.
+
+512
+00:23:09,630 --> 00:23:10,830
+They're finding more ways to automate
+
+513
+00:23:10,830 --> 00:23:12,540
+and improve efficiency,
+
+514
+00:23:12,540 --> 00:23:15,900
+but that's not unlike any other manufacturing process
+
+515
+00:23:15,900 --> 00:23:17,733
+that's automated, you know,
+
+516
+00:23:18,840 --> 00:23:21,840
+but in the outdoor technology right now, you know,
+
+517
+00:23:21,840 --> 00:23:26,430
+so the labor intensive jobs like thinning weeds and stuff,
+
+518
+00:23:26,430 --> 00:23:29,250
+they've invented machines that use cameras
+
+519
+00:23:29,250 --> 00:23:31,290
+and AI technology to determine
+
+520
+00:23:31,290 --> 00:23:35,220
+where the crops are in the field and where the non crops
+
+521
+00:23:35,220 --> 00:23:36,750
+or the weeds would be in the field.
+
+522
+00:23:36,750 --> 00:23:39,600
+And maybe they're doing precision spraying with pesticide
+
+523
+00:23:39,600 --> 00:23:42,150
+or precision application or fertilizer to the crop.
+
+524
+00:23:42,150 --> 00:23:44,250
+So they're cutting their chemical inputs down by
+
+525
+00:23:44,250 --> 00:23:46,500
+like 80, 90, that alone.
+
+526
+00:23:46,500 --> 00:23:48,600
+Another option is like carbon robotics
+
+527
+00:23:48,600 --> 00:23:52,023
+and their laser weeding technology again, cameras, AI,
+
+528
+00:23:52,860 --> 00:23:53,970
+you know, machine learning to
+
+529
+00:23:53,970 --> 00:23:56,400
+where they're finding the crops or finding the weeds,
+
+530
+00:23:56,400 --> 00:23:59,190
+aiming and shooting lasers at the weeds.
+
+531
+00:23:59,190 --> 00:24:01,710
+Literally it's like Star Wars out in the fields right now.
+
+532
+00:24:01,710 --> 00:24:03,540
+And it's actually pretty cool because, you know,
+
+533
+00:24:03,540 --> 00:24:05,970
+you think 10 years ago if a student wanted
+
+534
+00:24:05,970 --> 00:24:08,190
+to become a mechanic in agriculture
+
+535
+00:24:08,190 --> 00:24:09,930
+and they wanted to work on machinery,
+
+536
+00:24:09,930 --> 00:24:12,840
+they need to learn lasers and like, you know,
+
+537
+00:24:12,840 --> 00:24:14,790
+they're generating a lot of electricity
+
+538
+00:24:14,790 --> 00:24:16,530
+on that mobile piece of equipment.
+
+539
+00:24:16,530 --> 00:24:19,140
+And then the AI and camera and that kind of technology.
+
+540
+00:24:19,140 --> 00:24:23,190
+So the skills gap is, you know, gigantic, right?
+
+541
+00:24:23,190 --> 00:24:24,120
+And then we're getting into
+
+542
+00:24:24,120 --> 00:24:25,590
+the harvesting technology as well.
+
+543
+00:24:25,590 --> 00:24:26,730
+And it's different games.
+
+544
+00:24:26,730 --> 00:24:29,160
+You know, if you have leafy greens, they're low
+
+545
+00:24:29,160 --> 00:24:30,960
+to the ground crop and the way they harvest
+
+546
+00:24:30,960 --> 00:24:32,310
+them is pretty low to the ground.
+
+547
+00:24:32,310 --> 00:24:34,710
+But then we also grow a lot of berries in my community,
+
+548
+00:24:34,710 --> 00:24:37,530
+strawberries being our number one commodity in my county.
+
+549
+00:24:37,530 --> 00:24:42,210
+And that's very easy to damage the strawberry if you try
+
+550
+00:24:42,210 --> 00:24:44,670
+to harvest that, you know, automated.
+
+551
+00:24:44,670 --> 00:24:47,190
+So they're trying to come up with new technologies,
+
+552
+00:24:47,190 --> 00:24:49,770
+you know, Festo's working on different gripper technology
+
+553
+00:24:49,770 --> 00:24:51,180
+for robots and stuff like that
+
+554
+00:24:51,180 --> 00:24:53,070
+that would be used in strawberries.
+
+555
+00:24:53,070 --> 00:24:56,370
+So, and then we have, you know, all the greenhouse practices
+
+556
+00:24:56,370 --> 00:24:59,040
+as well becoming more automated vertical farming,
+
+557
+00:24:59,040 --> 00:25:03,660
+getting into automated transplanting, you know,
+
+558
+00:25:03,660 --> 00:25:05,340
+with a company Plant Tape
+
+559
+00:25:05,340 --> 00:25:07,080
+that does automated transplanting and stuff.
+
+560
+00:25:07,080 --> 00:25:10,800
+So that's, again, we're improving efficiencies anywhere
+
+561
+00:25:10,800 --> 00:25:13,350
+any other manufacturing company would.
+
+562
+00:25:13,350 --> 00:25:15,303
+It's just in the agriculture world.
+
+563
+00:25:16,920 --> 00:25:19,710
+- So let's shift from agriculture to the creative space,
+
+564
+00:25:19,710 --> 00:25:22,830
+Carol and some of the other industries you've worked
+
+565
+00:25:22,830 --> 00:25:25,773
+in since it's such a broad spectrum.
+
+566
+00:25:26,670 --> 00:25:30,970
+- Sure so, you know, I think we often say like,
+
+567
+00:25:30,970 --> 00:25:32,340
+AI is the new electricity
+
+568
+00:25:32,340 --> 00:25:36,660
+since it pervades every single industry.
+
+569
+00:25:36,660 --> 00:25:38,340
+You know, I think it will be quite disruptive
+
+570
+00:25:38,340 --> 00:25:42,870
+to the workforce and how we think about the future of work
+
+571
+00:25:42,870 --> 00:25:44,910
+in many different ways.
+
+572
+00:25:44,910 --> 00:25:47,160
+I'm starting to try to figure out how do you,
+
+573
+00:25:48,609 --> 00:25:50,340
+I feel like it's extremely hard
+
+574
+00:25:50,340 --> 00:25:53,430
+for like college graduates nowadays to find entry level jobs
+
+575
+00:25:53,430 --> 00:25:55,220
+and everyone is upskilling.
+
+576
+00:25:55,220 --> 00:25:58,110
+So you essentially need the skills of like a CEO
+
+577
+00:25:58,110 --> 00:26:00,090
+to be able to manage and tell AI what to do.
+
+578
+00:26:00,090 --> 00:26:02,640
+And once again, it's like having a thousand bad interns
+
+579
+00:26:02,640 --> 00:26:03,870
+that you have to keep checking their work
+
+580
+00:26:03,870 --> 00:26:05,910
+and like make sure what you said is
+
+581
+00:26:05,910 --> 00:26:07,080
+actually executed correctly.
+
+582
+00:26:07,080 --> 00:26:09,930
+So I think that that like critical thinking skill is
+
+583
+00:26:09,930 --> 00:26:14,930
+necessary and like very democratized
+
+584
+00:26:14,940 --> 00:26:17,880
+in the sense that like, I'm seeing like fifth graders
+
+585
+00:26:17,880 --> 00:26:20,680
+come up with projects that took grad students, you know,
+
+586
+00:26:21,690 --> 00:26:23,490
+like years to uncover.
+
+587
+00:26:23,490 --> 00:26:26,550
+So it's a weird shift in how quickly people can learn
+
+588
+00:26:26,550 --> 00:26:28,533
+and how asynchronous everything is.
+
+589
+00:26:30,420 --> 00:26:33,660
+But I think that I'm like, I'm extremely hopeful
+
+590
+00:26:33,660 --> 00:26:35,910
+for like new types of things coming out.
+
+591
+00:26:35,910 --> 00:26:39,150
+It's just gonna be happening so quickly.
+
+592
+00:26:39,150 --> 00:26:42,000
+So just trying to, I mean, I think it's a full-time job just
+
+593
+00:26:42,000 --> 00:26:44,817
+to like read the news about what is happening in robotics
+
+594
+00:26:44,817 --> 00:26:47,040
+and in automation at this point.
+
+595
+00:26:47,040 --> 00:26:49,110
+So, and I think I'm really interested
+
+596
+00:26:49,110 --> 00:26:53,100
+in the upskilling of people
+
+597
+00:26:53,100 --> 00:26:56,700
+and then also how to preserve like different values
+
+598
+00:26:56,700 --> 00:26:58,350
+and how do people interact together.
+
+599
+00:26:58,350 --> 00:27:02,250
+Like my work is in, you know, human computer interactions,
+
+600
+00:27:02,250 --> 00:27:04,890
+so how do we and robots coexist together
+
+601
+00:27:04,890 --> 00:27:07,683
+and how do we utilize each other's strengths?
+
+602
+00:27:09,330 --> 00:27:13,590
+And on the flip side, just human to human interaction
+
+603
+00:27:13,590 --> 00:27:16,860
+I think has the, is gonna be redefined.
+
+604
+00:27:16,860 --> 00:27:18,090
+So really looking at
+
+605
+00:27:18,090 --> 00:27:20,400
+how people interact with these machines.
+
+606
+00:27:20,400 --> 00:27:23,370
+So you don't always just have like ChatGPT answers.
+
+607
+00:27:23,370 --> 00:27:25,500
+And I think we're looking at like in the music industry,
+
+608
+00:27:25,500 --> 00:27:30,500
+authentication, artist rights, new types of performances.
+
+609
+00:27:32,310 --> 00:27:35,280
+So like things like ballerinas and robots dancing together
+
+610
+00:27:35,280 --> 00:27:36,573
+and new art forms.
+
+611
+00:27:37,761 --> 00:27:40,237
+You know, I think there's a lot of opportunity
+
+612
+00:27:40,237 --> 00:27:43,650
+for us to look for new ways
+
+613
+00:27:43,650 --> 00:27:48,150
+and like remove ourselves from the drudgery of tedious tasks
+
+614
+00:27:48,150 --> 00:27:49,530
+that you may not want to do.
+
+615
+00:27:49,530 --> 00:27:51,030
+But then I'm really trying to think about like
+
+616
+00:27:51,030 --> 00:27:55,560
+that core group of high school to college level kids
+
+617
+00:27:55,560 --> 00:27:58,290
+and how to upskill them quick enough in this new world,
+
+618
+00:27:58,290 --> 00:28:00,540
+so that they still find interesting jobs
+
+619
+00:28:00,540 --> 00:28:02,670
+or if it moves to like more of a gig economy.
+
+620
+00:28:02,670 --> 00:28:05,820
+So just open questions on that side at this point
+
+621
+00:28:05,820 --> 00:28:07,173
+as we go into exploration.
+
+622
+00:28:09,030 --> 00:28:12,270
+- So I think that is a good kind of juxtaposition
+
+623
+00:28:12,270 --> 00:28:14,730
+between a pretty focused field
+
+624
+00:28:14,730 --> 00:28:17,580
+and the state of kind of where we are
+
+625
+00:28:17,580 --> 00:28:19,320
+with respect to agriculture.
+
+626
+00:28:19,320 --> 00:28:23,760
+I like the way Carol, you framed the ideas related to
+
+627
+00:28:23,760 --> 00:28:28,680
+how the span of ages is changing,
+
+628
+00:28:28,680 --> 00:28:32,280
+how ready people are for taking on robotics
+
+629
+00:28:32,280 --> 00:28:35,790
+and automated industry type tasks
+
+630
+00:28:35,790 --> 00:28:40,710
+and actively being the architects of the solutions.
+
+631
+00:28:40,710 --> 00:28:43,380
+Maybe Roger, you can tell us a little bit about the current
+
+632
+00:28:43,380 --> 00:28:45,030
+state of certifications
+
+633
+00:28:45,030 --> 00:28:48,210
+and preparing people as we heard needs
+
+634
+00:28:48,210 --> 00:28:50,610
+to happen at a faster rate now.
+
+635
+00:28:50,610 --> 00:28:52,110
+And there's a mic in front of you as well.
+
+636
+00:28:52,110 --> 00:28:54,003
+- This one's not working.
+
+637
+00:28:58,650 --> 00:28:59,893
+- Alright, there you go.
+
+638
+00:29:01,600 --> 00:29:04,770
+- Yeah, just to build on what Richard
+
+639
+00:29:04,770 --> 00:29:06,810
+and Carol touched on from an education
+
+640
+00:29:06,810 --> 00:29:09,240
+and certification standpoint, you know,
+
+641
+00:29:09,240 --> 00:29:13,830
+just if we think about for our instructors,
+
+642
+00:29:13,830 --> 00:29:14,910
+whether it's at the high school
+
+643
+00:29:14,910 --> 00:29:17,580
+or community college level, you know, let's just kind
+
+644
+00:29:17,580 --> 00:29:20,910
+of think about, right one piece I'd add to that builds
+
+645
+00:29:20,910 --> 00:29:23,670
+onto Richard touched on food
+
+646
+00:29:23,670 --> 00:29:26,940
+and creating those salad bags and all that.
+
+647
+00:29:26,940 --> 00:29:31,740
+Well that gets put into a trailer that's refrigerated.
+
+648
+00:29:31,740 --> 00:29:35,460
+And a big big part of that is called Thermo King.
+
+649
+00:29:35,460 --> 00:29:38,670
+And but that could be pharmaceuticals, could be a lot
+
+650
+00:29:38,670 --> 00:29:40,410
+of things that it could leave California
+
+651
+00:29:40,410 --> 00:29:43,830
+and be expected be in Chicago
+
+652
+00:29:43,830 --> 00:29:46,920
+by less than 12 hours.
+
+653
+00:29:46,920 --> 00:29:50,340
+So historically that refrigerated unit
+
+654
+00:29:50,340 --> 00:29:52,170
+and that could be put on a railroad car.
+
+655
+00:29:52,170 --> 00:29:53,430
+You see the railroad cars,
+
+656
+00:29:53,430 --> 00:29:55,260
+next time you see railroad cars going by
+
+657
+00:29:55,260 --> 00:29:57,690
+and you have 80 of 'em, you gotta wait, just look at
+
+658
+00:29:57,690 --> 00:30:00,510
+how many of 'em actually have a refrigerated unit
+
+659
+00:30:00,510 --> 00:30:03,240
+on that rail car that's going by.
+
+660
+00:30:03,240 --> 00:30:06,120
+They're running, they've got refrigeration going,
+
+661
+00:30:06,120 --> 00:30:08,220
+they've got a auxiliary power unit,
+
+662
+00:30:08,220 --> 00:30:11,310
+typically a little small diesel engine in there running.
+
+663
+00:30:11,310 --> 00:30:12,930
+And historically they just ran
+
+664
+00:30:12,930 --> 00:30:15,510
+and they hoped by the time it got to its destination
+
+665
+00:30:15,510 --> 00:30:16,680
+and everything was good, right?
+
+666
+00:30:16,680 --> 00:30:19,170
+It was supposed to be a 38 degrees,
+
+667
+00:30:19,170 --> 00:30:20,820
+leaves California, gets to Chicago,
+
+668
+00:30:20,820 --> 00:30:22,290
+hopefully it's at 38 degrees.
+
+669
+00:30:22,290 --> 00:30:25,650
+Now, there was a lot of loss in food and food product
+
+670
+00:30:25,650 --> 00:30:30,230
+and other high value product up to about 2011, 2012.
+
+671
+00:30:31,860 --> 00:30:35,070
+Already today those units are already
+
+672
+00:30:35,070 --> 00:30:36,300
+connected to the cloud.
+
+673
+00:30:36,300 --> 00:30:40,410
+The AI is part of that infrastructure already.
+
+674
+00:30:40,410 --> 00:30:42,960
+So now today when that rail car
+
+675
+00:30:42,960 --> 00:30:45,120
+or that truck leaves California
+
+676
+00:30:45,120 --> 00:30:48,360
+and is going somewhere, it is literally being tracked
+
+677
+00:30:48,360 --> 00:30:50,910
+and followed every second all the way.
+
+678
+00:30:50,910 --> 00:30:54,720
+And if they see it go, it's supposed to be at 38 degrees
+
+679
+00:30:54,720 --> 00:30:57,390
+and it drops down to 37 in the middle of Kansas,
+
+680
+00:30:57,390 --> 00:31:01,080
+well it might be just ambient temperature that's adjusting
+
+681
+00:31:01,080 --> 00:31:02,970
+and they'll pay attention to it.
+
+682
+00:31:02,970 --> 00:31:06,240
+But if it goes up to 44 degrees,
+
+683
+00:31:06,240 --> 00:31:08,310
+they're gonna be pulling that rail car off.
+
+684
+00:31:08,310 --> 00:31:10,590
+They've already used AI to look at the data
+
+685
+00:31:10,590 --> 00:31:12,420
+to see what's happening on it.
+
+686
+00:31:12,420 --> 00:31:15,450
+They will pull that rail car off in St. Louis
+
+687
+00:31:15,450 --> 00:31:17,520
+or wherever it be, they'll have a technician on that
+
+688
+00:31:17,520 --> 00:31:20,640
+working on that, protect that material and get that going.
+
+689
+00:31:20,640 --> 00:31:25,020
+So to teach all that, all those certifications,
+
+690
+00:31:25,020 --> 00:31:28,770
+that's again, as I mentioned earlier, comes through you all,
+
+691
+00:31:28,770 --> 00:31:30,030
+through the community colleges.
+
+692
+00:31:30,030 --> 00:31:32,790
+So one of the things that NC3 is,
+
+693
+00:31:32,790 --> 00:31:34,650
+and Richard can touch on this
+
+694
+00:31:34,650 --> 00:31:37,200
+and Mike will be going through this very soon,
+
+695
+00:31:37,200 --> 00:31:39,000
+is our professional development.
+
+696
+00:31:39,000 --> 00:31:43,080
+Our goal is how do we help your instructors
+
+697
+00:31:43,080 --> 00:31:44,847
+learn this technology, go through it,
+
+698
+00:31:44,847 --> 00:31:48,750
+and how do we help you come up to 80, 85%
+
+699
+00:31:48,750 --> 00:31:50,820
+of what current technology is?
+
+700
+00:31:50,820 --> 00:31:52,920
+We connect you directly to the industry,
+
+701
+00:31:52,920 --> 00:31:55,080
+global industry partner on that.
+
+702
+00:31:55,080 --> 00:31:57,660
+And then we sustain that by update training,
+
+703
+00:31:57,660 --> 00:32:01,140
+constant contact communications on that,
+
+704
+00:32:01,140 --> 00:32:02,880
+and then doing professional development.
+
+705
+00:32:02,880 --> 00:32:06,270
+And I could go on and on, but if we think about welding
+
+706
+00:32:06,270 --> 00:32:09,810
+and you touched on the medical industry.
+
+707
+00:32:09,810 --> 00:32:13,020
+So welders today that are welding in that product
+
+708
+00:32:13,020 --> 00:32:16,533
+that's going into the hospital medical industry,
+
+709
+00:32:17,760 --> 00:32:20,310
+there's basically a birth certificate for every piece
+
+710
+00:32:20,310 --> 00:32:21,480
+of equipment that's going in there.
+
+711
+00:32:21,480 --> 00:32:25,200
+It's being who welded it, what it was put together.
+
+712
+00:32:25,200 --> 00:32:27,690
+All that is already utilizing AI
+
+713
+00:32:27,690 --> 00:32:30,240
+in that engineering tracking process.
+
+714
+00:32:30,240 --> 00:32:32,820
+So the welders today coming out of you,
+
+715
+00:32:32,820 --> 00:32:35,220
+if you have a welding program,
+
+716
+00:32:35,220 --> 00:32:39,570
+welders today in the industry already are utilizing AI
+
+717
+00:32:39,570 --> 00:32:42,930
+in their preparation, their planning, their layouts,
+
+718
+00:32:42,930 --> 00:32:45,840
+the equipment that they're using is attached.
+
+719
+00:32:45,840 --> 00:32:48,930
+All those things are all been becoming normalized.
+
+720
+00:32:48,930 --> 00:32:50,880
+And it's a great thing.
+
+721
+00:32:50,880 --> 00:32:52,800
+But the important part is
+
+722
+00:32:52,800 --> 00:32:55,530
+for you at these institutions,
+
+723
+00:32:55,530 --> 00:32:57,780
+it's a huge opportunity
+
+724
+00:32:57,780 --> 00:33:00,810
+because students come through your programs
+
+725
+00:33:00,810 --> 00:33:02,310
+and get those skill sets.
+
+726
+00:33:02,310 --> 00:33:06,300
+The companies that also want to upskill their workers
+
+727
+00:33:06,300 --> 00:33:09,180
+or higher in other people, they, you know, just
+
+728
+00:33:09,180 --> 00:33:12,750
+as Richard touched, there's a lot of short term training
+
+729
+00:33:12,750 --> 00:33:16,110
+that is coming back that generates revenue.
+
+730
+00:33:16,110 --> 00:33:19,710
+Four year programs, I was just in DC
+
+731
+00:33:19,710 --> 00:33:21,570
+and I visited with a gentleman
+
+732
+00:33:21,570 --> 00:33:25,800
+from Green County Career Center in Ohio
+
+733
+00:33:25,800 --> 00:33:30,800
+that said he had something like 150 current employees,
+
+734
+00:33:30,930 --> 00:33:32,280
+incumbent workers that came
+
+735
+00:33:32,280 --> 00:33:34,590
+during the summer back to his program to go
+
+736
+00:33:34,590 --> 00:33:37,950
+through some welding certifications, some QA,
+
+737
+00:33:37,950 --> 00:33:40,017
+some precision measurement certifications
+
+738
+00:33:40,017 --> 00:33:43,800
+and that drove that revenue but also got those businesses
+
+739
+00:33:43,800 --> 00:33:46,620
+and industries better connected to the school
+
+740
+00:33:46,620 --> 00:33:48,300
+in that pipeline piece.
+
+741
+00:33:48,300 --> 00:33:53,300
+So those are things that we're doing now already
+
+742
+00:33:53,850 --> 00:33:55,900
+across the country and communities
+
+743
+00:33:56,788 --> 00:33:58,170
+and quite frankly, we're doing quite a bit already
+
+744
+00:33:58,170 --> 00:34:01,470
+in California, but we've got a lot more work to do.
+
+745
+00:34:01,470 --> 00:34:03,180
+And I'll touch on that in a little bit on
+
+746
+00:34:03,180 --> 00:34:04,880
+where we want to continue to grow.
+
+747
+00:34:07,590 --> 00:34:10,170
+- I'm just gonna touch in a little bit on
+
+748
+00:34:10,170 --> 00:34:12,150
+where the AI comes into our program
+
+749
+00:34:12,150 --> 00:34:14,280
+and already has a little bit with the future.
+
+750
+00:34:14,280 --> 00:34:15,960
+I think what you've seen is agriculture.
+
+751
+00:34:15,960 --> 00:34:18,870
+So you've seen hundreds of acres, we've seen welding,
+
+752
+00:34:18,870 --> 00:34:20,820
+hundreds of cars.
+
+753
+00:34:20,820 --> 00:34:22,200
+it's large quantities.
+
+754
+00:34:22,200 --> 00:34:23,580
+I think the key to the Bay area
+
+755
+00:34:23,580 --> 00:34:25,620
+to be successful is we have close to two,
+
+756
+00:34:25,620 --> 00:34:29,520
+I send out 200 to 300 cards every quarter
+
+757
+00:34:29,520 --> 00:34:33,660
+to smaller businesses that have 10 to 40 employees.
+
+758
+00:34:33,660 --> 00:34:36,330
+How do you get them to use automation?
+
+759
+00:34:36,330 --> 00:34:37,980
+It is very successful.
+
+760
+00:34:37,980 --> 00:34:41,148
+So there's a big company that's working
+
+761
+00:34:41,148 --> 00:34:43,110
+with a smaller company
+
+762
+00:34:43,110 --> 00:34:44,700
+but with the object with smaller companies.
+
+763
+00:34:44,700 --> 00:34:47,010
+What we're trying to work with them is they're not making
+
+764
+00:34:47,010 --> 00:34:49,320
+thousands, they're making 20, 30, 40.
+
+765
+00:34:49,320 --> 00:34:52,020
+So anytime you're working anything in automation
+
+766
+00:34:52,020 --> 00:34:54,840
+and you need to change speeds, a human has to change
+
+767
+00:34:54,840 --> 00:34:56,670
+grippers or grippers have to change.
+
+768
+00:34:56,670 --> 00:34:59,250
+All these things have to change that require a person
+
+769
+00:34:59,250 --> 00:35:01,050
+where the automation we're trying to work on
+
+770
+00:35:01,050 --> 00:35:03,930
+with a company is pick and place type stuff for,
+
+771
+00:35:03,930 --> 00:35:05,250
+and they're subcontractors
+
+772
+00:35:05,250 --> 00:35:07,170
+for the lambs, for everybody else.
+
+773
+00:35:07,170 --> 00:35:08,940
+What we're working on with the company
+
+774
+00:35:08,940 --> 00:35:12,210
+and trying to do with the college is the machine
+
+775
+00:35:12,210 --> 00:35:15,240
+can actually, as you go home, we could run that part
+
+776
+00:35:15,240 --> 00:35:17,790
+of 20, 10, 15, 30,
+
+777
+00:35:17,790 --> 00:35:20,130
+and this machine's capable of changing the grippers,
+
+778
+00:35:20,130 --> 00:35:22,740
+doing all the work through AI commands overnight
+
+779
+00:35:22,740 --> 00:35:25,650
+to do a series of parts, 10 at a time, 20 at a time
+
+780
+00:35:25,650 --> 00:35:27,240
+'cause I'll admit being a small business owner
+
+781
+00:35:27,240 --> 00:35:29,400
+for many years, I wouldn't have thought of automation
+
+782
+00:35:29,400 --> 00:35:32,910
+to make 10 parts or 20 parts or whatever.
+
+783
+00:35:32,910 --> 00:35:34,470
+But take that one more step.
+
+784
+00:35:34,470 --> 00:35:37,890
+I have a student that bought two machines, has automation in
+
+785
+00:35:37,890 --> 00:35:40,230
+between these machines, runs it by himself
+
+786
+00:35:40,230 --> 00:35:42,960
+and runs 40 different parts on a weekend.
+
+787
+00:35:42,960 --> 00:35:44,040
+And this thing's smart enough
+
+788
+00:35:44,040 --> 00:35:45,060
+to pick up the different shapes
+
+789
+00:35:45,060 --> 00:35:47,580
+and do stuff while he's not there.
+
+790
+00:35:47,580 --> 00:35:50,040
+So our goal in automation is not so much the hundreds,
+
+791
+00:35:50,040 --> 00:35:52,050
+thousands, millions, it's that we would like
+
+792
+00:35:52,050 --> 00:35:54,330
+to get it to all of the small communities
+
+793
+00:35:54,330 --> 00:35:55,680
+and the big communities, don't get me wrong, we've worked
+
+794
+00:35:55,680 --> 00:35:57,210
+with Tesla, we've worked with other ones,
+
+795
+00:35:57,210 --> 00:36:00,510
+but I think you'd be amazed if you focused in on
+
+796
+00:36:00,510 --> 00:36:04,380
+how many small businesses support the big ones that need
+
+797
+00:36:04,380 --> 00:36:06,930
+to be automated too, because of a skills gap.
+
+798
+00:36:06,930 --> 00:36:08,993
+And that's our big problem is the skills gap.
+
+799
+00:36:11,340 --> 00:36:12,213
+- Thanks Mike.
+
+800
+00:36:15,450 --> 00:36:20,450
+So we wanted to talk a little bit about the workforce itself
+
+801
+00:36:21,060 --> 00:36:25,710
+and how we can create a more diverse workforce in our
+
+802
+00:36:25,710 --> 00:36:29,160
+role here in the California community colleges 2.1 million
+
+803
+00:36:29,160 --> 00:36:33,000
+students and it's one of the most diverse educational
+
+804
+00:36:33,000 --> 00:36:34,800
+environments in the country, right?
+
+805
+00:36:34,800 --> 00:36:38,040
+And so as we are looking at opportunities
+
+806
+00:36:38,040 --> 00:36:41,190
+to get into robotics and automation,
+
+807
+00:36:41,190 --> 00:36:43,230
+how do we create entryways?
+
+808
+00:36:43,230 --> 00:36:45,210
+Again, it may be at the fifth grade level
+
+809
+00:36:45,210 --> 00:36:47,040
+as Carol suggested earlier,
+
+810
+00:36:47,040 --> 00:36:50,197
+but even within our own student body, when a student says,
+
+811
+00:36:50,197 --> 00:36:51,990
+"I don't quite know what I wanna major in,
+
+812
+00:36:51,990 --> 00:36:54,210
+or I don't quite know what I want to do,"
+
+813
+00:36:54,210 --> 00:36:55,800
+like how do we reach those students
+
+814
+00:36:55,800 --> 00:36:58,890
+and how do we make sure that we're making opportunities
+
+815
+00:36:58,890 --> 00:37:01,890
+available to all the communities, even those
+
+816
+00:37:01,890 --> 00:37:05,880
+that might be not normally represented.
+
+817
+00:37:05,880 --> 00:37:10,470
+So I'm gonna start maybe with you again, Mike,
+
+818
+00:37:10,470 --> 00:37:12,060
+and we'll work our way back the other way.
+
+819
+00:37:12,060 --> 00:37:12,893
+- Sure.
+
+820
+00:37:14,880 --> 00:37:16,950
+The obvious one is, as you mentioned,
+
+821
+00:37:16,950 --> 00:37:19,463
+is working with the high schools and dual enrollment.
+
+822
+00:37:20,340 --> 00:37:22,050
+We're fortunate enough where the dual enrollment comes
+
+823
+00:37:22,050 --> 00:37:25,170
+to our college to work with our equipment.
+
+824
+00:37:25,170 --> 00:37:26,460
+It's quite obvious in the Bay area
+
+825
+00:37:26,460 --> 00:37:28,500
+that no high school has the amount of equipment
+
+826
+00:37:28,500 --> 00:37:31,050
+that we have at the community college to work with.
+
+827
+00:37:31,050 --> 00:37:32,070
+That's a big one.
+
+828
+00:37:32,070 --> 00:37:35,040
+Our NSFATE grant that I talked about
+
+829
+00:37:35,040 --> 00:37:37,623
+focused directly on this problem right here.
+
+830
+00:37:38,490 --> 00:37:42,780
+It's not a surprise that in some of these industries
+
+831
+00:37:42,780 --> 00:37:45,450
+needs a lot more female employees
+
+832
+00:37:45,450 --> 00:37:47,250
+that that's a surprise.
+
+833
+00:37:47,250 --> 00:37:49,290
+So we worked with veterans,
+
+834
+00:37:49,290 --> 00:37:51,720
+different individuals was the focus of our grant
+
+835
+00:37:51,720 --> 00:37:53,340
+of bringing underrepresented individuals
+
+836
+00:37:53,340 --> 00:37:56,430
+in through various stations.
+
+837
+00:37:56,430 --> 00:37:58,980
+Mark sitting over here, we're doing a program now where
+
+838
+00:37:58,980 --> 00:38:01,350
+through the Department of Rehabilitation that,
+
+839
+00:38:01,350 --> 00:38:04,440
+it's called UAA, I'm working for 12 weeks with,
+
+840
+00:38:04,440 --> 00:38:07,050
+you talk about underrepresented programs with
+
+841
+00:38:07,050 --> 00:38:09,090
+high functioning adults with autism,
+
+842
+00:38:09,090 --> 00:38:10,320
+trying to work in a program.
+
+843
+00:38:10,320 --> 00:38:13,380
+Now they're graduating to get them to have them jobs.
+
+844
+00:38:13,380 --> 00:38:15,780
+Now the unique thing is other part of the countries
+
+845
+00:38:15,780 --> 00:38:17,013
+with this same program,
+
+846
+00:38:17,850 --> 00:38:19,890
+there's an automation program coming up in part
+
+847
+00:38:19,890 --> 00:38:22,110
+of the program to get these same individuals in.
+
+848
+00:38:22,110 --> 00:38:24,210
+So we're representing everybody,
+
+849
+00:38:24,210 --> 00:38:27,960
+but quite obviously our goal at DeAnza is, you know,
+
+850
+00:38:27,960 --> 00:38:29,310
+bringing the various diversified,
+
+851
+00:38:29,310 --> 00:38:33,840
+underrepresented populations into these great paying jobs
+
+852
+00:38:33,840 --> 00:38:37,470
+that they can be successful, obtain a degree,
+
+853
+00:38:37,470 --> 00:38:39,390
+and if they'd like, we have a plan
+
+854
+00:38:39,390 --> 00:38:40,860
+for a four year degree too.
+
+855
+00:38:40,860 --> 00:38:43,010
+So we kind of have something for everybody.
+
+856
+00:38:45,450 --> 00:38:47,970
+- Yep, I touched on this
+
+857
+00:38:47,970 --> 00:38:51,570
+and this is super important, you know, the diversity
+
+858
+00:38:51,570 --> 00:38:54,030
+and how do we really, you know,
+
+859
+00:38:54,030 --> 00:38:56,340
+move from just a PowerPoint slide
+
+860
+00:38:56,340 --> 00:38:57,570
+and really put it in action.
+
+861
+00:38:57,570 --> 00:39:00,390
+So some of the things that NC3 is doing is,
+
+862
+00:39:00,390 --> 00:39:04,440
+I'll start with this we work with schools to how do we help
+
+863
+00:39:04,440 --> 00:39:07,260
+a community college or a high school program
+
+864
+00:39:07,260 --> 00:39:09,990
+become a destination, a choice,
+
+865
+00:39:09,990 --> 00:39:12,660
+that where the students want to be there, they would look at
+
+866
+00:39:12,660 --> 00:39:16,440
+that welding program, mechatronics program, ag program,
+
+867
+00:39:16,440 --> 00:39:18,990
+plumbing program, electricity program, whatever it is,
+
+868
+00:39:18,990 --> 00:39:21,660
+and they go, "Wow, I want to be part of that."
+
+869
+00:39:21,660 --> 00:39:23,250
+Now the harsh reality is,
+
+870
+00:39:23,250 --> 00:39:25,740
+is I will tell you I spend probably 20%
+
+871
+00:39:25,740 --> 00:39:28,050
+of my time in any given month
+
+872
+00:39:28,050 --> 00:39:30,360
+walking into whether it's a college program
+
+873
+00:39:30,360 --> 00:39:32,130
+or high school programs,
+
+874
+00:39:32,130 --> 00:39:33,783
+and sometimes I say, wow,
+
+875
+00:39:35,040 --> 00:39:37,980
+really you haven't done anything in this program in the last
+
+876
+00:39:37,980 --> 00:39:41,460
+40 years as it looks like that.
+
+877
+00:39:41,460 --> 00:39:43,110
+Sometimes I walk in the programs
+
+878
+00:39:43,110 --> 00:39:46,080
+and I use the slogan, I've gotta have a flashlight
+
+879
+00:39:46,080 --> 00:39:47,880
+to see what's going on while the lights are
+
+880
+00:39:47,880 --> 00:39:49,860
+still on in the place.
+
+881
+00:39:49,860 --> 00:39:51,330
+Okay so that starts with leadership.
+
+882
+00:39:51,330 --> 00:39:53,340
+We just have to be honest in our communities
+
+883
+00:39:53,340 --> 00:39:57,480
+because when we walk in or industry walks in
+
+884
+00:39:57,480 --> 00:40:01,680
+and they go, "Wow, you are all 20 or 30 years behind,"
+
+885
+00:40:01,680 --> 00:40:02,550
+they're gonna nod their head,
+
+886
+00:40:02,550 --> 00:40:04,890
+they'll come to the advisory committee meeting,
+
+887
+00:40:04,890 --> 00:40:07,620
+but they're gonna leave and they're gonna try
+
+888
+00:40:07,620 --> 00:40:09,930
+and figure out a different pathway.
+
+889
+00:40:09,930 --> 00:40:11,730
+And you see it in the newspapers, you see it
+
+890
+00:40:11,730 --> 00:40:12,750
+where companies are saying,
+
+891
+00:40:12,750 --> 00:40:15,810
+well, we're gonna start our own training programs.
+
+892
+00:40:15,810 --> 00:40:17,520
+There's a reason behind that.
+
+893
+00:40:17,520 --> 00:40:19,350
+And what we've gotta all do is,
+
+894
+00:40:19,350 --> 00:40:22,710
+is make sure if we're gonna help students
+
+895
+00:40:22,710 --> 00:40:24,570
+and create a destiny choice,
+
+896
+00:40:24,570 --> 00:40:27,660
+especially the single parent student,
+
+897
+00:40:27,660 --> 00:40:31,290
+the student that's living with a grandparent or an aunt
+
+898
+00:40:31,290 --> 00:40:36,290
+or an uncle and they don't know even how to get to you.
+
+899
+00:40:37,680 --> 00:40:40,207
+And when they do get there, they go,
+
+900
+00:40:40,207 --> 00:40:42,210
+"Boy, this is not what I'm looking at."
+
+901
+00:40:42,210 --> 00:40:44,610
+And they're not, it doesn't look like technology
+
+902
+00:40:44,610 --> 00:40:46,830
+and it's maybe not even clean.
+
+903
+00:40:46,830 --> 00:40:50,400
+And so we're working on those things along with,
+
+904
+00:40:50,400 --> 00:40:54,150
+at the same time, we spend some time on a thing
+
+905
+00:40:54,150 --> 00:40:56,190
+we call National Signing Day
+
+906
+00:40:56,190 --> 00:41:00,210
+that when students come to Hartnell from a high school
+
+907
+00:41:00,210 --> 00:41:03,810
+on a trip and come and see what's happening there
+
+908
+00:41:03,810 --> 00:41:05,640
+and we create those environments
+
+909
+00:41:05,640 --> 00:41:08,250
+to where they come back just like collegiate, you know,
+
+910
+00:41:08,250 --> 00:41:10,080
+I live in Oklahoma actually,
+
+911
+00:41:10,080 --> 00:41:12,720
+and you know, we steal some football players
+
+912
+00:41:12,720 --> 00:41:14,370
+from Texas and Kansas, right?
+
+913
+00:41:14,370 --> 00:41:16,140
+And you have these big signing days.
+
+914
+00:41:16,140 --> 00:41:19,200
+Well, why don't we recognize students that are choosing
+
+915
+00:41:19,200 --> 00:41:20,970
+to go into healthcare
+
+916
+00:41:20,970 --> 00:41:23,520
+or going into plumbing, these other areas.
+
+917
+00:41:23,520 --> 00:41:25,647
+So we do that to create that.
+
+918
+00:41:25,647 --> 00:41:28,410
+and for young women, minorities,
+
+919
+00:41:28,410 --> 00:41:30,300
+people that don't think that they've ever gonna
+
+920
+00:41:30,300 --> 00:41:33,780
+have a chance, we do a lot of those areas as well
+
+921
+00:41:33,780 --> 00:41:35,250
+and engage the parents
+
+922
+00:41:35,250 --> 00:41:37,740
+and bring our industry partners in there, help drive that.
+
+923
+00:41:37,740 --> 00:41:41,430
+But also spending time with that math and science teachers
+
+924
+00:41:41,430 --> 00:41:43,800
+and counselors to help them know.
+
+925
+00:41:43,800 --> 00:41:48,180
+And because this is also part of the employability skills,
+
+926
+00:41:48,180 --> 00:41:50,610
+so that when we help young people come in
+
+927
+00:41:50,610 --> 00:41:53,550
+and they go, "Wow, I want to be there,"
+
+928
+00:41:53,550 --> 00:41:55,230
+well then that automatically gets them
+
+929
+00:41:55,230 --> 00:41:56,610
+going to show up on time.
+
+930
+00:41:56,610 --> 00:41:57,750
+They wanna be part of that.
+
+931
+00:41:57,750 --> 00:42:00,897
+They are engaged and the instructor
+
+932
+00:42:00,897 --> 00:42:04,440
+and the institutions become a place of inspiration
+
+933
+00:42:04,440 --> 00:42:07,680
+that all ends up in industry, industry gets engaged
+
+934
+00:42:07,680 --> 00:42:09,693
+and it becomes contagious in a good way.
+
+935
+00:42:11,099 --> 00:42:12,810
+And that's what is a big part of helping us grow
+
+936
+00:42:12,810 --> 00:42:15,420
+and drive what we do at NC3,
+
+937
+00:42:15,420 --> 00:42:17,703
+since our inception back in 2010.
+
+938
+00:42:19,320 --> 00:42:20,153
+- They're passing off.
+
+939
+00:42:20,153 --> 00:42:21,510
+I want to add one thing.
+
+940
+00:42:22,830 --> 00:42:24,750
+I really forgot the most important part
+
+941
+00:42:24,750 --> 00:42:27,690
+is having a diverse faculty okay.
+
+942
+00:42:27,690 --> 00:42:31,110
+I have instructors that can teach three languages, Spanish,
+
+943
+00:42:31,110 --> 00:42:34,710
+Vietnamese, and we in our manufacturing program, which is,
+
+944
+00:42:34,710 --> 00:42:36,960
+you know, machining everything,
+
+945
+00:42:36,960 --> 00:42:38,550
+we brought a female instructor in.
+
+946
+00:42:38,550 --> 00:42:42,120
+So I think it's key that the instructional part
+
+947
+00:42:42,120 --> 00:42:47,010
+of your program also represents a diverse area.
+
+948
+00:42:47,010 --> 00:42:49,530
+And that will bring in, it'll give it,
+
+949
+00:42:49,530 --> 00:42:52,339
+we need a more inclusive program through feeling people
+
+950
+00:42:52,339 --> 00:42:54,810
+and what we're delivering and who's delivering it
+
+951
+00:42:54,810 --> 00:42:56,220
+and what we represent.
+
+952
+00:42:56,220 --> 00:42:57,543
+That's the one I forgot.
+
+953
+00:43:01,227 --> 00:43:05,880
+- Yeah, I mean I agree and I think it's a hard pipeline
+
+954
+00:43:05,880 --> 00:43:06,978
+problem, right?
+
+955
+00:43:06,978 --> 00:43:08,850
+'cause I think we're seeing like the faculty
+
+956
+00:43:08,850 --> 00:43:11,070
+or people who were educated 20 plus years ago.
+
+957
+00:43:11,070 --> 00:43:13,420
+So those are like things that we're catching up on.
+
+958
+00:43:13,420 --> 00:43:16,050
+And I do, I think there's a great book from like
+
+959
+00:43:16,050 --> 00:43:17,580
+the nineties "Unlocking the Clubhouse,"
+
+960
+00:43:17,580 --> 00:43:20,250
+which really talks about women
+
+961
+00:43:20,250 --> 00:43:21,933
+in the computer science field.
+
+962
+00:43:22,830 --> 00:43:25,263
+You know, there's a professor at MIT Media Lab,
+
+963
+00:43:26,280 --> 00:43:28,800
+Mitch Resnick, who teaches the lifelong
+
+964
+00:43:28,800 --> 00:43:30,180
+kindergarten lab in scratch.
+
+965
+00:43:30,180 --> 00:43:31,833
+He developed scratch programming.
+
+966
+00:43:32,910 --> 00:43:36,510
+But he says like, vote the projects that you need
+
+967
+00:43:36,510 --> 00:43:39,900
+to think about building for the curriculum is really like
+
+968
+00:43:39,900 --> 00:43:42,510
+low floors, high ceilings, wide walls, right?
+
+969
+00:43:42,510 --> 00:43:45,300
+So you really want people to be able to join at any level
+
+970
+00:43:45,300 --> 00:43:48,090
+and then be able to scale up as far as they can.
+
+971
+00:43:48,090 --> 00:43:50,370
+And then also have a wide variety of projects.
+
+972
+00:43:50,370 --> 00:43:52,410
+So like one of my most influential classes
+
+973
+00:43:52,410 --> 00:43:54,240
+was motor sensors and actuators.
+
+974
+00:43:54,240 --> 00:43:57,990
+And it was a, we had to build a robot that created art,
+
+975
+00:43:57,990 --> 00:43:59,100
+that had human input.
+
+976
+00:43:59,100 --> 00:44:00,564
+So you could scream into it
+
+977
+00:44:00,564 --> 00:44:01,890
+and it could spray paint, it could be whatever you wanted.
+
+978
+00:44:01,890 --> 00:44:05,130
+And you work with groups and you know,
+
+979
+00:44:05,130 --> 00:44:07,980
+I think there's something about non-competitive classes
+
+980
+00:44:07,980 --> 00:44:09,450
+because I think first robotics is great
+
+981
+00:44:09,450 --> 00:44:10,620
+for turning it into a sport
+
+982
+00:44:10,620 --> 00:44:12,300
+and that appeals to like,
+
+983
+00:44:12,300 --> 00:44:14,130
+it's completely changed like this young
+
+984
+00:44:14,130 --> 00:44:16,080
+generation of roboticists.
+
+985
+00:44:16,080 --> 00:44:19,110
+But the on the other hand, it like has a different branding
+
+986
+00:44:19,110 --> 00:44:22,803
+and it deters like certain type of person.
+
+987
+00:44:24,330 --> 00:44:26,970
+So like Julia Robinson Math Festival is fantastic
+
+988
+00:44:26,970 --> 00:44:29,190
+to get like people into math.
+
+989
+00:44:29,190 --> 00:44:31,470
+It's non-competitive, like 10 grams essentially problem
+
+990
+00:44:31,470 --> 00:44:33,880
+solving at Hopkins
+
+991
+00:44:35,430 --> 00:44:37,740
+because it's healthcare related.
+
+992
+00:44:37,740 --> 00:44:39,090
+You know, I think a lot of it's marketing, right?
+
+993
+00:44:39,090 --> 00:44:41,220
+So like the biomedical program
+
+994
+00:44:41,220 --> 00:44:43,410
+and computer science now has over 50% women
+
+995
+00:44:43,410 --> 00:44:46,380
+'cause I think, you know, it's this desire
+
+996
+00:44:46,380 --> 00:44:48,930
+to like wanna help or mission driven people.
+
+997
+00:44:48,930 --> 00:44:50,010
+I think it's not just women,
+
+998
+00:44:50,010 --> 00:44:51,210
+but just a certain type of person
+
+999
+00:44:51,210 --> 00:44:52,830
+who wants to be mission driven.
+
+1000
+00:44:52,830 --> 00:44:55,860
+Berkeley changed their coding class name to the art
+
+1001
+00:44:55,860 --> 00:44:57,450
+and beauty of coding and it became,
+
+1002
+00:44:57,450 --> 00:44:59,840
+it instantly like popped up 20% you know?
+
+1003
+00:44:59,840 --> 00:45:01,140
+So I feel like there's this,
+
+1004
+00:45:01,140 --> 00:45:03,660
+the way you pose your curriculum
+
+1005
+00:45:03,660 --> 00:45:08,010
+and the title affects the students who choose to enroll
+
+1006
+00:45:08,010 --> 00:45:09,810
+and that has like a network effect.
+
+1007
+00:45:09,810 --> 00:45:13,170
+I think it's great to have a diversity of faculty,
+
+1008
+00:45:13,170 --> 00:45:16,650
+whether it be gender, racial, introverts versus extroverts.
+
+1009
+00:45:16,650 --> 00:45:19,470
+It's just someone that students can connect with
+
+1010
+00:45:19,470 --> 00:45:21,750
+that like, they feel included.
+
+1011
+00:45:21,750 --> 00:45:24,540
+And I think there also needs to be an intellectual peer.
+
+1012
+00:45:24,540 --> 00:45:26,580
+So someone, if someone's taking a class,
+
+1013
+00:45:26,580 --> 00:45:28,320
+I think they're more willing to with a partner.
+
+1014
+00:45:28,320 --> 00:45:30,870
+So I think those are just some of the things.
+
+1015
+00:45:30,870 --> 00:45:32,310
+It doesn't have to be someone that looks like you,
+
+1016
+00:45:32,310 --> 00:45:34,443
+but just that you need someone along.
+
+1017
+00:45:38,310 --> 00:45:40,740
+- Yeah, I don't think I have a whole lot more to add
+
+1018
+00:45:40,740 --> 00:45:41,670
+that's already been said.
+
+1019
+00:45:41,670 --> 00:45:43,770
+I think a lot of the work for,
+
+1020
+00:45:43,770 --> 00:45:45,390
+you know, for me to be able
+
+1021
+00:45:45,390 --> 00:45:48,240
+to train a diverse workforce is starts in the high schools
+
+1022
+00:45:48,240 --> 00:45:49,540
+or possibly middle school.
+
+1023
+00:45:50,850 --> 00:45:53,280
+You know, we have some local high schools that
+
+1024
+00:45:53,280 --> 00:45:55,320
+maybe have like an engineering pathway,
+
+1025
+00:45:55,320 --> 00:45:57,870
+but the companies in our community, they might have like 10
+
+1026
+00:45:57,870 --> 00:46:00,030
+to one technicians to engineers.
+
+1027
+00:46:00,030 --> 00:46:01,950
+So if you're trying to look at the, you know,
+
+1028
+00:46:01,950 --> 00:46:05,280
+filling the jobs, they're not gonna be filling a lot
+
+1029
+00:46:05,280 --> 00:46:06,870
+of engineered jobs, but they will be filling
+
+1030
+00:46:06,870 --> 00:46:08,010
+a lot of technician jobs.
+
+1031
+00:46:08,010 --> 00:46:10,470
+So maybe the high schools need to take a better look.
+
+1032
+00:46:10,470 --> 00:46:12,630
+And I don't wanna talk down on all the high schools
+
+1033
+00:46:12,630 --> 00:46:15,780
+and stuff, but I, you know, I taught high school
+
+1034
+00:46:15,780 --> 00:46:18,660
+for eight years, so I have an idea of what goes on there.
+
+1035
+00:46:18,660 --> 00:46:19,950
+You know, I get a lot of students
+
+1036
+00:46:19,950 --> 00:46:21,900
+that come in outta high school
+
+1037
+00:46:21,900 --> 00:46:23,910
+and they just dislike math.
+
+1038
+00:46:23,910 --> 00:46:25,590
+It's like, well the whole world runs on math,
+
+1039
+00:46:25,590 --> 00:46:27,210
+especially in this field, right?
+
+1040
+00:46:27,210 --> 00:46:29,790
+So, you know, maybe if they could find more creative ways
+
+1041
+00:46:29,790 --> 00:46:32,460
+to teach math and physics to their students, that'd be cool.
+
+1042
+00:46:32,460 --> 00:46:36,570
+I think actually the mechatronics training could even,
+
+1043
+00:46:36,570 --> 00:46:39,480
+you know, find a way to replace their math in physics class.
+
+1044
+00:46:39,480 --> 00:46:41,220
+You know, whatever work has to go in there,
+
+1045
+00:46:41,220 --> 00:46:42,810
+but that's what I'm teaching 'em is
+
+1046
+00:46:42,810 --> 00:46:44,410
+math and physics and everything.
+
+1047
+00:46:45,810 --> 00:46:47,610
+So yeah, I mean, that's a great question.
+
+1048
+00:46:47,610 --> 00:46:48,930
+You know, Hartnell does a lot of work.
+
+1049
+00:46:48,930 --> 00:46:51,300
+We're a Hispanic serving institution,
+
+1050
+00:46:51,300 --> 00:46:55,222
+and we get a lot of, you know, immigrant students that,
+
+1051
+00:46:55,222 --> 00:46:56,580
+you know, are not strong in English language.
+
+1052
+00:46:56,580 --> 00:46:58,080
+So finding ways to support those students,
+
+1053
+00:46:58,080 --> 00:46:59,940
+obviously I'm sure everybody in here has been
+
+1054
+00:46:59,940 --> 00:47:01,080
+working on that as well.
+
+1055
+00:47:01,080 --> 00:47:03,750
+So, you know, that's no different for us.
+
+1056
+00:47:03,750 --> 00:47:05,250
+But I would like
+
+1057
+00:47:05,250 --> 00:47:07,065
+to see the high schools do a little different,
+
+1058
+00:47:07,065 --> 00:47:08,880
+I think the awareness piece, you know,
+
+1059
+00:47:08,880 --> 00:47:10,380
+if we get students that don't know
+
+1060
+00:47:10,380 --> 00:47:15,240
+that mechatronics is a career path, so that's something
+
+1061
+00:47:15,240 --> 00:47:16,710
+as well, you know, they know welding
+
+1062
+00:47:16,710 --> 00:47:19,500
+and automotive are career paths, but, or nursing,
+
+1063
+00:47:19,500 --> 00:47:21,687
+but maybe they're not aware of their emerging technology
+
+1064
+00:47:21,687 --> 00:47:23,430
+and manufacturing and agriculture.
+
+1065
+00:47:23,430 --> 00:47:26,220
+So I don't wanna, you know,
+
+1066
+00:47:26,220 --> 00:47:27,630
+pass the buck to the high schools.
+
+1067
+00:47:27,630 --> 00:47:29,130
+But I would like to see the high schools
+
+1068
+00:47:29,130 --> 00:47:31,203
+do a little better job at this.
+
+1069
+00:47:32,880 --> 00:47:37,740
+- Thanks Richard and I would say you do have a lot to add,
+
+1070
+00:47:37,740 --> 00:47:39,540
+so keep adding.
+
+1071
+00:47:39,540 --> 00:47:42,450
+And I would even recall something that you said earlier
+
+1072
+00:47:42,450 --> 00:47:44,220
+that fits within this context.
+
+1073
+00:47:44,220 --> 00:47:46,500
+You changed the unit value
+
+1074
+00:47:46,500 --> 00:47:50,010
+and nature of your course to fit the lifestyles
+
+1075
+00:47:50,010 --> 00:47:52,650
+and lived experiences of your students
+
+1076
+00:47:52,650 --> 00:47:54,840
+and that creates opportunities for people
+
+1077
+00:47:54,840 --> 00:47:56,700
+who otherwise would be excluded.
+
+1078
+00:47:56,700 --> 00:48:01,320
+So I just wanna recognize that you rock.
+
+1079
+00:48:01,320 --> 00:48:03,330
+- Thank you, if I could use that, that's a good point.
+
+1080
+00:48:03,330 --> 00:48:04,920
+I appreciate that; not that I rock,
+
+1081
+00:48:04,920 --> 00:48:07,060
+but what you said about the classes
+
+1082
+00:48:08,280 --> 00:48:10,410
+and something that I'm really interesting is our county
+
+1083
+00:48:10,410 --> 00:48:11,790
+is pretty spread out,
+
+1084
+00:48:11,790 --> 00:48:14,580
+and we attract students from, you know, Santa Clara County
+
+1085
+00:48:14,580 --> 00:48:17,340
+and San Bernardino County as well and all in Santa Cruz.
+
+1086
+00:48:17,340 --> 00:48:19,860
+So, you know, we reach pretty far
+
+1087
+00:48:19,860 --> 00:48:21,480
+and it's a long drive.
+
+1088
+00:48:21,480 --> 00:48:22,500
+It's a dangerous drive.
+
+1089
+00:48:22,500 --> 00:48:25,050
+And you know, finding ways to find, you know,
+
+1090
+00:48:25,050 --> 00:48:26,760
+to try to do some distance ed,
+
+1091
+00:48:26,760 --> 00:48:29,940
+it's hard 'cause these are hands-on skills, you know,
+
+1092
+00:48:29,940 --> 00:48:32,880
+but that could be another emerging technology in education.
+
+1093
+00:48:32,880 --> 00:48:36,030
+- Well, and so an idea from another panel,
+
+1094
+00:48:36,030 --> 00:48:39,630
+you may have all seen in the exhibition space a giant booth
+
+1095
+00:48:39,630 --> 00:48:41,670
+called Dreamscape Learn.
+
+1096
+00:48:41,670 --> 00:48:46,200
+So they have these pods, but Cerro Coso Community College
+
+1097
+00:48:46,200 --> 00:48:49,170
+and the current community college district has, I don't know
+
+1098
+00:48:49,170 --> 00:48:51,120
+how many acres of space,
+
+1099
+00:48:51,120 --> 00:48:53,370
+and it's a long drive for anybody to get anywhere.
+
+1100
+00:48:53,370 --> 00:48:57,000
+So they are getting one of those pods mounted on a trailer,
+
+1101
+00:48:57,000 --> 00:48:59,730
+and they're gonna drive it around to make it more accessible
+
+1102
+00:48:59,730 --> 00:49:01,620
+for the students to participate
+
+1103
+00:49:01,620 --> 00:49:05,730
+and learn these biology skills without having to drive two,
+
+1104
+00:49:05,730 --> 00:49:07,830
+three hours to get to a campus.
+
+1105
+00:49:07,830 --> 00:49:10,740
+And so, you know, that may be an idea as well.
+
+1106
+00:49:10,740 --> 00:49:13,080
+We have about 10 minutes left, so I would love
+
+1107
+00:49:13,080 --> 00:49:15,060
+to do this last one as a lightning round
+
+1108
+00:49:15,060 --> 00:49:19,770
+and then we'll open it up to questions from the audience.
+
+1109
+00:49:19,770 --> 00:49:22,320
+And it's really, and some of you have been hinting
+
+1110
+00:49:22,320 --> 00:49:25,470
+at this all along, but we've talked about the present
+
+1111
+00:49:25,470 --> 00:49:27,270
+and how to diversify the workforce.
+
+1112
+00:49:27,270 --> 00:49:30,960
+We can't talk at a futures summit without talking
+
+1113
+00:49:30,960 --> 00:49:32,370
+about the future, right?
+
+1114
+00:49:32,370 --> 00:49:35,460
+So I'm gonna literally say maybe one minute each
+
+1115
+00:49:35,460 --> 00:49:37,650
+and then we'll ask the crowd
+
+1116
+00:49:37,650 --> 00:49:38,940
+what questions they have for us.
+
+1117
+00:49:38,940 --> 00:49:40,800
+They've had an hour to think
+
+1118
+00:49:40,800 --> 00:49:44,253
+and all the cookie sugar to get their brains running.
+
+1119
+00:49:45,780 --> 00:49:48,120
+- You know, just quickly that I could say is AI
+
+1120
+00:49:48,120 --> 00:49:51,990
+in my area, it's obviously gonna eliminate lower skilled
+
+1121
+00:49:51,990 --> 00:49:53,580
+jobs, that's a given.
+
+1122
+00:49:53,580 --> 00:49:55,110
+But what we're teaching these students now
+
+1123
+00:49:55,110 --> 00:49:56,910
+is higher skilled jobs.
+
+1124
+00:49:56,910 --> 00:49:58,800
+We're gonna upskill them, they're gonna make more money
+
+1125
+00:49:58,800 --> 00:50:00,330
+where there's gonna be more opportunities.
+
+1126
+00:50:00,330 --> 00:50:04,830
+But the AI in manufacturing is it's here,
+
+1127
+00:50:04,830 --> 00:50:06,210
+it's actually been here already.
+
+1128
+00:50:06,210 --> 00:50:08,970
+What we've been doing already, we've been doing forever.
+
+1129
+00:50:08,970 --> 00:50:11,040
+We've been entering some data and equipment.
+
+1130
+00:50:11,040 --> 00:50:13,320
+We've been making these things go by themselves for years,
+
+1131
+00:50:13,320 --> 00:50:15,780
+whether it be CAM systems and other things.
+
+1132
+00:50:15,780 --> 00:50:17,940
+I think the word AI's unique to us,
+
+1133
+00:50:17,940 --> 00:50:19,830
+but actually we've been doing it already.
+
+1134
+00:50:19,830 --> 00:50:22,350
+It's only gonna get better as far as the robots automation
+
+1135
+00:50:22,350 --> 00:50:23,550
+type stuff and things of that.
+
+1136
+00:50:23,550 --> 00:50:25,860
+So it is the future,
+
+1137
+00:50:25,860 --> 00:50:29,463
+but I will say it's been here a lot in the past already too.
+
+1138
+00:50:31,500 --> 00:50:33,420
+- Yeah, I would add, you know,
+
+1139
+00:50:33,420 --> 00:50:36,120
+the fundamentals don't go away with AI.
+
+1140
+00:50:36,120 --> 00:50:40,170
+So, you know, I just spent some time a couple weeks ago
+
+1141
+00:50:40,170 --> 00:50:42,120
+with the folks with train, you know,
+
+1142
+00:50:42,120 --> 00:50:44,280
+and they're using AI out on the field.
+
+1143
+00:50:44,280 --> 00:50:48,660
+So, but the technician, the engineers understanding
+
+1144
+00:50:48,660 --> 00:50:51,960
+and having a good understanding of airflow
+
+1145
+00:50:51,960 --> 00:50:55,230
+and heat transfer, those fundamentals of measurement
+
+1146
+00:50:55,230 --> 00:50:58,380
+and science, those don't change.
+
+1147
+00:50:58,380 --> 00:51:02,373
+But what does change is AI can give you bad information.
+
+1148
+00:51:03,510 --> 00:51:06,930
+And what really accelerates the problem then is,
+
+1149
+00:51:06,930 --> 00:51:09,000
+is if the technician and the engineer
+
+1150
+00:51:09,000 --> 00:51:10,410
+doesn't have a good understanding
+
+1151
+00:51:10,410 --> 00:51:12,990
+of those fundamentals of what they mean.
+
+1152
+00:51:12,990 --> 00:51:16,890
+And so when they get the wrong technical service from the AI
+
+1153
+00:51:16,890 --> 00:51:20,130
+or a direction, they can get themselves in trouble.
+
+1154
+00:51:20,130 --> 00:51:22,240
+In some cases it's, you know,
+
+1155
+00:51:22,240 --> 00:51:25,093
+high electrical voltage areas that,
+
+1156
+00:51:25,093 --> 00:51:26,280
+it can be a problem.
+
+1157
+00:51:26,280 --> 00:51:30,810
+So from our colleges, our fundamentals, Richard just,
+
+1158
+00:51:30,810 --> 00:51:34,140
+it's not about trigonometry and calculus,
+
+1159
+00:51:34,140 --> 00:51:38,250
+it's the fundamentals of math and geometry that are going
+
+1160
+00:51:38,250 --> 00:51:41,790
+to be even more important from understanding
+
+1161
+00:51:41,790 --> 00:51:43,500
+AI will help you get those things,
+
+1162
+00:51:43,500 --> 00:51:45,840
+but you also gotta know the reality of
+
+1163
+00:51:45,840 --> 00:51:46,860
+what these pieces are.
+
+1164
+00:51:46,860 --> 00:51:49,470
+So, those things are here already.
+
+1165
+00:51:49,470 --> 00:51:53,130
+The other part of this then is how do we continue
+
+1166
+00:51:53,130 --> 00:51:55,860
+to work with our colleges across the country,
+
+1167
+00:51:55,860 --> 00:51:59,880
+and a network of pieces and Kevin touched on this,
+
+1168
+00:51:59,880 --> 00:52:02,250
+we're spending time with middle school math teachers
+
+1169
+00:52:02,250 --> 00:52:05,970
+and science teachers to help them be inspirational
+
+1170
+00:52:05,970 --> 00:52:08,880
+about AI but also the fundamentals that they're teaching,
+
+1171
+00:52:08,880 --> 00:52:10,800
+so that we can help those students.
+
+1172
+00:52:10,800 --> 00:52:14,610
+And one thing I'll just do a little pre for,
+
+1173
+00:52:14,610 --> 00:52:17,790
+for Richard as he passed the mic down,
+
+1174
+00:52:17,790 --> 00:52:19,680
+we're gonna be doing some a first
+
+1175
+00:52:19,680 --> 00:52:21,630
+of its kind professional development right here
+
+1176
+00:52:21,630 --> 00:52:23,070
+in California.
+
+1177
+00:52:23,070 --> 00:52:25,740
+And I'll let Richard do the invitation to that,
+
+1178
+00:52:25,740 --> 00:52:28,263
+but we look forward to engaging and doing more.
+
+1179
+00:52:31,890 --> 00:52:35,040
+- So I think that first principles
+
+1180
+00:52:35,040 --> 00:52:38,920
+and actually the four Cs is probably gonna be critical
+
+1181
+00:52:39,930 --> 00:52:44,550
+to like really figure out how to sort through the BS
+
+1182
+00:52:44,550 --> 00:52:46,830
+as well as real time interactions with people, right?
+
+1183
+00:52:46,830 --> 00:52:51,090
+Because I think right now facts are widely accessible.
+
+1184
+00:52:51,090 --> 00:52:53,460
+So what's gonna be most important is real time
+
+1185
+00:52:53,460 --> 00:52:56,610
+face to face interactions as you're going AI against AI
+
+1186
+00:52:56,610 --> 00:53:00,270
+'cause you guys can all interact, so can you guys be able
+
+1187
+00:53:00,270 --> 00:53:03,030
+to work on the skills of like influencing,
+
+1188
+00:53:03,030 --> 00:53:04,920
+be able to calmly debate?
+
+1189
+00:53:04,920 --> 00:53:07,920
+I think that that will be very important moving
+
+1190
+00:53:07,920 --> 00:53:12,920
+forward here as we'll be able to access facts very easily,
+
+1191
+00:53:13,560 --> 00:53:15,450
+and then if you have time to respond through email,
+
+1192
+00:53:15,450 --> 00:53:17,790
+you can very easily cater.
+
+1193
+00:53:17,790 --> 00:53:21,153
+But I do think that it's being able to correctly prompt,
+
+1194
+00:53:22,110 --> 00:53:25,410
+be able to think through if the answer actually makes sense.
+
+1195
+00:53:25,410 --> 00:53:28,560
+And then I think this like really soft skill of like
+
+1196
+00:53:28,560 --> 00:53:31,653
+that real time interactions between people.
+
+1197
+00:53:35,460 --> 00:53:37,470
+- Yeah just real quick on what's in the future,
+
+1198
+00:53:37,470 --> 00:53:40,500
+we talked about improving efficiency in the labor intensive
+
+1199
+00:53:40,500 --> 00:53:41,760
+tasks and agriculture,
+
+1200
+00:53:41,760 --> 00:53:43,930
+but I guess on the AI side, specifically
+
+1201
+00:53:44,790 --> 00:53:47,820
+using what's called SCADA Supervisory Control
+
+1202
+00:53:47,820 --> 00:53:52,620
+and Data Acquisition for the manufacturing process.
+
+1203
+00:53:52,620 --> 00:53:55,740
+The machines, condition monitoring
+
+1204
+00:53:55,740 --> 00:54:00,450
+of machines leading into prescriptive maintenance
+
+1205
+00:54:00,450 --> 00:54:02,040
+and predictive maintenance on machines.
+
+1206
+00:54:02,040 --> 00:54:06,963
+So that's, you know, a technician's day would be,
+
+1207
+00:54:08,010 --> 00:54:09,300
+you know, their schedule would be shaped
+
+1208
+00:54:09,300 --> 00:54:13,440
+by AI based on what these sensors are feeding back
+
+1209
+00:54:13,440 --> 00:54:15,390
+on the conditions of the machines.
+
+1210
+00:54:15,390 --> 00:54:17,490
+You know, if we break down in the production run
+
+1211
+00:54:17,490 --> 00:54:20,040
+that's leafy greens with the expiration date,
+
+1212
+00:54:20,040 --> 00:54:22,740
+the clock is ticking, you know, so, you know,
+
+1213
+00:54:22,740 --> 00:54:26,430
+having a really good maintenance schedule using AI
+
+1214
+00:54:26,430 --> 00:54:27,993
+for that as well.
+
+1215
+00:54:29,550 --> 00:54:30,828
+- Fantastic. Thank you.
+
+1216
+00:54:30,828 --> 00:54:33,510
+- Oh, you want me to talk about that too? The training?
+
+1217
+00:54:33,510 --> 00:54:35,550
+Yeah, so thank you Roger for that. Yeah.
+
+1218
+00:54:35,550 --> 00:54:37,800
+At the end of this month, the first ever
+
+1219
+00:54:37,800 --> 00:54:40,290
+NC3 train the trainer will be at Hartnell College
+
+1220
+00:54:40,290 --> 00:54:44,550
+in Salinas, September 29th or 30th through October 3rd.
+
+1221
+00:54:44,550 --> 00:54:46,230
+That week it's four days
+
+1222
+00:54:46,230 --> 00:54:50,640
+and I'll be training instructors on introduction
+
+1223
+00:54:50,640 --> 00:54:52,950
+to mechatronics and fundamentals of electricity,
+
+1224
+00:54:52,950 --> 00:54:55,020
+kind of our foundational skills that we need
+
+1225
+00:54:55,020 --> 00:54:58,770
+and smart manufacturing and mechatronics.
+
+1226
+00:54:58,770 --> 00:55:02,970
+So, you know, it's part of a grant to really, you know,
+
+1227
+00:55:02,970 --> 00:55:04,890
+improve our dual enrollment pipeline,
+
+1228
+00:55:04,890 --> 00:55:08,220
+but it's really just to kinda get more training out there.
+
+1229
+00:55:08,220 --> 00:55:10,860
+So if you have any instructors that are interested
+
+1230
+00:55:10,860 --> 00:55:12,750
+by completing the train the trainer, they're allowed
+
+1231
+00:55:12,750 --> 00:55:16,290
+to now certify their students on the topics given
+
+1232
+00:55:16,290 --> 00:55:17,370
+that they have the equipment
+
+1233
+00:55:17,370 --> 00:55:20,310
+and they've completed the train the trainer,
+
+1234
+00:55:20,310 --> 00:55:24,304
+and yeah, that's pretty much that yeah.
+
+1235
+00:55:24,304 --> 00:55:25,440
+- So have you got any hand raisers? Come and see us.
+
+1236
+00:55:25,440 --> 00:55:26,580
+I think you have all five
+
+1237
+00:55:26,580 --> 00:55:31,580
+or six seats open that we can, happy to add anybody from
+
+1238
+00:55:33,008 --> 00:55:35,730
+the community or California to come and be part of that.
+
+1239
+00:55:35,730 --> 00:55:36,563
+- Sounds good.
+
+1240
+00:55:36,563 --> 00:55:38,460
+We'll make sure that the information is passed along
+
+1241
+00:55:38,460 --> 00:55:40,800
+to the organizers of this event,
+
+1242
+00:55:40,800 --> 00:55:42,810
+so that we can have a QR code
+
+1243
+00:55:42,810 --> 00:55:44,550
+for people to sign up.
+
+1244
+00:55:44,550 --> 00:55:47,880
+We do have about three to five minutes left, depending on
+
+1245
+00:55:47,880 --> 00:55:50,970
+how much you stick to Pacific Standard Time.
+
+1246
+00:55:50,970 --> 00:55:53,130
+So we have time for at least one question.
+
+1247
+00:55:53,130 --> 00:55:55,807
+So how many of you have been thinking all along
+
+1248
+00:55:55,807 --> 00:55:59,160
+"I really wanna hear an answer to this."
+
+1249
+00:55:59,160 --> 00:56:02,190
+Got someone in the back and then we'll sneak you in.
+
+1250
+00:56:02,190 --> 00:56:03,630
+I believe we have a half hour break
+
+1251
+00:56:03,630 --> 00:56:07,140
+before the next event, so if folks wanna stick around.
+
+1252
+00:56:07,140 --> 00:56:09,140
+I don't know if the panelists have time.
+
+1253
+00:56:10,230 --> 00:56:11,730
+- [Livia] Yes, thank you so very much.
+
+1254
+00:56:11,730 --> 00:56:14,460
+My name's Livia and I teach engineering
+
+1255
+00:56:14,460 --> 00:56:17,040
+and AI in Folsom Lake College,
+
+1256
+00:56:17,040 --> 00:56:20,190
+and I wanted to help more students like at least like,
+
+1257
+00:56:20,190 --> 00:56:23,820
+get jobs after they learn AutoCAD and Fusion.
+
+1258
+00:56:23,820 --> 00:56:26,910
+And these are like tools also for automation.
+
+1259
+00:56:26,910 --> 00:56:29,850
+So I'm wondering like with robotics
+
+1260
+00:56:29,850 --> 00:56:34,170
+and with automation and emerging technology,
+
+1261
+00:56:34,170 --> 00:56:39,170
+do you consider this as a disruption in technology?
+
+1262
+00:56:39,510 --> 00:56:44,010
+It's exponentially changing and it's rapidly like evolving.
+
+1263
+00:56:44,010 --> 00:56:47,670
+So did the KRA change over automation
+
+1264
+00:56:47,670 --> 00:56:50,100
+after applying robotics?
+
+1265
+00:56:50,100 --> 00:56:55,050
+Because I'm wondering if we're kind of like eliminating
+
+1266
+00:56:55,050 --> 00:56:59,850
+skills and jobs for blue collar jobs
+
+1267
+00:56:59,850 --> 00:57:03,390
+and like most of the graduate of the community colleges,
+
+1268
+00:57:03,390 --> 00:57:06,630
+the value in the culture change afterwards
+
+1269
+00:57:06,630 --> 00:57:10,320
+with automation, this field and technology.
+
+1270
+00:57:10,320 --> 00:57:12,720
+How long does the certification last?
+
+1271
+00:57:12,720 --> 00:57:15,000
+Because I know like sometimes it's like two years,
+
+1272
+00:57:15,000 --> 00:57:17,130
+but I just wanted to clarify like
+
+1273
+00:57:17,130 --> 00:57:19,440
+so I can like get my student engaged,
+
+1274
+00:57:19,440 --> 00:57:23,190
+take this certification's gonna be good for your future
+
+1275
+00:57:23,190 --> 00:57:24,720
+or something like that.
+
+1276
+00:57:24,720 --> 00:57:28,680
+And yeah, and hoping that there can be more internship
+
+1277
+00:57:28,680 --> 00:57:32,760
+and apprenticeship program in between community colleges
+
+1278
+00:57:32,760 --> 00:57:34,860
+and the industry sector.
+
+1279
+00:57:34,860 --> 00:57:36,633
+And that's all. Thank you.
+
+1280
+00:57:38,310 --> 00:57:42,360
+- Really quick, part of the question was on Fusion and CAD,
+
+1281
+00:57:42,360 --> 00:57:43,710
+whether that be of value or not.
+
+1282
+00:57:43,710 --> 00:57:45,210
+Was that part of the question?
+
+1283
+00:57:46,485 --> 00:57:47,547
+- [Livia] Yes. Of value or not?
+
+1284
+00:57:47,547 --> 00:57:49,950
+- So I'm gonna say another part
+
+1285
+00:57:49,950 --> 00:57:54,120
+of our program is a CAD degree, whatever, CAD Fusion,
+
+1286
+00:57:54,120 --> 00:57:57,690
+NX Creo, those are never gonna go anywhere.
+
+1287
+00:57:57,690 --> 00:57:59,370
+AI and the equipment that runs it
+
+1288
+00:57:59,370 --> 00:58:01,020
+will never even be developed
+
+1289
+00:58:01,020 --> 00:58:03,390
+unless you can draw, you can create,
+
+1290
+00:58:03,390 --> 00:58:05,190
+you can engineer and you can make it.
+
+1291
+00:58:05,190 --> 00:58:07,470
+So I would keep teaching that all the way.
+
+1292
+00:58:07,470 --> 00:58:08,580
+I would never stop that.
+
+1293
+00:58:08,580 --> 00:58:12,120
+That's just actually, in manufacturing mechanical,
+
+1294
+00:58:12,120 --> 00:58:15,180
+that is the stepping stone to everything that we do.
+
+1295
+00:58:15,180 --> 00:58:17,433
+So that's, I would stay that route for sure.
+
+1296
+00:58:20,228 --> 00:58:21,747
+I don't remember the rest. Which one?
+
+1297
+00:58:24,353 --> 00:58:28,080
+- Part of the question was on the certifications as well.
+
+1298
+00:58:28,080 --> 00:58:31,620
+The NC3 certifications don't have an expiration date.
+
+1299
+00:58:31,620 --> 00:58:34,170
+So if your student has certifications that, you know,
+
+1300
+00:58:34,170 --> 00:58:36,180
+that's not like they have to recertify on something,
+
+1301
+00:58:36,180 --> 00:58:40,860
+but it's not necessarily a license to operate something
+
+1302
+00:58:40,860 --> 00:58:42,956
+or a license to perform a skill.
+
+1303
+00:58:42,956 --> 00:58:46,830
+It's really gonna help in their interview process show.
+
+1304
+00:58:46,830 --> 00:58:49,560
+I've been trained on specific equipment to do
+
+1305
+00:58:49,560 --> 00:58:53,580
+specific tasks at a high level
+
+1306
+00:58:53,580 --> 00:58:57,510
+industry standard on the manufacturer's equipment,
+
+1307
+00:58:57,510 --> 00:58:59,820
+manufacturers have huge input into that.
+
+1308
+00:58:59,820 --> 00:59:01,320
+Mentioned the blue collar jobs
+
+1309
+00:59:01,320 --> 00:59:02,910
+and you know, some of that being replaced.
+
+1310
+00:59:02,910 --> 00:59:04,710
+But again, somebody is still gonna have
+
+1311
+00:59:04,710 --> 00:59:07,350
+to install these systems, calibrate these systems,
+
+1312
+00:59:07,350 --> 00:59:09,030
+repair these systems.
+
+1313
+00:59:09,030 --> 00:59:10,980
+I don't see that being fully automated
+
+1314
+00:59:10,980 --> 00:59:13,350
+where there's zero human interaction.
+
+1315
+00:59:13,350 --> 00:59:15,480
+It's really is a collaboration human and machine.
+
+1316
+00:59:15,480 --> 00:59:18,810
+So luckily NC3 has certifications
+
+1317
+00:59:18,810 --> 00:59:19,950
+in those skills as well.
+
+1318
+00:59:19,950 --> 00:59:22,983
+Electrical wiring and plumbing skills in that as well.
+
+1319
+00:59:26,130 --> 00:59:27,360
+- [Raheem] Hi, my name is Raheem.
+
+1320
+00:59:27,360 --> 00:59:28,590
+I'm with AQL Labs,
+
+1321
+00:59:28,590 --> 00:59:30,270
+but I'm also a trustee
+
+1322
+00:59:30,270 --> 00:59:33,063
+for the Seattle colleges up in Washington state.
+
+1323
+00:59:34,050 --> 00:59:37,470
+And the question I have is, so maybe it was answered
+
+1324
+00:59:37,470 --> 00:59:38,640
+by your previous question,
+
+1325
+00:59:38,640 --> 00:59:41,580
+but it's really about the pace of change
+
+1326
+00:59:41,580 --> 00:59:43,560
+that's happening with AI
+
+1327
+00:59:43,560 --> 00:59:46,740
+and the time it takes for colleges
+
+1328
+00:59:46,740 --> 00:59:50,580
+to build certification programs, pathways, et cetera.
+
+1329
+00:59:50,580 --> 00:59:53,430
+And so like, I guess one of the things
+
+1330
+00:59:53,430 --> 00:59:57,480
+that I'm trying to figure out is as AI accelerates,
+
+1331
+00:59:57,480 --> 01:00:01,000
+so rapidly and you made a statement about,
+
+1332
+01:00:01,000 --> 01:00:02,640
+well, these medium skill
+
+1333
+01:00:02,640 --> 01:00:06,300
+or higher skilled things that AI will not do.
+
+1334
+01:00:06,300 --> 01:00:08,670
+I'm personally not so sure about that,
+
+1335
+01:00:08,670 --> 01:00:10,830
+but I wanted to know more about
+
+1336
+01:00:10,830 --> 01:00:13,200
+A, why you're so confident about that,
+
+1337
+01:00:13,200 --> 01:00:17,230
+but B, how can colleges design pathways
+
+1338
+01:00:18,300 --> 01:00:19,500
+they can't be future proof,
+
+1339
+01:00:19,500 --> 01:00:24,480
+but you know, that are not getting made
+
+1340
+01:00:24,480 --> 01:00:26,640
+retrograde in like a year or two year,
+
+1341
+01:00:26,640 --> 01:00:27,810
+like, you know what I mean?
+
+1342
+01:00:27,810 --> 01:00:30,540
+'cause I feel like the pace of AI
+
+1343
+01:00:30,540 --> 01:00:32,970
+improving is very rapid,
+
+1344
+01:00:32,970 --> 01:00:37,560
+and how can we develop skilling programs that outpace
+
+1345
+01:00:37,560 --> 01:00:38,393
+that in a way.
+
+1346
+01:00:38,393 --> 01:00:40,680
+- I think you were referring to the AI
+
+1347
+01:00:40,680 --> 01:00:42,093
+and the skills.
+
+1348
+01:00:43,601 --> 01:00:44,943
+Correct.
+
+1349
+01:00:44,943 --> 01:00:46,410
+- Yeah what I would say to that
+
+1350
+01:00:46,410 --> 01:00:47,970
+from my perspective is working
+
+1351
+01:00:47,970 --> 01:00:51,990
+with all the global companies I work with is that,
+
+1352
+01:00:51,990 --> 01:00:53,490
+is there higher skilled stuff
+
+1353
+01:00:53,490 --> 01:00:55,710
+that AI will have an impact on?
+
+1354
+01:00:55,710 --> 01:01:00,030
+Yes, but the ability to take
+
+1355
+01:01:00,030 --> 01:01:01,920
+and completely replace an engineer
+
+1356
+01:01:01,920 --> 01:01:06,920
+that's gonna be designing a train
+
+1357
+01:01:07,050 --> 01:01:12,050
+20 ton HVA system controller and cooler,
+
+1358
+01:01:12,360 --> 01:01:13,440
+it's still gonna be built
+
+1359
+01:01:13,440 --> 01:01:15,780
+all that engineering in there, all those pieces,
+
+1360
+01:01:15,780 --> 01:01:17,910
+the materials, the makeup, all that stuff
+
+1361
+01:01:17,910 --> 01:01:20,520
+that's gonna come together from a manufacturing process
+
+1362
+01:01:20,520 --> 01:01:23,670
+standpoint, that's not going away.
+
+1363
+01:01:23,670 --> 01:01:25,863
+Or if we think about aviation,
+
+1364
+01:01:26,880 --> 01:01:31,880
+Airbus and Boeing are both have composite planes now.
+
+1365
+01:01:32,670 --> 01:01:36,630
+Five years ago, finishing that composite on that plane
+
+1366
+01:01:36,630 --> 01:01:39,090
+was a lot of hand operation.
+
+1367
+01:01:39,090 --> 01:01:41,670
+Today, 3M and its abrasive division
+
+1368
+01:01:41,670 --> 01:01:44,790
+has a robot that handles all that
+
+1369
+01:01:44,790 --> 01:01:47,550
+rudimentary work that you, actually,
+
+1370
+01:01:47,550 --> 01:01:51,120
+but the person that the people that used to do that
+
+1371
+01:01:51,120 --> 01:01:55,260
+are now moved up into the process actually at a higher
+
+1372
+01:01:55,260 --> 01:01:57,540
+level to manage all that.
+
+1373
+01:01:57,540 --> 01:02:02,540
+And actually both the workers doing less manual labor
+
+1374
+01:02:03,000 --> 01:02:08,000
+and tends the opportunity to make mistakes where the robot
+
+1375
+01:02:08,040 --> 01:02:11,310
+has really refined that whole finishing process.
+
+1376
+01:02:11,310 --> 01:02:13,530
+Save time and productivity and those kind of things.
+
+1377
+01:02:13,530 --> 01:02:15,060
+So those are just a couple examples.
+
+1378
+01:02:15,060 --> 01:02:17,160
+Same thing in ag, those pieces.
+
+1379
+01:02:17,160 --> 01:02:22,160
+So, but you know, things still break down.
+
+1380
+01:02:22,500 --> 01:02:25,110
+Things still need maintenance, things still wear out.
+
+1381
+01:02:25,110 --> 01:02:26,670
+And as new technologies
+
+1382
+01:02:26,670 --> 01:02:29,820
+and new robotic pieces come into play,
+
+1383
+01:02:29,820 --> 01:02:31,950
+well then someone's gotta integrate that.
+
+1384
+01:02:31,950 --> 01:02:33,777
+Someone's gotta commission it.
+
+1385
+01:02:33,777 --> 01:02:36,540
+And all those other pieces,
+
+1386
+01:02:36,540 --> 01:02:41,017
+there's a lot of similarities to 1910 through 1920
+
+1387
+01:02:42,060 --> 01:02:45,573
+when we started to electrify pieces of equipment.
+
+1388
+01:02:46,890 --> 01:02:50,010
+And so yes, there used to be, if you go back
+
+1389
+01:02:50,010 --> 01:02:53,940
+and read it, you know, in the early days of the automobile,
+
+1390
+01:02:53,940 --> 01:02:55,770
+it used to take about 17 people
+
+1391
+01:02:55,770 --> 01:02:58,370
+to paint a car because they were painted it by hand.
+
+1392
+01:02:59,580 --> 01:03:02,460
+Well, DuPont and these other figured out how to spray it,
+
+1393
+01:03:02,460 --> 01:03:03,930
+automation, all that.
+
+1394
+01:03:03,930 --> 01:03:06,150
+And it went down to two people, well what happened
+
+1395
+01:03:06,150 --> 01:03:07,950
+to the other 15?
+
+1396
+01:03:07,950 --> 01:03:09,510
+They didn't get laid off.
+
+1397
+01:03:09,510 --> 01:03:12,870
+They got into the production and these other pieces.
+
+1398
+01:03:12,870 --> 01:03:15,360
+Will there be ebbs and flows in that curve
+
+1399
+01:03:15,360 --> 01:03:17,130
+as we work through those things?
+
+1400
+01:03:17,130 --> 01:03:20,040
+Absolutely but every one of those,
+
+1401
+01:03:20,040 --> 01:03:22,140
+and I appreciate you as a trustee being here
+
+1402
+01:03:22,140 --> 01:03:25,140
+because it's really at your level that, boy,
+
+1403
+01:03:25,140 --> 01:03:26,970
+we need more trustees in these things
+
+1404
+01:03:26,970 --> 01:03:29,700
+because that pace of change and adaptation
+
+1405
+01:03:29,700 --> 01:03:31,500
+that's happening in our communities,
+
+1406
+01:03:32,520 --> 01:03:33,660
+it's one of the things I work on,
+
+1407
+01:03:33,660 --> 01:03:35,940
+how do we help trustees stay up with this?
+
+1408
+01:03:35,940 --> 01:03:37,500
+Well you're still running your own business
+
+1409
+01:03:37,500 --> 01:03:38,657
+and doing these other things
+
+1410
+01:03:38,657 --> 01:03:40,770
+'cause it impacts that community, right?
+
+1411
+01:03:40,770 --> 01:03:44,112
+And impacts our instructors and that leadership.
+
+1412
+01:03:44,112 --> 01:03:47,550
+So, those are some things that, boy,
+
+1413
+01:03:47,550 --> 01:03:49,500
+from that strategic thing that we used
+
+1414
+01:03:49,500 --> 01:03:51,900
+to have five years to figure out.
+
+1415
+01:03:51,900 --> 01:03:54,390
+Now sometimes we might be lucky if we have 18 months
+
+1416
+01:03:54,390 --> 01:03:55,887
+to figure it out at a trustees level
+
+1417
+01:03:55,887 --> 01:03:58,080
+and that what are those things?
+
+1418
+01:03:58,080 --> 01:04:01,260
+So, there's a lot of pieces in there,
+
+1419
+01:04:01,260 --> 01:04:03,180
+but I can't overemphasize
+
+1420
+01:04:03,180 --> 01:04:05,070
+what I hear from the global leaders.
+
+1421
+01:04:05,070 --> 01:04:08,580
+These fundamentals, these key things don't go away.
+
+1422
+01:04:08,580 --> 01:04:13,140
+They actually are amplified to a higher level
+
+1423
+01:04:13,140 --> 01:04:16,263
+of understanding that you need to have going forward.
+
+1424
+01:04:19,527 --> 01:04:20,360
+- Yeah, I think it's a great question
+
+1425
+01:04:20,360 --> 01:04:23,283
+and I think I'm just gonna add to it that,
+
+1426
+01:04:26,880 --> 01:04:28,590
+just to go back historically, you know,
+
+1427
+01:04:28,590 --> 01:04:30,720
+I had referenced the AI as the new electricity.
+
+1428
+01:04:30,720 --> 01:04:33,180
+When electricity came out there were chief electricity
+
+1429
+01:04:33,180 --> 01:04:36,240
+officers where people had to decide if they were AC or DC
+
+1430
+01:04:36,240 --> 01:04:38,670
+you know, and then now it just becomes running
+
+1431
+01:04:38,670 --> 01:04:40,260
+in the background and it just works.
+
+1432
+01:04:40,260 --> 01:04:41,760
+And I think the same thing will happen to AI,
+
+1433
+01:04:41,760 --> 01:04:43,170
+but right now we're in a shock.
+
+1434
+01:04:43,170 --> 01:04:44,520
+Same thing with cars.
+
+1435
+01:04:44,520 --> 01:04:46,380
+When they came out, like people were so freaked out
+
+1436
+01:04:46,380 --> 01:04:47,430
+that they had to paint
+
+1437
+01:04:47,430 --> 01:04:50,070
+and cut out basically wooden cutouts
+
+1438
+01:04:50,070 --> 01:04:53,858
+and put 'em in front of cars to give the illusion that like,
+
+1439
+01:04:53,858 --> 01:04:55,020
+you know, a horse is smart enough to stop
+
+1440
+01:04:55,020 --> 01:04:56,220
+before then the cliff, if you weren't paying
+
+1441
+01:04:56,220 --> 01:04:57,390
+attention, you might drive off a cliff.
+
+1442
+01:04:57,390 --> 01:05:00,870
+I think it's almost human society accepting it.
+
+1443
+01:05:00,870 --> 01:05:02,460
+Now AI is very disruptive
+
+1444
+01:05:02,460 --> 01:05:05,010
+and you know, I think now they're,
+
+1445
+01:05:05,010 --> 01:05:06,390
+it's happening so fast.
+
+1446
+01:05:06,390 --> 01:05:09,390
+I think for the colleges and instructors,
+
+1447
+01:05:09,390 --> 01:05:11,070
+it's really hard on you since you have
+
+1448
+01:05:11,070 --> 01:05:13,320
+to like learn fast and keep ahead of the students.
+
+1449
+01:05:13,320 --> 01:05:15,600
+So I think it's great that there's MOOCs available.
+
+1450
+01:05:15,600 --> 01:05:17,280
+So if you wanna do some quick training,
+
+1451
+01:05:17,280 --> 01:05:18,180
+you can stay ahead of it.
+
+1452
+01:05:18,180 --> 01:05:20,730
+I think we're gonna also, it would be beneficial
+
+1453
+01:05:20,730 --> 01:05:22,980
+to have more student led projects
+
+1454
+01:05:22,980 --> 01:05:24,810
+so that their portfolios can build,
+
+1455
+01:05:24,810 --> 01:05:28,830
+and if you can direct them towards blue ocean type projects,
+
+1456
+01:05:28,830 --> 01:05:32,758
+like I think ag is a great example where lots of problems
+
+1457
+01:05:32,758 --> 01:05:35,608
+and like migrant workers, you know, like I feel like it's
+
+1458
+01:05:36,510 --> 01:05:38,280
+very like California specific too.
+
+1459
+01:05:38,280 --> 01:05:41,910
+So, I feel like direct them towards new problems
+
+1460
+01:05:41,910 --> 01:05:45,000
+that aren't the everyday so they can find new solutions
+
+1461
+01:05:45,000 --> 01:05:46,170
+and create something different,
+
+1462
+01:05:46,170 --> 01:05:48,270
+because I think there's so much opportunity in different
+
+1463
+01:05:48,270 --> 01:05:51,693
+industries that are not where your first instincts are.
+
+1464
+01:05:53,580 --> 01:05:56,790
+- [Host] Fantastic. Well, would you all please join me-
+
+1465
+01:05:56,790 --> 01:05:57,690
+- We got one more.
+
+1466
+01:05:58,580 --> 01:06:01,013
+- [Host] Do you all have time for one more? Okay.
+
+1467
+01:06:02,880 --> 01:06:04,260
+- [Participant] Hopefully this is a quick question.
+
+1468
+01:06:04,260 --> 01:06:07,470
+I could be quick, wondering that dual enrollment
+
+1469
+01:06:07,470 --> 01:06:10,170
+and concurrent enrollment, if that makes sense
+
+1470
+01:06:10,170 --> 01:06:12,870
+in your areas, has there been an increase?
+
+1471
+01:06:12,870 --> 01:06:17,640
+Has that improved over the last several years?
+
+1472
+01:06:17,640 --> 01:06:19,683
+If not, what have been the barriers?
+
+1473
+01:06:21,660 --> 01:06:24,540
+- Well, I can tell you from a national level,
+
+1474
+01:06:24,540 --> 01:06:26,280
+it's certainly improved.
+
+1475
+01:06:26,280 --> 01:06:31,280
+So I can tell you know, in say Kenosha, Wisconsin,
+
+1476
+01:06:31,470 --> 01:06:33,630
+where Gateway Technical College there has,
+
+1477
+01:06:33,630 --> 01:06:37,710
+like they went from 2000 students being in dual enrollment
+
+1478
+01:06:37,710 --> 01:06:41,130
+up to 7,000 students being in dual enrollment.
+
+1479
+01:06:41,130 --> 01:06:43,860
+Same thing in Wichita and North Carolina.
+
+1480
+01:06:43,860 --> 01:06:47,160
+There's a lot of that that now is it,
+
+1481
+01:06:47,160 --> 01:06:49,980
+does it just happen overnight? No.
+
+1482
+01:06:49,980 --> 01:06:52,020
+Is there sometimes resistance
+
+1483
+01:06:52,020 --> 01:06:55,590
+of high schools, Richard, you touched on it a little bit.
+
+1484
+01:06:55,590 --> 01:06:57,840
+They go, "Nope, here's our lane
+
+1485
+01:06:57,840 --> 01:07:00,480
+and community colleges, that's your lane."
+
+1486
+01:07:00,480 --> 01:07:05,310
+And so sometimes we've gotta help see that just like
+
+1487
+01:07:05,310 --> 01:07:07,980
+technology that this is a good thing,
+
+1488
+01:07:07,980 --> 01:07:09,657
+but it's gotta be worked through
+
+1489
+01:07:09,657 --> 01:07:10,920
+and you gotta get it going.
+
+1490
+01:07:10,920 --> 01:07:13,470
+So, but I think it's an awesome thing.
+
+1491
+01:07:13,470 --> 01:07:16,230
+- Really quick, I can just basically speak
+
+1492
+01:07:16,230 --> 01:07:18,330
+for DeAnza College, what we do,
+
+1493
+01:07:18,330 --> 01:07:20,043
+it's increased every quarter.
+
+1494
+01:07:21,030 --> 01:07:24,300
+We went from, we had to do combination classes,
+
+1495
+01:07:24,300 --> 01:07:26,640
+but it's is manufacturing now, this is not history,
+
+1496
+01:07:26,640 --> 01:07:27,750
+you know, like other kind of stuff.
+
+1497
+01:07:27,750 --> 01:07:32,640
+But in the manufacturing area it has grown every quarter.
+
+1498
+01:07:32,640 --> 01:07:34,860
+A little more fine tuning we're doing,
+
+1499
+01:07:34,860 --> 01:07:37,410
+we're really close to doing classes by themselves
+
+1500
+01:07:37,410 --> 01:07:40,050
+without having to backfill with other people.
+
+1501
+01:07:40,050 --> 01:07:42,810
+But it has grown every quarter to where we've added a class.
+
+1502
+01:07:42,810 --> 01:07:45,300
+So you can go from two to four to six,
+
+1503
+01:07:45,300 --> 01:07:46,830
+and we're only going with a couple of
+
+1504
+01:07:46,830 --> 01:07:48,150
+high schools now we have it.
+
+1505
+01:07:48,150 --> 01:07:49,710
+But as far as the manufacturing now,
+
+1506
+01:07:49,710 --> 01:07:51,240
+and the only reason I'll say this in the Bay area is
+
+1507
+01:07:51,240 --> 01:07:55,050
+because I went to high school down the street, the same one
+
+1508
+01:07:55,050 --> 01:07:56,790
+we service had equipment.
+
+1509
+01:07:56,790 --> 01:07:58,080
+There is nothing there now.
+
+1510
+01:07:58,080 --> 01:07:59,220
+The only thing there, which was great,
+
+1511
+01:07:59,220 --> 01:08:01,260
+we talk about the First Robotics.
+
+1512
+01:08:01,260 --> 01:08:02,880
+The First Robotics is great,
+
+1513
+01:08:02,880 --> 01:08:05,280
+but it doesn't encompass all the students.
+
+1514
+01:08:05,280 --> 01:08:06,570
+I'm gonna be straightforward.
+
+1515
+01:08:06,570 --> 01:08:11,570
+It's a series of students, but for the hands-on ones,
+
+1516
+01:08:11,580 --> 01:08:12,990
+I think automation will be good.
+
+1517
+01:08:12,990 --> 01:08:16,200
+Machining 3D printing the whole bit it is increasing.
+
+1518
+01:08:16,200 --> 01:08:18,690
+I'm anticipating adding more and filling them stuff.
+
+1519
+01:08:18,690 --> 01:08:22,740
+So it's going one way and it is by 50% or more
+
+1520
+01:08:22,740 --> 01:08:26,463
+has increased the enrollment of females by far, by far.
+
+1521
+01:08:33,510 --> 01:08:36,060
+- Yeah so for me, you know,
+
+1522
+01:08:36,060 --> 01:08:38,160
+our dual enrollment sections have definitely increased.
+
+1523
+01:08:38,160 --> 01:08:40,440
+Probably like a state initiative, you know, leading that
+
+1524
+01:08:40,440 --> 01:08:42,990
+obviously, probably we're all feeling similar parts there.
+
+1525
+01:08:42,990 --> 01:08:47,613
+But some of the barriers in my community in my area,
+
+1526
+01:08:48,510 --> 01:08:51,450
+the state K-12 ag mechanics standards,
+
+1527
+01:08:51,450 --> 01:08:53,400
+agriculture mechanic standards don't,
+
+1528
+01:08:53,400 --> 01:08:55,740
+they've not been updated in over a decade.
+
+1529
+01:08:55,740 --> 01:08:57,600
+And so there's, I'm part
+
+1530
+01:08:57,600 --> 01:08:59,700
+of the California Agriculture Teachers Association,
+
+1531
+01:08:59,700 --> 01:09:01,590
+and we have our meetings and we collaborate on that.
+
+1532
+01:09:01,590 --> 01:09:03,780
+But, so now there's talks,
+
+1533
+01:09:03,780 --> 01:09:05,640
+but definitely, you know,
+
+1534
+01:09:05,640 --> 01:09:08,160
+if the high school instructors not seeing standards
+
+1535
+01:09:08,160 --> 01:09:10,950
+be updated and they're so focused on standards,
+
+1536
+01:09:10,950 --> 01:09:13,223
+that kind of is a little bit of a hangup.
+
+1537
+01:09:13,223 --> 01:09:17,880
+Another one is the university programs are not necessarily
+
+1538
+01:09:17,880 --> 01:09:22,880
+training teachers on modern skills necessarily.
+
+1539
+01:09:23,940 --> 01:09:27,087
+I guess I can just talk about ag mechanics class
+
+1540
+01:09:27,087 --> 01:09:30,210
+and the lab teaching methods classes
+
+1541
+01:09:30,210 --> 01:09:33,000
+at some of the universities are teaching.
+
+1542
+01:09:33,000 --> 01:09:34,980
+It's no different than it was in like the seventies,
+
+1543
+01:09:34,980 --> 01:09:36,870
+eighties, you know, early nineties kind of a thing.
+
+1544
+01:09:36,870 --> 01:09:38,880
+So that needs to be updated,
+
+1545
+01:09:38,880 --> 01:09:42,180
+but you know, I don't know how they measure that to be able
+
+1546
+01:09:42,180 --> 01:09:44,027
+to adjust those classes
+
+1547
+01:09:44,027 --> 01:09:47,340
+'cause the universities are successful in general.
+
+1548
+01:09:47,340 --> 01:09:50,580
+So that's interesting how they would adjust that.
+
+1549
+01:09:50,580 --> 01:09:52,470
+So the need for professional development, you know,
+
+1550
+01:09:52,470 --> 01:09:54,780
+we have a very, a lot of passionate teachers,
+
+1551
+01:09:54,780 --> 01:09:57,780
+agriculture teachers, especially in our community,
+
+1552
+01:09:57,780 --> 01:09:59,700
+but they need to be exposed
+
+1553
+01:09:59,700 --> 01:10:01,020
+to the technology and the skills.
+
+1554
+01:10:01,020 --> 01:10:04,830
+So professional development training for them.
+
+1555
+01:10:04,830 --> 01:10:07,740
+Another barrier I'm seeing is high school administrators,
+
+1556
+01:10:07,740 --> 01:10:12,420
+for whatever reason, some school districts are just,
+
+1557
+01:10:12,420 --> 01:10:14,490
+and I understand you don't wanna just jump in
+
+1558
+01:10:14,490 --> 01:10:15,900
+and make all these mistakes, you know,
+
+1559
+01:10:15,900 --> 01:10:17,220
+but they're almost being too hesitant
+
+1560
+01:10:17,220 --> 01:10:19,420
+or too cautious in adopting dual enrollment.
+
+1561
+01:10:20,310 --> 01:10:24,540
+Another thing I wanna see is in high schools, you don't need
+
+1562
+01:10:24,540 --> 01:10:26,430
+to put every single one
+
+1563
+01:10:26,430 --> 01:10:28,650
+of your students on a university track.
+
+1564
+01:10:28,650 --> 01:10:30,540
+You know, that's not realistic
+
+1565
+01:10:30,540 --> 01:10:33,300
+and you're setting 'em up for failure when you do that.
+
+1566
+01:10:33,300 --> 01:10:35,883
+You know, their second year is all remediation.
+
+1567
+01:10:36,750 --> 01:10:38,626
+They're not gonna be,
+
+1568
+01:10:38,626 --> 01:10:39,510
+they're not all gonna be university bound
+
+1569
+01:10:39,510 --> 01:10:41,340
+right outta high school.
+
+1570
+01:10:41,340 --> 01:10:42,990
+So I think every high school should have
+
+1571
+01:10:42,990 --> 01:10:44,610
+a CTE pathway requirement.
+
+1572
+01:10:44,610 --> 01:10:46,620
+The high school I taught at did have a CTE
+
+1573
+01:10:46,620 --> 01:10:47,913
+pathway requirement.
+
+1574
+01:10:49,590 --> 01:10:52,200
+We also had an eight period schedule,
+
+1575
+01:10:52,200 --> 01:10:54,510
+which is huge as a split block.
+
+1576
+01:10:54,510 --> 01:10:56,250
+So we were project based focused.
+
+1577
+01:10:56,250 --> 01:10:58,530
+So your classes were an hour and a half long
+
+1578
+01:10:58,530 --> 01:11:00,720
+and is very project focused.
+
+1579
+01:11:00,720 --> 01:11:03,090
+So, you know, a lot of high schools
+
+1580
+01:11:03,090 --> 01:11:05,190
+are still a six period schedule
+
+1581
+01:11:05,190 --> 01:11:06,570
+and they put 'em university bound,
+
+1582
+01:11:06,570 --> 01:11:08,370
+which means they have no opportunity
+
+1583
+01:11:08,370 --> 01:11:12,183
+for CTE classes in their first two years of high school.
+
+1584
+01:11:13,410 --> 01:11:15,720
+So I don't know, I don't mean to bash all the high schools.
+
+1585
+01:11:15,720 --> 01:11:19,770
+I love the high schools, but yeah, they need
+
+1586
+01:11:19,770 --> 01:11:21,620
+to be more forward thinking for sure.
+
+1587
+01:11:22,680 --> 01:11:25,020
+- [Host] There we go, that brings us back to the future
+
+1588
+01:11:25,020 --> 01:11:28,780
+and your future hopefully will be including
+
+1589
+01:11:29,760 --> 01:11:32,600
+helping me thank the panel for all their great work.
+
+1590
+01:11:32,600 --> 01:11:35,130
+(audience applauding)
+
+1591
+01:11:35,130 --> 01:11:40,130
+And please come up and say hello, ask more questions,
+
+1592
+01:11:40,350 --> 01:11:42,795
+but I know other folks are getting ready to move on
+
+1593
+01:11:42,795 --> 01:11:44,400
+to the next event.
+
+1594
+01:11:44,400 --> 01:11:46,993
+And so thank you all and enjoy the rest of the summit.
+
+1595
+01:11:46,993 --> 01:11:48,511
+- You know, put your information.
+
+1596
+01:11:48,511 --> 01:11:49,800
+- Yeah will do and we're all connected
+
+1597
+01:11:49,800 --> 01:11:51,273
+through email from Kevin.

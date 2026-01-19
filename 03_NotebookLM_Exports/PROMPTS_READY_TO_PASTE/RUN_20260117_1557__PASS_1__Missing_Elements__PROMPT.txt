@@ -1,0 +1,17 @@
+Using only the provided session transcripts, identify “missing elements” across the conference sessions.
+
+Define a missing element as a topic, use case, example, or implementation detail that meets one or more of the following conditions:
+1) Audience members explicitly asked for it, but panel responses did not provide concrete, actionable detail.
+2) A session implied coverage of a topic (e.g., governance, training, use cases, workforce, evaluation), but did not explain it with sufficient depth, specificity, or examples.
+3) The topic appeared across multiple sessions, but was discussed inconsistently or only at a high level.
+4) One or two sessions provided strong, concrete examples, while other sessions addressing the same topic did not.
+
+For each missing element identified, provide:
+- A short description of what is missing
+- Which condition(s) above it meets (1–4)
+- Evidence from the transcripts (quotes or paraphrased statements with Session_ID references)
+- Why this missing element matters for future programming
+
+Do not introduce external standards or personal opinions. Base all observations strictly on patterns within the transcripts.
+
+Return the output as a numbered list (1., 2., 3., ...). One finding per number.

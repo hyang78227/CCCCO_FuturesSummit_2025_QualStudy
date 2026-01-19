@@ -1,0 +1,15 @@
+Using only the provided session transcripts, identify key learnings that emerge across the conference sessions.
+
+Define a “key learning” as a substantive insight or lesson that:
+- Appears across multiple sessions, OR
+- Is articulated with particular clarity, specificity, or practical relevance in one or more sessions.
+
+For each key learning identified, provide:
+- A concise learning statement
+- Session_IDs where it appears
+- Speaker role(s) associated with the learning
+- 1–2 supporting quotes with Session_ID references
+
+Do not summarize individual sessions. Do not introduce external interpretation or opinion. Base all key learnings strictly on transcript evidence.
+
+Return the output as a numbered list (1., 2., 3., ...). One finding per number.

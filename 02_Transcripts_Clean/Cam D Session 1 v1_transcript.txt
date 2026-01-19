@@ -1,0 +1,85 @@
+Panelist 1: All, not just in the education sector, but just overall, all around. And this is one way we can do that by preserving what we're all worried about, right? We're gonna lose our credibility for critical thinking, and, you know, our ability to be unique in society and all that stuff, even though, you know, don't know that we have that much control of it. It's really moving towards that progress with humans at the center of it all, truly, truly, to really preserve any of these human elements. Yeah.
+
+Fabiola: I actually wanna add to this. I think a lot of us, and a lot of us here, you know, we teach first-generation college students who went to schools where they were told what to write, when to write, how many words, spacing. I mean, in a way, they were told what to think. So, when you actually ask them, "What do you think?" "I don't know, what should I think?"
+
+Panelist 1: Mm-hm.
+
+Fabiola: Okay? So, that whole idea of like, you know, how do we teach students to read critically, you know, that's a struggle. We have to come up with creative tools. And this is where I'm gonna do a plugin for like Playlab. If you don't know what Playlab is, it's a chatbot that you build. Your corazon, your heart builds it. You build that, as we call it, vibe coding, or that narrative of how you want it to perform, how you want it to help.
+
+And so for me, for example, I know I think of myself when it's like, you know, that story I gave you about Salomon Huerta, I was looking at his art, okay? He actually got a MacArthur Genius Award and I didn't get it. It's like, when he asked me, "What do you think?" I was like, "I don't know," okay? But when he explained to me, the process, I was able to, you know, come up with an answer.
+
+So with PlayLab, you know, I built the mechanism to enable students to ask it, to talk to the student, according to their passions, according to their hobbies, according to what they're into. For example, if a student is a basketball player, they can talk to our chatbot that's connected to our textbook and say, "Look, I play basketball. Professor's asking me about intersectionality. I don't really get it." And guess what it'll do. It'll talk to the student. It'll actually be like, "Oh, don't worry. I know it's hard." Well, I hear the voice in my head. You know, I wish it could have the little avatar 'cause it'd be like, "Ah, don't worry. That's a fancy word, isn't it?" You know? And so I added those like vernacular words, even some Gen Z you know, lingo to be like, you know, you know what you're saying is, you know, is quite cap. But, you know, I don't also wanna be ingenuous. I do wanna say, I don't wanna be ingenuous. I've been struggling with that.
+
+But my point is, is that this is where, as practitioners, we can use a tool to help the students be able to get to that point where they can just say, is it good? And if it's not, why do you feel this way, you know? And so that is still a challenge for a lot of our students. That's just critical thinking is still something that they struggle with. I've said this story before, like, my sister was a straight A student in high school, but when she went into college, she started failing 'cause my sister, she would memorize. She was one of those that would spend hours memorizing and would get straight A's. When she went to college, she couldn't answer the question, "What do you think?" And like, "What do you mean, what do I think?" So, just that idea of just the critical thinking, like you said, is still something, you know, we struggle with.
+
+Panelist 2: Yeah, I think that's interesting because one thing that I'm doing with my students now is, because there is AI and it's about them being able to assess the output that AI is giving them and all that, but what kind of a thinker are you? Are you waiting to be told what to think? Are you a blank page that's waiting to have an answer input? Do you have an answer? I'm trying to see what other people say so you can decide what you think about your answer. You know, kind of that back and forth. You're waiting for that.
+
+And so I am trying to cultivate like, okay, let's be aware of our thinking style, right? 'Cause that's gonna matter when you're looking at AI, like when I enter stuff in AI, I tend to have an answer already in my head, right? And if it's contrary to my answer, like, okay, but why? If it makes a really good point, you know, I'm willing to change my response. You know, and I think that is important in critical thinking is like when you find a flaw in your own perfect answer, being willing to admit that and, you know, that's okay to like, oh yeah, okay, that makes more sense. And so for me, I think it's really curiosity too. You have to have curiosity. You have to crave to wanna know, right?
+
+And so, one way that I would say as an educator is currently, I'm trying to help my students and I don't know, I feel, again, I feel a little like, you know, arrogant to be like, I'm helping them, you know, understand their thinking process, right? Because maybe they do on some level, and I don't wanna dismiss that, but being aware of it too, just like, okay, well what kind of a thinker are you, right, before you start jumping into AI, 'cause I fall into that trap with AI. Sometimes, I love AI 'cause they give me answers really quick, right? Like right away. And sometimes I don't even trust myself doing that because I'm like, but now I don't know what I was thinking.
+
+Fabiola: Yeah.
+
+Panelist 2: Right. Like now I don't know if that was my thought process. And I like to know my thought process. I like to know if it's coming from what I'm thinking of. You know?
+
+Panelist 3: Did you find the word? What was it? I'm sorry, and you were looking for? The word, the psychological term? Oh, it might have been in a different article. Were you thinking about the one where the student or the child who actually committed suicide? No.
+
+Fabiola: No, no.
+
+Panelist 3: That's a different one. No, no, no. Oh, darn.
+
+Wendy: Could I say something?
+
+Panelist 3: Yeah, what were you saying, Wendy, you know.
+
+Fabiola: Yeah, go for it.
+
+Wendy: I mean, there's an insidious dimension here, though. I wanna be slightly contrarian. Just like, I worry about, so when expert practitioners use these systems, like us, we have years of training without these technologies that we can use as our basis. And I worry, you know, like for your students, for instance, like there is something I believe about that cognitive friction of encountering something that is difficult and pushing into it and past it that's really important for building your own self-confidence. And so I worry sometimes that, like, when do the training wheels come off? You know, that's, I think, the thing we're still not sure about. And I worry in the same way that, you know, we didn't know really that social media would have all of these consequences. So, I feel like we're experimenting with our kids sometimes. I mean, we sort of have no choice. But as humanists, we are very good at thinking in four different ways, simultaneously. And I think we have to keep that, you know, Jiminy Cricket, right, in mind.
+
+Moderator: In what ways can humanities provide a guiding lens to how AI is integrated into education and society?
+
+Fabiola: I think you had a brilliant idea on the critical STS. Okay. I'm unaware of it. So I would love for you to take the lead on this.
+
+Wendy: Okay, I made this one comment about how I'd make a plug for a whole discipline, which is science technology studies, STS, and critical STS, which has really critiqued the scientific development in the 19th and 20th century. And it really helped to help us see and historicize the ways in which this was a sociological phenomenon. So I think that there are frameworks that come from there. I'll just mention a couple books and I'll say something. So, you know, one that people probably know is, "Design Justice" by Costanza-Chock. But there's also this great book by Arturo Escobar, "Designs for the Pluriverse." And then the other thing, I have some more, like "Race After Technology," Ruha Benjamin's classic book and "Automating Inequality."
+
+But I also have become more aware of other dimensions. My colleague, Megan Moody, Santa Cruz works in disability studies. And with her, I've been reading a lot of work in critical disability studies, and she's made the point to me that, you know, with these, you know, future AI individuals, we all have a kind of disability with respect to it. And so disability studies, which emphasizes the way in which people as individuals navigate a world that isn't designed for them, is a really effective lens for thinking about the future. So there's a book that she recommended by Sara Hendren, called, "What Can a Body Do: How We Meet the Built World," that has been very helpful for me in thinking about things. And I should just say, as humanists, one thing that we're really good at is thinking about corner cases, thinking about individual instances, thinking about the long tail, right? And that is not something that people in the AI industry really care about, but we should care about because we care about people. And all of these scholars really reckon with the way the technology, as a discipline, hasn't thought about its impacts on individual people. And that's something that we need to bring again and again to our students. And it's something that these books and their frameworks, but also narrative is so powerful for. There's a reason why we crave narrative, right? Because it makes sense to us in a way.
+
+Fabiola: Yeah.
+
+Moderator: Yeah, so because this is about humanities, just one fun last question. What brings you joy, Rachel?
+
+Rachel: That's a simple one. It's just my family and my dogs.
+
+Moderator: Yay. Family and dogs.
+
+Rachel: Spending time with them.
+
+Moderator: What brings you joy?
+
+Panelist 4: What brings me joy? I don't know. I really like making art.
+
+Moderator: Okay. Ah, right.
+
+Fabiola: We'll let your family know they weren't on the top.
+
+Panelist 4: They already know.
+
+Panelist 2: I have a new joy, and it was introduced to me from Michelle, like, I wanna look for daily awe moments. So, I'm like taking my camera and taking pictures of like, "Oh, look at this flower. Wow." So that's my new joy. I'm gonna find daily awe.
+
+Moderator: That's awesome. So, I wanna thank everyone. If you see us around, you wanna have a conversation, I think lunch is next? All right! Don't want to keep you away from that.
+
+Panelist: Yeah.
+
+Panelist 1: Thank you.
+
+Moderator: Thank you, everybody. Thank you to our panelists.
+
+Rachel: Thank you.
+
+Panelist 4: Whoo!
+
+Moderator: Thank you, Fabiola.
+
+Fabiola: That was so fun.
+
+Panelist 2: That was so fun!

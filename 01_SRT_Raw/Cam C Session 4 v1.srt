@@ -1,0 +1,6047 @@
+1
+00:00:05,040 --> 00:00:05,873
+- Okay.
+
+2
+00:00:05,873 --> 00:00:06,840
+Thank you all for being here,
+
+3
+00:00:06,840 --> 00:00:09,360
+and thanks for your patience as we get set up.
+
+4
+00:00:09,360 --> 00:00:10,530
+We're gonna be doing a little bit
+
+5
+00:00:10,530 --> 00:00:13,710
+of musical laptops this morning,
+
+6
+00:00:13,710 --> 00:00:17,430
+but I think we've got all the technology pieces settled,
+
+7
+00:00:17,430 --> 00:00:20,940
+so it's great to see so many of you here for this.
+
+8
+00:00:20,940 --> 00:00:25,020
+We've got two great panelists with us here today,
+
+9
+00:00:25,020 --> 00:00:27,570
+so I'll do full introductions in a minute.
+
+10
+00:00:27,570 --> 00:00:30,240
+But Juliet Rothenberg, who's the product director
+
+11
+00:00:30,240 --> 00:00:33,810
+of Earth & Resilience AI at Google,
+
+12
+00:00:33,810 --> 00:00:37,590
+and Gaurav Khanna, AI executive at Cisco Systems.
+
+13
+00:00:37,590 --> 00:00:39,060
+And then I'm Carla Grande.
+
+14
+00:00:39,060 --> 00:00:40,050
+I am at
+
+15
+00:00:40,050 --> 00:00:42,090
+the California Community College Chancellor's Office.
+
+16
+00:00:42,090 --> 00:00:44,580
+I'm the chancellor's senior advisor on climate
+
+17
+00:00:44,580 --> 00:00:46,590
+and the lead climate fellow.
+
+18
+00:00:46,590 --> 00:00:49,180
+And so this is
+
+19
+00:00:51,060 --> 00:00:52,200
+an exciting panel,
+
+20
+00:00:52,200 --> 00:00:54,210
+like, I'm really excited to hear from them.
+
+21
+00:00:54,210 --> 00:00:55,980
+But one of the conversations
+
+22
+00:00:55,980 --> 00:00:58,830
+that we have a lot within the chancellor's office,
+
+23
+00:00:58,830 --> 00:01:01,260
+and as we're talking to colleges
+
+24
+00:01:01,260 --> 00:01:03,687
+about the climate change work
+
+25
+00:01:03,687 --> 00:01:04,830
+and the AI work
+
+26
+00:01:04,830 --> 00:01:07,800
+is how do you reconcile those two things?
+
+27
+00:01:07,800 --> 00:01:09,600
+So this comes up a lot with students,
+
+28
+00:01:09,600 --> 00:01:12,840
+it comes up a lot with our climate team,
+
+29
+00:01:12,840 --> 00:01:15,367
+it's come up with our board of governors asking us, like,
+
+30
+00:01:15,367 --> 00:01:18,540
+"How can you have these two areas of focus
+
+31
+00:01:18,540 --> 00:01:21,660
+that seem like they're in competition with each other?"
+
+32
+00:01:21,660 --> 00:01:23,640
+And so just to give you a little bit,
+
+33
+00:01:23,640 --> 00:01:25,740
+you've heard a lot about the AI work
+
+34
+00:01:25,740 --> 00:01:27,630
+that we're doing at the chancellor's office,
+
+35
+00:01:27,630 --> 00:01:31,410
+and we've heard a lot of exciting opportunities
+
+36
+00:01:31,410 --> 00:01:33,450
+that AI provides.
+
+37
+00:01:33,450 --> 00:01:36,000
+But I wanna just share a little bit about the climate work
+
+38
+00:01:36,000 --> 00:01:38,190
+that we're doing before I turn it over.
+
+39
+00:01:38,190 --> 00:01:40,953
+So, under Vision 2030,
+
+40
+00:01:41,850 --> 00:01:45,060
+the 116 California Community Colleges
+
+41
+00:01:45,060 --> 00:01:47,820
+have been asked to lead the way in climate action.
+
+42
+00:01:47,820 --> 00:01:50,940
+And so trying to take a holistic approach to that,
+
+43
+00:01:50,940 --> 00:01:53,910
+looking at opportunities for community engagement,
+
+44
+00:01:53,910 --> 00:01:57,300
+workforce development, facilities and operations,
+
+45
+00:01:57,300 --> 00:02:01,410
+so minimizing our greenhouse gas emissions from our campuses
+
+46
+00:02:01,410 --> 00:02:05,700
+and also integrating climate action into the curriculum.
+
+47
+00:02:05,700 --> 00:02:06,990
+So the two speakers
+
+48
+00:02:06,990 --> 00:02:08,850
+who we're gonna hear from today
+
+49
+00:02:08,850 --> 00:02:10,650
+are gonna talk with us
+
+50
+00:02:10,650 --> 00:02:13,170
+about kind of two sides of that,
+
+51
+00:02:13,170 --> 00:02:15,780
+the climate AI paradox,
+
+52
+00:02:15,780 --> 00:02:18,210
+so both potential solutions
+
+53
+00:02:18,210 --> 00:02:20,850
+that AI can bring to climate challenges
+
+54
+00:02:20,850 --> 00:02:22,050
+and also some
+
+55
+00:02:22,050 --> 00:02:26,310
+of the energy consumption issues that we're dealing with.
+
+56
+00:02:26,310 --> 00:02:28,290
+And I think the speaker this morning
+
+57
+00:02:28,290 --> 00:02:30,240
+really set us up nicely for that.
+
+58
+00:02:30,240 --> 00:02:33,180
+So they're gonna share a little bit about their work,
+
+59
+00:02:33,180 --> 00:02:35,130
+and then I've got some questions for them,
+
+60
+00:02:35,130 --> 00:02:37,440
+but I also want to make sure that we save time
+
+61
+00:02:37,440 --> 00:02:39,120
+for audience questions.
+
+62
+00:02:39,120 --> 00:02:41,070
+So please, as they're talking,
+
+63
+00:02:41,070 --> 00:02:42,660
+think about what questions you have,
+
+64
+00:02:42,660 --> 00:02:45,780
+because I will give you all an opportunity
+
+65
+00:02:45,780 --> 00:02:48,090
+to ask questions as we go.
+
+66
+00:02:48,090 --> 00:02:50,100
+So without further ado,
+
+67
+00:02:50,100 --> 00:02:53,130
+I will start with Juliet.
+
+68
+00:02:53,130 --> 00:02:54,900
+So Juliet is a product director
+
+69
+00:02:54,900 --> 00:02:58,920
+of Earth & Resilience AI at Google,
+
+70
+00:02:58,920 --> 00:03:00,930
+where her teams lead over 20 projects
+
+71
+00:03:00,930 --> 00:03:04,350
+focused on applying AI to enable a more resilient earth.
+
+72
+00:03:04,350 --> 00:03:06,330
+Her team's work was the sole basis
+
+73
+00:03:06,330 --> 00:03:08,760
+for Google being awarded Fast Company's
+
+74
+00:03:08,760 --> 00:03:12,570
+World Changing Company of the Year in 2024.
+
+75
+00:03:12,570 --> 00:03:15,090
+Juliet has focused on energy, transportation,
+
+76
+00:03:15,090 --> 00:03:17,310
+and resilience for the past 20 years
+
+77
+00:03:17,310 --> 00:03:21,030
+and has worked in AI at Alphabet for the past eight.
+
+78
+00:03:21,030 --> 00:03:24,390
+Juliet previously led the enterprise PM team at DeepMind
+
+79
+00:03:24,390 --> 00:03:27,390
+across industrial, efficiency, renewables,
+
+80
+00:03:27,390 --> 00:03:29,520
+language, and document AI.
+
+81
+00:03:29,520 --> 00:03:31,380
+Before DeepMind, Juliet had
+
+82
+00:03:31,380 --> 00:03:34,110
+the in-car and app experiences at Waymo,
+
+83
+00:03:34,110 --> 00:03:35,640
+and she led the cross-company launch
+
+84
+00:03:35,640 --> 00:03:39,000
+of Waymo's user-facing service.
+
+85
+00:03:39,000 --> 00:03:42,300
+So I am going to start off with Juliet
+
+86
+00:03:42,300 --> 00:03:43,833
+and ask her,
+
+87
+00:03:45,390 --> 00:03:50,160
+please share with us, in your perspective,
+
+88
+00:03:50,160 --> 00:03:52,410
+AI's potential for solving
+
+89
+00:03:52,410 --> 00:03:54,120
+some of these environmental issues
+
+90
+00:03:54,120 --> 00:03:56,523
+and helping to save our planet.
+
+91
+00:03:57,540 --> 00:03:59,130
+- Thank you very much, Carla,
+
+92
+00:03:59,130 --> 00:04:00,480
+and thank you everyone for being here.
+
+93
+00:04:00,480 --> 00:04:03,543
+It's an honor for me to be here at a personal level as well.
+
+94
+00:04:04,500 --> 00:04:06,240
+My mom has spent 20 years working
+
+95
+00:04:06,240 --> 00:04:07,710
+in the community college industry,
+
+96
+00:04:07,710 --> 00:04:10,380
+and it's something that means a ton to me
+
+97
+00:04:10,380 --> 00:04:11,820
+to be able to give back in this way.
+
+98
+00:04:11,820 --> 00:04:13,980
+So, sorry, sometimes I get sentimental
+
+99
+00:04:13,980 --> 00:04:15,270
+when I think about where I've come from
+
+100
+00:04:15,270 --> 00:04:16,743
+and where I get to be now.
+
+101
+00:04:18,180 --> 00:04:20,310
+But let's talk about what we get to do, right?
+
+102
+00:04:20,310 --> 00:04:23,403
+And what can we do with AI and solutions in this space?
+
+103
+00:04:24,690 --> 00:04:27,480
+We're lucky to have a whole variety of different areas.
+
+104
+00:04:27,480 --> 00:04:29,820
+And Carla, when you asked me to speak initially,
+
+105
+00:04:29,820 --> 00:04:32,910
+I thought I can give an overview of a number of them
+
+106
+00:04:32,910 --> 00:04:34,560
+and then we can dig into any
+
+107
+00:04:34,560 --> 00:04:36,180
+that anyone has questions around.
+
+108
+00:04:36,180 --> 00:04:38,400
+But I just wanna give a flavor of the type of problems
+
+109
+00:04:38,400 --> 00:04:40,170
+that AI can solve.
+
+110
+00:04:40,170 --> 00:04:42,210
+So we'll start out with talking about solutions
+
+111
+00:04:42,210 --> 00:04:45,240
+in transportation and energy.
+
+112
+00:04:45,240 --> 00:04:49,110
+How many of you like stop-and-go traffic?
+
+113
+00:04:49,110 --> 00:04:51,060
+Nobody, right? (laughs)
+
+114
+00:04:51,060 --> 00:04:52,410
+Turns out the climate doesn't like
+
+115
+00:04:52,410 --> 00:04:54,150
+stop-and-go traffic either.
+
+116
+00:04:54,150 --> 00:04:56,910
+Pollution at intersections is 29 times higher
+
+117
+00:04:56,910 --> 00:04:58,440
+than on open roads,
+
+118
+00:04:58,440 --> 00:05:00,870
+and over half of that comes from vehicles
+
+119
+00:05:00,870 --> 00:05:02,970
+accelerating after they stop.
+
+120
+00:05:02,970 --> 00:05:05,340
+And so what our Project Greenlight team has been doing
+
+121
+00:05:05,340 --> 00:05:09,030
+is using Google Maps driving trends together with AI
+
+122
+00:05:09,030 --> 00:05:12,210
+to help traffic engineers make small changes
+
+123
+00:05:12,210 --> 00:05:13,050
+to traffic lights,
+
+124
+00:05:13,050 --> 00:05:16,177
+think, take a few seconds off of the quote unquote,
+
+125
+00:05:16,177 --> 00:05:18,540
+"green time" from this direction
+
+126
+00:05:18,540 --> 00:05:21,030
+and give a few more seconds to this direction,
+
+127
+00:05:21,030 --> 00:05:23,370
+or coordinate this one traffic light
+
+128
+00:05:23,370 --> 00:05:24,690
+with another traffic light.
+
+129
+00:05:24,690 --> 00:05:28,200
+And what we've seen is that traffic engineers
+
+130
+00:05:28,200 --> 00:05:31,140
+are able to change an intersection in a matter of minutes,
+
+131
+00:05:31,140 --> 00:05:33,390
+and we've seen up to 30% reduction
+
+132
+00:05:33,390 --> 00:05:37,260
+in stop-and-go traffic, up to 10% reduction in emissions.
+
+133
+00:05:37,260 --> 00:05:39,930
+We're now live in over 20 cities around the world,
+
+134
+00:05:39,930 --> 00:05:44,580
+including Boston, my hometown of Seattle,
+
+135
+00:05:44,580 --> 00:05:48,720
+Rio de Janeiro, Jakarta, Indonesia, Bangalore,
+
+136
+00:05:48,720 --> 00:05:50,100
+a whole variety of cities
+
+137
+00:05:50,100 --> 00:05:53,040
+where we're seeing this capability generalize
+
+138
+00:05:53,040 --> 00:05:54,810
+and expand really quickly.
+
+139
+00:05:54,810 --> 00:05:55,643
+I've been to a number
+
+140
+00:05:55,643 --> 00:05:57,510
+of different traffic engineering centers around the world.
+
+141
+00:05:57,510 --> 00:05:58,680
+They're really fun to visit, by the way.
+
+142
+00:05:58,680 --> 00:06:00,870
+They have a lot of screens up everywhere.
+
+143
+00:06:00,870 --> 00:06:03,060
+And traffic engineers try to get
+
+144
+00:06:03,060 --> 00:06:05,400
+to every traffic light in their city every five years
+
+145
+00:06:05,400 --> 00:06:06,233
+to retime it,
+
+146
+00:06:06,233 --> 00:06:09,090
+because their cities and their worlds are changing.
+
+147
+00:06:09,090 --> 00:06:10,560
+You ask them whether they do that or not,
+
+148
+00:06:10,560 --> 00:06:11,610
+and they say, "No, of course I don't.
+
+149
+00:06:11,610 --> 00:06:12,443
+I don't have time.
+
+150
+00:06:12,443 --> 00:06:13,950
+I can't get to all of these intersections."
+
+151
+00:06:13,950 --> 00:06:17,820
+And so AI is really able to help accelerate their ability
+
+152
+00:06:17,820 --> 00:06:19,860
+to get their work done to help us move
+
+153
+00:06:19,860 --> 00:06:22,830
+in a more sustainable way around cities.
+
+154
+00:06:22,830 --> 00:06:25,290
+And I think that this really shows the power of AI, right?
+
+155
+00:06:25,290 --> 00:06:26,550
+I mean, I'm sure we've all noticed
+
+156
+00:06:26,550 --> 00:06:29,520
+just how quickly AI has shifted,
+
+157
+00:06:29,520 --> 00:06:33,870
+and with the beauty of AI's speed and scale
+
+158
+00:06:33,870 --> 00:06:36,030
+is that you can then get speed and scale
+
+159
+00:06:36,030 --> 00:06:38,520
+across other industries and other infrastructure
+
+160
+00:06:38,520 --> 00:06:40,677
+where we need that for sustainability solutions.
+
+161
+00:06:40,677 --> 00:06:43,893
+And so Greenlight is one example of that.
+
+162
+00:06:45,630 --> 00:06:47,367
+How many of you're familiar with airplane contrails?
+
+163
+00:06:47,367 --> 00:06:48,450
+Has anybody heard of this
+
+164
+00:06:48,450 --> 00:06:50,520
+as a sustainability and a climate solution?
+
+165
+00:06:50,520 --> 00:06:52,470
+Yes, okay, that makes me very happy to hear,
+
+166
+00:06:52,470 --> 00:06:56,280
+because previously, prior to our team working on this,
+
+167
+00:06:56,280 --> 00:06:57,690
+basically no one would've raised
+
+168
+00:06:57,690 --> 00:06:58,800
+their hand in a room like this.
+
+169
+00:06:58,800 --> 00:06:59,633
+And now we have a few,
+
+170
+00:06:59,633 --> 00:07:01,560
+so I hope after this, all of you will be able
+
+171
+00:07:01,560 --> 00:07:03,690
+to raise your hand with what contrails are.
+
+172
+00:07:03,690 --> 00:07:06,780
+But they're those little wispy clouds behind planes.
+
+173
+00:07:06,780 --> 00:07:08,520
+They're called a contrail.
+
+174
+00:07:08,520 --> 00:07:10,500
+And the thing that's interesting about contrails
+
+175
+00:07:10,500 --> 00:07:12,120
+is they're responsible for over 1/3
+
+176
+00:07:12,120 --> 00:07:14,460
+of aviation's warming impact.
+
+177
+00:07:14,460 --> 00:07:17,130
+Usually you think of fuel, right?
+
+178
+00:07:17,130 --> 00:07:19,680
+But contrails are actually really significantly warming.
+
+179
+00:07:19,680 --> 00:07:21,210
+They come from cirrus clouds.
+
+180
+00:07:21,210 --> 00:07:22,710
+If any of you are outdoorsy
+
+181
+00:07:22,710 --> 00:07:24,030
+and you like to camp,
+
+182
+00:07:24,030 --> 00:07:28,680
+you know that cloudy nights are warmer than cool nights,
+
+183
+00:07:28,680 --> 00:07:29,513
+or clear nights.
+
+184
+00:07:29,513 --> 00:07:31,560
+The way that contrails work is very similar.
+
+185
+00:07:31,560 --> 00:07:34,530
+They trap heat into the Earth's atmosphere at night.
+
+186
+00:07:34,530 --> 00:07:38,760
+And we've used AI to predict where contrails will form
+
+187
+00:07:38,760 --> 00:07:41,580
+and had pilots in live flights
+
+188
+00:07:41,580 --> 00:07:43,350
+adjust the altitude of their flight
+
+189
+00:07:43,350 --> 00:07:44,730
+just like they do for turbulence,
+
+190
+00:07:44,730 --> 00:07:46,110
+like you've probably seen,
+
+191
+00:07:46,110 --> 00:07:48,810
+and they've reduced contrails by over 50%.
+
+192
+00:07:48,810 --> 00:07:50,250
+We've done this with a number of flights
+
+193
+00:07:50,250 --> 00:07:51,660
+with American Airlines.
+
+194
+00:07:51,660 --> 00:07:55,110
+We're now working with EU air traffic control actually,
+
+195
+00:07:55,110 --> 00:07:57,300
+where over a significant amount of airspace in Europe,
+
+196
+00:07:57,300 --> 00:07:59,340
+they're actually automatically adjusting
+
+197
+00:07:59,340 --> 00:08:00,630
+the altitude of flights.
+
+198
+00:08:00,630 --> 00:08:02,400
+And what's so exciting about this
+
+199
+00:08:02,400 --> 00:08:05,640
+is for those of you who follow sustainable aviation, right,
+
+200
+00:08:05,640 --> 00:08:08,160
+the other solutions in sustainability and aviation
+
+201
+00:08:08,160 --> 00:08:10,200
+look like electric planes,
+
+202
+00:08:10,200 --> 00:08:12,690
+hydrogen planes, biofuels.
+
+203
+00:08:12,690 --> 00:08:14,520
+We need those solutions too.
+
+204
+00:08:14,520 --> 00:08:17,190
+But those solutions are gonna take decades to scale.
+
+205
+00:08:17,190 --> 00:08:18,990
+And the VP of sustainability
+
+206
+00:08:18,990 --> 00:08:21,630
+for American Airlines went on national TV
+
+207
+00:08:21,630 --> 00:08:23,130
+and said that this is something that can scale
+
+208
+00:08:23,130 --> 00:08:25,290
+across the industry in two to five years.
+
+209
+00:08:25,290 --> 00:08:28,470
+And so that's the power that you can bring of AI,
+
+210
+00:08:28,470 --> 00:08:31,170
+is to really transform industries
+
+211
+00:08:31,170 --> 00:08:33,390
+at a speed and scale that we have not seen
+
+212
+00:08:33,390 --> 00:08:36,270
+through other solutions to date.
+
+213
+00:08:36,270 --> 00:08:38,130
+And we desperately need this speed, right?
+
+214
+00:08:38,130 --> 00:08:39,780
+I think none of us in this room probably need
+
+215
+00:08:39,780 --> 00:08:42,180
+to be convinced that we have to act very quickly
+
+216
+00:08:43,050 --> 00:08:45,390
+from a sustainability standpoint.
+
+217
+00:08:45,390 --> 00:08:47,100
+Oh, this is just a picture of how it works.
+
+218
+00:08:47,100 --> 00:08:48,510
+These are contrails on the left,
+
+219
+00:08:48,510 --> 00:08:50,490
+you can see contrail from the ground
+
+220
+00:08:50,490 --> 00:08:51,323
+in a photo.
+
+221
+00:08:51,323 --> 00:08:53,220
+On the right, you can see them in satellite imagery.
+
+222
+00:08:53,220 --> 00:08:56,400
+And so we trained an AI model to use satellite imagery
+
+223
+00:08:56,400 --> 00:08:58,020
+to be able to detect contrails.
+
+224
+00:08:58,020 --> 00:09:00,600
+And then we used AI as well,
+
+225
+00:09:00,600 --> 00:09:02,610
+this model coupled with weather data
+
+226
+00:09:02,610 --> 00:09:04,920
+to predict where contrails will form.
+
+227
+00:09:04,920 --> 00:09:07,740
+And so that formed the basis of our work.
+
+228
+00:09:07,740 --> 00:09:11,070
+I drove here today and was a few minutes late.
+
+229
+00:09:11,070 --> 00:09:12,120
+Thank you for your patience.
+
+230
+00:09:12,120 --> 00:09:14,130
+Who else drove here today?
+
+231
+00:09:14,130 --> 00:09:15,150
+Yes?
+
+232
+00:09:15,150 --> 00:09:16,800
+Who used Google Maps?
+
+233
+00:09:16,800 --> 00:09:17,633
+Yeah?
+
+234
+00:09:17,633 --> 00:09:19,020
+Did you notice the green leaf
+
+235
+00:09:19,020 --> 00:09:21,090
+in Google Maps when you were driving?
+
+236
+00:09:21,090 --> 00:09:23,520
+Did you know before what it was?
+
+237
+00:09:23,520 --> 00:09:24,930
+Yeah, a couple dots. Great.
+
+238
+00:09:24,930 --> 00:09:25,770
+This is a great room.
+
+239
+00:09:25,770 --> 00:09:28,950
+So it's our fuel-efficient routing feature.
+
+240
+00:09:28,950 --> 00:09:31,380
+So we share through Google Maps
+
+241
+00:09:31,380 --> 00:09:32,760
+the most fuel-efficient route
+
+242
+00:09:32,760 --> 00:09:35,160
+in cases where it isn't already the fastest,
+
+243
+00:09:35,160 --> 00:09:37,530
+where the time is, you know, maybe just a little bit longer,
+
+244
+00:09:37,530 --> 00:09:38,400
+30 seconds longer,
+
+245
+00:09:38,400 --> 00:09:40,380
+a couple of minutes longer, something like that.
+
+246
+00:09:40,380 --> 00:09:41,850
+And we've seen that this has been able
+
+247
+00:09:41,850 --> 00:09:43,680
+to scale up really beautifully globally.
+
+248
+00:09:43,680 --> 00:09:45,660
+So we're now sharing this
+
+249
+00:09:45,660 --> 00:09:47,820
+with all Google Maps users around the world.
+
+250
+00:09:47,820 --> 00:09:49,620
+You can go into settings and you can turn it off
+
+251
+00:09:49,620 --> 00:09:53,160
+if you like, but the majority of users really appreciate it.
+
+252
+00:09:53,160 --> 00:09:56,920
+And we see that we're able to save megatons of CO2
+
+253
+00:09:58,309 --> 00:10:00,360
+through this work each year.
+
+254
+00:10:00,360 --> 00:10:03,720
+And so it's really able to drive a significant impact.
+
+255
+00:10:03,720 --> 00:10:05,040
+Another example, many of you
+
+256
+00:10:05,040 --> 00:10:06,420
+may have solar.
+
+257
+00:10:06,420 --> 00:10:09,240
+Solars are a great solution in California,
+
+258
+00:10:09,240 --> 00:10:11,610
+but if you have solar,
+
+259
+00:10:11,610 --> 00:10:13,290
+I imagine many of you
+
+260
+00:10:13,290 --> 00:10:15,120
+like the sustainability benefits of it,
+
+261
+00:10:15,120 --> 00:10:17,850
+but most people decide to go solar based on cost.
+
+262
+00:10:17,850 --> 00:10:19,950
+And so Google is an information company
+
+263
+00:10:19,950 --> 00:10:22,170
+and we look to say, "Great, can we provide information
+
+264
+00:10:22,170 --> 00:10:24,240
+so that people can make a well-rounded decision?"
+
+265
+00:10:24,240 --> 00:10:26,310
+And we've used AI models
+
+266
+00:10:26,310 --> 00:10:29,070
+to help model out what the cost savings
+
+267
+00:10:29,070 --> 00:10:30,690
+can be for hundreds of millions
+
+268
+00:10:30,690 --> 00:10:33,660
+of buildings worldwide if they go solar.
+
+269
+00:10:33,660 --> 00:10:35,610
+And what we've seen
+
+270
+00:10:35,610 --> 00:10:39,060
+is that this significantly reduces the time
+
+271
+00:10:39,060 --> 00:10:41,370
+for a someone who's selling solar
+
+272
+00:10:41,370 --> 00:10:44,340
+to convert someone into a purchaser.
+
+273
+00:10:44,340 --> 00:10:46,740
+And it reduces their cost of customer acquisition.
+
+274
+00:10:46,740 --> 00:10:49,710
+So we can actually make it cheaper for people to go solar
+
+275
+00:10:49,710 --> 00:10:52,470
+by providing better information in this way.
+
+276
+00:10:52,470 --> 00:10:54,300
+This is used by a very large percentage
+
+277
+00:10:54,300 --> 00:10:56,220
+of solar installers in the U.S.
+
+278
+00:10:56,220 --> 00:10:58,020
+and increasingly around the world
+
+279
+00:10:58,020 --> 00:11:00,573
+to help build more sustainable solutions.
+
+280
+00:11:01,890 --> 00:11:05,940
+So, that's kind of on the sustainability side.
+
+281
+00:11:05,940 --> 00:11:07,590
+Let's talk a bit more about resilience,
+
+282
+00:11:07,590 --> 00:11:11,070
+because unfortunately, I'm sure many of you
+
+283
+00:11:11,070 --> 00:11:14,760
+have been affected by the climate events
+
+284
+00:11:14,760 --> 00:11:16,080
+that we're already seeing.
+
+285
+00:11:16,080 --> 00:11:18,300
+If you lived in the Bay Area in 2020,
+
+286
+00:11:18,300 --> 00:11:19,680
+I'm sure you remember when the skies
+
+287
+00:11:19,680 --> 00:11:21,420
+were red from wildfires,
+
+288
+00:11:21,420 --> 00:11:24,600
+and we're seeing an increasing number of disasters strike.
+
+289
+00:11:24,600 --> 00:11:27,180
+This has actually been a pretty good year, surprisingly,
+
+290
+00:11:27,180 --> 00:11:29,310
+but of course, you know, we had
+
+291
+00:11:29,310 --> 00:11:30,840
+the flash floods in Texas, right?
+
+292
+00:11:30,840 --> 00:11:33,120
+And we had the fires in LA.
+
+293
+00:11:33,120 --> 00:11:33,953
+Even with that,
+
+294
+00:11:33,953 --> 00:11:35,850
+it's actually been a better than average year.
+
+295
+00:11:35,850 --> 00:11:37,710
+My team manages the crisis events
+
+296
+00:11:37,710 --> 00:11:39,270
+that get sent out to Google users.
+
+297
+00:11:39,270 --> 00:11:41,190
+We send out millions of those every day.
+
+298
+00:11:41,190 --> 00:11:44,940
+And so we monitor around the world disasters
+
+299
+00:11:44,940 --> 00:11:46,590
+and are able to help provide information
+
+300
+00:11:46,590 --> 00:11:48,330
+to people who are in harm's way.
+
+301
+00:11:48,330 --> 00:11:50,250
+And we use AI models
+
+302
+00:11:50,250 --> 00:11:52,833
+as a key part of providing this information.
+
+303
+00:11:54,198 --> 00:11:55,860
+And part of this is because people turn to Google
+
+304
+00:11:55,860 --> 00:11:57,390
+in times of crisis, right?
+
+305
+00:11:57,390 --> 00:12:00,360
+If there's a disaster, what should I do?
+
+306
+00:12:00,360 --> 00:12:02,820
+Let me check the internet, let me see what's going on.
+
+307
+00:12:02,820 --> 00:12:04,170
+And so this has been a natural role
+
+308
+00:12:04,170 --> 00:12:05,643
+that Google has been playing.
+
+309
+00:12:06,480 --> 00:12:07,560
+One of the things that we do,
+
+310
+00:12:07,560 --> 00:12:09,390
+wildfires obviously strike close to home,
+
+311
+00:12:09,390 --> 00:12:11,607
+I was a half mile away from the CCU wildfires
+
+312
+00:12:11,607 --> 00:12:13,323
+and so we were evacuated.
+
+313
+00:12:14,340 --> 00:12:16,200
+And wildfire boundaries are a feature
+
+314
+00:12:16,200 --> 00:12:17,490
+that we've launched since,
+
+315
+00:12:17,490 --> 00:12:19,320
+which have been extraordinarily helpful,
+
+316
+00:12:19,320 --> 00:12:21,450
+live in 27 countries
+
+317
+00:12:21,450 --> 00:12:24,300
+where we show wildfire boundaries straight on Google Maps.
+
+318
+00:12:24,300 --> 00:12:25,470
+So in addition to being able
+
+319
+00:12:25,470 --> 00:12:27,090
+to get your great boundaries from Watch Duty,
+
+320
+00:12:27,090 --> 00:12:29,460
+which is a google.org grantee, by the way,
+
+321
+00:12:29,460 --> 00:12:31,560
+we're very supportive of their work,
+
+322
+00:12:31,560 --> 00:12:34,590
+as well as being able to get them from Cal Fire maps.
+
+323
+00:12:34,590 --> 00:12:36,900
+You can also see boundaries
+
+324
+00:12:36,900 --> 00:12:40,530
+right on Google Maps using AI and satellite imagery.
+
+325
+00:12:40,530 --> 00:12:42,060
+Now, one of the things you might have noticed,
+
+326
+00:12:42,060 --> 00:12:44,850
+and I noticed this very much when we were evacuated,
+
+327
+00:12:44,850 --> 00:12:46,680
+is that current satellite data's
+
+328
+00:12:46,680 --> 00:12:49,320
+not very good when it comes to wildfires.
+
+329
+00:12:49,320 --> 00:12:52,140
+So I was getting updates, if the fire crossed the road,
+
+330
+00:12:52,140 --> 00:12:53,640
+our community would've burned.
+
+331
+00:12:54,480 --> 00:12:55,890
+Fortunately, it didn't.
+
+332
+00:12:55,890 --> 00:12:58,470
+But we were checking satellite inventory constantly,
+
+333
+00:12:58,470 --> 00:13:01,470
+trying to refresh, saying, "Has the fire crossed the road?
+
+334
+00:13:01,470 --> 00:13:02,730
+Is our community safe?"
+
+335
+00:13:02,730 --> 00:13:05,580
+And we got updates twice a day,
+
+336
+00:13:05,580 --> 00:13:07,380
+because that's about how often
+
+337
+00:13:07,380 --> 00:13:09,420
+you can see with that level of granularity.
+
+338
+00:13:09,420 --> 00:13:12,570
+And so our team recently launched the first satellite
+
+339
+00:13:12,570 --> 00:13:14,220
+and a constellation of satellites
+
+340
+00:13:14,220 --> 00:13:16,620
+designed to provide much better data
+
+341
+00:13:16,620 --> 00:13:18,150
+for these types of scenarios,
+
+342
+00:13:18,150 --> 00:13:20,670
+being able to detect a swimming pool-sized wildfire
+
+343
+00:13:20,670 --> 00:13:22,623
+anywhere on Earth within 20 minutes,
+
+344
+00:13:23,610 --> 00:13:26,220
+compared to two to three acres today.
+
+345
+00:13:26,220 --> 00:13:29,670
+So really, really changing up the game using AI
+
+346
+00:13:29,670 --> 00:13:31,890
+to process this massive amount of imagery
+
+347
+00:13:31,890 --> 00:13:34,770
+to be able to provide fast wildfire detection.
+
+348
+00:13:34,770 --> 00:13:37,680
+We need 52 satellites for this constellation to succeed.
+
+349
+00:13:37,680 --> 00:13:38,700
+So far we have one,
+
+350
+00:13:38,700 --> 00:13:40,230
+so it's gonna be a journey,
+
+351
+00:13:40,230 --> 00:13:42,513
+but every journey starts somewhere, right?
+
+352
+00:13:43,507 --> 00:13:45,120
+And we're taking the first step on this
+
+353
+00:13:45,120 --> 00:13:47,850
+in partnership with a nonprofit, the Earth Fire Alliance.
+
+354
+00:13:47,850 --> 00:13:49,980
+If you know people who would like to contribute
+
+355
+00:13:49,980 --> 00:13:53,610
+to making this mission possible, we absolutely welcome that.
+
+356
+00:13:53,610 --> 00:13:55,620
+But it's something that we are very committed to
+
+357
+00:13:55,620 --> 00:13:58,233
+and really excited to drive more of.
+
+358
+00:13:59,790 --> 00:14:02,130
+Floods are another disaster that, you know,
+
+359
+00:14:02,130 --> 00:14:03,600
+less relevant for California,
+
+360
+00:14:03,600 --> 00:14:04,950
+but relevant of course
+
+361
+00:14:04,950 --> 00:14:07,140
+for many other places around the world.
+
+362
+00:14:07,140 --> 00:14:08,880
+And we have a global team.
+
+363
+00:14:08,880 --> 00:14:12,240
+And actually, the work for this flood forecasting
+
+364
+00:14:12,240 --> 00:14:14,310
+started out of one of our teams in the Middle East.
+
+365
+00:14:14,310 --> 00:14:16,380
+That's an AI research team.
+
+366
+00:14:16,380 --> 00:14:19,290
+Floods are one of the most deadly disasters
+
+367
+00:14:19,290 --> 00:14:20,553
+around the world,
+
+368
+00:14:21,810 --> 00:14:24,330
+affecting a tremendous number of people every year.
+
+369
+00:14:24,330 --> 00:14:28,200
+And the other piece that we saw is that flood forecasting
+
+370
+00:14:28,200 --> 00:14:30,630
+and good flood forecasts correlate with GDP.
+
+371
+00:14:30,630 --> 00:14:33,450
+So basically, richer countries have better flood forecasts
+
+372
+00:14:33,450 --> 00:14:34,980
+and poorer, more vulnerable countries
+
+373
+00:14:34,980 --> 00:14:36,240
+have worse flood forecasts.
+
+374
+00:14:36,240 --> 00:14:40,050
+And our team said, "Can we use an AI model to be able
+
+375
+00:14:40,050 --> 00:14:42,870
+to provide more globally equitable flood forecasts
+
+376
+00:14:42,870 --> 00:14:43,950
+around the world
+
+377
+00:14:43,950 --> 00:14:47,340
+so that we could really help with communities who need?"
+
+378
+00:14:47,340 --> 00:14:48,690
+And the answer was yes.
+
+379
+00:14:48,690 --> 00:14:51,090
+We published this work in "Nature,"
+
+380
+00:14:51,090 --> 00:14:52,710
+and we're able to provide
+
+381
+00:14:52,710 --> 00:14:55,950
+European-quality flood forecasts for Africa.
+
+382
+00:14:55,950 --> 00:15:00,210
+We also were able to extend the lead time of floods
+
+383
+00:15:00,210 --> 00:15:02,970
+up to seven days in advance using AI.
+
+384
+00:15:02,970 --> 00:15:06,210
+So instead of saying, "Hey, the flood is here now,"
+
+385
+00:15:06,210 --> 00:15:08,017
+with that same level of accuracy, we could say,
+
+386
+00:15:08,017 --> 00:15:10,800
+"Hey, the flood will be here in seven days,"
+
+387
+00:15:10,800 --> 00:15:12,810
+providing significantly time,
+
+388
+00:15:12,810 --> 00:15:14,760
+for those of you who have lived in flood zones, you know,
+
+389
+00:15:14,760 --> 00:15:17,670
+sandbags for example are one key solution,
+
+390
+00:15:17,670 --> 00:15:19,710
+or protecting livestock and animals
+
+391
+00:15:19,710 --> 00:15:21,720
+or moving your goods onto the second floor.
+
+392
+00:15:21,720 --> 00:15:23,010
+There are a whole variety of solutions
+
+393
+00:15:23,010 --> 00:15:25,560
+that people can take if they have days notice ahead.
+
+394
+00:15:25,560 --> 00:15:27,450
+And so this is something that we provide.
+
+395
+00:15:27,450 --> 00:15:30,750
+These forecasts are freely available via Google Flood Hub
+
+396
+00:15:30,750 --> 00:15:32,310
+for over a hundred countries
+
+397
+00:15:32,310 --> 00:15:35,553
+covering locations where over 700 million people live.
+
+398
+00:15:36,450 --> 00:15:38,130
+So this has been something
+
+399
+00:15:38,130 --> 00:15:40,684
+that's been a big commitment of our team,
+
+400
+00:15:40,684 --> 00:15:41,910
+and it is really important
+
+401
+00:15:41,910 --> 00:15:44,643
+to us from a global equity standpoint.
+
+402
+00:15:45,720 --> 00:15:47,790
+Our work in cyclones also has gotten
+
+403
+00:15:47,790 --> 00:15:50,100
+significant press this summer,
+
+404
+00:15:50,100 --> 00:15:52,890
+and we've already started to see cyclones hit.
+
+405
+00:15:52,890 --> 00:15:54,100
+We recently released
+
+406
+00:15:54,990 --> 00:15:57,900
+together between Google Research and Google DeepMind
+
+407
+00:15:57,900 --> 00:16:00,840
+a breakthrough, experimental cyclones models
+
+408
+00:16:00,840 --> 00:16:02,310
+that can predict both the track
+
+409
+00:16:02,310 --> 00:16:05,880
+and the intensity of cyclones up to 15 days in advance.
+
+410
+00:16:05,880 --> 00:16:07,650
+This is now being tested this season
+
+411
+00:16:07,650 --> 00:16:09,450
+by the National Hurricane Center,
+
+412
+00:16:09,450 --> 00:16:12,150
+as well as some of our partners in Japan
+
+413
+00:16:12,150 --> 00:16:14,640
+for predicting hurricanes.
+
+414
+00:16:14,640 --> 00:16:17,700
+And this recently, sorry for the ugly slide here,
+
+415
+00:16:17,700 --> 00:16:20,580
+but I screenshotted this from one of the former leads
+
+416
+00:16:20,580 --> 00:16:23,700
+of the National Hurricane Center for hurricane forecasting,
+
+417
+00:16:23,700 --> 00:16:26,190
+and Hurricane Aaron at the time this came out
+
+418
+00:16:26,190 --> 00:16:28,500
+was the strongest storm of the year so far.
+
+419
+00:16:28,500 --> 00:16:30,810
+This is just from a few weeks ago.
+
+420
+00:16:30,810 --> 00:16:32,520
+Lower is better on these graphs.
+
+421
+00:16:32,520 --> 00:16:34,200
+These graphs are showing error,
+
+422
+00:16:34,200 --> 00:16:36,720
+and the model that we came out with is the red line.
+
+423
+00:16:36,720 --> 00:16:38,970
+And so we're seeing more accurate predictions
+
+424
+00:16:38,970 --> 00:16:43,500
+for both track and intensity of hurricanes using AI,
+
+425
+00:16:43,500 --> 00:16:45,240
+really driving a significant breakthrough
+
+426
+00:16:45,240 --> 00:16:49,023
+in a way that has not been seen in the past.
+
+427
+00:16:51,600 --> 00:16:54,000
+One other solution here is extreme heat.
+
+428
+00:16:54,000 --> 00:16:56,160
+So we've been working with the city of Miami,
+
+429
+00:16:56,160 --> 00:16:57,120
+the city of Phoenix,
+
+430
+00:16:57,120 --> 00:16:58,780
+15 other cities around the world
+
+431
+00:16:59,640 --> 00:17:02,670
+for being able to help them to understand
+
+432
+00:17:02,670 --> 00:17:06,330
+what policy solutions they can take for reducing heat.
+
+433
+00:17:06,330 --> 00:17:08,640
+You might be familiar with cool roofs,
+
+434
+00:17:08,640 --> 00:17:09,473
+when you paint your roof,
+
+435
+00:17:09,473 --> 00:17:11,730
+white people are familiar with that, yeah?
+
+436
+00:17:11,730 --> 00:17:14,280
+So that's one solution for extreme heat.
+
+437
+00:17:14,280 --> 00:17:17,167
+And if you can give cities the ability to understand,
+
+438
+00:17:17,167 --> 00:17:19,770
+"What is my cool roof coverage at a city level?"
+
+439
+00:17:19,770 --> 00:17:21,270
+That allows 'em to understand
+
+440
+00:17:21,270 --> 00:17:23,250
+what policy tools they have in mind.
+
+441
+00:17:23,250 --> 00:17:25,590
+Also, tree canopy cover is another lever
+
+442
+00:17:25,590 --> 00:17:28,410
+that cities can use to be able to combat heat.
+
+443
+00:17:28,410 --> 00:17:31,590
+And so we provide at the census level data
+
+444
+00:17:31,590 --> 00:17:33,510
+so that cities can understand
+
+445
+00:17:33,510 --> 00:17:35,340
+and predict what will actually happen
+
+446
+00:17:35,340 --> 00:17:39,030
+if they pass policies as well.
+
+447
+00:17:39,030 --> 00:17:42,040
+So that is where I'll leave you,
+
+448
+00:17:42,040 --> 00:17:44,850
+but happy, this is just a smattering of our solutions.
+
+449
+00:17:44,850 --> 00:17:47,160
+You can see there's a lot that AI can do quickly
+
+450
+00:17:47,160 --> 00:17:49,950
+both on the protecting our Earth
+
+451
+00:17:49,950 --> 00:17:51,810
+and on the resilience side,
+
+452
+00:17:51,810 --> 00:17:54,363
+and happy to dive into much more as we get further.
+
+453
+00:17:57,240 --> 00:17:58,860
+- Thank you so much. That's really exciting.
+
+454
+00:17:58,860 --> 00:17:59,940
+And we'll talk more
+
+455
+00:17:59,940 --> 00:18:02,490
+about some of those resources that you shared.
+
+456
+00:18:02,490 --> 00:18:04,110
+Do you wanna go ahead and switch?
+
+457
+00:18:04,110 --> 00:18:05,520
+Okay, thank you.
+
+458
+00:18:05,520 --> 00:18:07,740
+So I'll introduce our second panelist now.
+
+459
+00:18:07,740 --> 00:18:12,120
+Dr. Gaurav Khanna is an AI executive at Cisco Systems.
+
+460
+00:18:12,120 --> 00:18:14,280
+During his 25 year career at Cisco,
+
+461
+00:18:14,280 --> 00:18:15,450
+he's had many roles
+
+462
+00:18:15,450 --> 00:18:18,510
+including managing early-in-career SE programs
+
+463
+00:18:18,510 --> 00:18:20,220
+and founding the first data science
+
+464
+00:18:20,220 --> 00:18:22,440
+and machine learning team in sales.
+
+465
+00:18:22,440 --> 00:18:23,940
+His team pioneered the use
+
+466
+00:18:23,940 --> 00:18:27,870
+of predictive and generative AI systems and sales at Cisco.
+
+467
+00:18:27,870 --> 00:18:30,780
+In his current role, he's focused on guiding customers
+
+468
+00:18:30,780 --> 00:18:34,680
+and their overall AI strategy and business transformation.
+
+469
+00:18:34,680 --> 00:18:37,380
+He's also active fostering strategic partnerships
+
+470
+00:18:37,380 --> 00:18:39,330
+with Cisco and the industry.
+
+471
+00:18:39,330 --> 00:18:42,660
+Teaching and mentoring students have long been a passion.
+
+472
+00:18:42,660 --> 00:18:47,130
+He currently teaches a popular foundational AI ML course
+
+473
+00:18:47,130 --> 00:18:49,800
+at Stanford Continuing Studies
+
+474
+00:18:49,800 --> 00:18:51,870
+and travels frequently to speak about AI
+
+475
+00:18:51,870 --> 00:18:53,370
+and industry forums.
+
+476
+00:18:53,370 --> 00:18:55,530
+Originally from New York, he's been a long-time resident
+
+477
+00:18:55,530 --> 00:18:56,463
+of San Jose.
+
+478
+00:18:58,440 --> 00:19:00,303
+And I will go ahead and,
+
+479
+00:19:01,260 --> 00:19:04,173
+let's see, hopefully.
+
+480
+00:19:12,300 --> 00:19:13,560
+- [Gaurav] If if it doesn't come up, I can.
+
+481
+00:19:13,560 --> 00:19:14,520
+- Okay.
+
+482
+00:19:14,520 --> 00:19:16,380
+- Well, I'll go ahead and ask you your first question then,
+
+483
+00:19:16,380 --> 00:19:17,223
+and we'll hope for the best
+
+484
+00:19:17,223 --> 00:19:18,540
+- [Gaurav] Okay. All right. - with that.
+
+485
+00:19:18,540 --> 00:19:20,850
+How significant is the problem shortfall
+
+486
+00:19:20,850 --> 00:19:23,610
+of the energy needed to power AI systems?
+
+487
+00:19:23,610 --> 00:19:25,740
+Is this something we can overcome?
+
+488
+00:19:25,740 --> 00:19:27,720
+What are the consequences of not being able
+
+489
+00:19:27,720 --> 00:19:29,261
+to meet these power needs?
+
+490
+00:19:29,261 --> 00:19:32,733
+- Okay, I think we'll just wing it.
+
+491
+00:19:34,020 --> 00:19:35,070
+Excellent question, Julie,
+
+492
+00:19:35,070 --> 00:19:37,530
+that's just amazing work that your team's doing.
+
+493
+00:19:37,530 --> 00:19:39,840
+I wanna build on that a little bit.
+
+494
+00:19:39,840 --> 00:19:43,500
+So, I don't know if some of you saw
+
+495
+00:19:43,500 --> 00:19:46,230
+the opening panel this morning with Karen Howe,
+
+496
+00:19:46,230 --> 00:19:47,760
+that was very powerful.
+
+497
+00:19:47,760 --> 00:19:49,260
+So let me build on that a little bit.
+
+498
+00:19:49,260 --> 00:19:52,290
+So the thing that we're talking about when we talk about AI
+
+499
+00:19:52,290 --> 00:19:54,600
+that is the power equation
+
+500
+00:19:54,600 --> 00:19:57,540
+in all of this are these things called data centers.
+
+501
+00:19:57,540 --> 00:19:59,040
+I don't know if you've seen any of 'em.
+
+502
+00:19:59,040 --> 00:20:01,440
+It's not like a place you hang out and, like, have a beer.
+
+503
+00:20:01,440 --> 00:20:03,570
+These are, like, the most boring places you'll go.
+
+504
+00:20:03,570 --> 00:20:06,270
+And, you know, I've worked in them a lot of my life,
+
+505
+00:20:06,270 --> 00:20:08,460
+and it's just banks and banks and banks
+
+506
+00:20:08,460 --> 00:20:10,800
+and racks of servers.
+
+507
+00:20:10,800 --> 00:20:13,470
+And it wasn't a big deal.
+
+508
+00:20:13,470 --> 00:20:14,880
+They're around, I think there are a couple,
+
+509
+00:20:14,880 --> 00:20:17,040
+you know, in this area here,
+
+510
+00:20:17,040 --> 00:20:19,050
+so you don't even notice them as you drive by them.
+
+511
+00:20:19,050 --> 00:20:22,200
+So there were these unassuming warehouses
+
+512
+00:20:22,200 --> 00:20:25,950
+of these servers that powered Google,
+
+513
+00:20:25,950 --> 00:20:27,870
+it powered Facebook,
+
+514
+00:20:27,870 --> 00:20:30,480
+it powered all the different services
+
+515
+00:20:30,480 --> 00:20:32,373
+that you use online.
+
+516
+00:20:33,540 --> 00:20:37,740
+What has happened is these have gone into overdrive with AI,
+
+517
+00:20:37,740 --> 00:20:40,620
+and they are the ones
+
+518
+00:20:40,620 --> 00:20:44,520
+that increasingly they are putting a tax on the grid,
+
+519
+00:20:44,520 --> 00:20:49,520
+and the projections are that by the next five years,
+
+520
+00:20:49,560 --> 00:20:52,440
+they will consume about 13%
+
+521
+00:20:52,440 --> 00:20:54,330
+of all the power in this country.
+
+522
+00:20:54,330 --> 00:20:55,170
+I mean, just think about that.
+
+523
+00:20:55,170 --> 00:20:57,570
+13% of all the power in this country
+
+524
+00:20:57,570 --> 00:20:59,220
+to just power these data centers.
+
+525
+00:21:00,450 --> 00:21:03,030
+There's data out there that predicts
+
+526
+00:21:03,030 --> 00:21:05,640
+that the largest hyperscalers,
+
+527
+00:21:05,640 --> 00:21:07,320
+now, these are the big companies,
+
+528
+00:21:07,320 --> 00:21:11,430
+Google, Meta, Oracle, Microsoft,
+
+529
+00:21:11,430 --> 00:21:13,260
+the largest hyperscalers will consume
+
+530
+00:21:13,260 --> 00:21:16,441
+as much power as the country of Portugal.
+
+531
+00:21:16,441 --> 00:21:18,090
+(chuckles) I mean, you know, if you've been to Portugal,
+
+532
+00:21:18,090 --> 00:21:19,650
+you know this is not a country in standstill.
+
+533
+00:21:19,650 --> 00:21:20,520
+It's a dynamic country.
+
+534
+00:21:20,520 --> 00:21:21,720
+People use power,
+
+535
+00:21:21,720 --> 00:21:24,390
+and just these companies are using as much as a country.
+
+536
+00:21:24,390 --> 00:21:25,980
+So that's what we're getting to.
+
+537
+00:21:25,980 --> 00:21:27,180
+So why is this happening?
+
+538
+00:21:27,180 --> 00:21:28,470
+And I want to get to the consequence,
+
+539
+00:21:28,470 --> 00:21:30,420
+Carla, that you mentioned, 'cause that's important.
+
+540
+00:21:30,420 --> 00:21:33,720
+So the culprits are these things called GPUs,
+
+541
+00:21:33,720 --> 00:21:35,100
+graphic processing units.
+
+542
+00:21:35,100 --> 00:21:37,203
+And they had sort of an unassuming birth, right?
+
+543
+00:21:37,203 --> 00:21:40,230
+They were meant to accelerate video and graphics.
+
+544
+00:21:40,230 --> 00:21:41,940
+So, you know, when I was growing up,
+
+545
+00:21:41,940 --> 00:21:44,430
+the cool kids had a GPU in their PC
+
+546
+00:21:44,430 --> 00:21:46,580
+and they would be able to play video games.
+
+547
+00:21:47,700 --> 00:21:48,660
+As it turns out,
+
+548
+00:21:48,660 --> 00:21:52,020
+AI requires some very specialized math processing.
+
+549
+00:21:52,020 --> 00:21:54,870
+And the same math that was required to accelerate,
+
+550
+00:21:54,870 --> 00:21:56,940
+you know, the shoot 'em up games in video games
+
+551
+00:21:56,940 --> 00:21:58,470
+actually happened to be the same math
+
+552
+00:21:58,470 --> 00:22:00,851
+that powers autonomous vehicles,
+
+553
+00:22:00,851 --> 00:22:02,970
+Bitcoin mining, and AI.
+
+554
+00:22:02,970 --> 00:22:05,190
+So NVIDIA is, like, the luckiest company on earth
+
+555
+00:22:05,190 --> 00:22:06,600
+because (chuckles) they built this thing
+
+556
+00:22:06,600 --> 00:22:07,500
+for video processing,
+
+557
+00:22:07,500 --> 00:22:08,513
+and now all of a sudden they're in the middle
+
+558
+00:22:08,513 --> 00:22:10,233
+of this AI revolution.
+
+559
+00:22:11,310 --> 00:22:13,470
+GPUs were never designed,
+
+560
+00:22:13,470 --> 00:22:15,273
+now, I'm gonna channel my inner Karen Howe,
+
+561
+00:22:15,273 --> 00:22:18,210
+they were never designed to be energy efficient.
+
+562
+00:22:18,210 --> 00:22:20,160
+Never. Because why?
+
+563
+00:22:20,160 --> 00:22:22,380
+Right, they lived in these unassuming data centers.
+
+564
+00:22:22,380 --> 00:22:26,130
+They lived in scientific research facilities
+
+565
+00:22:26,130 --> 00:22:30,300
+that did scientific modeling.
+
+566
+00:22:30,300 --> 00:22:33,150
+So they were contained and yes, they used a lot of power,
+
+567
+00:22:33,150 --> 00:22:35,460
+but they just weren't that many of 'em
+
+568
+00:22:35,460 --> 00:22:38,010
+relatively speaking for most of history.
+
+569
+00:22:38,010 --> 00:22:40,773
+And so there was really no incentive to make them cool.
+
+570
+00:22:42,180 --> 00:22:44,970
+So they burned hot and they burned hotter and hotter.
+
+571
+00:22:44,970 --> 00:22:47,100
+And when AI came about,
+
+572
+00:22:47,100 --> 00:22:48,810
+so this is, I'm talking about 10 years ago,
+
+573
+00:22:48,810 --> 00:22:52,260
+before ChatGPT, GPUs were found,
+
+574
+00:22:52,260 --> 00:22:54,960
+as I mentioned, to accelerate the math for machine learning,
+
+575
+00:22:54,960 --> 00:22:56,400
+what we used to call machine learning,
+
+576
+00:22:56,400 --> 00:22:58,020
+and when Gen AI came out,
+
+577
+00:22:58,020 --> 00:23:00,240
+not only did that spread like wildfire
+
+578
+00:23:00,240 --> 00:23:02,040
+across the world, as we know,
+
+579
+00:23:02,040 --> 00:23:06,030
+but the math required for GPT
+
+580
+00:23:06,030 --> 00:23:08,070
+was even greater than anything we've seen.
+
+581
+00:23:08,070 --> 00:23:11,730
+So just for reference, a ChatGPT query,
+
+582
+00:23:11,730 --> 00:23:12,563
+so when you go into ChatGPT
+
+583
+00:23:12,563 --> 00:23:13,860
+and you put in a prompt,
+
+584
+00:23:13,860 --> 00:23:15,270
+that is 10x the energy
+
+585
+00:23:15,270 --> 00:23:17,460
+it takes for a Google search, okay?
+
+586
+00:23:17,460 --> 00:23:20,610
+And now, you already know that you're getting more
+
+587
+00:23:20,610 --> 00:23:21,963
+out of that than, you know,
+
+588
+00:23:21,963 --> 00:23:23,670
+this is nothing against Google,
+
+589
+00:23:23,670 --> 00:23:26,760
+but GPT search is a lot more information
+
+590
+00:23:26,760 --> 00:23:28,890
+that you're getting certainly than sometimes a set of links.
+
+591
+00:23:28,890 --> 00:23:32,700
+Either way, that energy required to generate that text
+
+592
+00:23:32,700 --> 00:23:34,920
+that you see in front of you is that much greater.
+
+593
+00:23:34,920 --> 00:23:37,140
+So these GPUs are really the culprit here,
+
+594
+00:23:37,140 --> 00:23:38,850
+and they're not getting any cooler.
+
+595
+00:23:38,850 --> 00:23:41,820
+And if you have an industry that is just taking off
+
+596
+00:23:41,820 --> 00:23:43,590
+and everybody needs these GPUs,
+
+597
+00:23:43,590 --> 00:23:44,880
+you can't say, "Well, time out.
+
+598
+00:23:44,880 --> 00:23:47,820
+Stop. Everybody hold up.
+
+599
+00:23:47,820 --> 00:23:48,870
+Let me make these cooler
+
+600
+00:23:48,870 --> 00:23:49,860
+and then you'll get 'em next year."
+
+601
+00:23:49,860 --> 00:23:51,420
+No, it's like, "I need 'em now."
+
+602
+00:23:51,420 --> 00:23:53,850
+And that's part of my job is to talk to customers,
+
+603
+00:23:53,850 --> 00:23:56,430
+and every day we're talking about how many GPUs they need,
+
+604
+00:23:56,430 --> 00:23:57,660
+and I'm painfully aware
+
+605
+00:23:57,660 --> 00:24:01,560
+that what they need to build to run these GPUs
+
+606
+00:24:01,560 --> 00:24:03,810
+and the energy they need is gargantuan.
+
+607
+00:24:03,810 --> 00:24:06,600
+So let me share kind of where we're going.
+
+608
+00:24:06,600 --> 00:24:07,587
+I mentioned that these data centers
+
+609
+00:24:07,587 --> 00:24:08,910
+are gonna take all this energy.
+
+610
+00:24:08,910 --> 00:24:10,010
+Here's where we're at.
+
+611
+00:24:11,490 --> 00:24:12,630
+It is predicted
+
+612
+00:24:12,630 --> 00:24:16,650
+that we will need 56 gigawatts of energy
+
+613
+00:24:16,650 --> 00:24:19,383
+by the end of this decade to power all of this AI.
+
+614
+00:24:20,490 --> 00:24:22,350
+When you look at what is being built,
+
+615
+00:24:22,350 --> 00:24:25,740
+so the extra energy that's coming onto the grid,
+
+616
+00:24:25,740 --> 00:24:29,433
+and you look at what is,
+
+617
+00:24:30,645 --> 00:24:32,730
+if you look at what's already coming on the grid
+
+618
+00:24:32,730 --> 00:24:35,550
+and the extra capacity that is in our grid,
+
+619
+00:24:35,550 --> 00:24:39,180
+we are still gonna be short 36 gigawatts of power
+
+620
+00:24:39,180 --> 00:24:40,830
+by the end of this decade.
+
+621
+00:24:40,830 --> 00:24:42,210
+Now, when you hear, you know,
+
+622
+00:24:42,210 --> 00:24:44,250
+this gigawatt, that gigawatt, 10 gigawatt,
+
+623
+00:24:44,250 --> 00:24:45,240
+you might be like, you know,
+
+624
+00:24:45,240 --> 00:24:46,687
+Dr. Emmett Brown in "Back to the Future."
+
+625
+00:24:46,687 --> 00:24:48,720
+"1.21 gigawatts, oh my God,
+
+626
+00:24:48,720 --> 00:24:50,220
+how could I have been so stupid?"
+
+627
+00:24:50,220 --> 00:24:53,400
+Okay, so 36-gigawatt shortfall
+
+628
+00:24:53,400 --> 00:24:55,590
+is enough to power 1/5
+
+629
+00:24:55,590 --> 00:24:57,180
+of the households in the United States,
+
+630
+00:24:57,180 --> 00:24:59,823
+or all the homes in Texas and California combined.
+
+631
+00:25:01,290 --> 00:25:02,460
+Recent studies have shown
+
+632
+00:25:02,460 --> 00:25:03,870
+that that's off by a factor of two.
+
+633
+00:25:03,870 --> 00:25:07,530
+We're actually (chuckles) gonna be short 70 gigawatts.
+
+634
+00:25:07,530 --> 00:25:08,910
+So the consequence, Carla, sorry,
+
+635
+00:25:08,910 --> 00:25:09,960
+finally getting to your question,
+
+636
+00:25:09,960 --> 00:25:12,600
+the consequence is a few things.
+
+637
+00:25:12,600 --> 00:25:15,180
+One is that it puts a break on the whole system,
+
+638
+00:25:15,180 --> 00:25:16,740
+and in fact I've talked to,
+
+639
+00:25:16,740 --> 00:25:17,940
+I have the privilege of talking
+
+640
+00:25:17,940 --> 00:25:19,500
+to a lot of different people about AI,
+
+641
+00:25:19,500 --> 00:25:21,870
+and I've learned an immense amount in the past few years.
+
+642
+00:25:21,870 --> 00:25:23,970
+Power is a huge problem,
+
+643
+00:25:23,970 --> 00:25:26,340
+and it actually is putting the brakes on projects.
+
+644
+00:25:26,340 --> 00:25:29,700
+I've met some partners of ours that are literally,
+
+645
+00:25:29,700 --> 00:25:32,490
+they have equipment in their lab that they can't power up
+
+646
+00:25:32,490 --> 00:25:35,700
+because the local utility has not been able to dig a trench
+
+647
+00:25:35,700 --> 00:25:39,000
+to get power to their lab.
+
+648
+00:25:39,000 --> 00:25:42,120
+So it's putting the brakes on things, number one.
+
+649
+00:25:42,120 --> 00:25:45,510
+Number two, which I think is interesting
+
+650
+00:25:45,510 --> 00:25:46,980
+just from a technical point of view,
+
+651
+00:25:46,980 --> 00:25:49,800
+is it's revived the whole concept of nuclear power.
+
+652
+00:25:49,800 --> 00:25:52,260
+Now, we're immigrants to the United States,
+
+653
+00:25:52,260 --> 00:25:55,680
+very proud immigrants, moved here in 1982 to New York,
+
+654
+00:25:55,680 --> 00:25:58,500
+and, you know, the memory of Three Mile Island
+
+655
+00:25:58,500 --> 00:25:59,820
+was very fresh at that time.
+
+656
+00:25:59,820 --> 00:26:01,590
+It wasn't anywhere near where we lived,
+
+657
+00:26:01,590 --> 00:26:02,850
+but, like, people talked about it.
+
+658
+00:26:02,850 --> 00:26:05,190
+Like, I remember in fifth grade, you know,
+
+659
+00:26:05,190 --> 00:26:06,577
+my teacher talking about Three Mile Island,
+
+660
+00:26:06,577 --> 00:26:09,390
+and I was just beside myself that they're restarting
+
+661
+00:26:09,390 --> 00:26:11,030
+one of the reactors of Three Mile Island
+
+662
+00:26:11,030 --> 00:26:13,200
+(chuckles) to power a Microsoft data center.
+
+663
+00:26:13,200 --> 00:26:14,880
+I was like, "What are we gonna spin up next? Chernobyl?
+
+664
+00:26:14,880 --> 00:26:16,530
+I mean, come on. Like, why stop there?"
+
+665
+00:26:16,530 --> 00:26:18,360
+So, but in all seriousness,
+
+666
+00:26:18,360 --> 00:26:20,130
+the nuclear power that they're thinking about today,
+
+667
+00:26:20,130 --> 00:26:21,330
+I'm not here to advocate for it,
+
+668
+00:26:21,330 --> 00:26:23,190
+I'm just talking about a solution
+
+669
+00:26:23,190 --> 00:26:25,620
+that is potentially possible,
+
+670
+00:26:25,620 --> 00:26:27,720
+are very small modular nuclear reactors.
+
+671
+00:26:27,720 --> 00:26:30,480
+They're about the size of the lot of your home,
+
+672
+00:26:30,480 --> 00:26:34,380
+and they run locally and they can power these data centers.
+
+673
+00:26:34,380 --> 00:26:36,330
+Interestingly enough, they actually have
+
+674
+00:26:36,330 --> 00:26:37,980
+some bipartisan support,
+
+675
+00:26:37,980 --> 00:26:40,500
+because as Karen Howe was talking about today,
+
+676
+00:26:40,500 --> 00:26:42,030
+and it may be obvious
+
+677
+00:26:42,030 --> 00:26:44,160
+from some of the reporting you've seen,
+
+678
+00:26:44,160 --> 00:26:46,590
+what we don't want is a situation like Memphis,
+
+679
+00:26:46,590 --> 00:26:47,790
+which is incredibly sad.
+
+680
+00:26:47,790 --> 00:26:48,960
+I dunno if you've seen the reporting,
+
+681
+00:26:48,960 --> 00:26:50,700
+but basically Grok came in there
+
+682
+00:26:50,700 --> 00:26:51,870
+and there's 30,
+
+683
+00:26:51,870 --> 00:26:53,100
+I mean, she said 35,
+
+684
+00:26:53,100 --> 00:26:55,050
+I thought it was (chuckles) more.
+
+685
+00:26:55,050 --> 00:26:57,150
+Ether way, these things are just spewing
+
+686
+00:26:57,150 --> 00:27:01,077
+this just noxious gas into the community.
+
+687
+00:27:01,077 --> 00:27:02,407
+(chuckles) And the city leaders are like,
+
+688
+00:27:02,407 --> 00:27:03,240
+"Well, we didn't know."
+
+689
+00:27:03,240 --> 00:27:04,830
+So, you know, they were duped.
+
+690
+00:27:04,830 --> 00:27:07,470
+We don't want that for every data center.
+
+691
+00:27:07,470 --> 00:27:09,420
+So in a way, I think part of the reason
+
+692
+00:27:09,420 --> 00:27:11,670
+these nuclear reactors, these small nuclear reactors,
+
+693
+00:27:11,670 --> 00:27:14,610
+are getting all this attention and bipartisan support
+
+694
+00:27:14,610 --> 00:27:15,690
+where they wouldn't is fundamentally,
+
+695
+00:27:15,690 --> 00:27:17,460
+they're not Chernobyl, they're not Three Mile Island.
+
+696
+00:27:17,460 --> 00:27:18,960
+It's a completely different world today.
+
+697
+00:27:18,960 --> 00:27:20,700
+You can design these reactors.
+
+698
+00:27:20,700 --> 00:27:22,020
+But it's a way to provide
+
+699
+00:27:22,020 --> 00:27:24,120
+that 36-gigawatt shortfall
+
+700
+00:27:24,120 --> 00:27:27,330
+without pumping noxious fumes into the air, right?
+
+701
+00:27:27,330 --> 00:27:28,770
+There's very few technologies
+
+702
+00:27:28,770 --> 00:27:30,450
+that can actually make up for the shortfall.
+
+703
+00:27:30,450 --> 00:27:33,030
+So it's bringing into conversation
+
+704
+00:27:33,030 --> 00:27:35,220
+technologies that we've forgotten about,
+
+705
+00:27:35,220 --> 00:27:36,120
+but it's bringing it up
+
+706
+00:27:36,120 --> 00:27:40,800
+because actually, a lot of people don't want a consequence
+
+707
+00:27:40,800 --> 00:27:42,570
+where we're generating this great AI
+
+708
+00:27:42,570 --> 00:27:44,280
+but we're causing all this environmental harm.
+
+709
+00:27:44,280 --> 00:27:46,710
+I mean, Juliet presented some amazing examples
+
+710
+00:27:46,710 --> 00:27:50,380
+how AI can be used to make small changes, big changes
+
+711
+00:27:51,450 --> 00:27:53,220
+to help the environment.
+
+712
+00:27:53,220 --> 00:27:54,780
+Well, this is one way to do it, right?
+
+713
+00:27:54,780 --> 00:27:56,520
+Nuclear power is actually able to provide
+
+714
+00:27:56,520 --> 00:27:58,050
+that much energy to power
+
+715
+00:27:58,050 --> 00:28:00,570
+these power-hungry GPUs
+
+716
+00:28:00,570 --> 00:28:02,970
+without spewing noxious fumes into the air, right?
+
+717
+00:28:02,970 --> 00:28:06,480
+There are other consequences, but this is one option.
+
+718
+00:28:06,480 --> 00:28:08,610
+But on a more philosophical level,
+
+719
+00:28:08,610 --> 00:28:12,210
+now I'm speaking as Gaurav Khanna, not as a Cisco employee,
+
+720
+00:28:12,210 --> 00:28:16,950
+what I think will happen is that people will pause, okay?
+
+721
+00:28:16,950 --> 00:28:19,140
+If you cannot get enough power,
+
+722
+00:28:19,140 --> 00:28:20,850
+'cause the utility cannot dig a trench
+
+723
+00:28:20,850 --> 00:28:23,550
+to lay the power line down to power your AI,
+
+724
+00:28:23,550 --> 00:28:26,010
+you have to stop and think, "What am I doing this for?
+
+725
+00:28:26,010 --> 00:28:28,260
+What am I building? Do I need this much power?
+
+726
+00:28:28,260 --> 00:28:30,060
+Do I need this much AI?"
+
+727
+00:28:30,060 --> 00:28:31,050
+And if you think about it,
+
+728
+00:28:31,050 --> 00:28:33,210
+that's a very fundamentally different approach
+
+729
+00:28:33,210 --> 00:28:34,770
+than we took when the internet launched
+
+730
+00:28:34,770 --> 00:28:36,660
+and when the cloud computing became big,
+
+731
+00:28:36,660 --> 00:28:37,800
+it's like, oh, great, internet,
+
+732
+00:28:37,800 --> 00:28:39,570
+boom, everybody, (chuckles) use the internet browser.
+
+733
+00:28:39,570 --> 00:28:43,410
+You know, it boomed, the sale of PCs boomed
+
+734
+00:28:43,410 --> 00:28:44,760
+in the wake of the internet,
+
+735
+00:28:44,760 --> 00:28:46,110
+and cloud computing,
+
+736
+00:28:46,110 --> 00:28:49,530
+the data centers and the data center footprint
+
+737
+00:28:49,530 --> 00:28:51,690
+boomed without really any consequence
+
+738
+00:28:51,690 --> 00:28:52,530
+in thinking about maybe,
+
+739
+00:28:52,530 --> 00:28:53,580
+you know, what's this gonna mean?
+
+740
+00:28:53,580 --> 00:28:54,690
+Like, people just built it out.
+
+741
+00:28:54,690 --> 00:28:56,700
+We wanted more salesforce.com, we wanted more Google,
+
+742
+00:28:56,700 --> 00:28:58,890
+we wanted more Meta.
+
+743
+00:28:58,890 --> 00:29:01,950
+With AI, I feel very early on in the cycle,
+
+744
+00:29:01,950 --> 00:29:04,200
+the fact that we're short on power
+
+745
+00:29:04,200 --> 00:29:06,157
+will make people pause and think,
+
+746
+00:29:06,157 --> 00:29:08,040
+"What on earth are we doing here,
+
+747
+00:29:08,040 --> 00:29:10,410
+and how can we build this properly?"
+
+748
+00:29:10,410 --> 00:29:12,870
+And Jory said something really great this morning
+
+749
+00:29:12,870 --> 00:29:16,290
+about being intentional about equity
+
+750
+00:29:16,290 --> 00:29:19,590
+in the process of thinking about education by design.
+
+751
+00:29:19,590 --> 00:29:22,470
+I actually just saw him outside, by design.
+
+752
+00:29:22,470 --> 00:29:24,960
+He said that and I told him I'd work it in.
+
+753
+00:29:24,960 --> 00:29:27,390
+So if you see Jory, tell him I worked it in,
+
+754
+00:29:27,390 --> 00:29:28,740
+because you have to think
+
+755
+00:29:28,740 --> 00:29:30,120
+about the environmental consequences
+
+756
+00:29:30,120 --> 00:29:32,130
+by design from the beginning,
+
+757
+00:29:32,130 --> 00:29:33,510
+not some afterthought later
+
+758
+00:29:33,510 --> 00:29:34,920
+after, you know, half the things
+
+759
+00:29:34,920 --> 00:29:36,750
+that you care about are destroyed.
+
+760
+00:29:36,750 --> 00:29:39,990
+And so I think giving people a moment to pause and reflect
+
+761
+00:29:39,990 --> 00:29:43,470
+and think about how we do this intentionally by design
+
+762
+00:29:43,470 --> 00:29:45,870
+is probably gonna be one of the greatest legacies
+
+763
+00:29:45,870 --> 00:29:47,490
+of this power shortfall.
+
+764
+00:29:47,490 --> 00:29:48,630
+And I'm starting to see it now,
+
+765
+00:29:48,630 --> 00:29:50,250
+because people are putting things on hold,
+
+766
+00:29:50,250 --> 00:29:51,330
+and when you put things on hold,
+
+767
+00:29:51,330 --> 00:29:52,980
+you have a time to stop and reflect.
+
+768
+00:29:52,980 --> 00:29:55,440
+So I think those are the three consequences.
+
+769
+00:29:55,440 --> 00:29:56,273
+Yeah.
+
+770
+00:30:00,990 --> 00:30:01,823
+- Okay.
+
+771
+00:30:01,823 --> 00:30:06,090
+I will pose the next question to Juliet.
+
+772
+00:30:06,090 --> 00:30:08,460
+So you talked a lot about how Google
+
+773
+00:30:08,460 --> 00:30:12,570
+is responding to environmental impacts
+
+774
+00:30:12,570 --> 00:30:15,900
+and helping to mitigate things like flooding and fires.
+
+775
+00:30:15,900 --> 00:30:19,950
+Can you talk a little bit about AI solutions
+
+776
+00:30:19,950 --> 00:30:23,340
+and scaling AI solutions
+
+777
+00:30:23,340 --> 00:30:27,120
+that can help with climate,
+
+778
+00:30:27,120 --> 00:30:29,883
+help to reduce the climate impacts of AI?
+
+779
+00:30:31,230 --> 00:30:32,550
+- Yeah.
+
+780
+00:30:32,550 --> 00:30:33,383
+Thank you Carla,
+
+781
+00:30:33,383 --> 00:30:34,980
+and Gaurav, it was great to hear
+
+782
+00:30:34,980 --> 00:30:36,600
+your remarks and your talks.
+
+783
+00:30:36,600 --> 00:30:39,480
+Yes, energy use is a very important component of AI.
+
+784
+00:30:39,480 --> 00:30:40,313
+Absolutely.
+
+785
+00:30:40,313 --> 00:30:43,590
+And yeah, it's something we think a lot about.
+
+786
+00:30:43,590 --> 00:30:44,580
+Maybe just starting there
+
+787
+00:30:44,580 --> 00:30:46,230
+and then I'll get into solutions.
+
+788
+00:30:47,460 --> 00:30:49,710
+One of the pieces that Google released recently
+
+789
+00:30:49,710 --> 00:30:51,000
+was an analysis
+
+790
+00:30:51,000 --> 00:30:53,580
+not only of the efficiency of GPUs,
+
+791
+00:30:53,580 --> 00:30:55,620
+those chips that Gaurav was talking about,
+
+792
+00:30:55,620 --> 00:30:58,470
+but also the efficiency of an overall query, right?
+
+793
+00:30:58,470 --> 00:30:59,580
+Of, you know,
+
+794
+00:30:59,580 --> 00:31:04,140
+I'm gonna ask Google's Gemini some question.
+
+795
+00:31:04,140 --> 00:31:07,200
+How much energy does that take?
+
+796
+00:31:07,200 --> 00:31:08,490
+And what we found is,
+
+797
+00:31:08,490 --> 00:31:10,200
+because we take a full-stack approach
+
+798
+00:31:10,200 --> 00:31:11,130
+to how we work with AI,
+
+799
+00:31:11,130 --> 00:31:15,330
+we actually have our own type of chips also called TPUs.
+
+800
+00:31:15,330 --> 00:31:16,530
+We use some NVIDIA chips
+
+801
+00:31:16,530 --> 00:31:20,490
+and some chips from other sources as well.
+
+802
+00:31:20,490 --> 00:31:23,010
+And what we found was that we were able
+
+803
+00:31:23,010 --> 00:31:25,320
+to actually reduce the energy required
+
+804
+00:31:25,320 --> 00:31:30,030
+for a query over 12 months by a factor of 33.
+
+805
+00:31:30,030 --> 00:31:32,340
+And so, you know,
+
+806
+00:31:32,340 --> 00:31:36,450
+instead of using 33x energy, we're using one.
+
+807
+00:31:36,450 --> 00:31:39,990
+And so really significant improvements in efficiency
+
+808
+00:31:39,990 --> 00:31:43,549
+in part driven because out of necessity, right,
+
+809
+00:31:43,549 --> 00:31:44,970
+you know, there are very real constraints
+
+810
+00:31:44,970 --> 00:31:46,410
+in terms of what's actually possible,
+
+811
+00:31:46,410 --> 00:31:49,920
+and in part from Google's strong environmental commitments
+
+812
+00:31:49,920 --> 00:31:51,330
+and in a variety of different forms.
+
+813
+00:31:51,330 --> 00:31:53,070
+So I think we're gonna see a lot
+
+814
+00:31:53,070 --> 00:31:54,840
+of different movement on a lot of different parts
+
+815
+00:31:54,840 --> 00:31:56,913
+of the stack as time goes on.
+
+816
+00:31:58,410 --> 00:32:00,003
+But going to, you know,
+
+817
+00:32:01,020 --> 00:32:03,330
+what are really the solutions that we can have,
+
+818
+00:32:03,330 --> 00:32:04,950
+so in the first part of my remarks
+
+819
+00:32:04,950 --> 00:32:07,740
+where I talked about transportation and energy solutions,
+
+820
+00:32:07,740 --> 00:32:10,740
+all of those solutions are helping mitigate climate change.
+
+821
+00:32:10,740 --> 00:32:13,860
+If you read Google's 2024 Environmental Report,
+
+822
+00:32:13,860 --> 00:32:18,210
+what you'll notice is that Google's 2024 CO2 emissions
+
+823
+00:32:18,210 --> 00:32:20,670
+were 11.5 megatons.
+
+824
+00:32:20,670 --> 00:32:24,450
+And if you look at just five of our AI solutions,
+
+825
+00:32:24,450 --> 00:32:26,670
+things like the Solar API that I talked about,
+
+826
+00:32:26,670 --> 00:32:29,430
+things like that green leaf fuel efficient routing
+
+827
+00:32:29,430 --> 00:32:30,630
+in Google maps,
+
+828
+00:32:30,630 --> 00:32:33,120
+they saved in 2024
+
+829
+00:32:33,120 --> 00:32:35,730
+26 megatons of CO2 equivalent.
+
+830
+00:32:35,730 --> 00:32:38,610
+And so we're already seeing the AI solutions
+
+831
+00:32:38,610 --> 00:32:40,710
+from a climate standpoint
+
+832
+00:32:40,710 --> 00:32:43,440
+outweigh the emissions of Google overall,
+
+833
+00:32:43,440 --> 00:32:45,420
+not just Google's, you know, AI use,
+
+834
+00:32:45,420 --> 00:32:46,410
+but that includes things
+
+835
+00:32:46,410 --> 00:32:48,360
+like my plane flight to New York earlier this week,
+
+836
+00:32:48,360 --> 00:32:51,480
+for example, in that prior calculus.
+
+837
+00:32:51,480 --> 00:32:54,090
+And so I think when we take a step back,
+
+838
+00:32:54,090 --> 00:32:56,880
+yes, AI energy is an important thing to be talking about.
+
+839
+00:32:56,880 --> 00:32:58,860
+We should also be talking about EVs and energy
+
+840
+00:32:58,860 --> 00:32:59,790
+by the way as well, right?
+
+841
+00:32:59,790 --> 00:33:02,580
+Because we've seen a tremendous electrification of vehicles
+
+842
+00:33:02,580 --> 00:33:05,610
+that really is affecting the energy needs on our grid also,
+
+843
+00:33:05,610 --> 00:33:08,280
+which is a great thing from a climate standpoint,
+
+844
+00:33:08,280 --> 00:33:09,390
+but also gonna mean that we need
+
+845
+00:33:09,390 --> 00:33:12,120
+to start building more flexibility into the grid,
+
+846
+00:33:12,120 --> 00:33:14,370
+building more modernization into the grid
+
+847
+00:33:14,370 --> 00:33:16,440
+in a way that we haven't had in the past.
+
+848
+00:33:16,440 --> 00:33:18,540
+If you look at other countries around the world,
+
+849
+00:33:18,540 --> 00:33:21,930
+their grids respond much faster, they're much more flexible.
+
+850
+00:33:21,930 --> 00:33:25,189
+We've seen very little load growth over the U.S.
+
+851
+00:33:25,189 --> 00:33:26,730
+in the past number of years.
+
+852
+00:33:26,730 --> 00:33:28,770
+And I think AI is really gonna push us
+
+853
+00:33:28,770 --> 00:33:30,510
+both towards climate solutions
+
+854
+00:33:30,510 --> 00:33:32,790
+and also towards more of the energy solutions
+
+855
+00:33:32,790 --> 00:33:34,240
+that we're gonna need to see.
+
+856
+00:33:35,100 --> 00:33:37,290
+- Yeah, one of the things I really appreciate
+
+857
+00:33:37,290 --> 00:33:38,820
+about what you presented
+
+858
+00:33:38,820 --> 00:33:41,460
+was that some of these changes are very small,
+
+859
+00:33:41,460 --> 00:33:43,080
+like, what you can do at a traffic light
+
+860
+00:33:43,080 --> 00:33:45,270
+or having the pilots change their flight.
+
+861
+00:33:45,270 --> 00:33:46,980
+They're small at an individual level,
+
+862
+00:33:46,980 --> 00:33:49,410
+but in aggregate, they make a huge change.
+
+863
+00:33:49,410 --> 00:33:50,243
+A long time,
+
+864
+00:33:50,243 --> 00:33:51,330
+now, I'm gonna get a little bit nostalgic,
+
+865
+00:33:51,330 --> 00:33:54,030
+one of the first articles I wrote for my school newspaper
+
+866
+00:33:54,030 --> 00:33:55,890
+in high school, this will date myself,
+
+867
+00:33:55,890 --> 00:33:57,570
+was there was a book that came out
+
+868
+00:33:57,570 --> 00:33:59,667
+in Earth Day, I think 1989,
+
+869
+00:33:59,667 --> 00:34:01,380
+and it was called "50 Things You Can Do
+
+870
+00:34:01,380 --> 00:34:02,310
+to Save the Planet."
+
+871
+00:34:02,310 --> 00:34:03,780
+And it was all, like, little things,
+
+872
+00:34:03,780 --> 00:34:05,550
+like recycle this and recycle that.
+
+873
+00:34:05,550 --> 00:34:07,110
+And the point of the book was,
+
+874
+00:34:07,110 --> 00:34:09,330
+if we all do these things, it'll be better.
+
+875
+00:34:09,330 --> 00:34:11,550
+So a couple of examples thinking about it
+
+876
+00:34:11,550 --> 00:34:13,200
+is about small changes.
+
+877
+00:34:13,200 --> 00:34:15,510
+You actually don't need the full power of GPT
+
+878
+00:34:15,510 --> 00:34:16,980
+for every query.
+
+879
+00:34:16,980 --> 00:34:20,100
+And one of my sort of conversations with customers,
+
+880
+00:34:20,100 --> 00:34:22,050
+'cause then we start to get into design, is,
+
+881
+00:34:22,050 --> 00:34:24,180
+what language models do you actually need?
+
+882
+00:34:24,180 --> 00:34:26,160
+And a lot of times it's not the large ones.
+
+883
+00:34:26,160 --> 00:34:27,390
+Sometimes you use the large ones,
+
+884
+00:34:27,390 --> 00:34:30,390
+but a lot of times they're much smaller purpose models
+
+885
+00:34:30,390 --> 00:34:32,640
+that actually can now run on your laptop
+
+886
+00:34:32,640 --> 00:34:34,140
+that can do the tasks that you need.
+
+887
+00:34:34,140 --> 00:34:35,190
+So just for context,
+
+888
+00:34:35,190 --> 00:34:37,740
+just a little bit of language model science
+
+889
+00:34:37,740 --> 00:34:39,390
+and then we can get back to the environment.
+
+890
+00:34:39,390 --> 00:34:43,530
+So, ChatGPT, Gemini, Llama,
+
+891
+00:34:43,530 --> 00:34:45,120
+you pick it, they're trained on, like,
+
+892
+00:34:45,120 --> 00:34:46,410
+the world's data, right?
+
+893
+00:34:46,410 --> 00:34:48,303
+So if you think about it,
+
+894
+00:34:49,560 --> 00:34:51,570
+just as an analogy, to train GPT,
+
+895
+00:34:51,570 --> 00:34:54,090
+you need all of the world's books.
+
+896
+00:34:54,090 --> 00:34:55,770
+But to fine-tune a model
+
+897
+00:34:55,770 --> 00:34:57,660
+to be very specific to what you want to do,
+
+898
+00:34:57,660 --> 00:34:59,940
+so for example, you're Southwest Airlines
+
+899
+00:34:59,940 --> 00:35:02,280
+and you want your chatbot to sound like Southwest Airlines,
+
+900
+00:35:02,280 --> 00:35:03,113
+and they always make fun
+
+901
+00:35:03,113 --> 00:35:04,710
+of airline safety regulations, right?
+
+902
+00:35:04,710 --> 00:35:07,410
+Or you're Disney and you want to make a Disney chatbot,
+
+903
+00:35:07,410 --> 00:35:09,030
+you want it to sound like Mickey Mouse.
+
+904
+00:35:09,030 --> 00:35:12,810
+The amount of data it takes to do that is one bookshelf.
+
+905
+00:35:12,810 --> 00:35:15,060
+So you use the entire world's books
+
+906
+00:35:15,060 --> 00:35:16,620
+to train the model to speak English
+
+907
+00:35:16,620 --> 00:35:17,880
+and you use a bookshelf to train it
+
+908
+00:35:17,880 --> 00:35:19,230
+to speak like Mickey Mouse.
+
+909
+00:35:20,190 --> 00:35:23,490
+So these large language models are huge,
+
+910
+00:35:23,490 --> 00:35:24,630
+and they can do everything
+
+911
+00:35:24,630 --> 00:35:27,030
+because they have been tuned to do everything
+
+912
+00:35:27,030 --> 00:35:28,260
+or trained to do everything.
+
+913
+00:35:28,260 --> 00:35:30,390
+They can tell you about history,
+
+914
+00:35:30,390 --> 00:35:31,920
+they can tell you about the French Revolution,
+
+915
+00:35:31,920 --> 00:35:34,140
+they can talk like a pirate, they can do all of that.
+
+916
+00:35:34,140 --> 00:35:36,900
+But as a company, you don't need all of that.
+
+917
+00:35:36,900 --> 00:35:40,260
+So what people have started to do was to take models,
+
+918
+00:35:40,260 --> 00:35:42,090
+smaller models, they're not as big,
+
+919
+00:35:42,090 --> 00:35:45,270
+and then fine-tune them using a bookshelf's worth of data
+
+920
+00:35:45,270 --> 00:35:46,920
+for something very specific.
+
+921
+00:35:46,920 --> 00:35:51,300
+And that is very, very, very power efficient.
+
+922
+00:35:51,300 --> 00:35:53,463
+And so if we become just, I mean,
+
+923
+00:35:53,463 --> 00:35:55,680
+this sort of parallels small changes you can make,
+
+924
+00:35:55,680 --> 00:35:58,530
+if you can start to change that in your company
+
+925
+00:35:58,530 --> 00:36:01,410
+where you allow your employees to use systems
+
+926
+00:36:01,410 --> 00:36:04,620
+that just inherently use less power with every search,
+
+927
+00:36:04,620 --> 00:36:08,880
+you start to build a basis of just more efficient use,
+
+928
+00:36:08,880 --> 00:36:10,680
+so you're not needing the full power
+
+929
+00:36:10,680 --> 00:36:13,290
+of GPT all the time, number one.
+
+930
+00:36:13,290 --> 00:36:15,840
+Number two, just to add to the power equation,
+
+931
+00:36:15,840 --> 00:36:18,540
+one of the things that I think is gonna be really important
+
+932
+00:36:18,540 --> 00:36:20,370
+is that we're starting to cool these systems
+
+933
+00:36:20,370 --> 00:36:23,790
+with water, with different types of fluids
+
+934
+00:36:23,790 --> 00:36:28,514
+that can actually reduce the overall energy impact.
+
+935
+00:36:28,514 --> 00:36:30,690
+But as Karen mentioned, which is really important,
+
+936
+00:36:30,690 --> 00:36:33,080
+and I don't want to, you know, minimize the impact of this,
+
+937
+00:36:33,080 --> 00:36:34,350
+is you need clean water.
+
+938
+00:36:34,350 --> 00:36:36,180
+So we have to think, again, really deliberately,
+
+939
+00:36:36,180 --> 00:36:38,421
+do we want to build this in the desert southwest,
+
+940
+00:36:38,421 --> 00:36:39,690
+(chuckling) which is already suffering
+
+941
+00:36:39,690 --> 00:36:42,450
+from lower levels of water in the Colorado River.
+
+942
+00:36:42,450 --> 00:36:45,270
+So you have to be really mindful of what you're doing
+
+943
+00:36:45,270 --> 00:36:46,650
+to cool these things.
+
+944
+00:36:46,650 --> 00:36:48,210
+But again, it goes back to,
+
+945
+00:36:48,210 --> 00:36:51,000
+I'm seeing these things happen now, not as an afterthought,
+
+946
+00:36:51,000 --> 00:36:54,330
+because these things are becoming breaks on the system,
+
+947
+00:36:54,330 --> 00:36:55,920
+which I think, you know, as a technologist,
+
+948
+00:36:55,920 --> 00:36:57,180
+it's sometimes hard to say this, you know,
+
+949
+00:36:57,180 --> 00:36:58,800
+you wanna say "Go, go, go,"
+
+950
+00:36:58,800 --> 00:37:00,810
+but I think it's important and healthy as a society
+
+951
+00:37:00,810 --> 00:37:02,040
+to have these kinds of breaks,
+
+952
+00:37:02,040 --> 00:37:04,950
+and power and energy is acting as a significant break
+
+953
+00:37:04,950 --> 00:37:06,370
+to make people really think
+
+954
+00:37:09,510 --> 00:37:11,670
+- So, Gaurav, you touched on something
+
+955
+00:37:11,670 --> 00:37:15,030
+as you were talking about the energy usage
+
+956
+00:37:15,030 --> 00:37:18,360
+between ChatGPT or just a regular Google search,
+
+957
+00:37:18,360 --> 00:37:20,730
+and most of the folks in the room are educators,
+
+958
+00:37:20,730 --> 00:37:22,980
+and so one of the things that I've observed
+
+959
+00:37:22,980 --> 00:37:24,030
+in working with students
+
+960
+00:37:24,030 --> 00:37:26,940
+is that they tend to be very binary
+
+961
+00:37:26,940 --> 00:37:30,840
+in their thoughts and feelings on AI.
+
+962
+00:37:30,840 --> 00:37:35,310
+So there's the camp that think AI is bad,
+
+963
+00:37:35,310 --> 00:37:37,620
+it's bad for the environment, we shouldn't use it,
+
+964
+00:37:37,620 --> 00:37:39,780
+and then there's the camp that thinks it's awesome
+
+965
+00:37:39,780 --> 00:37:42,060
+'cause it'll write my English paper for me.
+
+966
+00:37:42,060 --> 00:37:43,950
+And there's not a lot of in between.
+
+967
+00:37:43,950 --> 00:37:46,650
+And so my question for both of you is,
+
+968
+00:37:46,650 --> 00:37:50,610
+what would you recommend,
+
+969
+00:37:50,610 --> 00:37:52,530
+how can the folks in the room
+
+970
+00:37:52,530 --> 00:37:54,330
+share with students
+
+971
+00:37:54,330 --> 00:37:57,900
+on how to responsibly use AI
+
+972
+00:37:57,900 --> 00:38:01,143
+from kind of an energy consumption perspective?
+
+973
+00:38:02,250 --> 00:38:04,800
+- I have a thought on that, if I can kick this off.
+
+974
+00:38:05,640 --> 00:38:07,620
+So as part of our paper
+
+975
+00:38:07,620 --> 00:38:09,150
+that we released recently,
+
+976
+00:38:09,150 --> 00:38:12,000
+we really wanted to bring numbers to this problem, right?
+
+977
+00:38:12,960 --> 00:38:16,140
+So actually, my mom has taught in shared accounting
+
+978
+00:38:16,140 --> 00:38:17,370
+at a community college
+
+979
+00:38:17,370 --> 00:38:19,080
+for the past 20 years, that has been her role,
+
+980
+00:38:19,080 --> 00:38:21,300
+and so she's always trained me to think in numbers.
+
+981
+00:38:21,300 --> 00:38:22,950
+And the truth is actually that climate change
+
+982
+00:38:22,950 --> 00:38:23,910
+is a numbers problem.
+
+983
+00:38:23,910 --> 00:38:25,290
+It is an accounting problem, right?
+
+984
+00:38:25,290 --> 00:38:28,140
+It is where are our greenhouse gases coming from?
+
+985
+00:38:28,140 --> 00:38:30,810
+How much are they? What are the sources?
+
+986
+00:38:30,810 --> 00:38:33,900
+If we take a look at those actions we can take,
+
+987
+00:38:33,900 --> 00:38:35,160
+what actually matters?
+
+988
+00:38:35,160 --> 00:38:38,160
+So as my team looks across all of our solutions for climate
+
+989
+00:38:38,160 --> 00:38:39,780
+that you were asking about, Carla,
+
+990
+00:38:39,780 --> 00:38:42,990
+we look to say, "Great, if we take each of these actions,
+
+991
+00:38:42,990 --> 00:38:44,550
+how big is each of these actions?
+
+992
+00:38:44,550 --> 00:38:46,380
+How many people can we get to take it?
+
+993
+00:38:46,380 --> 00:38:48,270
+And let's run out the forecast
+
+994
+00:38:48,270 --> 00:38:50,310
+for how big this solution can be."
+
+995
+00:38:50,310 --> 00:38:52,020
+We live in numbers.
+
+996
+00:38:52,020 --> 00:38:53,820
+Now, a number that I think is really important
+
+997
+00:38:53,820 --> 00:38:55,050
+for people to be aware of
+
+998
+00:38:55,050 --> 00:38:57,060
+came out of our recent paper recently
+
+999
+00:38:57,060 --> 00:38:59,700
+around the energy consumption.
+
+1000
+00:38:59,700 --> 00:39:01,110
+And I was just looking it up, actually,
+
+1001
+00:39:01,110 --> 00:39:02,040
+while Gaurav, you were speaking,
+
+1002
+00:39:02,040 --> 00:39:04,673
+because I wanted to make sure that I got the number right.
+
+1003
+00:39:06,060 --> 00:39:08,853
+So take watching TV, for example.
+
+1004
+00:39:09,750 --> 00:39:11,010
+I'd love some numbers from the audience,
+
+1005
+00:39:11,010 --> 00:39:15,660
+how long watching TV do you think the median query on Gemini
+
+1006
+00:39:15,660 --> 00:39:18,600
+is from an energy equivalency standpoint?
+
+1007
+00:39:18,600 --> 00:39:20,850
+Does anybody have any guess?
+
+1008
+00:39:20,850 --> 00:39:22,800
+How long would you have to watch TV to use the same amount
+
+1009
+00:39:22,800 --> 00:39:23,659
+of energy as-
+
+1010
+00:39:23,659 --> 00:39:24,492
+- [Audience Member] Five minutes.
+
+1011
+00:39:24,492 --> 00:39:26,654
+- Five minutes? Anybody else?
+
+1012
+00:39:26,654 --> 00:39:27,578
+- An hour. - A week.
+
+1013
+00:39:27,578 --> 00:39:29,160
+- A week, an hour?
+
+1014
+00:39:29,160 --> 00:39:30,873
+The answer is nine seconds.
+
+1015
+00:39:32,670 --> 00:39:34,530
+Yeah, and so this is why I think
+
+1016
+00:39:34,530 --> 00:39:37,020
+when we talk about responsibly using AI,
+
+1017
+00:39:37,020 --> 00:39:38,250
+maybe you should turn off TV
+
+1018
+00:39:38,250 --> 00:39:39,900
+during the commercials instead
+
+1019
+00:39:39,900 --> 00:39:41,613
+and ask a few AI queries, right?
+
+1020
+00:39:42,450 --> 00:39:44,880
+So I think we really need to,
+
+1021
+00:39:44,880 --> 00:39:46,650
+this is why numbers are so important
+
+1022
+00:39:46,650 --> 00:39:48,870
+because they really affect the driving
+
+1023
+00:39:48,870 --> 00:39:50,910
+of what we do.
+
+1024
+00:39:50,910 --> 00:39:52,650
+I use AI at work all the time.
+
+1025
+00:39:52,650 --> 00:39:53,910
+It makes me far more efficient.
+
+1026
+00:39:53,910 --> 00:39:56,910
+My job is around making us more sustainable.
+
+1027
+00:39:56,910 --> 00:40:01,140
+And so, you know, I use it continually.
+
+1028
+00:40:01,140 --> 00:40:03,840
+Yesterday I was playing around vibe-coding an app
+
+1029
+00:40:03,840 --> 00:40:05,730
+to recommend irrigation
+
+1030
+00:40:05,730 --> 00:40:08,520
+that was water conserving for our orchard.
+
+1031
+00:40:08,520 --> 00:40:11,790
+And there's a lot that you can do using AI
+
+1032
+00:40:11,790 --> 00:40:13,650
+that can be towards sustainable actions.
+
+1033
+00:40:13,650 --> 00:40:15,780
+And so I think it really is, you know,
+
+1034
+00:40:15,780 --> 00:40:18,570
+both I encourage students to understand AI
+
+1035
+00:40:18,570 --> 00:40:21,000
+so that they can understand its potential.
+
+1036
+00:40:21,000 --> 00:40:23,670
+Just earlier this week, Google released AI Quests,
+
+1037
+00:40:23,670 --> 00:40:24,503
+which are geared,
+
+1038
+00:40:24,503 --> 00:40:26,280
+granted, I think the target is younger students
+
+1039
+00:40:26,280 --> 00:40:27,330
+than for community college,
+
+1040
+00:40:27,330 --> 00:40:29,370
+more around kind of middle school, high school,
+
+1041
+00:40:29,370 --> 00:40:32,100
+but allowing them to play around
+
+1042
+00:40:32,100 --> 00:40:33,810
+and simulate using AI
+
+1043
+00:40:33,810 --> 00:40:36,900
+to predict floods, just like our flood forecasting solution
+
+1044
+00:40:36,900 --> 00:40:38,433
+that I was presenting earlier.
+
+1045
+00:40:39,600 --> 00:40:41,850
+I think, you know, if students are not understanding
+
+1046
+00:40:41,850 --> 00:40:44,103
+how to use AI as a part of their day to day,
+
+1047
+00:40:45,210 --> 00:40:46,800
+they're not gonna be as efficient
+
+1048
+00:40:46,800 --> 00:40:50,490
+or as productive as they otherwise could be.
+
+1049
+00:40:50,490 --> 00:40:53,090
+And with that, I think it's important to understand,
+
+1050
+00:40:54,480 --> 00:40:55,440
+hopefully they'll do something
+
+1051
+00:40:55,440 --> 00:40:57,450
+that will save more than nine seconds of TV
+
+1052
+00:40:57,450 --> 00:41:00,480
+with each of the queries that they generate.
+
+1053
+00:41:00,480 --> 00:41:01,313
+- That's excellent.
+
+1054
+00:41:01,313 --> 00:41:02,790
+And in fact, I wanna build on that point.
+
+1055
+00:41:02,790 --> 00:41:05,070
+I don't know that students can necessarily, you know,
+
+1056
+00:41:05,070 --> 00:41:07,470
+because I am the parent of two teenagers,
+
+1057
+00:41:07,470 --> 00:41:09,090
+they need something, they just go to ChatGPT,
+
+1058
+00:41:09,090 --> 00:41:09,923
+I'm not gonna tell 'em, "Well,
+
+1059
+00:41:09,923 --> 00:41:11,010
+think about what you're gonna use."
+
+1060
+00:41:11,010 --> 00:41:13,423
+They're like, "I gotta get this done, I gotta ask ChatGPT."
+
+1061
+00:41:13,423 --> 00:41:15,780
+So I don't know if that that's the right avenue,
+
+1062
+00:41:15,780 --> 00:41:17,477
+but to build on what Juliet said, I think it's important
+
+1063
+00:41:17,477 --> 00:41:20,790
+'cause remember, we already have the agency
+
+1064
+00:41:20,790 --> 00:41:24,210
+to choose the companies we want to buy products from
+
+1065
+00:41:24,210 --> 00:41:27,240
+based on their impact on the environment,
+
+1066
+00:41:27,240 --> 00:41:29,730
+their corporate social governance, all of that,
+
+1067
+00:41:29,730 --> 00:41:33,420
+we have, as consumers and investors, that choice.
+
+1068
+00:41:33,420 --> 00:41:36,660
+And I know ESG might be a bad term these days.
+
+1069
+00:41:36,660 --> 00:41:37,920
+I think it's actually wonderful.
+
+1070
+00:41:37,920 --> 00:41:41,010
+So you actually should work with companies
+
+1071
+00:41:41,010 --> 00:41:43,080
+and use the products from them
+
+1072
+00:41:43,080 --> 00:41:45,570
+that are thinking about this, right?
+
+1073
+00:41:45,570 --> 00:41:47,610
+I mean, Google has been on this, Juliet,
+
+1074
+00:41:47,610 --> 00:41:49,860
+as your work has illustrated for a long time.
+
+1075
+00:41:49,860 --> 00:41:52,020
+I mean, I'll speak for my company Cisco.
+
+1076
+00:41:52,020 --> 00:41:54,270
+This is a big part of the ethos of our company
+
+1077
+00:41:54,270 --> 00:41:56,370
+in terms of just design, right?
+
+1078
+00:41:56,370 --> 00:41:58,140
+The power efficiency cooling
+
+1079
+00:41:58,140 --> 00:41:59,460
+and the impact on the environment
+
+1080
+00:41:59,460 --> 00:42:02,370
+from the entire supply chain, how we refurbish products,
+
+1081
+00:42:02,370 --> 00:42:06,120
+all of that goes into a score that our company gets
+
+1082
+00:42:06,120 --> 00:42:10,050
+for how environmentally sustainable our practices are.
+
+1083
+00:42:10,050 --> 00:42:12,480
+So, you know, think about that,
+
+1084
+00:42:12,480 --> 00:42:14,580
+because actually now, you'll have a choice.
+
+1085
+00:42:14,580 --> 00:42:16,530
+One of the great things that I think is happening,
+
+1086
+00:42:16,530 --> 00:42:18,660
+and we touched on it earlier, is you actually have a choice
+
+1087
+00:42:18,660 --> 00:42:20,430
+now of which language model to use, right?
+
+1088
+00:42:20,430 --> 00:42:22,260
+ChatGPT was kind of there for a long time.
+
+1089
+00:42:22,260 --> 00:42:23,093
+It had the lead.
+
+1090
+00:42:23,093 --> 00:42:25,800
+I think that there are wonderful language models out there,
+
+1091
+00:42:25,800 --> 00:42:27,660
+and you have a lot of choice,
+
+1092
+00:42:27,660 --> 00:42:29,640
+and you can pick the companies
+
+1093
+00:42:29,640 --> 00:42:31,530
+that are thinking about how to do this responsibly.
+
+1094
+00:42:31,530 --> 00:42:33,450
+I think as a student, that's something
+
+1095
+00:42:33,450 --> 00:42:34,950
+you can incorporate
+
+1096
+00:42:34,950 --> 00:42:38,100
+not just for AI but just everything
+
+1097
+00:42:38,100 --> 00:42:39,300
+that you have as a consumer,
+
+1098
+00:42:39,300 --> 00:42:41,300
+because that's the agency that you have.
+
+1099
+00:42:43,590 --> 00:42:46,020
+- That's great. Thank you.
+
+1100
+00:42:46,020 --> 00:42:47,910
+We have about 13 minutes left,
+
+1101
+00:42:47,910 --> 00:42:50,310
+and so I wanted to open it up to the audience
+
+1102
+00:42:50,310 --> 00:42:53,280
+and see if you all have any pressing questions
+
+1103
+00:42:53,280 --> 00:42:56,133
+that you would like to ask of our panelists.
+
+1104
+00:42:56,970 --> 00:42:57,803
+Yes.
+
+1105
+00:42:57,803 --> 00:42:58,950
+- [Audience Member] Yeah, I think it's kind of
+
+1106
+00:42:58,950 --> 00:42:59,783
+for both of you,
+
+1107
+00:42:59,783 --> 00:43:01,617
+you both touched upon the energy usage
+
+1108
+00:43:01,617 --> 00:43:03,855
+and that nine seconds, I kind of looked it up,
+
+1109
+00:43:03,855 --> 00:43:07,520
+it seems like about 0.5 watt hours is what a query uses.
+
+1110
+00:43:07,520 --> 00:43:12,330
+Do you feel that as the chills get faster
+
+1111
+00:43:12,330 --> 00:43:15,570
+or get more energy efficient like the NVIDIA Blackwell
+
+1112
+00:43:15,570 --> 00:43:18,930
+and the algorithmic changes, I mean,
+
+1113
+00:43:18,930 --> 00:43:21,510
+is that gonna be increasingly going down per use
+
+1114
+00:43:21,510 --> 00:43:22,650
+for query usage,
+
+1115
+00:43:22,650 --> 00:43:27,000
+and did the extra 36 gigawatts required
+
+1116
+00:43:27,000 --> 00:43:28,110
+to take that into account?
+
+1117
+00:43:28,110 --> 00:43:31,533
+Or did they assume the current usage for query?
+
+1118
+00:43:32,700 --> 00:43:33,990
+- I think the studies show
+
+1119
+00:43:33,990 --> 00:43:35,400
+sort of, you know, what could happen.
+
+1120
+00:43:35,400 --> 00:43:37,080
+So, you ask a really good question.
+
+1121
+00:43:37,080 --> 00:43:39,780
+So the chips are gonna get more efficient,
+
+1122
+00:43:39,780 --> 00:43:42,180
+but the utilization
+
+1123
+00:43:42,180 --> 00:43:47,180
+of those GPUs is already skyrocketing, for two reasons.
+
+1124
+00:43:47,340 --> 00:43:50,640
+One is the use of AI and our use of AI is spreading.
+
+1125
+00:43:50,640 --> 00:43:52,740
+I asked a question this morning,
+
+1126
+00:43:52,740 --> 00:43:54,510
+how many people had already used GPT today,
+
+1127
+00:43:54,510 --> 00:43:55,470
+and a few hands went up.
+
+1128
+00:43:55,470 --> 00:43:56,700
+So that just tells you, (chuckles) you know,
+
+1129
+00:43:56,700 --> 00:43:57,870
+you wake up in the, I don't know,
+
+1130
+00:43:57,870 --> 00:43:59,430
+I hope you had some coffee before you used it.
+
+1131
+00:43:59,430 --> 00:44:00,263
+It wasn't, like, (Juliet chuckles)
+
+1132
+00:44:00,263 --> 00:44:01,500
+the first thing you did when you got out of bed.
+
+1133
+00:44:01,500 --> 00:44:02,970
+But I'm that way too.
+
+1134
+00:44:02,970 --> 00:44:05,010
+I mean, it just sort of starts the morning,
+
+1135
+00:44:05,010 --> 00:44:06,150
+you know, in the morning when I use it.
+
+1136
+00:44:06,150 --> 00:44:08,130
+So the utilization skyrocketing
+
+1137
+00:44:08,130 --> 00:44:10,080
+because our own use of it in our lives
+
+1138
+00:44:10,080 --> 00:44:12,930
+is incorporated, is increasing.
+
+1139
+00:44:12,930 --> 00:44:14,700
+The second thing, and I won't go into details
+
+1140
+00:44:14,700 --> 00:44:16,500
+'cause it's a bit wonky, but there's this term,
+
+1141
+00:44:16,500 --> 00:44:18,330
+you may have heard of it, called agentic AI,
+
+1142
+00:44:18,330 --> 00:44:21,960
+and agentic AI basically is transforming AI
+
+1143
+00:44:21,960 --> 00:44:23,700
+from being able to do queries,
+
+1144
+00:44:23,700 --> 00:44:27,330
+you know, Q&A, like what we do, to actually executing tasks.
+
+1145
+00:44:27,330 --> 00:44:29,550
+And what that means is you actually set up a system
+
+1146
+00:44:29,550 --> 00:44:30,540
+of language models
+
+1147
+00:44:30,540 --> 00:44:33,690
+or language models and their minions to go execute tasks.
+
+1148
+00:44:33,690 --> 00:44:35,640
+And so now, the machines are talking to each other,
+
+1149
+00:44:35,640 --> 00:44:38,340
+and that's generating what we call tokens.
+
+1150
+00:44:38,340 --> 00:44:39,690
+That's sort of the atomic unit
+
+1151
+00:44:39,690 --> 00:44:42,510
+of what these language models consume and output.
+
+1152
+00:44:42,510 --> 00:44:45,033
+So this token utilization is growing,
+
+1153
+00:44:46,020 --> 00:44:47,340
+this is a group of educators,
+
+1154
+00:44:47,340 --> 00:44:48,690
+so I can use a little bit of math, right?
+
+1155
+00:44:48,690 --> 00:44:52,350
+So the power utilization
+
+1156
+00:44:52,350 --> 00:44:54,690
+is becoming more efficient by x squared,
+
+1157
+00:44:54,690 --> 00:44:56,760
+but the use is growing by e to the x,
+
+1158
+00:44:56,760 --> 00:44:58,410
+and for those of you who ever took math,
+
+1159
+00:44:58,410 --> 00:45:00,180
+e to the x always wins.
+
+1160
+00:45:00,180 --> 00:45:02,760
+So (chuckles) that's unfortunately what's happening,
+
+1161
+00:45:02,760 --> 00:45:05,520
+is that, I think that 36-gigawatt shortfall
+
+1162
+00:45:05,520 --> 00:45:08,100
+is actually an underestimate, as I mentioned,
+
+1163
+00:45:08,100 --> 00:45:11,220
+taking into account everything that you mentioned,
+
+1164
+00:45:11,220 --> 00:45:13,890
+- I haven't looked into those numbers specifically.
+
+1165
+00:45:13,890 --> 00:45:17,130
+So yeah, we wouldn't be able to comment on that.
+
+1166
+00:45:17,130 --> 00:45:19,080
+I do think that, you know,
+
+1167
+00:45:19,080 --> 00:45:21,900
+I do expect that overall energy use from AI
+
+1168
+00:45:21,900 --> 00:45:24,600
+will increase even with the efficiency gains that we see
+
+1169
+00:45:24,600 --> 00:45:27,180
+because of increased utilization,
+
+1170
+00:45:27,180 --> 00:45:28,883
+which is in part also, I think, you know,
+
+1171
+00:45:28,883 --> 00:45:31,380
+I think we need to solve this energy problem, right?
+
+1172
+00:45:31,380 --> 00:45:33,690
+It's absolutely critical that we solve it.
+
+1173
+00:45:33,690 --> 00:45:35,400
+We wanna solve it in a sustainable way.
+
+1174
+00:45:35,400 --> 00:45:38,280
+Google has committed to 24/7 carbon-free electricity.
+
+1175
+00:45:38,280 --> 00:45:41,010
+So Google was the first major purchaser
+
+1176
+00:45:41,010 --> 00:45:43,230
+to offset all of our electricity purchases
+
+1177
+00:45:43,230 --> 00:45:45,270
+with renewable energy.
+
+1178
+00:45:45,270 --> 00:45:48,330
+This was maybe 15 years ago or so.
+
+1179
+00:45:48,330 --> 00:45:50,760
+And now, Google has set the bar even higher,
+
+1180
+00:45:50,760 --> 00:45:53,040
+which is to match on an hour-by-hour basis
+
+1181
+00:45:53,040 --> 00:45:54,480
+with renewables consumption.
+
+1182
+00:45:54,480 --> 00:45:57,720
+So that means even when the sun isn't shining, for example,
+
+1183
+00:45:57,720 --> 00:46:00,750
+let's make sure we get our electricity from renewables,
+
+1184
+00:46:00,750 --> 00:46:03,360
+and it's important that we solve that problem, right?
+
+1185
+00:46:03,360 --> 00:46:05,340
+And that's not gonna be an easy problem.
+
+1186
+00:46:05,340 --> 00:46:06,870
+It's gonna be something that's gonna require
+
+1187
+00:46:06,870 --> 00:46:08,520
+a lot of focus and a lot of work.
+
+1188
+00:46:09,390 --> 00:46:11,910
+But I also think there's another side to it too.
+
+1189
+00:46:11,910 --> 00:46:14,220
+And, you know, we've just talked about the use cases
+
+1190
+00:46:14,220 --> 00:46:15,480
+in energy and climate, right?
+
+1191
+00:46:15,480 --> 00:46:18,240
+But there are a whole variety of additional use cases
+
+1192
+00:46:18,240 --> 00:46:20,580
+for ways that AI can increase our productivity
+
+1193
+00:46:20,580 --> 00:46:22,410
+overall as a society.
+
+1194
+00:46:22,410 --> 00:46:24,450
+And so I think there's that other lens,
+
+1195
+00:46:24,450 --> 00:46:26,940
+and, you know, the fact that AI usage is increasing
+
+1196
+00:46:26,940 --> 00:46:29,310
+is a testament to that.
+
+1197
+00:46:29,310 --> 00:46:30,660
+And how do we make sure that we can do that
+
+1198
+00:46:30,660 --> 00:46:31,773
+in a sustainable way?
+
+1199
+00:46:36,030 --> 00:46:36,990
+- [Audience Member] I'm just gonna make a comment.
+
+1200
+00:46:36,990 --> 00:46:40,170
+I agree that the AI usage is going up,
+
+1201
+00:46:40,170 --> 00:46:42,000
+but I thought it was an interesting observation,
+
+1202
+00:46:42,000 --> 00:46:45,120
+you said that you choose to use GPT
+
+1203
+00:46:45,120 --> 00:46:46,747
+when in fact it's the,
+
+1204
+00:46:47,717 --> 00:46:50,337
+I'm in the process of teaching AI literacy to students
+
+1205
+00:46:50,337 --> 00:46:54,750
+and my other faculty, which (indistinct) way behind, right,
+
+1206
+00:46:54,750 --> 00:46:59,250
+the technology now, and when they open their email,
+
+1207
+00:46:59,250 --> 00:47:01,890
+they're using, they may not know,
+
+1208
+00:47:01,890 --> 00:47:04,860
+but a lot of these things are turned on by default,
+
+1209
+00:47:04,860 --> 00:47:08,610
+so they're using AI and they're not even choosing to use AI.
+
+1210
+00:47:08,610 --> 00:47:09,987
+- And that's a good point,
+
+1211
+00:47:09,987 --> 00:47:11,520
+and I think what you're hinting at
+
+1212
+00:47:11,520 --> 00:47:13,980
+is there's some measure of a lack of control.
+
+1213
+00:47:13,980 --> 00:47:16,530
+You know, like for example, if you work in an organization
+
+1214
+00:47:16,530 --> 00:47:17,697
+that has some kind of copilot,
+
+1215
+00:47:17,697 --> 00:47:19,620
+and I'm not referring to a Microsoft Copilot,
+
+1216
+00:47:19,620 --> 00:47:21,840
+I'm talking about copilot-type systems
+
+1217
+00:47:21,840 --> 00:47:23,550
+that were, you know, built by a company
+
+1218
+00:47:23,550 --> 00:47:25,890
+that's not as sort of, you know,
+
+1219
+00:47:25,890 --> 00:47:30,030
+as thoughtful about AI, then yeah, you're sort of stuck
+
+1220
+00:47:30,030 --> 00:47:32,370
+because you have to use that system in your company.
+
+1221
+00:47:32,370 --> 00:47:33,780
+I guess where I was going at is
+
+1222
+00:47:33,780 --> 00:47:34,710
+in the parts of your life
+
+1223
+00:47:34,710 --> 00:47:36,270
+where you have the agency to choose,
+
+1224
+00:47:36,270 --> 00:47:40,740
+you can choose to otherwise use things, you know,
+
+1225
+00:47:40,740 --> 00:47:43,110
+from companies that are mindful of these things.
+
+1226
+00:47:43,110 --> 00:47:45,180
+But I do understand that there's a level of,
+
+1227
+00:47:45,180 --> 00:47:46,920
+well, you know, it just came with the system
+
+1228
+00:47:46,920 --> 00:47:49,050
+that I bought, and that's what there is to it.
+
+1229
+00:47:49,050 --> 00:47:51,870
+And I suspect there'll be some of that too.
+
+1230
+00:47:51,870 --> 00:47:52,740
+What I will say, so,
+
+1231
+00:47:52,740 --> 00:47:56,010
+my observation is, just for context,
+
+1232
+00:47:56,010 --> 00:47:57,750
+I work with a lot of customers
+
+1233
+00:47:57,750 --> 00:48:00,030
+that Cisco has west of the Mississippi,
+
+1234
+00:48:00,030 --> 00:48:04,260
+and these are sort of anywhere companies from 500
+
+1235
+00:48:04,260 --> 00:48:09,260
+to let's say 15,000, 20,000 employees.
+
+1236
+00:48:09,450 --> 00:48:11,880
+And I can tell you uniformly,
+
+1237
+00:48:11,880 --> 00:48:13,020
+what's really heartening
+
+1238
+00:48:13,020 --> 00:48:15,870
+is that there's a lot of thought about exactly this.
+
+1239
+00:48:15,870 --> 00:48:17,910
+I mean, yes, some people are not necessarily driven
+
+1240
+00:48:17,910 --> 00:48:18,960
+by altruistic means,
+
+1241
+00:48:18,960 --> 00:48:20,550
+they're just literally looking at the bottom line
+
+1242
+00:48:20,550 --> 00:48:22,860
+is how much power this is gonna cost me.
+
+1243
+00:48:22,860 --> 00:48:25,590
+But, you know, I keep coming back to this point.
+
+1244
+00:48:25,590 --> 00:48:28,380
+It's bringing up all of these other issues
+
+1245
+00:48:28,380 --> 00:48:29,880
+that we've been talking about,
+
+1246
+00:48:29,880 --> 00:48:31,230
+about what really matters here,
+
+1247
+00:48:31,230 --> 00:48:32,100
+what do we need to deploy,
+
+1248
+00:48:32,100 --> 00:48:35,070
+what do we need to give our employees,
+
+1249
+00:48:35,070 --> 00:48:37,110
+and where should it come from?
+
+1250
+00:48:37,110 --> 00:48:38,760
+And there's actually something else
+
+1251
+00:48:38,760 --> 00:48:41,250
+that's not exactly related to the environment,
+
+1252
+00:48:41,250 --> 00:48:42,690
+but Karen brought it up this morning,
+
+1253
+00:48:42,690 --> 00:48:44,340
+which is really important,
+
+1254
+00:48:44,340 --> 00:48:46,710
+which is, besides being a good company
+
+1255
+00:48:46,710 --> 00:48:48,570
+and being a steward of the environment,
+
+1256
+00:48:48,570 --> 00:48:51,210
+you have to make sure you produce AI that's safe,
+
+1257
+00:48:51,210 --> 00:48:53,100
+'cause she was talking about how these language models
+
+1258
+00:48:53,100 --> 00:48:56,910
+can actually output incredibly biased
+
+1259
+00:48:56,910 --> 00:48:58,140
+and toxic and harmful content.
+
+1260
+00:48:58,140 --> 00:49:00,180
+I mean, you have to see, I hope nobody's seen this,
+
+1261
+00:49:00,180 --> 00:49:01,380
+but if you've seen it, I mean,
+
+1262
+00:49:01,380 --> 00:49:03,000
+it rattles you
+
+1263
+00:49:03,000 --> 00:49:05,340
+even if you're a data scientist and you know it's coming
+
+1264
+00:49:05,340 --> 00:49:07,740
+and it's just, she was talking about that group in Kenya
+
+1265
+00:49:07,740 --> 00:49:09,000
+and I was almost in tears
+
+1266
+00:49:09,000 --> 00:49:10,507
+because I, when I read about that I was like,
+
+1267
+00:49:10,507 --> 00:49:12,450
+"Wow, what do we do to these people?"
+
+1268
+00:49:12,450 --> 00:49:13,830
+And so part of,
+
+1269
+00:49:13,830 --> 00:49:15,540
+it's not directly related to climate,
+
+1270
+00:49:15,540 --> 00:49:17,730
+but part of what companies are thinking about,
+
+1271
+00:49:17,730 --> 00:49:18,630
+just to give you an example
+
+1272
+00:49:18,630 --> 00:49:20,880
+of how different the conversation is this time,
+
+1273
+00:49:20,880 --> 00:49:22,260
+they're very mindful that, you know,
+
+1274
+00:49:22,260 --> 00:49:24,060
+I don't wanna buy a chatbot from a company
+
+1275
+00:49:24,060 --> 00:49:25,770
+that doesn't care about the output.
+
+1276
+00:49:25,770 --> 00:49:27,870
+Like, what safeguards did they put in?
+
+1277
+00:49:27,870 --> 00:49:29,670
+So I'm very heartened
+
+1278
+00:49:29,670 --> 00:49:31,890
+that issues that were absent
+
+1279
+00:49:31,890 --> 00:49:34,350
+during the internet era and the cloud era,
+
+1280
+00:49:34,350 --> 00:49:36,720
+we just didn't ask these kind of ethical questions.
+
+1281
+00:49:36,720 --> 00:49:38,370
+They're, like, right in front of us.
+
+1282
+00:49:38,370 --> 00:49:39,870
+You know, I didn't know
+
+1283
+00:49:39,870 --> 00:49:41,400
+that taking on this job I'd become,
+
+1284
+00:49:41,400 --> 00:49:42,960
+like, part-time ethicist.
+
+1285
+00:49:42,960 --> 00:49:44,790
+But I'm glad it's happening
+
+1286
+00:49:44,790 --> 00:49:46,440
+because, you know, we want this world,
+
+1287
+00:49:46,440 --> 00:49:48,033
+we want a responsible AI world.
+
+1288
+00:49:49,470 --> 00:49:50,370
+- Yeah, well said.
+
+1289
+00:49:51,270 --> 00:49:52,680
+Thank you.
+
+1290
+00:49:52,680 --> 00:49:53,513
+Cameron?
+
+1291
+00:49:53,513 --> 00:49:54,346
+- Yeah.
+
+1292
+00:49:54,346 --> 00:49:56,010
+- [Cameron] So, that is a perfect segue
+
+1293
+00:49:56,010 --> 00:49:57,120
+for my question.
+
+1294
+00:49:57,120 --> 00:49:58,620
+So, so far today, we've talked a lot
+
+1295
+00:49:58,620 --> 00:50:00,840
+about individual practices,
+
+1296
+00:50:00,840 --> 00:50:02,790
+things we can do as an individual
+
+1297
+00:50:02,790 --> 00:50:06,273
+that in the collective add up to a lot, that's to be sure.
+
+1298
+00:50:07,170 --> 00:50:09,300
+And I love the sense of agency you've given me here,
+
+1299
+00:50:09,300 --> 00:50:12,780
+but I also wonder about the role of policymaking
+
+1300
+00:50:12,780 --> 00:50:16,950
+and policymakers to catalyze that impact.
+
+1301
+00:50:16,950 --> 00:50:20,340
+What sort of guardrails should our policymakers
+
+1302
+00:50:20,340 --> 00:50:23,670
+be making now, putting in place now,
+
+1303
+00:50:23,670 --> 00:50:28,530
+to spearhead, to accelerate these sort of offsets
+
+1304
+00:50:28,530 --> 00:50:29,370
+that are needed?
+
+1305
+00:50:29,370 --> 00:50:34,020
+At the same time, I recognize that it's a fine line
+
+1306
+00:50:34,020 --> 00:50:37,560
+because we don't want to impede technological advancement.
+
+1307
+00:50:37,560 --> 00:50:39,900
+We want to move fast and break things.
+
+1308
+00:50:39,900 --> 00:50:41,632
+I get that need.
+
+1309
+00:50:41,632 --> 00:50:43,920
+We don't want to fall behind
+
+1310
+00:50:43,920 --> 00:50:47,280
+and become less nationally competitive in the AI race.
+
+1311
+00:50:47,280 --> 00:50:49,190
+But I also would like to hear from you,
+
+1312
+00:50:49,190 --> 00:50:52,980
+what do you feel is the role for policymaking
+
+1313
+00:50:52,980 --> 00:50:54,847
+to move us beyond,
+
+1314
+00:50:54,847 --> 00:50:57,330
+"Cameron is a good AI actor
+
+1315
+00:50:57,330 --> 00:51:00,090
+'cause he turns off ChatGPT-5
+
+1316
+00:51:00,090 --> 00:51:01,320
+from his full capacity
+
+1317
+00:51:01,320 --> 00:51:03,000
+and dials it down to,
+
+1318
+00:51:03,000 --> 00:51:04,533
+we are a collective, you know,
+
+1319
+00:51:06,930 --> 00:51:08,850
+actors of, you know, AI doing well
+
+1320
+00:51:08,850 --> 00:51:10,497
+because of policy put in place"?
+
+1321
+00:51:11,880 --> 00:51:13,650
+- I'll answer from a more limited perspective
+
+1322
+00:51:13,650 --> 00:51:15,780
+because I don't work on AI policy,
+
+1323
+00:51:15,780 --> 00:51:17,610
+even though it's a fascinating area
+
+1324
+00:51:17,610 --> 00:51:19,960
+and one obviously that is critically important.
+
+1325
+00:51:21,101 --> 00:51:22,710
+And I'll answer from an energy use standpoint,
+
+1326
+00:51:22,710 --> 00:51:23,640
+and then I'm interested, Gaurav,
+
+1327
+00:51:23,640 --> 00:51:25,350
+to hear your broader point.
+
+1328
+00:51:25,350 --> 00:51:28,380
+But really there is so much policy that is needed
+
+1329
+00:51:28,380 --> 00:51:33,060
+to facilitate shifting our grid more rapidly, right?
+
+1330
+00:51:33,060 --> 00:51:34,500
+I mean, if you look at how difficult it is
+
+1331
+00:51:34,500 --> 00:51:37,170
+to build new transmission infrastructure for our grid,
+
+1332
+00:51:37,170 --> 00:51:39,600
+it's extraordinarily challenging.
+
+1333
+00:51:39,600 --> 00:51:40,740
+If you look at the last time
+
+1334
+00:51:40,740 --> 00:51:42,450
+that the U.S. built a new nuclear plant
+
+1335
+00:51:42,450 --> 00:51:43,740
+and you compare that with the last time
+
+1336
+00:51:43,740 --> 00:51:45,810
+that China built a new nuclear plant,
+
+1337
+00:51:45,810 --> 00:51:47,510
+we have a lot of catching up to do
+
+1338
+00:51:48,480 --> 00:51:50,010
+from an energy grid perspective,
+
+1339
+00:51:50,010 --> 00:51:54,210
+and so things that we can do to facilitate
+
+1340
+00:51:54,210 --> 00:51:56,010
+more power getting added to the grid
+
+1341
+00:51:56,010 --> 00:51:58,530
+in a clean and a sustainable way
+
+1342
+00:51:58,530 --> 00:52:00,960
+are gonna be really helpful from an energy point of view.
+
+1343
+00:52:00,960 --> 00:52:03,120
+But your question was broader than that,
+
+1344
+00:52:03,120 --> 00:52:04,140
+so I'll hand it to Gaurav.
+
+1345
+00:52:04,140 --> 00:52:06,120
+- Please allow me to get riled up for two seconds,
+
+1346
+00:52:06,120 --> 00:52:07,410
+and then I'll calm down. (audience chuckles)
+
+1347
+00:52:07,410 --> 00:52:10,890
+So this Memphis example I think will become
+
+1348
+00:52:10,890 --> 00:52:13,110
+business school case studies for a long time,
+
+1349
+00:52:13,110 --> 00:52:15,390
+because what Karen said is that was a mixed community
+
+1350
+00:52:15,390 --> 00:52:16,650
+in that section of Memphis,
+
+1351
+00:52:16,650 --> 00:52:19,020
+I think it's East Memphis, that is now suffering.
+
+1352
+00:52:19,020 --> 00:52:19,853
+They already had health issues,
+
+1353
+00:52:19,853 --> 00:52:21,690
+they were suffering from the noxious fumes
+
+1354
+00:52:21,690 --> 00:52:23,220
+from these methane turbines.
+
+1355
+00:52:23,220 --> 00:52:24,810
+What she didn't mention, but she knows,
+
+1356
+00:52:24,810 --> 00:52:26,880
+is that the city council is made up
+
+1357
+00:52:26,880 --> 00:52:28,050
+of people from that community.
+
+1358
+00:52:28,050 --> 00:52:30,120
+It's a mixed ethnic group of people.
+
+1359
+00:52:30,120 --> 00:52:31,590
+I mean, this was a complete fail.
+
+1360
+00:52:31,590 --> 00:52:33,360
+They failed to protect their peeps, right?
+
+1361
+00:52:33,360 --> 00:52:36,060
+I mean, that to me is so mind-boggling.
+
+1362
+00:52:36,060 --> 00:52:37,530
+And what she said is apparent
+
+1363
+00:52:37,530 --> 00:52:39,570
+is that they did not bring in people in the community
+
+1364
+00:52:39,570 --> 00:52:42,060
+or any experts to ask them.
+
+1365
+00:52:42,060 --> 00:52:44,130
+My intern could have told them
+
+1366
+00:52:44,130 --> 00:52:45,690
+that if they're building (chuckles)
+
+1367
+00:52:45,690 --> 00:52:48,330
+100,000 GPU system, it's gonna need power.
+
+1368
+00:52:48,330 --> 00:52:49,710
+Where is it gonna come from?
+
+1369
+00:52:49,710 --> 00:52:51,630
+Any intern who's studying data science
+
+1370
+00:52:51,630 --> 00:52:52,680
+could have told you that.
+
+1371
+00:52:52,680 --> 00:52:53,910
+So one nice thing
+
+1372
+00:52:53,910 --> 00:52:56,130
+is that I do see local governments, state governments,
+
+1373
+00:52:56,130 --> 00:52:58,680
+I've actually testified in front of a few of 'em
+
+1374
+00:52:58,680 --> 00:53:01,230
+just to give them sort of expert opinion,
+
+1375
+00:53:01,230 --> 00:53:02,580
+that's how you do things, you know,
+
+1376
+00:53:02,580 --> 00:53:03,720
+she was saying that, like,
+
+1377
+00:53:03,720 --> 00:53:05,490
+collect information from people in the community.
+
+1378
+00:53:05,490 --> 00:53:08,160
+Policymaking is best when you get a diverse set
+
+1379
+00:53:08,160 --> 00:53:09,960
+of opinions from experts.
+
+1380
+00:53:09,960 --> 00:53:11,820
+And we generally tend to do that.
+
+1381
+00:53:11,820 --> 00:53:14,280
+It's very apparent when we fail and don't do that.
+
+1382
+00:53:14,280 --> 00:53:15,960
+So the role of policymaking,
+
+1383
+00:53:15,960 --> 00:53:18,300
+I can't say this policy versus that,
+
+1384
+00:53:18,300 --> 00:53:20,910
+the role of good governance is to seek expertise
+
+1385
+00:53:20,910 --> 00:53:22,650
+'cause you as a lawmaker are not an expert
+
+1386
+00:53:22,650 --> 00:53:24,540
+in GPUs and GPU power,
+
+1387
+00:53:24,540 --> 00:53:25,893
+but there are plenty of people who are
+
+1388
+00:53:25,893 --> 00:53:27,330
+that are probably in your district,
+
+1389
+00:53:27,330 --> 00:53:30,300
+so bring them in to get your opinion.
+
+1390
+00:53:30,300 --> 00:53:31,860
+And I think that you're gonna find
+
+1391
+00:53:31,860 --> 00:53:33,900
+a remarkable amount of consensus.
+
+1392
+00:53:33,900 --> 00:53:36,900
+Frankly, you know, like I said, I cover red states,
+
+1393
+00:53:36,900 --> 00:53:37,977
+I cover blue states, (chuckles)
+
+1394
+00:53:37,977 --> 00:53:39,247
+and I don't see anybody saying,
+
+1395
+00:53:39,247 --> 00:53:41,010
+"Yeah, let's spew more power
+
+1396
+00:53:41,010 --> 00:53:43,560
+and pollution into the environment."
+
+1397
+00:53:43,560 --> 00:53:45,060
+Nobody's saying that,
+
+1398
+00:53:45,060 --> 00:53:48,690
+but we have to now start getting more nuance,
+
+1399
+00:53:48,690 --> 00:53:51,870
+and policymaking is taking these abstract concepts
+
+1400
+00:53:51,870 --> 00:53:52,770
+that we all believe in
+
+1401
+00:53:52,770 --> 00:53:56,070
+and turning it into the nuts and bolts and text of policy.
+
+1402
+00:53:56,070 --> 00:53:57,630
+And that's expert opinion.
+
+1403
+00:53:57,630 --> 00:53:59,550
+That is what government officials should do.
+
+1404
+00:53:59,550 --> 00:54:01,800
+And if you're not doing that, you are failing your people.
+
+1405
+00:54:01,800 --> 00:54:02,753
+So, okay.
+
+1406
+00:54:04,260 --> 00:54:05,490
+I'll step off my soapbox.
+
+1407
+00:54:05,490 --> 00:54:06,687
+- I think more people should ask him questions
+
+1408
+00:54:06,687 --> 00:54:10,260
+and get him on his soapbox. (audience chuckles)
+
+1409
+00:54:10,260 --> 00:54:11,813
+- [Audience Member] Following up on that,
+
+1410
+00:54:11,813 --> 00:54:14,670
+kind of the elephant in the room, literally,
+
+1411
+00:54:14,670 --> 00:54:17,020
+is the federal government policy
+
+1412
+00:54:17,970 --> 00:54:22,530
+and, you know, one of the few industries I think
+
+1413
+00:54:22,530 --> 00:54:27,210
+that has the collective power to try and fight back
+
+1414
+00:54:27,210 --> 00:54:30,744
+against the idiocy of the energy policy
+
+1415
+00:54:30,744 --> 00:54:32,990
+is the tech industry.
+
+1416
+00:54:32,990 --> 00:54:36,351
+And I know that this probably above pay grade,
+
+1417
+00:54:36,351 --> 00:54:38,250
+(indistinct) your scope of work,
+
+1418
+00:54:38,250 --> 00:54:42,337
+but does anybody ever talk about,
+
+1419
+00:54:42,337 --> 00:54:44,760
+you know, the tech industry knowing
+
+1420
+00:54:44,760 --> 00:54:46,777
+of these energy needs, getting together and say,
+
+1421
+00:54:46,777 --> 00:54:49,884
+"Well, the fastest way to get new energy
+
+1422
+00:54:49,884 --> 00:54:51,837
+is renewable energy,
+
+1423
+00:54:51,837 --> 00:54:53,763
+and why don't we all form a collective
+
+1424
+00:54:53,763 --> 00:54:55,680
+and advocate for that?"
+
+1425
+00:54:57,360 --> 00:54:59,400
+- One thing I can say is that Google
+
+1426
+00:54:59,400 --> 00:55:01,710
+is a part of the Clean Energy Buyers Alliance
+
+1427
+00:55:01,710 --> 00:55:04,320
+that is very much geared along the lines
+
+1428
+00:55:04,320 --> 00:55:05,880
+of what you're suggesting,
+
+1429
+00:55:05,880 --> 00:55:07,923
+of advocating for clean energy.
+
+1430
+00:55:09,090 --> 00:55:10,650
+- Yeah, the challenge is they are doing that.
+
+1431
+00:55:10,650 --> 00:55:11,880
+The problem is it takes longer
+
+1432
+00:55:11,880 --> 00:55:13,380
+to bring those online than it does
+
+1433
+00:55:13,380 --> 00:55:16,620
+to just burn what we've done for, you know, generations,
+
+1434
+00:55:16,620 --> 00:55:17,453
+which is burn.
+
+1435
+00:55:17,453 --> 00:55:19,080
+So I think that's part of the problem,
+
+1436
+00:55:19,080 --> 00:55:22,020
+is this whole thing that we needed fast and we did now,
+
+1437
+00:55:22,020 --> 00:55:24,000
+and this data center has to go up because,
+
+1438
+00:55:24,000 --> 00:55:25,080
+so, let me back up.
+
+1439
+00:55:25,080 --> 00:55:27,930
+Part of what's driving a massive investment
+
+1440
+00:55:27,930 --> 00:55:29,180
+in all these data centers
+
+1441
+00:55:30,060 --> 00:55:32,070
+is that there's this feeling,
+
+1442
+00:55:32,070 --> 00:55:34,290
+unlike other technology inflection points,
+
+1443
+00:55:34,290 --> 00:55:36,990
+there's a feeling that if we don't make this investment,
+
+1444
+00:55:36,990 --> 00:55:38,880
+it's an existential threat.
+
+1445
+00:55:38,880 --> 00:55:41,220
+I don't know another time in our history
+
+1446
+00:55:41,220 --> 00:55:44,400
+where companies that have market valuations over a trillion
+
+1447
+00:55:44,400 --> 00:55:45,930
+feel like they're gonna vanish overnight.
+
+1448
+00:55:45,930 --> 00:55:47,340
+I mean, it's just mind-boggling to me
+
+1449
+00:55:47,340 --> 00:55:49,620
+that, (chuckles) like, they feel that way.
+
+1450
+00:55:49,620 --> 00:55:51,540
+But I feel that that is what's driving
+
+1451
+00:55:51,540 --> 00:55:53,937
+some of the conversation, that we need to build this now.
+
+1452
+00:55:53,937 --> 00:55:55,470
+And when you need to build it now,
+
+1453
+00:55:55,470 --> 00:55:56,880
+you are short-circuiting
+
+1454
+00:55:56,880 --> 00:55:58,230
+what you may believe in your heart
+
+1455
+00:55:58,230 --> 00:55:59,340
+that we need to do it this right way,
+
+1456
+00:55:59,340 --> 00:56:01,650
+because it's very hard to get renewable energy,
+
+1457
+00:56:01,650 --> 00:56:03,240
+even though it's the right thing to do.
+
+1458
+00:56:03,240 --> 00:56:04,890
+It's very hard to bring that online.
+
+1459
+00:56:04,890 --> 00:56:06,900
+It's very hard to bring,
+
+1460
+00:56:06,900 --> 00:56:07,860
+well, it varies by state,
+
+1461
+00:56:07,860 --> 00:56:09,540
+but in some states, it's hard to bring online.
+
+1462
+00:56:09,540 --> 00:56:10,373
+There's a lot of permitting,
+
+1463
+00:56:10,373 --> 00:56:14,220
+there's a lot of regulations you have to go through.
+
+1464
+00:56:14,220 --> 00:56:15,840
+And in other states, it's not.
+
+1465
+00:56:15,840 --> 00:56:20,520
+So it's just a mixed bag across the country.
+
+1466
+00:56:20,520 --> 00:56:22,890
+The thing is, there isn't enough renewable capacity
+
+1467
+00:56:22,890 --> 00:56:25,440
+that was already waiting there to be used by data centers,
+
+1468
+00:56:25,440 --> 00:56:26,520
+and that was the problem.
+
+1469
+00:56:26,520 --> 00:56:28,830
+If we had built out a generation earlier
+
+1470
+00:56:28,830 --> 00:56:30,390
+all of this renewable sources,
+
+1471
+00:56:30,390 --> 00:56:32,790
+we may not have been in the situation we're in now,
+
+1472
+00:56:32,790 --> 00:56:34,560
+but unfortunately, we started a little bit late,
+
+1473
+00:56:34,560 --> 00:56:36,450
+and like you said, policies change,
+
+1474
+00:56:36,450 --> 00:56:37,950
+or at least as you hinted,
+
+1475
+00:56:37,950 --> 00:56:40,400
+policies change administration to administration.
+
+1476
+00:56:41,880 --> 00:56:43,470
+Part of the reason I mention nuclear power
+
+1477
+00:56:43,470 --> 00:56:45,900
+is because it's not necessarily renewable
+
+1478
+00:56:45,900 --> 00:56:46,770
+in the same sense, right?
+
+1479
+00:56:46,770 --> 00:56:48,960
+You have to dig up the fuel for it.
+
+1480
+00:56:48,960 --> 00:56:51,090
+But it is able to do it
+
+1481
+00:56:51,090 --> 00:56:55,710
+and provide that capacity without polluting.
+
+1482
+00:56:55,710 --> 00:56:57,633
+And really, if you think about it,
+
+1483
+00:57:00,256 --> 00:57:02,040
+you won't be able to build solar grids
+
+1484
+00:57:02,040 --> 00:57:05,400
+and wind farms fast enough for 36 gigawatts,
+
+1485
+00:57:05,400 --> 00:57:07,050
+which is why nuclear sort of emerged
+
+1486
+00:57:07,050 --> 00:57:08,340
+as one of the only solutions
+
+1487
+00:57:08,340 --> 00:57:10,440
+that you can do in a sustainable way.
+
+1488
+00:57:10,440 --> 00:57:11,490
+Otherwise, you would just have to build
+
+1489
+00:57:11,490 --> 00:57:13,800
+more methane turbines,
+
+1490
+00:57:13,800 --> 00:57:15,780
+which, you know, I don't want, certainly,
+
+1491
+00:57:15,780 --> 00:57:17,780
+I don't think anybody here wants either.
+
+1492
+00:57:20,460 --> 00:57:22,953
+- Well, we are technically out of time.
+
+1493
+00:57:23,940 --> 00:57:26,550
+I had so many more questions that I wanted to ask,
+
+1494
+00:57:26,550 --> 00:57:27,870
+and I'm sure you all did too,
+
+1495
+00:57:27,870 --> 00:57:31,500
+and so I wanna thank both of our panelists.
+
+1496
+00:57:31,500 --> 00:57:33,630
+I think this aws a really great conversation,
+
+1497
+00:57:33,630 --> 00:57:36,090
+and I'm hopeful that we can continue it.
+
+1498
+00:57:36,090 --> 00:57:38,490
+I will give you a chance to thank them in just one second,
+
+1499
+00:57:38,490 --> 00:57:40,050
+but I'm gonna put in a plug
+
+1500
+00:57:40,050 --> 00:57:44,130
+because we have our climate conference, C3 Converge,
+
+1501
+00:57:44,130 --> 00:57:47,130
+which is the California Community College Climate Summit
+
+1502
+00:57:47,130 --> 00:57:50,340
+that will be happening in Anaheim in two weeks,
+
+1503
+00:57:50,340 --> 00:57:51,807
+September 29th and 30th.
+
+1504
+00:57:51,807 --> 00:57:55,030
+And so these conversations will continue there
+
+1505
+00:57:56,040 --> 00:57:58,920
+on the AI side of the house.
+
+1506
+00:57:58,920 --> 00:58:02,610
+So please, if you're able to, please join us for that.
+
+1507
+00:58:02,610 --> 00:58:04,320
+And now, please join me
+
+1508
+00:58:04,320 --> 00:58:06,617
+in thanking our two panelists for being here.
+
+1509
+00:58:06,617 --> 00:58:09,617
+(audience applauds)
+
+1510
+00:58:13,800 --> 00:58:16,290
+And thank you all for being here also.
+
+1511
+00:58:16,290 --> 00:58:18,090
+- Yeah, likewise. I appreciated your remarks.
+
+1512
+00:58:18,090 --> 00:58:19,190
+We have a lot of work.
