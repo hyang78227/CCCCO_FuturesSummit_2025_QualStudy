@@ -1,4 +1,0 @@
-Session_ID,Video_Title,YouTube_URL,SRT_File,Transcript_File,Transcript_Status,NotebookLM_Status,Notes
-FS01,AI Governance Panel,https://youtube.com/watch?v=FS01_FAKE,FS01_AI_Governance_captions.srt,FS01_AI_Governance_transcript.txt,Not started,Pass1 registered to Excel (RUN_20260117_1557),simulated
-FS02,Faculty Practice Panel,https://youtube.com/watch?v=FS02_FAKE,FS02_Faculty_Practice_captions.srt,FS02_Faculty_Practice_transcript.txt,Not started,Pass1 registered to Excel (RUN_20260117_1557),simulated
-FS03,Student Impact Panel,https://youtube.com/watch?v=FS03_FAKE,FS03_Student_Impact_captions.srt,FS03_Student_Impact_transcript.txt,Not started,Pass1 registered to Excel (RUN_20260117_1557),simulated

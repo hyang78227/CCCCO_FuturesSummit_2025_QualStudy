@@ -7,7 +7,7 @@ from openpyxl.worksheet.datavalidation import DataValidation
 # ============================================================
 # CONFIG
 # ============================================================
-FILE_PATH = r"C:\Users\hyang\Documents\FuturesSummit_2025_QualStudy\Qual_Analysis_Framework.xlsx"
+FILE_PATH = r"C:\Users\hyang\Documents\FuturesSummit_2025_QualStudy\Making__Qual_Analysis_Framework_Template\Qual_Analysis_Framework.xlsx"
 SHEET_NAME = "Use_Cases_Exemplars"
 
 MAX_ITEMS = 15

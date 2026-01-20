@@ -1,0 +1,74 @@
+#Decide WHERE to create the project folder
+#Navigate to Documents
+cd C:\Users\hyang\Documents
+
+#Create the main project folder
+mkdir FuturesSummit_2025_QualStudy
+cd FuturesSummit_2025_QualStudy
+
+#Create the subfolders (this is Step 1A)
+
+mkdir 01_SRT_Raw
+mkdir 02_Transcripts_Clean
+mkdir 03_NotebookLM_Exports
+mkdir 03_NotebookLM_Exports\INBOX
+mkdir 03_NotebookLM_Exports\PROMPTS_READY_TO_PASTE
+
+
+#Step 3. Set an environment variable (current terminal session)
+Reffering to .env.example for set up.
+
+
+#Step 4. Verify API Key exists
+echo %GEMINI_API_KEY%
+
+
+#Step 5. Go to your project folder
+cd C:\Users\hyang\Documents\FuturesSummit_2025_QualStudy
+
+#Step 6. Create a conda env (recommended)
+conda create -n gemini_srt python=3.11 -y
+conda activate gemini_srt
+
+#Step 7. Install the SDK
+pip install -U google-genai
+
+# Step 8. Create a file called batch_srt_to_transcript.py
+#From your project root:
+notepad batch_srt_to_transcript.py
+
+#Step 9. Set up "Qual_Analysis_Framework.xlxs"
+
+Manually et up An empty excel workbook under folder "C:\Users\hyang\Documents\FuturesSummit_2025_QualStudy\Qual_Analysis_Framework.xls"
+
+# Step 10. Run the pipeline from the Project Root
+cd C:\Users\hyang\Documents\FuturesSummit_2025_QualStudy
+
+##Convert Word to SRT (Gemini)
+python PythonScripts_Analysis/batch_docx_to_srt.py
+
+##Clean SRT to Transcript (Gemini)
+python PythonScripts_Analysis/batch_srt_to_transcript.py
+
+##Generate NotebookLM Packets
+python Making__Qual_Analysis_Framework_Template/step2_generate_notebooklm_packets.py
+
+## Parse Inbox to Excel (Note the folder name change here)
+python Making__Qual_Analysis_Framework_Template/step3_parse_inbox_to_excel.py --run_id RUN_20260119_2159 --pass_id PASS_1
+
+
+
+# Step 10. Run the pipeline from the Project Root
+cd C:\Users\hyang\Documents\FuturesSummit_2025_QualStudy
+
+# 1. Convert Word to SRT
+python PythonScripts_Analysis/batch_docx_to_srt.py
+
+# 2. Clean SRT to Transcript (Gemini)
+[cite_start]python PythonScripts_Analysis/batch_srt_to_transcript.py [cite: 2]
+
+# 3. Generate NotebookLM Packets (Now correctly pointing to PythonScripts_Analysis)
+python PythonScripts_Analysis/step2_generate_notebooklm_packets.py
+
+# 4. Parse Inbox to Excel (Check if this script is also in PythonScripts_Analysis)
+[cite_start]python PythonScripts_Analysis/step3_parse_inbox_to_excel.py --run_id RUN_20260119_2159 --pass_id PASS_1 [cite: 1]

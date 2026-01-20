@@ -10,11 +10,10 @@ from google import genai
 # CONFIG
 # -----------------------------
 MODEL = os.getenv("GEMINI_MODEL", "gemini-2.5-flash")  # fast + cheap; change if you prefer
-PROJECT_ROOT = Path(__file__).resolve().parent
+PROJECT_ROOT = Path(__file__).resolve().parent.parent
 SRT_DIR = PROJECT_ROOT / "01_SRT_Raw"
 OUT_DIR = PROJECT_ROOT / "02_Transcripts_Clean"
-LOG_PATH = PROJECT_ROOT / "03_NotebookLM_Exports" / "transcript_conversion_log.csv"
-
+LOG_PATH = PROJECT_ROOT / "03_NotebookLM_Exports" / "LOG" / "transcript_conversion_log.csv"
 OUT_DIR.mkdir(parents=True, exist_ok=True)
 LOG_PATH.parent.mkdir(parents=True, exist_ok=True)
 
@@ -81,6 +80,20 @@ def main():
 
             out_stem = safe_stem_from_filename(srt_path.name)
             out_path = OUT_DIR / f"{out_stem}_transcript.txt"
+
+
+            # Skip if transcript already exists
+            if out_path.exists():
+                print(f"[SKIP] {srt_path.name} -> {out_path.name} (already exists)")
+                writer.writerow([
+                    datetime.now().isoformat(timespec="seconds"),
+                    str(srt_path.name),
+                    str(out_path.name),
+                    MODEL,
+                    "SKIP",
+                    ""
+                ])
+                continue
 
             try:
                 resp = client.models.generate_content(

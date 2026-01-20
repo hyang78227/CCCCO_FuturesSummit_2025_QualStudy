@@ -6,7 +6,7 @@ This version is robust to NotebookLM outputs saved as Markdown that may contain:
 - HTML non-breaking spaces (&nbsp;)
 - an "outer" BEGIN/END wrapper and an "inner" escaped BEGIN/END wrapper
 
-It writes a NEW Excel file and NEW Session_Index.csv so originals are not overwritten.
+It writes a NEW Excel file so originals are not overwritten.
 """
 
 import argparse
@@ -421,9 +421,8 @@ def main():
     run_id = args.run_id
     pass_id = args.pass_id
 
-    excel_path = project_root / "Qual_Analysis_Framework.xlsx"
-    session_index_path = project_root / "Session_Index.csv"
-
+    excel_path = project_root.parent / "Qual_Analysis_Framework.xlsx"
+   
     if args.inbox_dir:
         inbox_dir = Path(args.inbox_dir).resolve()
     else:
@@ -434,8 +433,6 @@ def main():
 
     if not excel_path.exists():
         raise FileNotFoundError(f"Missing: {excel_path}")
-    if not session_index_path.exists():
-        raise FileNotFoundError(f"Missing: {session_index_path}")
     if not inbox_dir.exists():
         raise FileNotFoundError(f"Missing INBOX dir: {inbox_dir}")
 
@@ -480,28 +477,6 @@ def main():
     out_excel = project_root / f"Qual_Analysis_Framework__UPDATED_{run_id}.xlsx"
     wb.save(out_excel)
     print(f"[OK] Saved: {out_excel}")
-
-    # Update Session_Index.csv
-    out_csv = project_root / f"Session_Index__UPDATED_{run_id}.csv"
-    with session_index_path.open("r", encoding="utf-8-sig", newline="") as f:
-        reader = csv.DictReader(f)
-        rows = list(reader)
-        fieldnames = reader.fieldnames or []
-
-    if "NotebookLM_Status" not in fieldnames:
-        fieldnames.append("NotebookLM_Status")
-
-    status_value = f"Pass1 registered to Excel ({run_id})"
-    for r in rows:
-        r["NotebookLM_Status"] = status_value
-
-    with out_csv.open("w", encoding="utf-8", newline="") as f:
-        writer = csv.DictWriter(f, fieldnames=fieldnames)
-        writer.writeheader()
-        writer.writerows(rows)
-
-    print(f"[OK] Saved: {out_csv}")
-    print(f"[DONE] Buckets processed: {', '.join(processed)}")
 
 
 if __name__ == "__main__":

@@ -4,11 +4,17 @@ from datetime import datetime
 
 from openpyxl import load_workbook
 
-PROJECT_ROOT = Path(__file__).resolve().parent
-EXCEL_PATH = PROJECT_ROOT / "Qual_Analysis_Framework.xlsx"
+# 1. Define the folder the script is in
+SCRIPT_DIR = Path(__file__).resolve().parent 
 
+# 2. Define the True Project Root (one level up)
+PROJECT_ROOT = SCRIPT_DIR.parent 
+
+# 3. Use PROJECT_ROOT for all main folders
+EXCEL_PATH = PROJECT_ROOT / "Qual_Analysis_Framework.xlsx"
 OUT_PROMPTS_DIR = PROJECT_ROOT / "03_NotebookLM_Exports" / "PROMPTS_READY_TO_PASTE"
 OUT_INBOX_DIR = PROJECT_ROOT / "03_NotebookLM_Exports" / "INBOX"
+
 
 NOTEBOOK_NAME = "FuturesSummit_2025_Qual_Analysis_AllSessions"
 ANALYST = "Hongling"

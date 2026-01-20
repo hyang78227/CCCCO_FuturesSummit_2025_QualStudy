@@ -1,0 +1,11 @@
+# Environment / secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Generated outputs
+01_SRT_Raw/
+*_transcript.txt
+
